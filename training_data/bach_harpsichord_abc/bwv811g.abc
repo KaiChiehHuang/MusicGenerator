@@ -1,0 +1,49 @@
+% input file /afs/.ir/users/q/u/quinlanj/cs221/project/training_data/bwv811g.mid
+% format 1 file 4 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:D % 2 sharps
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+V:1
+%English Suite 6, 6b Gavotte 2
+%%MIDI program 0
+f3/2z/2 f3/2z/2 z/2z/2f2e/2f/2|g3/2z/2 f3/2z/2 e3z|e3/2z/2 e3/2z/2 z/2z/2e3/2z/2d/2e/2|fd ec d3/2z/2 A3/2z/2|
+f3/2z/2 f3/2z/2 z/2z/2f2e/2f/2|g3/2z/2 f3/2z/2 e3/2z/2 ba|gf ed cB AB|cd ec d3z|
+f3/2z/2 f3/2z/2 z/2z/2f2e/2f/2|g3/2z/2 f3/2z/2 e3z|e3/2z/2 e3/2z/2 z/2z/2e3/2z/2d/2e/2|fd ec d3/2z/2 A3/2z/2|
+f3/2z/2 f3/2z/2 z/2z/2f2e/2f/2|g3/2z/2 f3/2z/2 e3/2z/2 ba|gf ed cB AB|cd ec d3z|
+a3/2z/2 a3/2z/2 z/2z/2z/2z/2 z/2z/2g/2a/2|ba gf g3/2z/2 d3/2z/2|g3/2z/2 a3/2z/2 b=c' ba|gf ed g3z|
+e3/2z/2 e3/2z/2 e2- e/2z/2f|ga gf ed cd|ef gb ag fe|f/2a/2f/2a/2 f/2a/2f/2a/2 e3z|
+f3/2z/2 f3/2z/2 z/2z/2z/2z/2 z/2z/2e/2f/2|g3/2z/2 d3/2z/2 e3z|e3/2z/2 e3/2z/2 z/2z/2z/2z/2 z/2z/2d/2e/2|fd ec dA de|
+f3/2z/2 f3/2z/2 z/2z/2f2e/2f/2|gf ed ba ^gf|^ga b^g af ed|cB cA d3z|
+a3/2z/2 a3/2z/2 z/2z/2z/2z/2 z/2z/2=g/2a/2|ba gf g3/2z/2 d3/2z/2|g3/2z/2 a3/2z/2 b=c' ba|gf ed g3z|
+e3/2z/2 e3/2z/2 e2- e/2z/2f|ga gf ed cd|ef gb ag fe|f/2a/2f/2a/2 f/2a/2f/2a/2 e3z|
+f3/2z/2 f3/2z/2 z/2z/2z/2z/2 z/2z/2e/2f/2|g3/2z/2 d3/2z/2 e3z|e3/2z/2 e3/2z/2 z/2z/2z/2z/2 z/2z/2d/2e/2|fd ec dA de|
+f3/2z/2 f3/2z/2 z/2z/2f2e/2f/2|gf ed ba ^gf|^ga b^g af ed|cB cA d3
+V:2
+%J.S. Bach, Edition Kalmus
+%%MIDI program 0
+AD FA dD =cD|BD AD GD FD|GD EG ^cD BD|AD GD FD FG|
+AD FA dD =cD|BD AD GD FD|ED FD GD FD|ED GD FD FG|
+AD FA dD =cD|BD AD GD FD|GD EG ^cD BD|AD GD FD FG|
+AD FA dD =cD|BD AD GD FD|ED FD GD FD|ED GD FD ED|
+FD FA dA FD|GD AD BD =cD|BD AD GD AD|BD =cD BD AD|
+GD FD GD AD|BD AD GD BD|AD GD FD GD|AD BD ^cD Gc|
+dA DA dD =cD|BD AD GD FD|GD EG ^cD BD|AD GD FD FG|
+AD FA dD AD|BD FD ^GD AD|BD dD cD BD|AD =GD FD ED|
+FD FA dA FD|GD AD BD =cD|BD AD GD AD|BD =cD BD AD|
+GD FD GD AD|BD AD GD BD|AD GD FD GD|AD BD ^cD Gc|
+dA DA dD =cD|BD AD GD FD|GD EG ^cD BD|AD GD FD FG|
+AD FA dD AD|BD FD ^GD AD|BD dD cD BD|AD =GD [F3D3]
+%Arr. Gary Bricault, (c) 1997

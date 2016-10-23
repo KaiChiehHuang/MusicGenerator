@@ -1,0 +1,74 @@
+% input file /afs/.ir/users/q/u/quinlanj/cs221/project/training_data/bwv806h.mid
+% format 1 file 4 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+K:A % 3 sharps
+%untitled
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%English Suite 1, 8. Bourree 1
+%%MIDI program 0
+E3/2z/2 AG BA cB|AG A3/2z/2 E3/2z/2 CE|AB cB dc ed|cB dc Bc AB|
+cd e3/2z/2 [=g/2f/2-]f3/2 z/2=g3/2-|=g/2z/2a f3/2z/2 [a/2^g/2-]gz/2 z/2a3/2-|a/2z/2b ga ga z/2a3/2-|a/2z/2g/2a/2 b3z3|
+E3/2z/2 AG BA cB|AG A3/2z/2 E3/2z/2 CE|AB cB dc ed|cB dc Bc AG|
+BA cB AG FE|GF AG FE ^DC|E^D FB, B3/2z/2 z/2G3/2|FE E4- Ez|
+E3/2z/2 AG BA cB|AG A3/2z/2 E3/2z/2 CE|AB cB dc ed|cB dc Bc AB|
+cd e3/2z/2 [=g/2f/2-]f3/2 z/2=g3/2-|=g/2z/2a f3/2z/2 [a/2^g/2-]gz/2 z/2a3/2-|a/2z/2b ga ga z/2a3/2-|a/2z/2g/2a/2 b3z3|
+E3/2z/2 AG BA cB|AG A3/2z/2 E3/2z/2 CE|AB cB dc ed|cB dc Bc AG|
+BA cB AG FE|GF AG FE ^DC|E^D FB, B3/2z/2 z/2G3/2|FE E4- Ez|
+E3/2z/2 BA cB dc|e3/2z/2 z/2c3/2 Bc AB|cd ed fe =gf|a2 z/2f/2f ef d3/2z/2|
+f3/2z/2 fd cB dc|ed ec B^A cB|dc ed cB dc|B^A B4- Bz|
+B3/2z/2 fe ^gf ag|b3/2z/2 z/2g3/2 fg e3/2z/2|E3/2z/2 B=A cB dc|e3/2z/2 z/2c3/2 Bc AB|
+cd ec BA ed|fe =gc BA dc|ed fc BA ed|fe =gc BA dc|
+ed fd cB fe|^gf a^d cB e^d|fe g^d cB fe|gf a^d cB e^d|
+fe gf ef gf|ag ba gf ag|fe2<a2b z/2g3/2-|ga a4- az|
+e3/2z/2 ec BA cB|=dc dB AG BA|cB dc BA cB|AG AE FG AB|
+cd ec BA cB|dc dB AG BA|cB dc BA cB|AG z/2A4-A/2z|
+E3/2z/2 BA cB dc|e3/2z/2 z/2c3/2 Bc AB|cd ed fe =gf|a2 z/2f/2f ef d3/2z/2|
+f3/2z/2 fd cB dc|ed ec B^A cB|dc ed cB dc|B^A B4- Bz|
+B3/2z/2 fe ^gf ag|b3/2z/2 z/2g3/2 fg e3/2z/2|E3/2z/2 B=A cB dc|e3/2z/2 z/2c3/2 Bc AB|
+cd ec BA ed|fe =gc BA dc|ed fc BA ed|fe =gc BA dc|
+ed fd cB fe|^gf a^d cB e^d|fe g^d cB fe|gf a^d cB e^d|
+fe gf ef gf|ag ba gf ag|fe2<a2b z/2g3/2-|ga a4- az|
+e3/2z/2 ec BA cB|=dc dB AG BA|cB dc BA cB|AG AE FG AB|
+cd ec BA cB|dc dB AG BA|cB dc BA cB|AG z/2A4-A/2
+V:2
+%J.S. Bach, Edition Wood
+%%MIDI program 0
+z8|z8|E,3/2z/2 A,G, B,A, CB,|A,G, A,3/2z/2 E,3/2z/2 C,E,|
+A,B, CB, =DC ED|CA, DC ED FE|^DB, EF E=D CB,|CA, E^D FE GF|
+E=D CB, DC ED|CB, CD CB, A,3/2z/2|E,3/2z/2 A,G, B,A, CB,|A,G, A,3/2z/2 E,3/2z/2 C,3/2z/2|
+E,3/2z/2 A,,3/2z/2 E,3/2z/2 A,G,|B,A, CB, A,G, F,E,|G,F, A,G, F,E, B,3/2z/2|B,,3/2z/2 E,^D, F,E, G,F,|
+E,=D, z/2C,3/2 B,,C, A,,3/2z/2|z8|E,3/2z/2 A,G, B,A, CB,|A,G, A,3/2z/2 E,3/2z/2 C,E,|
+A,B, CB, DC ED|CA, DC ED FE|^DB, EF E=D CB,|CA, E^D FE GF|
+E=D CB, DC ED|CB, CD CB, A,3/2z/2|E,3/2z/2 A,G, B,A, CB,|A,G, A,3/2z/2 E,3/2z/2 C,3/2z/2|
+E,3/2z/2 A,,3/2z/2 E,3/2z/2 A,G,|B,A, CB, A,G, F,E,|G,F, A,G, F,E, B,3/2z/2|B,,3/2z/2 E,2- [E,3/2-B,,3/2]E,/2- [E,3/2-E,,3/2]E,/2|
+z8|E,3/2z/2 A,G, B,A, CB,|E3/2z/2 z/2C3/2 B,C A,3/2z/2|A,,3/2z/2 D,C, E,D, F,D,|
+D3/2z/2 =G,,3z3|C3/2z/2 F,,3z3|B,3/2z/2 =G,3/2z/2 D,3/2z/2 E,3/2z/2|F,3/2z/2 B,,^A,, C,B,, D,C,|
+E,3/2z/2 z/2^D,3z2z/2|B,,3/2z/2 E,^D, F,E, ^G,F,|A,3/2z/2 z/2G,3z2z/2|E,3/2z/2 A,G, B,A, CB,|
+E3/2z/2 z/2C/2C D3/2z/2 C3/2z/2|B,3/2z/2 A,3/2z/2 A,3/2z/2 A,3/2z/2|A,3/2z/2 A,3/2z/2 A,3/2z/2 A,3/2z/2|A,3/2z/2 A,3/2z/2 =G,3/2z/2 F,3/2z/2|
+E,3/2z/2 =D,3/2z/2 E,3/2z/2 D,3/2z/2|C,3/2z/2 B,,3/2z/2 B,,3/2z/2 B,,3/2z/2|B,,3/2z/2 B,,3/2z/2 B,,3/2z/2 B,,3/2z/2|B,,3/2z/2 B,,3/2z/2 =A,,3/2z/2 ^G,,3/2z/2|
+F,,3/2z/2 E,,3/2z/2 E,,3/2z/2 E,,3/2z/2|E,,3/2z/2 D,,3/2z/2 D,,3/2z/2 D,,3/2z/2|E,3/2z/2 C,3/2z/2 D,3/2z/2 z/2E,3/2|E,,3/2z/2 A,,E, F,^G, A,B,|
+C3/2z/2 F,,3z3|B,3/2z/2 E,,3z3|A,3/2z/2 F,3/2z/2 C,3/2z/2 D,3/2z/2|E,3/2z/2 A,,G,, A,,B,, C,D,|
+E,C, F,3z3|B,,3/2z/2 E,3z3|A,,3/2z/2 F,,3/2z/2 C,,3/2z/2 D,,3/2z/2|E,,3/2z/2 A,,,2- [E,,3/2A,,,3/2-]A,,,/2- [A,,-A,,,]A,,/2z/2|
+z8|E,3/2z/2 A,G, B,A, CB,|E3/2z/2 z/2C3/2 B,C A,3/2z/2|A,,3/2z/2 D,C, E,D, F,D,|
+D3/2z/2 =G,,3z3|C3/2z/2 F,,3z3|B,3/2z/2 =G,3/2z/2 D,3/2z/2 E,3/2z/2|F,3/2z/2 B,,^A,, C,B,, D,C,|
+E,3/2z/2 z/2^D,3z2z/2|B,,3/2z/2 E,^D, F,E, ^G,F,|A,3/2z/2 z/2G,3z2z/2|E,3/2z/2 A,G, B,A, CB,|
+E3/2z/2 z/2C/2C D3/2z/2 C3/2z/2|B,3/2z/2 A,3/2z/2 A,3/2z/2 A,3/2z/2|A,3/2z/2 A,3/2z/2 A,3/2z/2 A,3/2z/2|A,3/2z/2 A,3/2z/2 =G,3/2z/2 F,3/2z/2|
+E,3/2z/2 =D,3/2z/2 E,3/2z/2 D,3/2z/2|C,3/2z/2 B,,3/2z/2 B,,3/2z/2 B,,3/2z/2|B,,3/2z/2 B,,3/2z/2 B,,3/2z/2 B,,3/2z/2|B,,3/2z/2 B,,3/2z/2 =A,,3/2z/2 ^G,,3/2z/2|
+F,,3/2z/2 E,,3/2z/2 E,,3/2z/2 E,,3/2z/2|E,,3/2z/2 D,,3/2z/2 D,,3/2z/2 D,,3/2z/2|E,3/2z/2 C,3/2z/2 D,3/2z/2 z/2E,3/2|E,,3/2z/2 A,,E, F,^G, A,B,|
+C3/2z/2 F,,3z3|B,3/2z/2 E,,3z3|A,3/2z/2 F,3/2z/2 C,3/2z/2 D,3/2z/2|E,3/2z/2 A,,G,, A,,B,, C,D,|
+E,C, F,3z3|B,,3/2z/2 E,3z3|A,,3/2z/2 F,,3/2z/2 C,,3/2z/2 D,,3/2z/2|E,,3/2z/2 A,,,2- [E,,3/2A,,,3/2-]A,,,/2- [A,,-A,,,]A,,/2
+%Arr. Gary Bricault, (c) 1997

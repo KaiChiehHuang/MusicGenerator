@@ -79,12 +79,12 @@ for subdir, dirs, files in os.walk(rootdir):
 
 total, cum_weights, values = total_weights_values(vector)
 
-for n in range(20):
+for n in range(1):
     notes = []
-    for i in range(100):
+    for i in range(20):
         notes.append(weighted_choice2(total, cum_weights, values))
 
-    file_ = open('output_data/weighted_vector/'+str(n)+'.abc', 'w')
+    file_ = open('output_data/'+str(n)+'.abc', 'w')
     file_.write('H:This file contains some example \n')
     file_.write('X:1 \n')
     file_.write('T: Baseline Implementation \n')

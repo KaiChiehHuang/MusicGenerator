@@ -7,6 +7,7 @@ TODO:
 3. think of how to modify the model to improve (Chords and rythm)
 
 What we can probably try...:
+
 1. increase the number of layers of RNN
 2. use simpler trainning data 
 3. 

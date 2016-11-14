@@ -14,7 +14,7 @@ def filter(line):
             return False
     return True
 
-rootdir = 'training_data/bach_harpsichord_abc'
+rootdir = 'training_data/folk'
 file_ = open('training_data/musicData.txt', 'w')
 # Read each .abc file and write then into one big text file 
 for subdir, dirs, files in os.walk(rootdir):

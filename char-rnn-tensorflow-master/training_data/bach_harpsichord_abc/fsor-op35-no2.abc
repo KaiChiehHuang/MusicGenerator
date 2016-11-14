@@ -1,0 +1,37 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/fsor-op35-no2.mid
+% format 1 file 2 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=90
+K:C % 0 sharps
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+%Etude in C major, Op 35 No 2
+%Fernando Sor
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%%MIDI program 24
+%Guitar
+[E2C,2] [F2D,2-] [D2D,2] [B,2F,2]|[C2E,2-] [G,2E,2] [E,2C,2] [D,2B,,2-]|[G,2B,,2-] [F,3/2-B,,3/2]F,/2 [E,2C,2-] [G,2C,2]|[E2C,2] [GD,-][FD,-] [D2D,2] [B,2F,2]|
+[C2E,2-] [E2E,2] [G,2E,2] [A,2F,2-]|[D2F,2] [B,2G,2] [C4C,4]|[E2C,2] [F2D,2-] [D2D,2] [B,2F,2]|[C2E,2-] [G,2E,2] [E,2C,2] [D,2B,,2-]|
+[G,2B,,2-] [F,3/2-B,,3/2]F,/2 [E,2C,2-] [G,2C,2]|[E2C,2] [GD,-][FD,-] [D2D,2] [B,2F,2]|[C2E,2-] [E2E,2] [G,2E,2] [A,2F,2-]|[D2F,2] [B,2G,2] [C4C,4]|
+[E2C,2] [D2B,,2-] [G,2B,,2] [C2A,,2]|[B,2G,,2-] [G,2G,,2] [E2C,2] [D2B,,2-]|[G,2B,,2] [C2A,,2] [B,2G,,2-] [G,2G,,2]|[C2A,,2] [D2B,,2-] [G,2B,,2] [^D2B,,2]|
+[E2C,2] G,2 [E2C2] [GCD,-][^FD,-]|[E2D,2] [^F2C2D,2] [G2B,2G,2] z2|[E2C,2] [=F2D,2-] [=D2D,2] [B,2F,2]|[C2E,2-] [G,2E,2] [E,2C,2] [D,2B,,2-]|
+[G,2B,,2-] [F,3/2-B,,3/2]F,/2 [E,2C,2-] [G,2C,2]|[E2C,2] [GD,-][FD,-] [D2D,2] [B,2F,2]|[G2E,2-] [E2E,2] [C2E,2] [D2F,2-]|[A,2F,2] [B,2G,2] [C4C,4]|
+[E2C,2] [D2B,,2-] [G,2B,,2] [C2A,,2]|[B,2G,,2-] [G,2G,,2] [E2C,2] [D2B,,2-]|[G,2B,,2] [C2A,,2] [B,2G,,2-] [G,2G,,2]|[C2A,,2] [D2B,,2-] [G,2B,,2] [^D2B,,2]|
+[E2C,2] G,2 [E2C2] [GCD,-][^FD,-]|[E2D,2] [^F2C2D,2] [G2B,2G,2] z2|[E2C,2] [=F2D,2-] [=D2D,2] [B,2F,2]|[C2E,2-] [G,2E,2] [E,2C,2] [D,2B,,2-]|
+[G,2B,,2-] [F,3/2-B,,3/2]F,/2 [E,2C,2-] [G,2C,2]|[E2C,2] [GD,-][FD,-] [D2D,2] [B,2F,2]|[G2E,2-] [E2E,2] [C2E,2] [D2F,2-]|[A,2F,2] [B,2G,2] [C4C,4]|

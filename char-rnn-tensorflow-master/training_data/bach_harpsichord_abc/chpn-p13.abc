@@ -1,0 +1,72 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p13.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=90
+% Last note suggests Phrygian mode tune
+K:F# % 6 sharps
+%Chopin Prelude  No. 13, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Lento
+%Fertiggestellt am 28.09.2002
+
+%Normierung: 23.12.2002
+
+%Update am 24.12.2002
+
+%Update am 20.7.2003
+
+%Update am 17.6.2010
+
+%Update am 21.2.2014
+
+%Dauer: 2:34 Minuten
+
+% Time signature=6/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=6  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+[A6E6C6] [A2-E2-C2-]|[A4E4C4] [A4-E4-C4-]|[A2E2C2] [B4F4-] [G2F2]|[A6E6C6] [A2-E2-C2-]|
+[A2E2C2-] [A2E2C2] [AEC-][BGC-] C/2-[AEC-][G/2-F/2-C/2-]|[G/2F/2C/2-]C/2-[AEC] [c2A2F2-] [B2G2F2] z[GC]|[A6E6C6] [c2-A2-C2-]|[c4A4C4] [e4-A4-E4-]|
+[e2A2E2] [f4-c4-G4-] [f3/2c3/2-G3/2-][c/2G/2-G/2E/2-]|[d6G6E6] [c2-G2-F2-]|[c4G4F4] z4|z6 z3/2A,/2|
+[A6E6C6] [A2-E2-C2-]|[A4E4C4] [A4-E4-C4-]|[A2E2C2-] [B4-F4-C4-] [B3/2F3/2-C3/2-][G/2F/2C/2]|[A6E6C6] [A2-E2C2-]|
+[A/2C/2][A/2E/2C/2]z/2[A/2E/2C/2] [A/2E/2C/2][A/2E/2C/2]z/2[A/2E/2C/2] [A2E2C2-] [BGC-][AEC-]|[GFC-][AEC] [c2A2F2-] [B2G2F2] z[GC]|[A6=E6C6] [A2-=E2-]|[A3-=E3-][A/2=E/2-][B/2=E/2] [c4-A4-=E4-]|
+[c2A2=E2] [d4-A4-=E4-] [d3/2A3/2-=E3/2-][c/2A/2=E/2]|[c6A6=E6] [B2-G2-D2-]|[B4G4D4] [A4-=G4-C4-]|[A2=G2C2] [B4-^G4-B,4-] [B3/2G3/2-B,3/2-][G/2D/2B,/2]|
+[G6F6-B,6] [A2-F2-C2-]|[A4F4C4] [^E4A,4]|z2 [B6D6]|[G6F6-B,6] [A2-F2-C2-]|
+[A2-F2-C2] [A2F2B,2] [E4-A,4-]|[E4A,4] z4|e-[e-E] [e-E][e-E] [e-E][eE] [A-E][A-E]|[A-E][AE] [=c-E][=cE] [=c-F][=c-F] [=c-F][=c-F]|
+[=c/2F/2-][^c/2F/2][f/2F/2-][d/2F/2] [c-F][c-F] [c-F][c-F] [c-F][cF]|=e-[=e-=E] [=e-=E][=e-=E] [=e-=E][=e=E] [G-=E][G-=E]|[G-=E][G=E] [A-=E][A=E] [A-D][A-D] [A-D][A-D]|[A/2D/2-][B/2D/2][d/2D/2-][c/2D/2] [B-D][B-D] [B-D][BD] [A-D][AC]|
+[A-B,][AB,] [G-B,][G-B,] [G/2C/2-][A/2C/2][c/2C/2-][B/2C/2] [A-D][AD]|[G-D][G-D] [G/2C/2-][A/2C/2][c/2C/2-][B/2C/2] [A-B,][AB,] [G-D][G-D]|[G-F][G-D] [G-F][G-D] [GF][AD] [cC][AC]|[^E-A,][EA,] [E-D][ED] [E-D-=C][ED=C] [G-E-D-B,][G-EDB,]|
+[G-F-^C-B,][GFCB,] [G-D-B,][GDB,] [G2D2B,2] [A2C2A,2]|[G2D2B,2] [A6C6A,6]|[A6=E6] [A2-=E2-]|[A3-=E3-][A/2=E/2-][B/2=E/2] [c4-A4-=E4-]|
+[c2A2=E2] [^e4-d4-A4-=E4-] [e3/2-d3/2A3/2-=E3/2-][e/2c/2A/2=E/2]|[e6c6=E6] [d2-B2-D2-]|[d4-B4D4] [d4-B4-=G4-C4-]|[d2B2=G2C2] [B4-^G4-B,4-] [B3/2G3/2-B,3/2-][G/2D/2B,/2]|
+[G-F-B,-][f4-G4-F4-B,4-][f-GFB,] [f2-G2-F2-B,2-]|[f2-G2F2B,2] [f2A2C2] [^E-A,-][e3-E3A,3]|e2 [B-G-D-][g4-B4-G4-D4-][gBGD]|[G-F-B,-][f4-G4-F4-B,4-][f-GF-B,-] [f2-A2-F2-B,2-]|
+[f3-A3-F3-B,3-][f/2A/2-F/2-B,/2-][e/2A/2F/2B,/2] [E-A,-][e3-E3-A,3-]|[e8E8A,8]|zA, A,A, DA, [A-A,][A-C]|[A-B,][AA,] [=A/2A,/2-][^A/2A,/2][c/2A,/2-][B/2A,/2] [A4-A,4-]|
+[A8A,8]|
+V:2
+%Piano left
+%%MIDI program 0
+E,,F, G,E, A,C, E,,F,|G,E, A,C, E,,F, G,E,|A,C, C,,=G, A,^G, B,C,|E,,F, G,E, A,C, E,,F,|
+G,E, A,C, E,,F, G,E,|A,C, C,,=G, A,^G, B,C,|E,,F, G,E, A,C, E,,F,|G,E, A,C, D,,=A, =C^A,|
+DE, G,,=G, A,^G, ^CF,|G,,=G, A,^G, =CD, C,=G,|A,^G, ^CF, G,E, B,D,|E,F, A,C, A,B,, A,G,/2z/2|
+E,,F, G,E, A,C, E,,F,|G,E, A,C, E,,F, G,E,|A,C, C,,=G, A,^G, B,C,|E,,F, G,E, A,C, E,,F,|
+G,E, A,C, E,,F, G,E,|A,C, C,,=G, A,^G, B,C,|E,,F, G,E, A,C, E,,F,|G,E, A,C, E,,F, G,E,|
+A,C, E,,F, G,E, A,C,|B,,E, G,=G, A,C, B,,=G,|A,^G, B,D, D,,=D, =E,^D,|=G,A,, G,,=D, =E,^D, ^G,G,,|
+C,,=C, D,^C, F,G,, C,,=C,|D,^C, F,G,, E,,=C, D,^C,|^E,E,, B,,,F, G,E, B,B,,|C,,=C, D,^C, F,G,, C,,=C,|
+D,^C, F,G,, E,,=C, D,^C,|E,C,, E,,=C, D,^C, E,F,,|D,,[A,D,] [A,D,][A,D,] [DD,][A,D,] [A,D,][CD,]|[=CD,][A,D,] [A,G,,][G,G,,] C,,[G,G,,] [G,C,][G,D,]|
+[G,C,][G,G,,] [G,C,][G,D,] [G,C,][G,E,] [G,F,][G,G,,]|C,,[G,C,] [G,C,][G,C,] [^CC,][G,C,] [G,C,][B,C,]|[A,C,][G,C,] [G,E,,][E,E,,] B,,,[E,E,,] [E,B,,][E,C,]|[E,B,,][E,E,,] [E,B,,][E,C,] [E,B,,][E,E,,] [E,B,,][E,C,]|
+[E,D,][E,D,] [E,D,][E,D,] [E,C,][E,C,] [E,B,,][E,B,,]|[E,B,,][E,B,,] [E,C,][E,C,] [E,D,][E,D,] [E,B,,][E,B,,]|[G,B,,][G,B,,] [G,B,,][E,B,,] [G,B,,][E,B,,] [E,A,,][E,C,]|[E,D,][E,D,] [A,D,][A,D,] [G,D,G,,][G,D,G,,] [G,C,][G,C,]|
+[G,C,][G,C,] [G,C,][G,C,] [G,C,][C,E,,] [C,E,,][C,E,,]|[C,E,,][F,E,,] [E,E,,]F,, G,,E,, A,,C,,|E,,,F, G,E, A,C, E,,F,|G,E, A,C, E,,F, G,E,|
+A,C, E,,F, G,E, A,C,|B,,F, G,E, A,C, B,,F,|G,E, B,B,, D,,=D, =E,^D,|=G,A,, G,,=D, =E,^D, ^G,G,,|
+C,,=C, D,^C, F,G,, C,,=C,|D,^C, F,G,, E,,=C, D,^C,|^E,E,, B,,,=D, F,^D, B,G,,|C,,=C, D,^C, F,G,, C,,=C,|
+D,^C, G,C,, E,,,=C, D,^C,|E,C,, E,,=C, D,^C, E,C,,|E,,,[D,E,,] [D,E,,][D,E,,] [D,E,,][D,E,,] [D,E,,][D,E,,]|[D,E,,][C,E,,] [C,E,,][C,E,,] [C,4-E,,4-]|
+[C,8E,,8]|
+%Chopin: Prelude No.13 in F# Major, Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-21
+%Spur 7
+%Spur 8

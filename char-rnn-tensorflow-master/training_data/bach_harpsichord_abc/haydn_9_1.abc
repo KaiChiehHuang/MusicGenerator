@@ -1,0 +1,86 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/haydn_9_1.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=130
+K:F % 1 flats
+%Haydn: Klaviersonate Hob. XVI:9, 1. Satz
+%Divertimento
+%Copyright \0xa9 2011 by Bernd Krueger
+%Bernd Krueger
+%Allegro 
+%Erstellt: 3.11.2011
+
+%Dauer: 2:24 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-1  minor=0
+%Teil 1
+%Teil 1 Wiederholung
+%Teil 2
+%Teil 2 Wiederholung
+V:1
+%Piano right
+%%MIDI program 0
+[f4c4A4F4] A3/2c<Bd/2|c2 Fz Fz Fz|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 cA GF|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 z2 c2|
+d3/2f<ed/2 c2 f2|B/2[c/2B/2]c/2[c/2B/2] B/2[c/2B/2]c/2[c/2B/2] [B/2A/2-]A3/2 c2|d3/2f<ed/2 c2 a2|g2 c/2[e/2-d/2]e e/2[g/2-f/2]g f/2[a/2-g/2]a|
+g2 c/2[e/2-d/2]e e/2[g/2-f/2]g c'/2[=b/2a/2-]a|g2 f/2e/2d/2c/2>d/2[e/2d/2]e/2[e/2d/2] d/2[e/2d/2]e/2[e/2d/2]|[d/2c/2-]c3-c/2 zg Gg|Ag fe fd c=B|
+c=B ce cg Gg|Ag fe fd c/2[d/2c/2]=B|c4 z4|[f4c4A4F4] A3/2c<_Bd/2|
+c2 Fz Fz Fz|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 cA GF|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 z2 c2|d3/2f<ed/2 c2 f2|
+B/2[c/2B/2]c/2[c/2B/2] B/2[c/2B/2]c/2[c/2B/2] [B/2A/2-]A3/2 c2|d3/2f<ed/2 c2 a2|g2 c/2[e/2-d/2]e e/2[g/2-f/2]g f/2[a/2-g/2]a|g2 c/2[e/2-d/2]e e/2[g/2-f/2]g c'/2[=b/2a/2-]a|
+g2 f/2e/2d/2c/2>d/2[e/2d/2]e/2[e/2d/2] d/2[e/2d/2]e/2[e/2d/2]|[d/2c/2-]c3-c/2 zg Gg|Ag fe fd c=B|c=B ce cg Gg|
+Ag fe fd c/2[d/2c/2]=B|c4 z4|[c4G4E4] E3/2G<FA/2|G2 [g_B]z [gB]z [BG]z|
+[A4F4] F3/2A<GB/2|A2 [fA]z [fA]z [cA]z|[B4G4] G3/2B<Ac/2|B2 [_bg]z [bg]z [BG]z|
+[A4F4] c'a gf|g/2[a/2g/2]a/2[a/2g/2] [g/2f/2-]f3/2 c'a gf|g/2[a/2g/2]a/2[a/2g/2] [g/2f/2-]f3/2 cc' cc'|dc' ba bd bd|
+bc gb af ef|d2 (3bag (3bag (3agf|(3efg c2 z4|[f4c4A4F4] A3/2c<Bd/2|
+c2 Fz Fz Fz|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 cA GF|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 z2 c2|d3/2f<ed/2 c2 f2|
+B/2[c/2B/2]c/2[c/2B/2] B/2[c/2B/2]c/2[c/2B/2] [B/2A/2-]A3/2 (3fed|c2 F/2[A/2-G/2]A A/2[c/2-B/2]c B/2[d/2-c/2]d|c2 c/2[e/2-d/2]e f/2[a/2-g/2]a b/2[d'/2-c'/2]d'|c'2 b/2a/2g/2f/2>g/2[a/2g/2]a/2[a/2g/2] g/2[a/2g/2]a/2[a/2g/2]|
+[g/2f/2-]f3-f/2 zc' cc'|dc' ba bg f/2[g/2f/2]e|f/2[g/2f/2]e fa fc' cc'|dc' ba bg f/2[g/2f/2]e|
+f4 z4|[c4G4E4] E3/2G<FA/2|G2 [gB]z [gB]z [BG]z|[A4F4] F3/2A<GB/2|
+A2 [fA]z [fA]z [cA]z|[B4G4] G3/2B<Ac/2|B2 [bg]z [bg]z [BG]z|[A4F4] c'a gf|
+g/2[a/2g/2]a/2[a/2g/2] [g/2f/2-]f3/2 c'a gf|g/2[a/2g/2]a/2[a/2g/2] [g/2f/2-]f3/2 cc' cc'|dc' ba bd bd|bc gb af ef|
+d2 (3bag (3bag (3agf|(3efg c2 z4|[f4c4A4F4] A3/2c<Bd/2|c2 Fz Fz Fz|
+G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 cA GF|G/2[A/2G/2]A/2[A/2G/2] [G/2F/2-]F3/2 z2 c2|d3/2f<ed/2 c2 f2|B/2[c/2B/2]c/2[c/2B/2] B/2[c/2B/2]c/2[c/2B/2] [B/2A/2-]A3/2 (3fed|
+c2 F/2[A/2-G/2]A A/2[c/2-B/2]c B/2[d/2-c/2]d|c2 c/2[e/2-d/2]e f/2[a/2-g/2]a b/2[d'/2-c'/2]d'|c'2 b/2a/2g/2f/2>g/2[a/2g/2]a/2[a/2g/2] g/2[a/2g/2]a/2[a/2g/2]|[g/2f/2-]f3-f/2 zc' cc'|
+dc' ba bg f/2[g/2f/2]e|f/2[g/2f/2]e fa fc' cc'|dc' ba bg f/2[g/2f/2]e|f4 
+V:2
+%Piano left
+%%MIDI program 0
+[F,4F,,4] [F,2F,,2] [G,2G,,2]|[A,4A,,4] z2 [CA,]z|[D2B,2] [C2A,2] z2 [C2A,2]|[D2B,2] [C2A,2] z2 [A2F2]|
+[B4F4] [A4F4]|G2 C2 F2 [A2F2]|[B4F4] [A2F2] [F2F,2]|[E4E,4] z2 [F2F,2]|
+[E4E,4] z2 [F2F,2]|[E2E,2] [F2F,2] G2 G,2|C2 G,/2z3/2 C,2 [E,2E,,2]|[F,2F,,2] z2 [F,2F,,2] [G,2G,,2]|
+[A,6A,,6] [E,2E,,2]|[F,6F,,6] [G,2G,,2]|C,2 G,,/2z3/2 C,,2 z2|[F,4F,,4] [F,2F,,2] [G,2G,,2]|
+[A,4A,,4] z2 [CA,]z|[D2B,2] [C2A,2] z2 [C2A,2]|[D2B,2] [C2A,2] z2 [A2F2]|[B4F4] [A4F4]|
+G2 C2 F2 [A2F2]|[B4F4] [A2F2] [F2F,2]|[E4E,4] z2 [F2F,2]|[E4E,4] z2 [F2F,2]|
+[E2E,2] [F2F,2] G2 G,2|C2 G,/2z3/2 C,2 [E,2E,,2]|[F,2F,,2] z2 [F,2F,,2] [G,2G,,2]|[A,6A,,6] [E,2E,,2]|
+[F,6F,,6] [G,2G,,2]|C,2 G,,/2z3/2 C,,2 z2|[C,4C,,4] C2 D2|E4 z4|
+[C,4C,,4] D2 E2|F4 z4|[C,4C,,4] E2 F2|G4 z4|
+F,,4 z2 [C2A,2]|[D2B,2] [C2A,2] z2 [C2A,2]|[D2B,2] [C2A,2] z2 [A,2A,,2]|[B,4B,,4] [G,4G,,4]|
+[E,4E,,4] [F,4F,,4]|[B,6B,,6] [=B,2=B,,2]|[C4C,4] z4|[F,4F,,4] [F,2F,,2] [G,2G,,2]|
+[A,4A,,4] z2 [CA,]z|[D2_B,2] [C2A,2] z2 [C2A,2]|[D2B,2] [C2A,2] z2 [A2F2]|[B4F4] [A4F4]|
+G2 C2 F2 B2|A2- A/2z3z/2 [B,2_B,,2]|[A,4A,,4] z2 [B,2B,,2]|[A,2A,,2] [B,2B,,2] C2 C,2|
+F,2 C,/2z3/2 F,,2 [A,2A,,2]|[B,6B,,6] [C2C,2]|[D4D,4] z2 [A,,2A,,,2]|[B,,4B,,,4] [C,4C,,4]|
+[F,,4F,,,4] z4|[C,4C,,4] C2 D2|E4 z4|[C,4C,,4] D2 E2|
+F4 z4|[C,4C,,4] E2 F2|G4 z4|F,,4 z2 [C2A,2]|
+[D2B,2] [C2A,2] z2 [C2A,2]|[D2B,2] [C2A,2] z2 [A,2A,,2]|[B,4B,,4] [G,4G,,4]|[E,4E,,4] [F,4F,,4]|
+[B,6B,,6] [=B,2=B,,2]|[C4C,4] z4|[F,4F,,4] [F,2F,,2] [G,2G,,2]|[A,4A,,4] z2 [CA,]z|
+[D2_B,2] [C2A,2] z2 [C2A,2]|[D2B,2] [C2A,2] z2 [A2F2]|[B4F4] [A4F4]|G2 C2 F2 B2|
+A2- A/2z3z/2 [B,2_B,,2]|[A,4A,,4] z2 [B,2B,,2]|[A,2A,,2] [B,2B,,2] C2 C,2|F,2 C,/2z3/2 F,,2 [A,2A,,2]|
+[B,6B,,6] [C2C,2]|[D4D,4] z2 [A,,2A,,,2]|[B,,4B,,,4] [C,4C,,4]|[F,,4F,,,4] 
+%Pedale
+%%MIDI program 0
+%Haydn Piano Sonata in F major, 1. movement
+%Copyright \0xa9 2010 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2011-11-03
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

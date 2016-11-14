@@ -1,0 +1,78 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p19.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=254
+K:Eb % 3 flats
+%Chopin Prelude  No. 19, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Vivace
+%Fertiggestellt am 24.11.2002
+
+%Normierung: 23.12.2002
+
+%Update am 24.6.2010
+
+%Update am 22.2.2014
+
+%Dauer:  1:10 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-3  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z6 B2-|BB B,G eE Bg|Ge bB ge' eb|g'g bf' da e'e|
+ac' ca c'c gb|Be gG Be E=A|dD =Ae E=A gG|Bf FB dD Fe|
+E=A dD =Ae E=A|gG cf F_A cC|FB B,G eE Bg|Ge bB ge' eb|
+g'g bf' da e'e|ac' ca c'c gb|Be gG e_g _Ge|fF e_g _Ge =g=G|
+d=a =Ad bB dc'|cf d'd f=a =Af|c'c fb Bf fF|Bf F=B eE _Bf|
+_D_A _a_D B_g _DB|_d_D Bf _D=B e_D|_Bf _DA a_D B_g|_DB _d_D B=e =EB|
+b=E _d_d' B=e =d'B|fe' B=g =bA =dc'|=A_e d'=A f=a =Ac|c'F e_b Fd fF|
+Bf F=B e_E _Bf|_D_A _a_D B_g _DB|_d_D Bf _D=B e_D|_Bf _DA a_D B_g|
+_DB f_D B=e _DB|=g=E _d_g _Ec =a_G|_e_a F=d =bA f_b|=G=e _d'B =gc' =A_g|
+e'c =a=d' =B_a f'3/2z/2|z_B B,G _eE B=g|Ge bB ge' eb|g'g bf' da e'e|
+ac' ca c'c gb|Be gG Be E=A|d=D =Ae E=A gG|Bf FB dD Fe|
+E=A dD =Ae E=A|gG cf F_A cC|FB B,G eE Bg|Ge bB ge' eb|
+g'g b_g' e=a f'd|_a=e' _dg _e'c _gd'|=Bf _d'_d =gc' cf|=d'c fe' cf f'f|
+c'=g' gc' f'f ac'|cf d'=d fc' cf|fF cg Fc dD|_Be EB bG e=b|
+Ge _bA d=a Ad|_aA dg Ge bG|ec' Ge bA d=a|Ad _aA dg Ge|
+bG ge' eb g'd|=bf' dg e'c ge'|c_g d'=B _gc' c_g|c'A f_b Gc aF|
+d=g Ee bG e=b|Ge _bA d=a Ad|_aA dg Ge bG|ec' Ge bA d=a|
+Ad _aA dg Ge|b_B ge' eb g'd|=bf' d=b =e'd =b=e'|_d=a _e'c =ac' =Ae|
+c'=A e_b Be =dD|Be EB bE Be|EB =aE Be EB|_aE Be EB gE|
+Be EB _gE Be|EB =gE Be3|z6 [e''2-b'2-e'2-]|[e''b'e']z6[G-E-B,-G,-]|
+[G8E8B,8G,8]|
+V:2
+%Piano left
+%%MIDI program 0
+z8|zE,, G,B,, E,,G, B,,E,,|B,B,, E,,E G,B,, GB,|E,B B,E, =B=B, E,c|
+CE, _AD E,G E_B,|GE E,E G,F,, CF,|C,C F,F,, CF, B,,E|F,D, DF, B,,B, F,F,,|
+CF, C,=B, F,F,, CF,|B,,E A,F, DF, B,,A,|D,E,, G,B,, E,,G, B,,E,,|_B,B,, E,,E G,B,, GB,|
+E,_B B,E, =B=B, E,c|CE, AD E,G E_B,|GE E,E G,=B,, E=A,|E,E =A,=B,, E=A, _B,,D|
+G,=A,, D_G, G,,D =G,F,,|_BE F,B EC FE|B,,E F,B,, DF, B,,_D|F,_A,, =B,F, _D,=B, F,_D,,|
+=B,F, _G,,_B, _G,_D, B,_G,|_G,,B, _D,_D,, =B,F, A,,=B,|F,_D,, =B,F, _G,,_B, _G,_D,|B,_G, _G,,B, _D,_G,, B,_D,|
+_G,,_D _G,_G,, =EB, F,,F|B,F, GB, F,F =B,F,|FC F,F _EF, E=A,|B,,E F,B,, =DF, B,,_D|
+F,A,, =B,F, _D,=B, F,_D,,|=B,F, _G,,_B, _G,_D, B,_G,|_G,,B, _D,_D,, =B,F, A,,=B,|F,_D,, =B,F, _G,,_B, _G,_D,|
+B,_G, _G,,B, _D,=G,, B,=E,|B,,_D =E,=A,, C_E, C,E|_G,=B,, =DF, =D,F _A,_D,|=E=G, =E,G B,_E, _G=A,|
+_G,=A CF, _A=B, _B,3/2z/2|zE,, =G,_B,, E,,G, B,,E,,|B,B,, E,,_E G,B,, =GB,|E,B B,E, =B=B, E,c|
+CE, AD E,G E_B,|GE E,E G,F,, CF,|C,C F,F,, CF, B,,E|F,=D, DF, B,,B, F,F,,|
+CF, C,=B, F,F,, CF,|B,,E _A,F, DF, B,,A,|D,E,, G,B,, E,,G, B,,E,,|_B,B,, E,,E G,B,, GB,|
+E,_B B,=A,, C_G, =B,,D|A,_D, =EB, E,_G CF,|AD =G,B =EA, AF|CA FA, AF F,e|
+A_E eA A,e A_A,,|AF CA FF, AE|_B,,E A,F, DA, B,,B,|A,E,, G,B,, E,,B, B,,E,,|
+B,B,, E,,A, B,,E,, B,B,,|E,,B, B,,E,, B,B,, E,,B,|B,,E,, B,B,, E,,A, B,,E,,|B,B,, E,,B, B,,E,, B,B,,|
+E,,B, B,,G,, B,E, G,,F|=B,=D, F=B, C,E G,=A,,|E_G, E,E _G,_A,, E_G,|B,,D A,F, DA, B,,_B,|
+A,E,, =G,B,, E,,B, B,,E,,|B,B,, E,,A, B,,E,, B,B,,|E,,B, B,,E,, B,B,, E,,B,|B,,E,, B,B,, E,,A, B,,E,,|
+B,B,, E,,B, B,,E,, B,B,,|E,,B, B,,E,, B,E, G,,,=B,|F,G,, =B,F, A,,=B, =E,-[=E,-=A,,]|[_D=E,]=E,- [=E,-=A,,][C=E,] F,-[F,-=A,,] [EF,]_G,-|
+[_G,-B,,][E_G,] _G,B,, E=G, B,,,A,|B,,E,, G,B,, E,,_B, B,,E,,|G,B,, E,,B, B,,E,, G,B,,|E,,B, B,,E,, G,B,, E,,B,|
+B,,E,, G,B,, E,,B, B,,E,,|G,B,, E,,B, B,,E,,3|z6 [g2-e2-B2-=G2-]|[geBG]z6[_E,-B,,-E,,-]|
+[E,8B,,8E,,8]|
+%Chopin: Prelude No.19 in Eb Major Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-22
+%Spur 7

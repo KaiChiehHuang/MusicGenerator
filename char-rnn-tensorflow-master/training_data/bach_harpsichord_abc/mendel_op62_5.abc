@@ -1,0 +1,80 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/mendel_op62_5.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=140
+% Last note suggests Dorian mode tune
+K:G % 1 sharps
+%Lieder ohne Worte Op. 62 No. 5
+%Venetianisches Gondellied
+%Copyright \0xa9 2004 by Bernd Krueger
+%Mendelslsohn
+%Allegro con Anima
+%Fertiggestellt am 13.1.2004
+
+%Update am 3.4.2014
+
+%Dauer: 2:39 Minuten
+
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+z8|z8|z8|A6 E2-|
+E2 z6|z2 A,6|E,4 z2 [e2-c2-]|[e2c2] [c2A2] [A4E4]|
+[B2^G2] [c2A2] [d2B2] [e2c2]|[g4e4] [=f4d4]|[e2c2] [d2B2] [e4c4]|[cA]^D/2-[^G/2F/2-^D/2-] [B/2A/2-F/2-^D/2-][A3/2F3/2-^D3/2-] [^G/2-F/2E/2-^D/2-][^G3/2E3/2^D3/2-] [A2F2^D2]|
+[B6^G6] [e2-^G2-]|[e2^G2-] [c2^G2] [A4E4]|[B2^G2] [c2A2] [d2B2] [e2c2]|[g2-d2] [g2-e2] [g2-=f2] [g2e2]|
+[=f3d3][ec] [e2c2] [d2-B2-]|[dB][cA] [c2A2] [B3^G3]A|A6 A,2-|A,4 E,4|
+z2 [e'4c'4e4] [c'2a2c2]|[a4e4A4] [b2^g2B2] [c'2a2c2]|[d'2b2d2] [e'2c'2e2] [g'4e'4=g4]|[=f'4d'4=f4] [e'2c'2e2] [d'2b2d2]|
+[e'4c'4e4] [c'ac]A/2-[^f/2-^d/2-A/2-] [b/2a/2-f/2-^d/2-A/2-][a3/2f3/2^d3/2-A3/2-]|[^g/2-^d/2A/2-^G/2-][^g3/2A3/2-^G3/2] [a2A2A2] [b4-^g4-B4-]|[b2^g2B2] [e'4^g4e4-] [c'2e2c2]|[a4e4A4] [b2^g2B2] [c'2a2c2]|
+[d'2b2=d2] [e'2c'2e2] [g'2-d'2=g2] [g'2-=f2-]|[g'-=f][g'-e] [g'2e2-] [=f'3d'3e3-][e'c'e-]|[e'2c'2e2] [d'3b3d3][c'ac] [c'2a2c2]|[b3^g3B3][aA] [a4-A4-]|
+[a2A2] [F2^D2] [^G2E2] [A2F2]|[B2^G2] e2 [B3/2^G3/2][B/2^G/2] [A2F2]|[^G2E2] [F2^D2] [B4^G4]|[^G2E2] [F2^D2] [^G2E2] [A2F2]|
+[B2^G2] e2 [B3/2^G3/2][B/2^G/2] [A2F2]|[^G2E2] [F2^D2] [B4-^G4-]|[B8^G8]|[^c6=G6] [d2-F2-]|
+[d4F4] [^d4-A4-]|[^d2A2] [e6=c6A6]|[=g6e6^A6] [=f2-=d2-^A2-]|[=f4d4^A4] [a4-^f4-^d4-c4-=A4-]|
+[a8f8^d8c8A8]|A,,6 ^D,,2-|^D,,2 z6|z2 [e4c4] [c2A2]|
+[A4E4] [B2^G2] [c2A2]|[=d2B2] [e2c2] [A4E4]|[B2^G2] [c2A2] [d2B2] [e2-c2-]|[e2c2] [d3B3][cA] [c2A2]|
+[B3^G3]A A4-|A2 [F-^D-][FE-^D] [^G-E][^GE-] [A-F-E][AFE-]|[B-^G-E][B^GE-] [e-E][eE-] [B-^G-E][B/2^G/2E/2-][B/2^G/2E/2-] [A-F-E][AFE-]|[^G-E][^GE-] [F-E^D-][FE-^D] [B-^G-E][B2-^G2-E2][B^GE-]|
+[^G-E][^GE-] [F-E^D-][FE-^D] [^G-E][^GE-] [A-F-E][AFE-]|[B-^G-E][B^GE-] [e-E][eE-] [B-^G-E][B/2^G/2E/2-][B/2^G/2E/2-] [A-F-E][AFE-]|[^G-E][^GE-] [F-E^D-][FE-^D] [B-^G-E][B2-^G2-E2][B-^G-E-]|[B-^G-E][B2-^G2-E2][B2-^G2-E2][B2-^G2-E2][B^GE-]|
+[^c-=G-E][^c2-G2-E2][^c2-G2-E2][^cGE] [d-A-][d-A-F-]|[d-A-F][d2-A2-F2][dAF-] [^d-A-F][^d2-A2-F2][^d-A-F-]|[^d-A-F][^dAF] [e-=c-][e2-c2-A2][e2-c2-A2][ecA]|[g-e-][g2-e2-^A2][g2-e2-^A2][ge^A-] [=f-=d-^A][=f-d-^A-]|
+[=f-d-^A][=f2-d2-^A2][=fd^A] [a4-^f4-^d4-c4-=A4-]|[a8f8^d8c8A8]|A,,6 ^D,,2-|^D,,2 z6|
+z2 [e-c-][e2-c2-E2][ecE-] [c-A-E][cAE-]|[A-E][A2-E2][AE-] [B-^G-E][B^GE-] [c-A-E][cAE-]|[=d-B-E][dBE-] [e-c-E][ecE-] [A-E][A2-E2][AE-]|[B-^G-E][B^GE-] [c-A-E][cAE-] [d-B-E][dBE-] [e-c-E][e-c-E-]|
+[e-c-E][ecE-] [d-B-E][d2B2E2][cA] [c2A2]|[B3^G3]A A4-|A2 [B2^G2] [^c2A2] [d2B2]|[e2^c2] a2 [e3/2^c3/2][e/2^c/2] [d2B2]|
+[^c2A2] [B2^G2] [e4^c4]|[^c2A2] [B2^G2] [^c2A2] [d2B2]|[e2^c2] a2 [e3/2^c3/2][e/2^c/2] [d2B2]|[^c2A2] [B2^G2] [e4-^c4-]|
+[e3^c3]E AB AB|^ce ^ce ^cd ea|e^g e^g a^c' ab|ab ^c'e' a'^c'' e''^c''|
+a'e' ^c'a ea ^c'e'|^c'a e^c AE A^c|e^c AE ^CA, E,^C,|z6 [^c2E2^C2]|
+z4 [A2E2^C2] 
+V:2
+%Piano left
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|z2 E,2 [=C2A,2] A,,2|E,2 [C2A,2] A,,2 E,2|[C2A,2] A,,2 E,2 [C2A,2]|
+A,,2 E,2 [C2A,2] A,,2|E,2 C2 A,,2 E,2|[C2A,2] A,,2 E,2 [C2A,2]|E,,2 E,2 [C2A,2] A,,,2|
+E,2 [C2A,2] A,,2 E,2|[=D2A,2] A,,2 =F,2 [D2A,2]|A,,2 =F,2 [C2A,2] A,,2|E,2 [C2A,2] A,,2 E,2|
+[B,2^G,2] E,,2 E,2 [D2B,2]|E,,2 E,2 [C2A,2] A,,2|E,2 [C2A,2] A,,2 E,2|[D2B,2] B,,2 =G,2 [E2C2]|
+=C,2 G,2 [=F2D2] D,2|A,2 E2 E,2 D2|[C2A,2] A,,2 E,2 C2|A,,2 E,2 [C2A,2] A,,2|
+E,2 [C2A,2] E,,2 E,2|[C2A,2] A,,,2 E,2 [C2A,2]|A,,2 E,2 [D2A,2] A,,2|=F,2 [D2A,2] A,,2 =F,2|
+[C2A,2] A,,2 E,2 [C2A,2]|A,,2 E,2 [B,2^G,2] E,,2|E,2 [D2B,2] E,,2 E,2|[C2A,2] A,,2 E,2 [C2A,2]|
+A,,2 E,2 [D2B,2] B,,2|=G,2 [E2C2] C,2 G,2|[=F2D2] D,2 A,2 E2|E,2 D2 [C2A,2] A,,2|
+E,2 [C2A,2] A,,2 E,2|[B,2^G,2] E,,2 E,2 [C2A,2]|E,,2 E,2 [B,2^G,2] E,,2|E,2 [C2A,2] A,,2 E,2|
+[B,2^G,2] E,,2 E,2 [C2A,2]|E,,2 E,2 [B,2^G,2] E,,2|E,2 [B,2^G,2] E,,2 E,2|[^C2A,2] A,,2 E,2 [D2A,2]|
+D,2 ^F,2 [^D2B,2] B,,2|F,2 [E2=C2] C,2 A,2|[E2^C2] ^C,2 ^A,2 [=F2=D2]|D,2 ^A,2 [^F2^D2] ^D,2|
+=C2 [F2^D2] ^D,2 C2|[F2^D2] ^D,2 C2 [F2^D2]|^D,2 C2 [F2^D2] ^D,2|C2 E,2 E,,2 E,2|
+[C2=A,2] E,,2 E,2 [E2C2A,2]|E,,2 E,2 [C2A,2] E,,2|E,2 [E2C2A,2] E,,2 E,2|=F2- [=F2-E,2] [=F2A,2] E2-|
+[E2E,2] =D2 [C2A,2] A,,2|E,2 [C2A,2] A,,2 E,2|[B,2^G,2] E,,2 E,2 [C2A,2]|E,,2 E,2 [B,2^G,2] E,,2|
+E,2 [C2A,2] A,,2 E,2|[B,2^G,2] E,,2 E,2 [C2A,2]|E,,2 E,2 [B,2^G,2] E,,2|E,2 [B,2^G,2] E,,2 E,2|
+[^C2A,2] A,,2 E,2 [D2A,2]|=D,2 F,2 [^D2B,2] B,,2|F,2 [E2=C2] =C,2 A,2|[E2^C2] ^C,2 ^A,2 [=F2=D2]|
+D,2 ^A,2 [^F2^D2] ^D,2|=C2 [F2^D2] ^D,2 C2|[F2^D2] ^D,2 C2 [F2^D2]|^D,2 C2 [F2^D2] ^D,2|
+C2 E,2 E,,2 E,2|[C2=A,2] E,,2 E,2 [C2A,2]|E,,2 E,2 [C2A,2] E,,2|E,2 [C2A,2] E,,2 E,2|
+=F2- [=F2-E,2] [=F2A,2] E2-|[E2E,2] =D2 [^C2A,2] A,,2|E,2 [=F2D2] A,,2 A,2|[E2^C2] A,,2 A,2 [=F2D2]|
+=D,,2 A,2 [E2^C2] A,,2|A,2 [=F2D2] A,,2 A,2|[E2^C2] A,,2 A,2 [=F2D2]|D,,2 A,2 [E2^C2] A,,2|
+E,2 [^C2A,2] A,,2 E,2|[^C2A,2] A,,2 E,2 [^C2A,2]|A,,2 E,2 [^C2A,2] A,,2|E,2 [^C2A,2] z4|
+A2 E6-|E2 z2 A,2 E,2-|E,6 z2|[A,,2A,,,2] z4 [A,,2A,,,2]|
+z4 [A,,2A,,,2] 
+%Mendelssohn: Songs without Words, Op. 62 No. 5
+%Copyright \0xa9 2004 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2014-04-03
+%Spur 7

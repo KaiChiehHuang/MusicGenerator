@@ -1,0 +1,108 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/alb_esp6.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+K:E % 4 sharps
+%Espana Op. 165
+%Zortcico
+%Copyright \0xa9 2001 by Bernd Krueger
+%Isaac Albeniz
+%Allegretto
+%Fertiggestellt am 17.02.2001
+
+%Normierung: 23.12.2002
+
+%Update am 31.8.2010
+
+%Dauer: 2:35 Minuten
+
+% Time signature=5/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=4  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|z8|[G4=F4] [A2^F2] [A2-F2-]|[AF][cE] [B3D3][=GD] [^G2E2]|
+[B3G3][ge] [f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|[ec][cA] [B6G6]|z4 [=f2B2] [^f2-c2-]|
+[fc][g/2-=d/2-][b/2g/2=d/2] [a3=f3-][g=f] [c'2-g2c2-]|[c'3-^f3c3-][c'=fc] ^f3[=cA]|[B2A2-] [=f3A3-][^fA] a2-|ag [b2-f2B2-] [b3-e3B3-][b-^dB-]|
+[b2e2B2-] B[G=F] [A2^F2] [A2-F2-]|[AF][^cE] [B3D3][=GD] [^G2E2]|[B3G3][ge] [f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|
+[ec][cA] [B6G6]|z4 [a2e2-] [=g2-e2-]|[=ge-][ae] [=c'3=g3-][=g=f] [^g2d2-]|[^f3d3-][gd] [b3f3-][fe]|
+[=f2=d2] [^f3c3][g=d] [a2-c2-]|[a2c2] [f2^d2] [a3d3][gd]|[e4B4] [A2F2] [A2-F2-]|[AF][cE] [B3D3][=GD] [^G2E2]|
+[B3G3][ge] [f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|[ec][cA] [B6G6]|z4 [=f2B2] [^f2-c2-]|
+[fc][g/2-=d/2-][b/2g/2=d/2] [a3=f3-][g=f] [^c'2-g2c2-]|[c'3-^f3c3-][c'=fc] ^f3[=cA]|[B2A2-] [=f3A3-][^fA] [a2-^d2-]|[ad-][gd] [b2-f2B2-] [b3-e3B3-][b-dB-]|
+[b2e2B2-] B[GE] [A2F2] [A2-F2-]|[AF][^cE] [B3D3][=GD] [^G2E2]|[B3G3][ge] [f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|
+[ec][cA] [B6G6]|z4 [a2e2-] [=g2-e2-]|[=ge-][ae] [=c'3=g3-][=g=f] [^g2d2-]|[^f3d3-][gd] [b3f3-][fe]|
+[=f2=d2] [^f3c3][g=d] [a2-c2-]|[a2c2] [f2^d2] [a3d3][gd]|[e4B4] z2 [d2-B2-F2-D2-]|[d2B2F2D2] [d4B4F4D4] z2|
+[d4B4F4D4] [d4B4F4D4]|z2 [d4B4F4D4] [d2-B2-F2-D2-]|[d2B2F2D2] z2 =D3^D|F3B [f2A2-] [e2-A2-]|
+[eA-][d/2A/2-][d/2A/2-] [f/2e/2-A/2-][e2-A2-][e/2A/2-][dA] [=c2G2-]|[^c3G3-][eG] g3b|[d'2b2] [^c'3^a3][^af] [g2-e2-]|[ge][=f=d] [^f6-^d6-]|
+[f4d4] z2 [f2-=d2-B2-F2-]|[f2=d2B2F2] [f4=d4B4F4] z2|[f4=d4B4F4] [f4=d4B4F4]|z2 [f4=d4B4G4] [=a2-e2-c2-]|
+[ae-c-][=gec] [f6=d6]|z4 [a2f2=c2] [^g2-e2-B2-]|[geB][=ge^c] [f3=d3][bf] [b2=f2B2]|[b3e3B3][bcB] [b4=d4B4]|
+[c2B2=G2] [c3B3=G3][=dB=G] [e2-B2-=G2-]|[eB-=G-][=gB=G] [=d2^A2] [c3^A3][=d^A]|[B4F4] z2 [^d2-B2-F2-D2-]|[d2B2F2D2] [d4B4F4D4] z2|
+[d4B4F4D4] [d4B4F4D4]|z2 [d4B4F4D4] [d2-B2-F2-D2-]|[d2B2F2D2] z2 =D3^D|F3B [^f2=A2-] [e2-A2-]|
+[eA-][d/2A/2-][d/2A/2-] [f/2e/2-A/2-][e2-A2-][e/2A/2-][dA] [=c2^G2-]|[^c3G3-][eG] ^g3b|[d'2b2] [c'3^a3][^af] [g2-e2-]|[ge][=f=d] [^f6-^d6-]|
+[f4d4] z2 [f2-=d2-B2-F2-]|[f2=d2B2F2] [f4=d4B4F4] z2|[f4=d4B4F4] [f4=d4B4F4]|z2 [f4=d4B4G4] [=a2-e2-c2-]|
+[ae-c-][=gec] [f6=d6]|z4 [a2f2=c2] [^g2-e2-B2-]|[geB][=ge^c] [f3=d3][bf] [b2=f2B2]|[b3e3B3][bcB] [b4=d4B4]|
+[c2B2=G2] [c3B3=G3][=dB=G] [e2-B2-=G2-]|[eB-=G-][=gB=G] [=d2^A2] [c3^A3][=d^A]|[B4F4] [=A2F2] [A2-F2-]|[AF][cE] [B3D3][=GD] [^G2E2]|
+[B3G3][^ge] [^f3^d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|[ec][cA] [B6G6]|z4 [=f2B2] [^f2-c2-]|
+[fc][g/2-=d/2-][b/2g/2=d/2] [a3=f3-][g=f] [c'2-g2c2-]|[c'3-^f3c3-][c'=fc] ^f3[=cA]|[B2A2-] [=f3A3-][^fA] a2-|ag [b2-f2B2-] [b3-e3B3-][b-^dB-]|
+[b2e2B2-] B[G=F] [A2^F2] [A2-F2-]|[AF][^cE] [B3D3][=GD] [^G2E2]|[B3G3][ge] [f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|
+[ec][cA] [B6G6]|z4 [a2e2-] [=g2-e2-]|[=ge-][ae] [=c'3=g3-][=g=f] [^g2d2-]|[^f3d3-][gd] [b3f3-][fe]|
+[=f2=d2] [^f3c3][g=d] [a2-c2-]|[a2c2] [f2^d2] [a3d3][gd]|[e4B4] [=G2E2] [=G2-=D2-]|[=G=D][=GE] [=G3=D3][=d=cF] [=d2B2=G2]|
+[^d3B3A3][eB^G] [g3=f3B3]b|[a2e2] =c'3e' [d'2-a2-]|[d'a]b' [g'6g6]|z4 [B2A2-] [^c2-A2-]|
+[cA-][dA] [B3A3-][gA] [e2-B2-]|[e4B4] z4|[B,2A,2-] [C3A,3-][^DA,] [B,2A,2-]|[G2A,2] [E2B,2] [e'4g4e4]|
+z4 [A2F2] [A2-F2-]|[AF][cE] [B3D3][=GD] [^G2E2]|[B3G3][ge] [^f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|
+[ec][cA] [B6G6]|z4 [=f2B2] [^f2-c2-]|[fc][g/2-=d/2-][b/2g/2=d/2] [a3=f3-][g=f] [^c'2-g2c2-]|[c'3-^f3c3-][c'=fc] ^f3[=cA]|
+[B2A2-] [=f3A3-][^fA] a2-|ag [b2-f2B2-] [b3-e3B3-][b-^dB-]|[b2e2B2-] B[G=F] [A2^F2] [A2-F2-]|[AF][^cE] [B3D3][=GD] [^G2E2]|
+[B3G3][ge] [f3d3][ec]|[d/2B/2][e/2c/2]z/2[d/2B/2] [c3A3][dB] [e2-c2-]|[ec][cA] [B6G6]|z4 [a2e2-] [=g2-e2-]|
+[=ge-][ae] [=c'3=g3-][=g=f] [^g2d2-]|[^f3d3-][gd] [b3f3-][fe]|[=f2=d2] [^f3c3][g=d] [a2-c2-]|[a2c2] [f2^d2] [a3d3][gd]|
+[e4B4] [=G2E2] [=G2-=D2-]|[=G=D][=GE] [=G3=D3][=d=cF] [=d2B2=G2]|[^d3B3A3][eB^G] [g3=f3B3]b|[a2e2] =c'3e' [d'2-a2-]|
+[d'a]b' [g'6g6]|z4 [B2A2-] [^c2-A2-]|[cA-][dA] [B3A3-][gA] [e2-B2-]|[e4B4] z4|
+[B,2A,2-] [C3A,3-][^DA,] [B,2A,2-]|[G2A,2] [E2B,2] [e'4g4e4]|
+V:2
+%Piano left
+%%MIDI program 0
+B,2 B,3B, B,2-|B,B, B,2 B,3B,|B,3B, B,2 B,2-|B,B,2<B,2B, B,2|
+B,3B,2<B,2B,|B,2 B,3B, B,2-|B,B, [B,2E,2-] [B,3E,3-][EE,]|D3=D [G2C2-] [A2-C2-]|
+[AC-][BC-] [c3C3-][BC] [B2F2-]|[A3F3-][GF] A3E|[^D2B,2-] [=D3B,3-][^DB,] [c2-B,2-]|[cB,-][BB,] [A2E2-] [G3E3-][=GE-]|
+[^G2E2-] Ez B,2 B,2-|B,B,2<B,2B, B,2|B,3B,2<B,2B,|B,2 B,3B, B,2-|
+B,B, E,2 B,3E|G3B [=c4-^A4-]|[=c2-^A2] [=c4=A4] [B2-A2-]|[B4-A4] [B4G4]|
+B2 A3=F ^F2-|F2 [A2B,2-] [^c3B,3-][BB,]|[G4E4] B,2 B,2-|B,B,2<B,2B, B,2|
+B,3B,2<B,2B,|B,2 B,3B, B,2-|B,B, [B,2E,2-] [B,3E,3-][EE,]|D3=D [G2C2-] [A2-C2-]|
+[AC-][BC-] [c3C3-][BC] [B2F2-]|[A3F3-][GF] A3E|[^D2B,2-] [=D3B,3-][^DB,] [c2-B,2-]|[cB,-][BB,] [A2E2-] [G3E3-][=GE-]|
+[^G2E2-] Ez B,2 B,2-|B,B,2<B,2B, B,2|B,3B,2<B,2B,|B,2 B,3B, B,2-|
+B,B, E,2 B,3E|G3B [=c4-^A4-]|[=c2-^A2] [=c4=A4] [B2-A2-]|[B4-A4] [B4G4]|
+B2 A3=F ^F2-|F2 [A2B,2-] [^c3B,3-][BB,]|[G4E4] (3B,CB, ^A,2-|^A,G,2<^A,2F, (3G,^A,G,|
+F,3G,2<^A,2B,|(3^A,B,^A, G,3F, G,2-|G,^A, F,6|z4 D,2- [F2-=C2-D,2-]|
+[F2=C2-D,2-] [=C4D,4] E2|^C3G,2<E,2C,|F,,2 =F,3^F, ^A,2-|^A,F B,,2 =F,3^F,/2^A,/2|
+=G,3F, =D2 C2-|CB,2<C2=D (3C=DC|B,3C2<=D2E|(3=DE=D C3B,- [^A2-B,2-]|
+[^A2B,2] B2 =F3^F/2=A/2|=G3F ^D2 E2-|E^A,2<B,2=A, ^G,2|=G,3=F, ^F,4|
+E2 E3=D C2-|C2 [E2F,2] [E3F,3][EF,]|[=D4B,4] (3B,CB, ^A,2-|^A,^G,2<^A,2F, (3G,^A,G,|
+F,3G,2<^A,2B,|(3^A,B,^A, G,3F, G,2-|G,^A, F,6|z4 D,2- [F2-=C2-D,2-]|
+[F2=C2-D,2-] [=C4D,4] E2|^C3G,2<E,2C,|F,,2 =F,3^F, ^A,2-|^A,F B,,2 =F,3^F,/2^A,/2|
+=G,3F, =D2 C2-|CB,2<C2=D (3C=DC|B,3C2<=D2E|(3=DE=D C3B,- [^A2-B,2-]|
+[^A2B,2] B2 =F3^F/2=A/2|=G3F ^D2 E2-|E^A,2<B,2=A, ^G,2|=G,3=F, ^F,4|
+E2 E3=D C2-|C2 [E2F,2] [E3F,3][EF,]|[=D4B,4] B,2 B,2-|B,B,2<B,2B, B,2|
+B,3B,2<B,2B,|B,2 B,3B, B,2-|B,B, [B,2E,2-] [B,3E,3-][EE,]|^D3=D [^G2C2-] [A2-C2-]|
+[AC-][BC-] [c3C3-][BC] [B2F2-]|[A3F3-][GF] A3E|[^D2B,2-] [=D3B,3-][^DB,] [c2-B,2-]|[cB,-][BB,] [A2E2-] [G3E3-][=GE-]|
+[^G2E2-] Ez B,2 B,2-|B,B,2<B,2B, B,2|B,3B,2<B,2B,|B,2 B,3B, B,2-|
+B,B, E,2 B,3E|G3B [=c4-^A4-]|[=c2-^A2] [=c4=A4] [B2-A2-]|[B4-A4] [B4G4]|
+B2 A3=F ^F2-|F2 [A2B,2-] [^c3B,3-][BB,]|[G4E4] =C2 B,2-|B,=C2<B,2A, =G,2|
+F,3E,2<=D,2B,,|=C,2 A,,3F,, B,,2-|B,,B,,, E,,2 B,,3E,|^G,3B, [D2B,2-] [E2-B,2-]|
+[EB,-][FB,-] [D3B,3-][FB,] [G2-E2]|[G3-D3][G=D] ^C3=C|[^D,2B,,2-] [E,3B,,3-][F,B,,-] [D,2-B,,2-]|[D,B,,-][F,B,,] [G,2E,2] [E,4E,,4]|
+z4 B,2 B,2-|B,B,2<B,2B, B,2|B,3B,2<B,2B,|B,2 B,3B, B,2-|
+B,B, [B,2E,2-] [B,3E,3-][EE,]|^D3=D [G2^C2-] [A2-C2-]|[AC-][BC-] [c3C3-][BC] [B2F2-]|[A3F3-][GF] A3E|
+[^D2B,2-] [=D3B,3-][^DB,] [c2-B,2-]|[cB,-][BB,] [A2E2-] [G3E3-][=GE-]|[^G2E2-] Ez B,2 B,2-|B,B,2<B,2B, B,2|
+B,3B,2<B,2B,|B,2 B,3B, B,2-|B,B, E,2 B,3E|G3B [=c4-^A4-]|
+[=c2-^A2] [=c4=A4] [B2-A2-]|[B4-A4] [B4G4]|B2 A3=F ^F2-|F2 [A2B,2-] [^c3B,3-][BB,]|
+[G4E4] =C2 B,2-|B,=C2<B,2A, =G,2|F,3E,2<=D,2B,,|=C,2 A,,3F,, B,,2-|
+B,,B,,, E,,2 B,,3E,|^G,3B, [D2B,2-] [E2-B,2-]|[EB,-][FB,-] [D3B,3-][FB,] [G2-E2]|[G3-D3][G=D] ^C3=C|
+[^D,2B,,2-] [E,3B,,3-][F,B,,-] [D,2-B,,2-]|[D,B,,-][F,B,,] [G,2E,2] [E,4E,,4]|
+%Albeniz :Espana Op. 165 Zortcico
+%Copyright \0xa9 2001 by Bernd Kr\0xfcger
+%email: bernd.krueger@piano-midi.de
+%http://www.piano-midi.de
+%Edition:2010-08-31
+%Spur 8

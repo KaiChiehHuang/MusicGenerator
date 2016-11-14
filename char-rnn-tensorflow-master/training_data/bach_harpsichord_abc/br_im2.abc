@@ -1,0 +1,76 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/br_im2.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=56
+% Last note suggests minor mode tune
+K:C % 0 sharps
+%Pan's auf Standard am 18.1.98
+%Intermezzo
+%Copyright \0xa9 1997 by Kr\0xfcger http://www.piano-midi.de
+%Johannes Brahms
+%Andante
+%Pan's auf Normal am 18.1.98
+
+%Korrekturen am 22.8.98
+
+%Anpassungen an Digitalpiano am 31.12.98
+
+%Update am 5.9.99
+
+%Update am 18.5.2002
+
+%Normierung: 23.12.2002
+
+%Update am 28.10.2010
+
+%Dauer: 2:43 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+%Andante
+% Time signature=3/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+%Non troppo presto
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+%Andante
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+[cA][cA] [d4A4F4] [cA][cA]|[B4^G4D4] [A^F][A^F] [c2C2]|[A2^F2] [^G2E2] [B4^G4B,4]|[cA][cA] [e4^c4E4] [fd][fd]|
+[a4^f4A4] [g=c-=G][gc-G] [e2c2^G2]|[c2A2] [e2-B2^G2E2-] [e4A4E4]|[E2-B,2^G,2E,2-] [E4A,4E,4] [cA][cA]|[dB=F][cA] [d2B2F2] [cA][cA] [B^GD][AF]|
+[B2^G2D2] [A^F][A-^F] [cAC][B^G] [cAC][A^F]|[^G2E2] [B4^G4B,4] [cA][cA]|[e^cE][dB=F] [e-^c-E][ge^cA] [=fdA][fdA] [a^f=c][^g=fB]|[a-^f-c][c'a^f] [=gc=G][gc-G] [=fc-^G-][ec^G] [dA-][cA]|
+[e2-B2^G2E2-] [e4A4E4] [E2-B,2^G,2E,2-]|[E4A,4E,4] e/2e'/2d'/2d/2 f/2f'/2e'/2e/2|d/2d'/2c'/2c/2 B/2b/2d'/2d/2 c/2c'/2b/2d/2 A/2a3/2-|aA/2-[a2-A2-][a/2A/2] =G/2g/2^f/2^F/2 B/2b/2a/2A/2|
+G/2g/2^f/2^F/2 A/2a/2c'/2c/2 B/2b/2d'/2d/2 =f/2f'/2e'/2e/2|d/2d'/2f'/2f/2 e/2e'/2d'/2d/2 f/2f'/2e'/2e/2 d/2d'/2c'/2c/2|B/2b/2d'/2d/2 c/2c'/2b/2d/2 A/2a2-a/2A/2-[a/2-A/2-]|[a2A2] G/2g/2^f/2^F/2 B/2b/2a/2A/2 G/2g/2^f/2^F/2|
+A/2a/2c'/2c/2 B/2b/2d'/2d/2 =f/2f'/2e'/2e/2 g/2g'/2f'/2f/2|e/2e'/2g'/2g/2 f/2f'/2e'/2e/2 a/2a'/2f'/2f/2 g/2g'/2e'/2e/2|f/2f'/2d'/2d/2 e/2e'/2^c'/2^c/2 e/2e'/2d'/2d/2 =c/2=c'/2b/2B/2|d/2d'/2c'/2c/2 B/2b/2d'/2-[d'3/2d3/2]c<c'b/2-[b/2-B/2-]|
+[bB]A/2-[a4-A4-][a/2A/2] A/2-[a3/2-A3/2-]|[a4A4] [A3/2-^C3/2-A,3/2-][A/2D/2-^C/2A,/2-] [^G/2D/2-A,/2-][^F3/2-D3/2-A,3/2-]|[^F2D2A,2] [A3/2-^C3/2-A,3/2-][A/2^C/2B,/2-A,/2] [E/2B,/2-][D3-B,3-][D/2B,/2]|[^F2A,2-] [^C2A,2-] [^F2A,2] [E2^G,2-]|
+[B,4^G,4] [a^c-A-][a/2-^c/2-A/2-][a/2^g/2^c/2A/2] [^f2-d2-A2-]|[^f2d2A2] [a^c-A-][a/2-^c/2-A/2-][a/2e/2^c/2A/2] [d4B4]|[^fA-][^fA-] [^c2A2-] [^f2A2] [e2^G2-]|[B4^G4] z[^FA,-] [^CA,-][^GA,-]|
+[^CA,-][^FA,] z[E^G,] z[e^G] z[e'^ge]|[b=f][d'd] [af][c'=c] [=gd][bB] [fc-][ac]|[gd][fc] [eB][^dA] [e^G][g^c] [^f=c][=fB]|[e^A][^d=A] [=d^G][^c=G] [d^F][B=F] [=cE][^cG]|
+[d^F][B=F] [=cE][^cG] [d^F][B=F] [=cAE][cA]|[d4A4F4] [cA][cA] [B2-^G2-D2-]|[B2^G2D2] [A^F][A^F] [c2=C2] [A2^F2]|[^G2E2] [B4^G4B,4] [cA][cA]|
+[e4^c4E4] [fd][fd] [a2-^f2-A2-]|[a2^f2A2] [g=c-=G][gc-G] [e2c2^G2] [c2A2]|[e2-B2^G2E2-] [e4A4E4] [E2-B,2^G,2E,2-]|[E4A,4E,4] [cA][cA] [dB=F][cA]|
+[d2B2F2] [cA][cA] [B^GD][AF] [B2^G2D2]|[A^F][A-^F] [cAC][B^G] [cAC][A^F] [^G2E2]|[B4^G4B,4] [cA][cA] [e2^c2=G2]|[=f2B2=F2] [g6^c6]|
+[fd][fd] [a^f=c][g^A] [^ae^c][=a^f=A] [c'2-^f2-=c2-]|[c'4^f4c4] [gc-G-][gc-G] [=fc-^G-][ec^G]|[dA-][cA] [e2-B2^G2E2-] [e4A4E4]|[E4B,4^G,4E,4-] [A,4E,4]|
+V:2
+%Piano left
+%%MIDI program 0
+(3A,,,A,,E, [D,4A,,4] (3A,,,A,,E,|[F,4A,,4] (3A,,,A,,C, [^D,2-A,,2-]|[^D,2A,,2] E,,/2B,,/2z/2E,/2- [E,4E,,4]|(3A,,,A,,E, [A,4A,,4] (3D,,=D,A,|
+[C4^D,4] (3E,,E,=G, [C2-E,2]|[CF,-][A,F,] E,E,- [E,2-C,2] [E,2A,,2]|E,,E,, C,,2 A,,,2- A,,,/2A,,/2z/2E,/2|(3A,,=D,F, A,,2 (3A,,,A,,E, (3A,,F,D,|
+A,,2 (3A,,,A,,C, (3A,,^F,^D, (3A,,^F,^D,|E,,/2-[B,,/2E,,/2-]E,,/2-[E,4-E,,4-][E,/2E,,/2] (3A,,,A,,E,|(3A,,A,=D, (3A,,A,E, (3D,,D,A, (3^D,CA,|(3^D,CA, (3E,,E,G, E,/2-[C3/2E,3/2] =F,/2-[A,3/2F,3/2]|
+E,E,- [E,-=D,][E,-C,] [E,-B,,][E,A,,] zE,,|D,,C,, B,,,A,,, [^GE][A-F] [AD][^GE]|[A-F][AD] [^GE][A-F] [AD][^GE] [A-F][AD]|[^DB,][E-C] [EA,][^DB,] [E-C][EA,] [^DB,][E-C]|
+[EA,][^DB,] [EC][^FA,] [^GE][A-=F] [A=D][^GE]|[A-F][AD] [^GE][A-F] [AD][^GE] [A-F][AD]|[^GE][A-F] [AD][^GE] [A-F][AD] [^DB,][E-C]|[EA,][^DB,] [E-C][EA,] [^DB,][E-C] [EA,][^DB,]|
+[EC][^FA,] [^GE][A=F] [B=D][^cA] [d-^A][d=G]|[^c=A][d-^A] [dG][^c=A] [d-F][d-^A] [dE][=c-=A]|[cD][^A-G] [^A^C][=A-F] [A2-B,2] [AD][^GE]|[A-F][AD] [^GE][A-F] [AD][^GE] [A-F][AD]|
+[^GE][A^C] [FD][=GB,] [E^C][FA,] [DB,][EG,]|[^CA,][E^F,] [A,=F,][DD,] A,,,/2A,,-[E,/2A,,/2-] [D,2-A,,2-]|[D,2A,,2] A,,,/2A,,-[E,/2A,,/2-] [^F,4A,,4]|A,,,/2A,,-[^C,/2A,,/2-] [^D,4A,,4] E,,-[B,,E,,-]|
+[E,2-E,,2] E,2 (3A,,A,E [D2-A,2-]|[D2A,2] (3A,,A,E [^F4A,4]|(3A,,A,^C [^D4A,4] E,-[B,E,-]|[E4E,4] A,,,/2A,,-[^C,/2A,,/2-] [^D,2-A,,2]|
+[^D,2A,,2] [B,,E,,]z [B,E,]z [BE]z|[dE-][BE-] [cE-][AE-] [BE-][GE] [A2E2-]|[BE-][AE-] [GE-][=FE] EA, =D,G,,|C,,F,, E,,A,, D,,G,,, C,,A,,|
+D,,G,,, C,,A,, D,,D,,, (3A,,,A,,E,|[D,4A,,4] (3A,,,A,,E, [=F,2-A,,2-]|[F,2A,,2] (3A,,,A,,=C, [^D,4A,,4]|E,,/2-[B,,/2E,,/2-]E,,/2-[E,4-E,,4-][E,/2E,,/2] (3A,,,A,,E,|
+[A,4A,,4] (3D,,=D,A, [=C2-^D,2-]|[C2^D,2] (3E,,E,G, [C2-E,2] [CF,-][A,F,]|E,E,- [E,2-C,2] [E,2A,,2] zE,,|C,,2 A,,,2- A,,,/2(3A,,E,A,,=D,/2z/2F,/2|
+A,,2 (3A,,,A,,E, (3A,,F,D, A,,2|(3A,,,A,,C, (3A,,^F,^D, (3A,,^F,^D, E,,/2-[B,,/2E,,/2-]E,,/2-[E,/2-E,,/2-]|[E,4E,,4] (3A,,,A,,E, (3A,,A,=D,|=D/2A,-[A/2-A,/2-] [A6E6A,6]|
+(3D,,D,A, (3D,DG, G/2D-[d/2D/2-] [A2-D2]|[A4^D4] (3E,,E,G, E,/2-[C3/2E,3/2]|=F,/2-[A,3/2F,3/2] E,E,- [E,-D,][E,-C,] [E,-B,,][E,A,,]|zE,, D,,2 C,,2 B,,,2|
+A,,,2 
+%Fantasie No. 2 in a-moll, Op. 116
+%Copyright \0xa9 1997 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2010-10-28
+%Spur 7

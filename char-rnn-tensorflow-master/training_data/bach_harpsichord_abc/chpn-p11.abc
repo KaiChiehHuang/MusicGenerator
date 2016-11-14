@@ -1,0 +1,54 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p11.mid
+% format 1 file 7 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=110
+% Last note suggests Phrygian mode tune
+K:B % 5 sharps
+%Prelude No. 11
+%Copyright \0xa9 1997 by Bernd Krueger http://www.piano-midi.de
+%Frederic Chopin
+%Vivace
+%Fertiggestellt am 6.5.97
+
+%Korrekturen am 27.8.98
+
+%Anpassungen an Digitalpiano am 26.12.98
+
+%Update am 14.4.99
+
+%Normierung: 23.12.2002
+
+%Update am 14.6.2010
+
+%Update am 20.2.2014
+
+%Dauer: 0:33 Minuten
+
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=5  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+f6 =f^f|gf ed [cE]F/2A/2 GF|Fd [cE]F/2A/2 GF Fd|[cE]F [BD]F [dB]F [=fB][^fF]|
+[gB][fF] [eB][dF] [cE]F/2A/2 GF|Fd [cE]F/2A/2 GF Fd|[cE]F [BD]F [dB]F [fB]F|[=gB]=G [^gB]^G [bd]d/2f/2 ed|
+B[bg] [af]d A/2c/2B A[fd]|[B-G][B/2-E/2][B/2-G/2] [B-F][B-E] [BG-][cG] [d-B][d-D]|[d-F][d-D] [d-F][dG] [cE]F/2>G/2 [A/2G/2-]G/2F|Fd [cE]F/2>G/2 [A/2G/2-]G/2F Fd|
+[cE]F [BD]F [dB]F [=fB][^fF]|[gB][fF] [eB][dF] [cE]F/2>G/2 [A/2G/2-]G/2F|Fd [cE]F/2>G/2 [A/2G/2-]G/2F Ff|[f6D6-] [=f/2-D/2]=f/2^f|
+gf ed2<d2[=d=G]|^de [d^G-][cG-] [BG][dE-] [cE-][BE]|[B6D6] [F2-D2-]|[F4D4] D4-|
+D2 
+V:2
+%Piano left
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|z4 A,F, C,F,,|C,F, A,F, C,F,, C,F,|B,,F, B,,F, D,B, DF,|
+B,D, F,B,, A,F, C,F,,|C,F, A,F, C,F,, C,F,|B,,F, B,,F, D,B, DF,|CE, B,D, G,,D, DG,|
+DB, D,F A,F, DA,|E,,B, B,,G, B,E, B,,=F,|^F,C B,G, A,F, C,F,,|C,F, A,F, C,F,, C,F,|
+B,,,F,, B,,F, D,B, =D^D|ED CB, A,z C,F,,|C,F, A,F, C,F,, C,A,|[F,6B,,6] z2|
+z6 z[A,-D,-]|[A,2D,2] [B,3G,3][A,3F,3]|[F,6B,,6] [F,2-B,,2-B,,,2-]|[F,-B,,B,,,][F,3F,,3F,,,3] [B,4-F,4-B,,4-B,,,4-]|
+[B,2F,2B,,2B,,,2] 
+%Chopin: Prelude No.11 in B, Op. 28
+%Copyright \0xa9 1997 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-20

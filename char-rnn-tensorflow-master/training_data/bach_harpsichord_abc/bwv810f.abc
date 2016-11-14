@@ -1,0 +1,45 @@
+% input file /afs/.ir/users/q/u/quinlanj/cs221/project/training_data/bwv810f.mid
+% format 1 file 4 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=228
+K:E % 4 sharps
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=2/8  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=2/8  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=2/8  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=2/8  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%English Suite 1, 6. Passepeid 2
+%%MIDI program 0
+[b-G][b/2A/2-]A/2 [g3/2B3/2]z/2 [aA-][g/2-A/2]g/2 [fG-][e/2-G/2]e/2|[fA-][d/2-A/2]d/2 [e-G][e/2F/2-]F/2 [B-A][B/2G/2-]G/2 [c3/2A3/2]z/2|[B3/2G3/2]z/2 [A3/2F3/2]z/2 [GE-][FE-] [E/2-E/2]E/2-[F/2-E/2]F/2|[b-G][b/2A/2-]A/2 [g3/2B3/2]z/2 [aA-][g/2-A/2]g/2 [fG-][e/2-G/2]e/2|
+[fA-][d/2-A/2]d/2 [e-G][e/2F/2-]F/2 [B-A][B/2G/2-]G/2 [c3/2A3/2]z/2|[B3/2G3/2]z/2 [A3/2F3/2]z/2 [G3E3]z|[b-G][b/2A/2-]A/2 [g3/2B3/2]z/2 [aA-][g/2-A/2]g/2 [fG-][e/2-G/2]e/2|[fA-][d/2-A/2]d/2 [e-G][e/2F/2-]F/2 [B-A][B/2G/2-]G/2 [c3/2A3/2]z/2|
+[B3/2G3/2]z/2 [A3/2F3/2]z/2 [GE-][FE-] [E/2-E/2]E/2-[F/2-E/2]F/2|[b-G][b/2A/2-]A/2 [g3/2B3/2]z/2 [aA-][g/2-A/2]g/2 [fG-][e/2-G/2]e/2|[fA-][d/2-A/2]d/2 [e-G][e/2F/2-]F/2 [B-A][B/2G/2-]G/2 [c3/2A3/2]z/2|[B3/2G3/2]z/2 [A3/2F3/2]z/2 [G3E3]z|
+[g3/2B3/2]z/2 [f3/2B3/2-]B/2- [eB-][dB-] [cB-][B-B]|[eB-][c/2-B/2]c/2 [f3/2c3/2-]c/2- [e-c]e/2z/2 [d3/2B3/2-]B/2-|[eB-][dB-] [cB]B [c3/2^A3/2]z/2 FG|^AB [c^A-][d/2-^A/2]d/2 [eG-][c/2-G/2]c/2 [g3/2^A3/2]z/2|
+[f3/2B3/2-]B/2- [eB-][dB-] [cB-][B-B] [eB-][f/2-B/2]f/2|[d/2^A/2-][c/2^A/2-][d/2^A/2-][c/2^A/2-] [d/2^A/2-][c/2^A/2]B [B3-B3]B|[B3/2F3/2-]F/2 [G3/2E3/2-]E/2- [=AE-][GE-] [FE-][E-E]|[=dE-][BE-] [c3/2E3/2-]E/2- [^d3/2E3/2-]E/2- [e-E][e/2F/2-]F/2|
+[fG-][e/2-G/2]e/2 [d^A-][c/2-^A/2]c/2 [aB-][fB-] [g-B]g/2z/2|[f3=A3][dF] [e-G][e/2E/2-]E/2 [c-A][c-C]|[cD-][a/2-D/2]a/2 [BE-][g/2-E/2]g/2 [AF-][f/2-F/2]f/2 [G3/2E3/2]z/2|[A3/2F3/2]z/2 [F3/2D3/2]z/2 [E3E3]z|
+[g3/2B3/2]z/2 [f3/2B3/2-]B/2- [eB-][dB-] [cB-][B-B]|[eB-][c/2-B/2]c/2 [f3/2c3/2-]c/2- [e-c]e/2z/2 [d3/2B3/2-]B/2-|[eB-][dB-] [cB]B [c3/2^A3/2]z/2 FG|^AB [c^A-][d/2-^A/2]d/2 [eG-][c/2-G/2]c/2 [g3/2^A3/2]z/2|
+[f3/2B3/2-]B/2- [eB-][dB-] [cB-][B-B] [eB-][f/2-B/2]f/2|[d/2^A/2-][c/2^A/2-][d/2^A/2-][c/2^A/2-] [d/2^A/2-][c/2^A/2]B [B3-B3]B|[B3/2F3/2-]F/2 [G3/2E3/2-]E/2- [=AE-][GE-] [FE-][E-E]|[=dE-][BE-] [c3/2E3/2-]E/2- [^d3/2E3/2-]E/2- [e-E][e/2F/2-]F/2|
+[fG-][e/2-G/2]e/2 [d^A-][c/2-^A/2]c/2 [aB-][fB-] [g-B]g/2z/2|[f3=A3][dF] [e-G][e/2E/2-]E/2 [c-A][c-C]|[cD-][a/2-D/2]a/2 [BE-][g/2-E/2]g/2 [AF-][f/2-F/2]f/2 [G3/2E3/2]z/2|[A3/2F3/2]z/2 [F3/2D3/2]z/2 [E3E3]
+V:2
+%J.S. Bach, Edition Kalmus
+%%MIDI program 0
+E3/2z/2 E6-|E8-|Ez E/2D/2E/2D/2 E4-|E8-|
+E4- Ez A,3/2z/2|B,3/2z/2 B,,3/2z/2 E,3/2z/2 B,3/2z/2|E3/2z/2 E6-|E8-|
+Ez E/2D/2E/2D/2 E4-|E8-|E4- Ez A,3/2z/2|B,3/2z/2 B,,3/2z/2 E,3/2z/2 B,3/2z/2|
+E3/2z/2 D3/2z/2 E3/2z/2 F3/2z/2|G3/2z/2 ^A3/2z/2 F3/2z/2 B3/2z/2|^A3/2z/2 G3/2z/2 [F3-F3]F-|[FF]G F3z E3/2z/2|
+D3/2z/2 GF ED CB,|F3/2z/2 F,3/2z/2 B,3/2z/2 C3/2z/2|D3/2z/2 E3/2z/2 E,3/2z/2 F,3/2z/2|G,3/2z/2 A,3/2z/2 B,3/2z/2 C2-|
+C3z D3/2z/2 E3/2z/2|A,3/2z/2 B,6-|B,3/2z/2 C3/2z/2 D3/2z/2 E3/2z/2|A,3/2z/2 B,3/2z/2 E,3z|
+E3/2z/2 D3/2z/2 E3/2z/2 F3/2z/2|G3/2z/2 ^A3/2z/2 F3/2z/2 B3/2z/2|^A3/2z/2 G3/2z/2 [F3-F3]F-|[FF]G F3z E3/2z/2|
+D3/2z/2 GF ED CB,|F3/2z/2 F,3/2z/2 B,3/2z/2 C3/2z/2|D3/2z/2 E3/2z/2 E,3/2z/2 F,3/2z/2|G,3/2z/2 A,3/2z/2 B,3/2z/2 C2-|
+C3z D3/2z/2 E3/2z/2|A,3/2z/2 B,6-|B,3/2z/2 C3/2z/2 D3/2z/2 E3/2z/2|A,3/2z/2 B,3/2z/2 E,3
+%Arr. Gary Bricault, (c) 1997

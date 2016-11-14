@@ -1,0 +1,51 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/haydn_8_3.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=38
+K:G % 1 sharps
+%Sonate Hoboken XVI:8 3. Satz
+%Copyright \0xa9 2009 by Bernd Krueger
+%Joseph Haydn
+%Andante
+%Erstellt: 18.2.2009
+
+%Update: 15.11.2011
+
+%Dauer: 1:27 Muniten
+
+% Time signature=4/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+z3d d3/2e/2 [g/2-f/2]g/2g|g2 fe e/2d/2c/2B/2 d/2c/2B/2A/2|BG zd d3/2e/2 [g/2-f/2]g/2b/2z/2|b2 ag g/2f/2e/2d/2>e/2[f/2e/2]z/2z/2|
+d2 zd d3/2e/2 [g/2-f/2]g/2g|g2 fe e/2d/2c/2B/2 d/2c/2B/2A/2|BG zd d3/2e/2 [g/2-f/2]g/2b|b2 ag g/2f/2e/2d/2>e/2[f/2e/2]z/2z/2|
+d2 zd/2d'/2 d'2 c'/2b/2a/2^g/2|a2 zc/2c'/2 c'2 b/2a/2=g/2f/2|g2 zd/2g/2 z/2z/2d d/2[f/2e/2]g/2[g/2f/2]|z/2z/2d c2 c/2B/2A/2G/2 B/2A/2G/2F/2|
+G/2g/2g/2z/2 c2 c/2B/2A/2G/2 B/2A/2G/2F/2|Gz2d/2d'/2 d'2 c'/2b/2a/2^g/2|a2 zc/2c'/2 c'2 b/2a/2=g/2f/2|g2 zd/2g/2 z/2z/2d d/2[f/2e/2]g/2[g/2f/2]|
+z/2z/2d c2 c/2B/2A/2G/2 B/2A/2G/2F/2|G/2g/2g/2z/2 c2 c/2B/2A/2G/2 B/2A/2G/2F/2|G2 
+V:2
+%Piano left
+%%MIDI program 0
+z4 zG, B,C|DD, DC B,G, A,D,|G,D,/2B,,/2 G,,z2G, B,G,|zG ^CE DF, G,A,|
+D,A,,/2z/2 D,,/2z2z/2G, B,=C|DD, DC B,G, A,D,|G,D,/2B,,/2 G,,z2G, B,G,|zG ^CE DF, G,A,|
+D,A,,/2z/2 D,,/2z2z/2=F DE|A,E,/2z/2 A,,/2z2z/2E =CD|G,D,/2z/2 G,,/2z/2[B,G,] [CG,-][B,G,] z[B,G,]|[CG,-][B,G,] zF, G,B,, C,D,|
+E,2 F,2 G,B,, C,D,|G,/2z/2D,/2z/2 G,,/2z2z/2=F DE|A,E,/2z/2 A,,/2z2z/2E CD|G,D,/2z/2 G,,/2z/2[B,G,] [CG,-][B,G,] z[B,G,]|
+[CG,-][B,G,] zF, G,B,, C,D,|E,2 F,2 G,B,, C,D,|G,D,/2z/2 G,,
+%Pedale
+%%MIDI program 0
+%Haydn: Sonata Hoboken XVI:8 3. movement
+%Copyright \0xa9 2009 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2011-11-15
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

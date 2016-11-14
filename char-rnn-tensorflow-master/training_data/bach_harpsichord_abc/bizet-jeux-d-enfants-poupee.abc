@@ -1,0 +1,37 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/bizet-jeux-d-enfants-poupee.mid
+% format 1 file 3 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=62
+K:B % 5 sharps
+% Time signature=6/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=5  minor=0
+%La Poupee (The Doll) from Jeux D'enfants
+%Georges Bizet
+%Jim Paterson
+V:1
+%%MIDI program 0
+%Piano 1
+z8|BA2G F2 Bc-|c2 d2 fe2d|cd B2<c2 F3/2z/2|
+BA2G F2 Bc-|c2 d2 fe2d|cd B2<c2 F3/2z/2|[f=A][e2G2][dF] [c2E2] [BD][d-=A-F-]|
+[d=A-F][c=A=G] [B3/2^G3/2]z/2 [eG][d2F2][cE]|[=c2D2] [GB,][B2F2-=C2-][=AF=C] [G2E2^C2]|[=AF][G2E2][=AF] [GE][=AF] [GE][=AF]|[GE][=G-E] [=GE-][FE-] [dE-][^c3-E3]|
+[c3-F3E3][f'3e'3f3c3] [b'3/2d'3/2b3/2B3/2]z/2|[bB][a2^A2][g^G] [f2F2] [bB][c'-c-]|[c'2c2] [d'2d2] [f'f][e'2e2][d'd]|[c'c][d'd] [bB][c'3c3] [f3/2F3/2]z/2|
+[bB][a2A2][gG] [f2F2] [bB][c'-c-]|[c'2c2] [d'2d2] [f'f][e'2e2][d'd]|[c'c][d'd] [bB][c'3c3] [f3/2F3/2]z/2|[f'=af=A][e'2g2e2G2][d'fdF] [c'2e2c2E2] [bdBD][d'-=a-f-d-=A-F-]|
+[d'=afd=AF][c'=gc=G] [b3/2^g3/2B3/2^G3/2]z/2 [e'geG][d'2f2d2F2][c'ecE]|[=c'2d2=c2D2] [gBGB,][b2f2-=c2-B2F2-=C2-][=af=c=AF=C] [g3/2e3/2^c3/2G3/2E3/2^C3/2]z/2|[=af=AF][g2e2G2E2][=af=AF] [geGE][=af=AF] [geGE][=af=AF]|[geGE][=g-e=G-E] [=ge-=GE-][fe-FE-] [d'e-dE-][^c'3-e3c3-E3]|
+[c'3f3e3c3F3E3][f'3e'3f3e3] [b'3/2d'3/2b3/2d3/2]z/2|d^A2^G F2 [f-B][fc-]|[=fc-][ec] d2- [d/2B/2-]B/2A2G|F2 [^f-B][fc-] [=fc-][ec] d^g|
+^fB- [B-E][B-D] [BD]e dF-|[F-C][F-B,] [FB,]c BD AG|F8-|F3-F/2z/2 G3A-|
+A2 B2 b^a2g|f2 bc'2d' f'2-|f'e'3 [b'4-d'4-]|[b'4d'4] 
+V:2
+%%MIDI program 0
+%Piano 2
+DF, DD F,D DF,|DC F,E DF, G,A,|F,G FF, G,A, F,B,|CF, DE F,=F zF,|
+DC F,E DF, G,A,|F,G ^FF, G,A, F,B,|CF, DE F,=F zF,|B,-[B,B,,-] [=A,B,,-][B,2B,,2-][F,B,,] B,2|
+B,,B,2E, G,-[G,G,,-] [F,G,,-][G,-G,,-]|[G,G,,-][D,G,,] G,2 G,,G,2C,|=C,2 ^C,=C, ^C,=C, ^C,=C,|^C,B, ^A,4- A,3/2z/2|
+[A,3F,3][A,3F,3F,,3-] [B,B,,F,,-][F,/2-F,,/2]F,/2|DC F,E DF, G,A,|F,G ^FF, G,A, F,B,|CF, DE F,=F [F,,-F,,,-][F,F,,-F,,,-]|
+[DF,,-F,,,-][CF,,-F,,,-] [F,F,,-F,,,-][EF,,-F,,,-] [DF,,F,,,]F, G,A,|F,G ^FF, G,A, F,B,|CF, DE F,=F [F,,-F,,,-][F,F,,-F,,,-]|[B,-F,,F,,,][B,B,,-B,,,-] [=A,B,,-B,,,-][B,2B,,2-B,,,2-][F,/2-B,,/2B,,,/2]F,/2 B,2|
+B,,B,- [B,E,,-E,,,-][E,E,,-E,,,-] [G,-E,,E,,,][G,G,,-G,,,-] [F,G,,-G,,,-][G,-G,,-G,,,-]|[G,G,,-G,,,-][D,/2-G,,/2G,,,/2]D,/2 G,2 G,,G,2C,|=C,2 ^C,=C, ^C,=C, ^C,=C,|^C,B, ^A,4- A,3/2z/2|
+[A,3F,3][A,3F,3F,,3] [B,B,,B,,,-][F,/2-B,,,/2]F,/2|DC F,E DF, G,A,-|A,2 [B,F,,-B,,,-][F,/2-F,,/2B,,,/2]F,/2 DC F,E|DF, G,2<A,2 [B,3/2F,,3/2B,,,3/2]z/2|
+z2 G,F, F,z3|E,D, D,z4z|z4 z[B,D,] [A,2C,2]|[G,E,][F,2D,2][B,G,,] [D3B,,3F,,3-][C-E,-F,,-]|
+[C2E,2F,,2] [B,D,B,,,-][F,/2-B,,,/2]F,/2 DC F,E|DF, G,=A, F,B, =A,G,|E,B,, G,,E,, [^F4-D4-B,4-F,4-]|[F4D4B,4F,4] 

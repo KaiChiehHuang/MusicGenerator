@@ -1,0 +1,56 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p5.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+% Last note suggests Phrygian mode tune
+K:D % 2 sharps
+%Chopin Prelude  No. 5, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Molto allegro
+%Fertiggestellt am  27.8.2002
+
+%Normierung: 23.12.2002
+
+%Update am 24.12.2002
+
+%Update am 7.6.2010
+
+%Update am 20.2.2014
+
+%Dauer: 0:33 Minuten
+
+% Time signature=3/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=2  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+BA CB- [eB]A C^A-|[e^A]=A CB- [eB]A C^A-|[e^A]=A CB- [eB]A CF|DA, ^A,B, [FC]E Dd|
+FA [c^G]B EA =F^F|[c^G]B Ae EA [=c^D]B|B,E =CE [=G^D]F Ee|GB [d^A]^c BF GB|
+[d^A]c Bb ^gd cB|^Af/2z/2 B^g/2z/2 =F^a/2z/2 ^Af/2z/2|B^g/2z/2 =F^a/2z/2 ^Af/2z/2 B^g/2z/2|=F^a/2z/2 ^Af/2z/2 B^g/2z/2 =F=a/2z/2|
+f^F ^CB- [eB]=A C^A-|[e^A]=A CB- [eB]A C^A-|[e^A]=A CB- [eB]A CF|=D=A, ^A,B, [GC]F Dd|
+FA [=c^G]B EA =FA|[=c^G]B Ae EA [=c^D]B|B,E =CE [=G^D]^F Ee|GB [d^A]^c BF GB|
+[d^A]c Bb ^gd cB|=Ad/2z/2 Ge/2z/2 ^Cf/2z/2 Fd/2z/2|Ge/2z/2 Cf/2z/2 Fd/2z/2 Ge/2z/2|Cf/2z/2 Fd/2z/2 Ge/2z/2 Cf/2z/2|
+Fd =D^A- [e^A]=A DG-|[d/2G/2-]G/2F- [FD]^A- [d/2^A/2-]^A/2=A- [AD]G-|[d/2G/2-]G/2F D^A- [d/2^A/2-]^A/2=A- [AD]d|f'z4z/2G/2- [ae-G]e/2z/2|
+z4 [fdF]
+V:2
+%Piano left
+%%MIDI program 0
+z2 G,A,, G,E G,A,,|G,E/2z/2 G,A,, G,E/2z/2 G,A,,|G,E/2z/2 =A,A,, G,E/2z/2 G,A,|D,,F, G,G,, A,,G, F,B,,|
+DF, E,D CA, DD,|E,D C=C F,A,, B,,A,|G,E,, A,,A, B,,A, G,E,|EG, F,E DB,, E,E|
+F,E D=F, B,^G ^CD|C^F,/2z/2 DD,/2z/2 CC,/2z/2 F,,C/2z/2|DB,,/2z/2 CC,/2z/2 F,,C/2z/2 DB,,/2z/2|CC,/2z/2 F,,C/2z/2 DB,,/2z/2 CC,/2z/2|
+F,,A, G,A,, G,E G,A,,|G,E/2z/2 G,A,, G,E/2z/2 G,A,,|G,E/2z/2 [A,G,]A,, G,E/2z/2 G,A,|D,,F, G,G,, A,,A, F,B,,|
+D=F, E,D =CA, DD,|E,D ^C=C ^F,A,, B,,A,|G,E,, A,,A, B,,A, G,E,|EG, F,E DB,, E,E|
+F,E D=F, B,^G ^CD|^F,D/2z/2 ^A,G,,/2z/2 =A,A,,/2z/2 D,,A,/2z/2|^A,G,,/2z/2 =A,A,,/2z/2 D,,A,/2z/2 ^A,G,,/2z/2|=A,A,,/2z/2 D,,A,/2z/2 ^A,G,,/2z/2 =A,A,,/2z/2|
+D,,A,, A,A,, D,,A,, A,A,,|D,,/2z/2A,, A,A,, D,,A,,/2z/2 A,A,,|D,,/2z/2A,, A,A,, D,,/2z/2A,, A,A,,|D,,z4[E,/2-A,,/2-][C-E,A,,-][C/2A,,/2]z|
+z3z/2D,,/2 [D/2A,/2D,/2]
+%Chopin: Prelude No.5 in D Major, Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-20
+%Spur 7
+%Spur 8

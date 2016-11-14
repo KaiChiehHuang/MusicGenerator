@@ -1,0 +1,52 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p14.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=196
+% Last note suggests minor mode tune
+K:F# % 6 sharps
+%Chopin Prelude  No. 14, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Lento
+%Fertiggestellt am  25.09.2002
+
+%Normierung: 23.12.2002
+
+%Update am 18.6.2010
+
+%Update am 21.2.2014
+
+%Dauer: 0:30 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-6  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+D,A, E,B, D,B, =D,B,|F,A, =D,A, ^D,A, E,B,|D,B, =D,B, F,A, =D,A,|^D,A, E,B, D,=C F,=C|
+G,D =A,^C E,C ^A,D|E,=E =A,=E =C^E ^CF|^A,F CE A,E =A,E|=CF =A,F ^A,F ^CE|
+=A,E G,E =DF B,F|G,=E B,=D G,=D =G,=D|^A,F =G,^D F,C =G,B,|F,B, =E,B, =G,C =E,=C|
+^E,=D =A,=C E,=C F,=C|^G,^D F,^C D,B, F,=A,|D,=A, =D,=A, F,^A, E,A,|^D,A, E,B, E,B, =D,B,|
+F,A, =D,A, ^D,A, E,B,|=G,B, =D,B, E,A, F,A,|^D,A, E,B, D,B, F,C|=A,C F,C E,C =A,=D|
+E,=D ^A,^D E,=E =G,F|^G,B, E,B, F,B, D,G,|=D,E, ^D,E, G,,E, D,E,|G,,E, A,,E, D,E, A,,E,|
+D,A, D,B, D,C D,A,|D,B, D,C D,C D,B,|D,A, D,G, D,A, D,A,|D,3
+V:2
+%Piano left
+%%MIDI program 0
+D,,A,, E,,B,, D,,B,, =D,,B,,|F,,A,, =D,,A,, ^D,,A,, E,,B,,|D,,B,, =D,,B,, F,,A,, =D,,A,,|^D,,A,, E,,B,, D,,=C, F,,=C,|
+G,,D, =A,,^C, E,,C, ^A,,D,|E,,=E, =A,,=E, =C,^E, ^C,F,|^A,,F, C,E, A,,E, =A,,E,|=C,F, =A,,F, ^A,,F, ^C,E,|
+=A,,E, G,,E, =D,F, B,,F,|G,,=E, B,,=D, G,,=D, =G,,=D,|^A,,F, =G,,^D, F,,C, =G,,B,,|F,,B,, =E,,B,, =G,,C, =E,,=C,|
+^E,,=D, =A,,=C, E,,=C, F,,=C,|^G,,^D, F,,^C, D,,B,, F,,=A,,|D,,=A,, =D,,=A,, F,,^A,, E,,A,,|^D,,A,, E,,B,, E,,B,, =D,,B,,|
+F,,A,, =D,,A,, ^D,,A,, E,,B,,|=G,,B,, =D,,B,, E,,A,, F,,A,,|^D,,A,, E,,B,, D,,B,, F,,C,|=A,,C, F,,C, E,,C, =A,,=D,|
+E,,=D, ^A,,^D, E,,=E, =G,,F,|^G,,B,, E,,B,, F,,B,, D,,G,,|=D,,E,, ^D,,E,, G,,,E,, D,,E,,|G,,,E,, A,,,E,, D,,E,, A,,,E,,|
+D,,A,, D,,B,, D,,C, D,,A,,|D,,B,, D,,C, D,,C, D,,B,,|D,,A,, D,,G,, D,,A,, D,,A,,|D,,,3
+%Chopin: Prelude No.14 in Eb Minor, Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-21
+%Spur 7
+%Spur 8

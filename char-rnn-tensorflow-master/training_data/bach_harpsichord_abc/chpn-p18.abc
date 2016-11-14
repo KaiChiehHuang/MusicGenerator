@@ -1,0 +1,61 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p18.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=220
+% Last note suggests Phrygian mode tune
+K:Ab % 4 flats
+%Chopin Prelude  No. 18, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Molto Allegro
+%Fertiggestellt am 30.11.02
+
+%Normierung: 23.12.2002
+
+%Update am 23.6.2010
+
+%Update am 21.2.2014
+
+%Dauer: 0:48 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-4  minor=0
+% Time signature=5/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%Piano right
+%%MIDI program 0
+CD =A,B, G,B, GF|F2- [F2-B,2G,2] [F2B,2G,2] =E2|CD =A,B, G,B, GF|F2- [F2-B,2G,2] [F2B,2G,2] =E2|
+CD =A,B, G,B, GF|_E=E BA _G=G dc|=AB d'g c'b ag|f=e gB =Bc/2-[d/2-c/2] d/2G/2-[c/2-G/2]c/2|
+_B=A F_G =D_E cB|B2- [B2-E2C2] [B2E2C2] =A2|F_G =DE CE cB|B2- [B2-E2C2] [B2E2C2] =A2|
+F_G =DE CE cB|_A=A _gf =d_e d'c'|b=a e'=e f_g c_d|f_e dc B=A/2-[c/2-=A/2] c/2=E/2-[F/2-=E/2]F/2|
+_GC/2-[F/2-C/2] F/2_E/2-[E/2_D/2-]D/2 C2 B,2|[F2D2B,2G,2F,2] z2 d=G _A=A|cB _AG F=E z2|[=E2D2B,2G,2] z2 _aB a=g|
+=ed BG =EF z2|[F2C2F,2] z2 c'f _g=g|ba/2-[a/2f/2-] f/2d/2-[d/2c/2-]c/2 c=B z2|[A2=D2=B,2_A,2] z2 a'/2=d'/2e'/2=e'/2 g'/2f'/2=d'/2=b/2|
+g/2a/2f/2=d/2 =B/2G/2[A/2F/2]=D/2 =B,C F_E|[c2A2E2C2] z2 [=d'3/2=d3/2][_d'-_d-][d'/2c'/2-d/2c/2-][c'/2c/2]z/2|[c'c]z/2[c'c][c'c]z/2 =B,C F=E|[c2A2=E2C2] z2 [=d'3/2=d3/2][_d'-_d-][d'/2c'/2-d/2c/2-][c'/2c/2]z/2|
+[c'c][c'c] [c'c][c'c] =B,C GF|[c2A2F2C2] z2 =B,C _BA|[c2A2_E2C2] z2 [c3/2A3/2E3/2C3/2]z/2 [c'2c2]|[=e3/2d3/2B3/2=E3/2]z/2 [d'2d2] [f3/2d3/2A3/2F3/2]z/2 [a'2a2]|
+[g3/2f3/2d3/2G3/2]z/2 [g'2g2] [=B2=B,2] z2|[f'2-f2-] [f'/2f/2]_e'/2d'/2a/2 f/2_e/2d/2A/2 f/2e/2d/2A/2|F/2_E/2_D/2A,/2 F,/2E,/2D,/2A,,/2 F,,/2-[G,,/2-F,,/2]G,,/2F,,/2- [G,,/2-F,,/2][G,,/2F,,/2-]F,,/2G,,/2-|[G,,/2F,,/2]G,,/2F,,/2G,,/2 F,,/2G,,/2F,,/2(3G,,=E,,F,,(3D,C,G,,=B,,/2|
+(3_G,,_B,,F,, (3=A,,F,,_A,, C,,2 z2|z8|z8|z4 [C4-G,4-C,4-]|
+[C4G,4C,4] [C4-A,4-F,4-C,4-]|[C8-A,8-F,8-C,8-]|[C4A,4F,4C,4] 
+V:2
+%Piano left
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|z2 [D,2C,,2] [D,2C,,2] z2|z8|z2 [D,2C,,2] [D,2C,,2] z2|
+z8|z2 _B,A, _G,=G, DC|=A,B, dG c_B AG|F=E GB, =B,C/2-[D/2-C/2] D/2G,/2-[C/2-G,/2]C/2|
+_B,=A, z6|z2 [_G,2F,,2] [_G,2F,,2] z2|z8|z2 [_G,2F,,2] [_G,2F,,2] z2|
+z6 CB,|_A,=A, _GF =D_E dc|B=A e=E F_G C_D|F_E DC B,=A,/2-[C/2-=A,/2] C/2=E,/2-[F,/2-=E,/2]F,/2|
+_G,C,/2-[F,/2-C,/2] F,/2_E,/2-[E,/2D,/2-]D,/2 C,2 B,,2|[B,,2B,,,2] z2 D=G, _A,=A,|CB, _A,G, F,=E, z2|[B,,2B,,,2] z2 _AB, A=G|
+=ED B,G, =E,F, z2|[A,,2A,,,2] z2 cF _G=G|BA/2-[A/2F/2-] F/2D/2-[D/2C/2-]C/2 C=B, z2|[F,,2F,,,2] z2 a/2=d/2e/2=e/2 g/2f/2=d/2=B/2|
+G/2A/2F/2=D/2 =B,/2G,/2[A,/2F,/2]=D,/2 =B,,C, F,_E,|[E,2A,,2_E,,2] z2 [=D3/2=D,3/2][_D-_D,-][D/2C/2-D,/2C,/2-][C/2C,/2]z/2|[CC,]z/2[CC,][CC,]z/2 =B,,C, F,=E,|[=E,2C,2=E,,2] z2 [=D3/2=D,3/2][_D-_D,-][D/2C/2-D,/2C,/2-][C/2C,/2]z/2|
+[CC,][CC,] [CC,][CC,] =B,,C, G,F,|[A,2C,2F,,2] z2 =B,,C, _B,A,|[_G,2A,,2_G,,2] z2 [_G,3/2A,,3/2_G,,3/2]z/2 [C2C,2]|[=G,3/2=G,,3/2]z/2 [D2D,2] [A,3/2D,3/2A,,3/2]z/2 [A2A,2]|
+[B,3/2D,3/2_B,,3/2]z/2 [G2G,2] [=B,,2=B,,,2] z/2=B,/2-[D/2-=B,/2-][D/2-=B,/2-F,/2-]|[D4D4=B,4F,4] z4|z4 F,,,/2-[G,,,/2-F,,,/2]G,,,/2F,,,/2- [G,,,/2-F,,,/2][G,,,/2F,,,/2-]F,,,/2G,,,/2-|[G,,,/2F,,,/2]G,,,/2F,,,/2G,,,/2 F,,,/2G,,,/2F,,,/2(3G,,,=E,,,F,,,(3D,,C,,G,,,=B,,,/2|
+(3_G,,,_B,,,F,,, (3=A,,,F,,,_A,,, C,,,2 z2|z8|z8|z4 [G,,4-C,,4-]|
+[G,,4C,,4] [F,,4-F,,,4-]|[F,,8-F,,,8-]|[F,,4F,,,4] 
+%Chopin: Prelude No.18 in F Minor Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-21
+%Spur 7

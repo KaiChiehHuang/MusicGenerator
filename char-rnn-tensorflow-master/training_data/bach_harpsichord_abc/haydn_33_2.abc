@@ -1,0 +1,86 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/haydn_33_2.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=33
+% Last note suggests unknown mode tune
+K:F % 1 flats
+%Haydn: Klaviersonate Hoboken XVI: 33 2. Satz
+%Copyright \0xa9 2012 by Bernd Krueger
+%Bernd Krueger
+%Adagio
+%Erstellt: 18.2.2012
+
+%Dauer:  5:18 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-1  minor=0
+%Teil 1
+%Teil 1 Wiederholung
+%Teil 2
+V:1
+%Piano right
+%%MIDI program 0
+a2- a/2[f/2d/2]_d3/2z3z/2|zb2-b/2[g/2e/2] =d3/2z_d'/2-[=d'/2-_d'/2]=d'/2-|d'/2za/2- [b/2-a/2]bzd/2-[d/2_d/2-]_dze/2-|[a/2-e/2]azg/2-[g/2-g/2]g/2 f/2-f/2z/2z/2 e3/2z/2|
+z4 A3/2G/2 F/2[E/2D/2]_D-|_D/2z3/2 G,/2B,/2_D/2E/2 G/2A<BA/2G/2[F/2E/2]|=D3/2z_d/2-_d/2=dze/2- e/2fz/2|z/2_d'/2-[=d'/2-_d'/2]=d'ze'/2- [f'/2-e'/2]f'z_A,/2_A,-|
+_A,2 z/2=A,2-A,/2z3|z/2c'/2g/2a/2 c'/2e/2f/2a/2 f/2e/2d/2c/2 B/2A/2G/2F/2|E/2D/2C4-C3/2E/2D-|D3/2C/2>C/2c'/2g/2a/2 c'/2e/2f/2a/2 f/2e/2d/2c/2|
+B/2A/2G/2F/2 E/2D/2C4-C-|C/2_E/2D2-D/2C/2- [F/2-C/2]F2D/2-[D/2B,/2-]B,/2-|B,2- B,/2D/2=E/2F/2 G/2A/2B3-|B2- B/2[c/2B/2]A3 d2-|
+dg3 f3f|e/2-[e/2d/2-]d/2c/2- [c/2B/2-]B2-B/2A3|z/2G/2B/2d/2 B/2G/2F4A/2[G/2-E/2-]|[GE]A/2c/2 B/2A/2f/2e/2 d/2b/2a/2g/2 d'/2c'/2b/2a/2|
+g/2f/2e/2d/2 c3z/2B2-B/2|A3z/2_G/2 =G/2d/2B/2G/2 F2-|F2 A/2[G3/2E3/2] A/2c/2B/2A/2 f/2e/2d/2b/2|a/2g/2d'/2c'/2 b/2a/2g/2f/2 e/2d/2c3|
+z/2z/2z/2z/2 z/2z/2A3 _G/2=G/2B/2d/2|g/2b/2d'/2c'/2 b/2a/2g/2f/2 f/2e/2g/2b/2 g/2e/2e-|e2 f3z3|a2- a/2[f/2d/2]_d3/2z3z/2|
+zb2-b/2[g/2e/2] =d3/2z_d'/2-[=d'/2-_d'/2]=d'/2-|d'/2za/2- [b/2-a/2]bzd/2-[d/2_d/2-]_dze/2-|[a/2-e/2]azg/2-[g/2-g/2]g/2 f/2-f/2z/2z/2 e3/2z/2|z4 A3/2G/2 F/2[E/2D/2]_D-|
+_D/2z3/2 G,/2B,/2_D/2E/2 G/2A<BA/2G/2[F/2E/2]|=D3/2z_d/2-_d/2=dze/2- e/2fz/2|z/2_d'/2-[=d'/2-_d'/2]=d'ze'/2- [f'/2-e'/2]f'z_A,/2_A,-|_A,2 z/2=A,2-A,/2z3|
+z/2c'/2g/2a/2 c'/2e/2f/2a/2 f/2e/2d/2c/2 B/2A/2G/2F/2|E/2D/2C4-C3/2E/2D-|D3/2C/2>C/2c'/2g/2a/2 c'/2e/2f/2a/2 f/2e/2d/2c/2|B/2A/2G/2F/2 E/2D/2C4-C-|
+C/2_E/2D2-D/2C/2- [F/2-C/2]F2D/2-[D/2B,/2-]B,/2-|B,2- B,/2D/2=E/2F/2 G/2A/2B3-|B2- B/2[c/2B/2]A3 d2-|dg3 f3f|
+e/2-[e/2d/2-]d/2c/2- [c/2B/2-]B2-B/2A3|z/2G/2B/2d/2 B/2G/2F4A/2[G/2-E/2-]|[GE]A/2c/2 B/2A/2f/2e/2 d/2b/2a/2g/2 d'/2c'/2b/2a/2|g/2f/2e/2d/2 c3z/2B2-B/2|
+A3z/2_G/2 =G/2d/2B/2G/2 F2-|F2 A/2[G3/2E3/2] A/2c/2B/2A/2 f/2e/2d/2b/2|a/2g/2d'/2c'/2 b/2a/2g/2f/2 e/2d/2c3|z/2z/2z/2z/2 z/2z/2A3 _G/2=G/2B/2d/2|
+g/2b/2d'/2c'/2 b/2a/2g/2f/2 f/2e/2g/2b/2 g/2e/2e-|e2 f3z3|c2- c/2[A/2F/2]E3/2z3/2 G,/2B,/2C/2E/2|G/2B<dc/2B/2[A/2G/2] _G3/2z2z/2|
+z3z/2B/2 d/2g/2b/2d'/2 c'/2b/2a/2g/2|d'/2c'/2b/2a/2 g/2f/2f4-f-|fz/2e2-e/2 z/2c/2d/2e/2 f/2g/2a/2b/2|c'/2b/2a/2g/2 f/2c'/2a/2g/2 f/2e/2e2-e/2d/2-|
+[b/2-d/2]b2-b/2d3 _d2-|_d/2e/2-[g/2-e/2]g2-g/2 f2- f/2=d/2-[a/2-d/2]a/2-|a2 z6|z/2A/2=G/2F/2 E/2D/2_D3 z2|
+z3/2b/2 a/2g/2f/2e/2 d/2a/2g/2f/2 e/2d/2d'|z3/2[c'/2-d/2-] [c'/2b/2-d/2-][bd-]d/2 z/2d/2-[d/2_d/2-]_dze/2-|[a/2-e/2]azg/2-[g/2-g/2]g/2 f/2-f/2z/2z/2 e3/2z/2|z4 A/2e/2=d/2_d/2 g/2f/2e/2b/2|
+a/2g/2e'/2d'/2 _d'/2b/2a/2g/2 f/2e/2=d/2a/2 g/2_g/2c'/2b/2|a/2_e'/2=d'/2c'/2 b/2a/2=g/2_g/2 =g/2a/2_g/2c/2 B2-|Bb3 d3_d-|_d2 =g3f3|
+z/2e/2g/2b/2 g/2e/2=d4f/2[e/2-_d/2-]|[e_d]_g3 a3-a/2_e'/2|d'/2c'/2b/2a/2 =g3b3-|b/2d'/2c'/2b/2 a/2g/2_g3- _g/2=g/2_a/2=a/2|
+b/2c'/2d'/2_e'/2 d'/2c'/2b/2a/2 b/2d'/2_g/2=g/2 b/2=d/2b/2d'/2|_g/2=g/2b/2d/2 _e/2_g/2=g/2d/2 _g/2=g/2_d3/2z3/2|z/2G/2B/2_d/2 =e/2g/2b/2g/2 _d'/2=d'3/2 z/2E/2G/2B/2|G/2E/2=D4F/2[E3/2_D3/2]=D-|
+D2 z3/2[f'3/2d'3/2][f'3/2d'3/2][f'3/2d'3/2]|z4 z/2[f'3/2d'3/2] [f'3/2d'3/2][f'/2-d'/2-]|[f'd']z4z/2[F3/2D3/2][F-D-]|[F/2D/2][D3/2_A,3/2] =A,/2_D/2E/2A/2 E/2_D/2
+V:2
+%Piano left
+%%MIDI program 0
+[F3=D3][G3/2E3/2]z3z/2|z[_d3B3G3E3] [=d3/2A3/2F3/2]z2z/2|z2 G3/2z3/2A3/2z3/2|[A3/2_D3/2]z3/2[A3/2=D3/2]z3/2 [_d3/2A3/2]z/2|
+z4 [F,3D,3][G,-E,-]|[G,/2E,/2]z4z/2[_D3B,3G,3E,3]|[A,3/2F,3/2]z4z/2 [_A,2-D,2-B,,2-]|[_A,D,B,,]z3 B,,,3/2z3/2A,,,-|
+A,,,2 z6|[F,,3F,,,3]z4z|z2 z/2[B,3/2E,3/2] [B,3/2E,3/2][B,3/2E,3/2][B,-E,-]|[B,/2E,/2][B,3/2E,3/2] [=A,3F,3]z3|
+z4 z/2[A,3/2_E,3/2] [A,3/2_E,3/2][A,/2-_E,/2-]|[A,_E,][A,3/2_E,3/2][A,3/2_E,3/2] z3/2[F,3/2D,3/2][F,-D,-]|[F,/2D,/2][F,3/2D,3/2] [F,3/2D,3/2]z3/2C,/2=E,/2 G,/2C,/2E,/2G,/2|C,/2E,/2G,/2C,/2 E,/2G,/2C,/2F,/2 A,/2C,/2F,/2A,/2 B,,/2F,/2A,/2B,,/2|
+F,/2A,/2B,,/2F,/2 G,/2B,,/2F,/2G,/2 =B,,/2D,/2G,/2=B,,/2 D,/2G,/2C,/2E,/2|G,/2C,/2E,/2G,/2 E,/2G,/2C/2E,/2 G,/2C/2F,/2A,/2 C/2F,/2A,/2C/2|[=D3/2B,3/2]z3/2[A,3C,3-] [B,2-C,2-]|[B,C,]F,/2A,/2 G,/2F,/2D/2C/2 B,/2G/2F/2E/2 B/2A/2G/2F/2|
+E/2D/2C/2B,/2 A,/2C/2F/2A,/2 C/2F/2G,/2B,/2 E/2G,/2B,/2E/2|F,/2A,/2F/2F,/2 A,/2F/2[D3B,3] [A,2-C,2-]|[A,C,-][B,3C,3] F,/2A,/2G,/2F,/2 D/2C/2B,/2G/2|F/2E/2B/2A/2 G/2F/2E/2D/2 C/2B,/2A,/2C/2 F/2A,/2C/2F/2|
+G,/2B,/2E/2G,/2 B,/2E/2F,/2A,/2 F/2F,/2A,/2F/2 [D2-B,2-]|[DB,]z3 [B3-C3][B-F-]|[B2F2-] [A3F3]z3|[F3D3][G3/2E3/2]z3z/2|
+z[_d3B3G3E3] [=d3/2A3/2F3/2]z2z/2|z2 G3/2z3/2A3/2z3/2|[A3/2_D3/2]z3/2[A3/2=D3/2]z3/2 [_d3/2A3/2]z/2|z4 [F,3D,3][G,-E,-]|
+[G,/2E,/2]z4z/2[_D3B,3G,3E,3]|[A,3/2F,3/2]z4z/2 [_A,2-D,2-_B,,2-]|[_A,D,B,,]z3 B,,,3/2z3/2A,,,-|A,,,2 z6|
+[F,,3F,,,3]z4z|z2 z/2[B,3/2E,3/2] [B,3/2E,3/2][B,3/2E,3/2][B,-E,-]|[B,/2E,/2][B,3/2E,3/2] [=A,3F,3]z3|z4 z/2[A,3/2_E,3/2] [A,3/2_E,3/2][A,/2-_E,/2-]|
+[A,_E,][A,3/2_E,3/2][A,3/2_E,3/2] z3/2[F,3/2D,3/2][F,-D,-]|[F,/2D,/2][F,3/2D,3/2] [F,3/2D,3/2]z3/2C,/2=E,/2 G,/2C,/2E,/2G,/2|C,/2E,/2G,/2C,/2 E,/2G,/2C,/2F,/2 A,/2C,/2F,/2A,/2 B,,/2F,/2A,/2B,,/2|F,/2A,/2B,,/2F,/2 G,/2B,,/2F,/2G,/2 =B,,/2D,/2G,/2=B,,/2 D,/2G,/2C,/2E,/2|
+G,/2C,/2E,/2G,/2 E,/2G,/2C/2E,/2 G,/2C/2F,/2A,/2 C/2F,/2A,/2C/2|[=D3/2B,3/2]z3/2[A,3C,3-] [B,2-C,2-]|[B,C,]F,/2A,/2 G,/2F,/2D/2C/2 B,/2G/2F/2E/2 B/2A/2G/2F/2|E/2D/2C/2B,/2 A,/2C/2F/2A,/2 C/2F/2G,/2B,/2 E/2G,/2B,/2E/2|
+F,/2A,/2F/2F,/2 A,/2F/2[D3B,3] [A,2-C,2-]|[A,C,-][B,3C,3] F,/2A,/2G,/2F,/2 D/2C/2B,/2G/2|F/2E/2B/2A/2 G/2F/2E/2D/2 C/2B,/2A,/2C/2 F/2A,/2C/2F/2|G,/2B,/2E/2G,/2 B,/2E/2F,/2A,/2 F/2F,/2A,/2F/2 [D2-B,2-]|
+[DB,]z3 [B3-C3][B-F-]|[B2F2-] [A3F3]z3|[A,3F,3][B,3/2G,3/2]z3z/2|z4 [_E3/2C3/2A,3/2]z2z/2|
+z2 B,/2D/2G/2z4z/2|z3C/2G/2 B/2C/2G/2B/2 C/2G/2B/2C/2|G/2B/2C/2G/2 B/2C/2G/2B/2 [B3F3-][A-F-]|[A4-F4-] [AF]B,/2F/2 A/2B,/2F/2A/2|
+B,/2F/2G/2B,/2 F/2G/2B,/2F/2 G/2B,/2F/2G/2 A,/2=E/2G/2A,/2|E/2G/2_D/2E/2 A/2_D/2E/2A/2 =D/2F/2A/2D/2 F/2A/2A,/2_D/2|E/2A/2E/2_D/2 A,3/2z3/2A,/2B,/2 A,/2G,/2F,/2E,/2|D,3/2z3/2[B,3G,3E,3] z2|
+z[_d3B3G3E3] [=d3A3F3]z|z3/2_G/2- [=G/2-_G/2]=GzB/2-[B/2A/2-]Az_D/2-|[_D/2A,/2-]A,z[A/2-_D/2-][A/2-A/2=D/2-_D/2][A=D]z3/2 [_d3/2A3/2]z/2|z4 z/2_D/2B,/2A,/2 E/2=D/2_D/2G/2|
+F/2E3/2 z3z/2_G/2 E/2=D/2A/2=G/2|_G/2c/2B/2A3/2z3 G,/2B,/2_E/2G,/2|B,/2_E/2G,/2B,/2 _E/2G,/2B,/2_E/2 _A,/2D/2F/2_A,/2 D/2F/2=A,/2=E/2|=G/2A,/2E/2A/2 _D/2E/2A/2_D/2 E/2A/2=D/2F/2 A/2D/2F/2A/2|
+B,3[F3A,3-] [G2-A,2-]|[GA,]D/2A/2 c/2D/2A/2c/2 D/2A/2c/2D/2 A/2c/2D/2A/2|c/2D/2A/2c/2 D/2G/2B/2D/2 G/2B/2D/2G/2 B/2D/2G/2B/2|D/2G/2B/2D/2 G/2B/2D/2A/2 c/2D/2A/2c/2 D/2A/2c/2D/2|
+A/2c/2D/2A/2 c/2D/2A/2c/2 z4|z6 z/2G,/2B,/2_D/2|E/2z4F,3/2 [G,2-G,,2-]|[G,G,,][F,3A,,3-] [G,3A,,3]_B,,/2D,/2|
+_A,/2B,,/2D,/2_A,/2 B,,3/2z4z/2|A,,/2D,/2F,/2A,,/2 D,/2F,/2A,,3/2z3z/2|z_A,,/2D,/2 F,/2_A,,/2D,/2F,/2 _A,,3/2z2z/2|z4 z=A,/2E,/2 _D,/2=A,,/2E,,/2_D,,/2|
+A,,,/2_D,,/2E,,/2A,,/2 _D,/2E,/2A,,3/2z3/2 A,2-|A,
+%Pedale
+%%MIDI program 0
+%Haydn: Sonata Hoboken XVI:33 2. movement
+%Copyright \0xa9 2010 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2012-02-18
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

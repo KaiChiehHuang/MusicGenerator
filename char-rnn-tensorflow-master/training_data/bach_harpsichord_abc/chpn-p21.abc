@@ -1,0 +1,63 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p21.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=84
+% Last note suggests Phrygian mode tune
+K:Db % 5 flats
+%Chopin Prelude  No. 21, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Cantabile
+%Fertiggestellt am 1.12..2002
+
+%Normierung: 23.12.2002
+
+%Update am 21.7.2003
+
+%Update am 26.10.2010
+
+%Update am 22.2.2014
+
+%Dauer: 1:49 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+f6 =d2-|=d3/2f/2 e2 =d4-|=d2 =G4 z2|=A2 e2 e2 e3/2-[f/2e/2e/2]|
+[e/2=d/2-]=d3/2 e2 =g4-|=g3/2f/2 =d4 z2|b6 B2-|B3-B/2B/2 =g4-|
+=g2 =Gz/2z/2 e2 c2|=A[=d'f] [=g=e][=a_e] [b=d][f_d] [_ac][_gB]|[c=A][=d_A] [e=G][B_G] z[=dF] [=G=E][=A_E]|[B=D]F B,z4z|
+[b6_d6B6] [g2-B2-_G2-]|[g2B2G2] [=b2e2=B2] [_b4-d4-_B4-]|[b2d2B2] [g6B6G6]|[_d'4b4d4] [b2g2B2] [g'2-b2-g2-]|
+[g'2b2g2] [d'3/2b3/2d3/2][=b/2a/2=B/2] [=b2a2=B2] [_b2g2_B2]|z8|[b6d6B6] [g2-B2-G2-]|[g2B2G2] [=b2e2=B2] [_b4-d4-_B4-]|
+[b2d2B2] [g6B6G6]|[d'4b4d4] [b2g2B2] [g'2-b2-g2-]|[g'2b2g2] [d'3/2b3/2d3/2][=b/2a/2=B/2] [=b2a2=B2] [_b2g2_B2]|z8|
+f-[fF] [=G=E][=A_E] [B=D][cC] =dF|[=G=E][=A_E] [B=D]=d =g-[=g=G] [=A_G][=BF]|[cE][=d=D] e-[e=G] [=A_G][=BF] [cE]e|=a-[=a=A] [=B_A][_d=G] [=dF]f b-[b_B]|
+[c=A][=d_A] [e=G][_g_G] zf [e'bg]f|[e'bg]f [e'bg]f [e'bg]f [e'bg]f|[e'g][=d'f] [=g=e][=a_e] [b=d][f_d] [_ac][_gB]|[c=A][=d_A] [e=G][B_G] [_dF][c=E] [=G_E][A=D]|
+[=A_D][EC] [_GB,][F=A,] [C_A,][=D=G,] [E-_G,][E=A,F,]|[=DB,F,]z6[eG]|[=AF][B=E] [c-_E-][cGE] [=d2B2F2=D2] z2|z3[eG] [=AF][B=E] [c-_E-][cGE]|
+[=d2B2F2=D2] z4 [=G2-=D2-B,2-=G,2-]|[=G-=DB,=G,-][=G-C=G,-] [=G-E=G,-][=G=D=G,] [F4-=D4B,4-F,4-]|[F2B,2F,2] [=G3-=D3B,3=G,3-][=G-C=G,-] [=G-E=G,-][=G=D=G,]|[F8-=D8-B,8-F,8-]|
+[F8-=D8-B,8-F,8-]|[F2=D2B,2F,2] z6|z6 [F2-E2-C2-F,2-]|[F4E4C4F,4] [F4-=D4-B,4-F,4-]|
+[F2=D2B,2F,2] 
+V:2
+%Piano left
+%%MIDI program 0
+B,,,F, [=G,=E,][=A,_E,] [B,=D,][CC,] B,,[=DF,]|[=G,=E,][=A,_E,] [B,=D,]B,, E,,=G, [=A,_G,][=B,F,]|[CE,][=D=D,] C,[E=G,] [=A,_G,][=B,F,] [CE,][EC,]|F,,[_G_B,] [F=A,][C_A,] [E=G,][B,_G,] F,,[EG,]|
+[=DF,][=G,=E,] [=A,_E,]F, B,,F, [=G,=E,][=A,_E,]|[B,=D,][CC,] B,,[=DF,] [=G,=E,][=A,_E,] [B,=D,][CC,]|=G,,=D [=E_D][GC] [=GB,][=A=A,] B,,B,|[C=A,][=D_A,] [_E=G,][FF,] E,,=G, [=A,_G,][=B,F,]|
+[CE,][=D=D,] C,[E=G,] [=A,_G,][=B,F,] [CE,][EC,]|F,,[=dF] [=G=E][=A_E] [B=D][F_D] [_AC][_G_B,]|[C=A,][=D_A,] [E=G,][B,_G,] B,,[=DF,] [=G,=E,][=A,_E,]|[B,=D,]F, B,,[=DF,] [=G,=E,][=A,_E,] [B,=D,]B,,|
+G,,,[B,_D,] [_D_G,][EB,] [DG,][B,D,] [DG,][EB,]|[DG,][B,D,] [DG,][EB,] [DG,][B,D,] [DG,][EB,]|[DG,][B,D,] [DG,][EB,] [DG,][B,D,] [DG,][EB,]|[DG,][B,D,] [DG,][EB,] [DG,][B,D,] [DG,][EB,]|
+[DG,][B,D,] [DG,][EB,] [DG,][B,D,] [DG,][EB,]|[DG,][B,D,] [DG,][EB,] [DG,][B,D,] [DG,][EB,]|[=EG,][DB,] [GG,][_EB,] [=EG,][DB,] G,[_EB,]|[=EG,][DB,] [GG,][_EB,] [=EG,][DB,] [GG,][_EB,]|
+[=EG,][DB,] G,[_EB,] [=EG,][DB,] [GG,][_EB,]|[=EG,][DB,] [GG,][_EB,] [=EG,][DB,] [GG,][_EB,]|[=EG,][DB,] [GG,][_EB,] [=EG,][DB,] [GG,][_EB,]|[=EG,][DB,] [GG,][_EB,] [=EG,][DB,] [=EG,][CB,]|
+F,,,F, [=G,=E,][=A,_E,] [B,=D,]C, F,,F,|[=G,=E,][=A,_E,] [B,=D,]F, F,,=G, [=A,_G,][=B,F,]|[CE,]=D, F,,=G, [=A,_G,][=B,F,] [CE,]=G,|F,,=A, [=B,_A,][D=G,] [=DF,]=A, F,,_B,|
+[C=A,][=D_A,] [_E=G,]_G, [F,,F,,,]F [eBG]F|[eBG]F [eBG]F [eBG]F [eBG]F|[e=AG][=dF] [=G=E][=A_E] [B=D][F_D] [_AC][_GB,]|[C=A,][=D_A,] [E=G,][B,_G,] [_DF,][C=E,] [=G,_E,][A,=D,]|
+[=A,_D,][E,C,] [_G,B,,][F,=A,,] [C,_A,,][=D,=G,,] [E,_G,,]F,,|B,,,=E, F,B, =A,=G, F,,[E_G,]|[=A,F,][B,=E,] [C_E,]G, B,,=E, F,B,|=A,=G, F,,[E_G,] [=A,F,][B,=E,] [C_E,]G,|
+B,,,=E,, F,,B,, =A,,=G,, =G,,,2-|=G,,,2 =A,,,2 B,,,=E,, F,,B,,|=A,,=G,, =G,,,4 =A,,,2|B,,,=E,, F,,B,, =A,,=G,, B,,,=E,,|
+F,,B,, =A,,=G,, B,,,=E,, F,,C,|=A,,B,, E,_D, =D,=G, =E,F,|=D2 z4 [F,,2-F,,,2-]|[F,,4F,,,4] [B,,4-B,,,4-]|
+[B,,2B,,,2] 
+%Chopin: Prelude No.21 in Bb Major Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-22
+%Spur 7

@@ -1,0 +1,41 @@
+% input file /afs/.ir/users/q/u/quinlanj/cs221/project/training_data/bwv808g.mid
+% format 1 file 4 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+K:G % 1 sharps
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/2  MIDI-clocks/click=48  32nd-notes/24-MIDI-clocks=8
+V:1
+%English Suite 3, 5b Gavotte 2
+%%MIDI program 0
+D3/2z/2 E^C D3/2z/2 GA|B3/2z/2 AF G3/2z/2 D3/2z/2|G3/2z/2 AF GA Bc|dB cA B3z|
+D3/2z/2 E^C D3/2z/2 GA|B3/2z/2 AF G3/2z/2 D3/2z/2|G3/2z/2 AF GA Bc|dB cA B3z|
+d3/2z/2 ec d3/2z/2 cA|BG AF G3/2z/2 D3/2z/2|ED GD ED GD|ED A3/2z/2 A3z|
+A3/2z/2 BG c3/2z/2 BG|ec dB cB AG|AB cB AG FG|AG FE D3z|
+D3/2z/2 E=C D3/2z/2 GA|B3/2z/2 AF G3/2z/2 D3/2z/2|BF GD dF GD|BF GD- [G3D3]z|
+d3/2z/2 ec d3/2z/2 cA|BG AF G3/2z/2 D3/2z/2|ED GD ED GD|ED A3/2z/2 A3z|
+A3/2z/2 BG c3/2z/2 BG|ec dB cB AG|AB cB AG FG|AG FE D3z|
+D3/2z/2 EC D3/2z/2 GA|B3/2z/2 AF G3/2z/2 D3/2z/2|BF GD dF GD|BF GD- [G3D3]
+V:2
+%J.S. Bach, Edition Wood
+%%MIDI program 0
+[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [G,3G,3]z|
+[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [G,3G,3]z|
+[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [E3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [A,G,-][B,G,-]|[C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2-|[C3/2G,3/2-]G,/2- [CG,-][A,G,-] [C3G,3-]G,-|
+[C3/2G,3/2-]G,/2- [D3/2G,3/2-]G,/2- [E3/2G,3/2-]G,/2- [D3/2G,3/2-]G,/2-|[C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2-|[C3/2G,3/2-]G,/2- [D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [E3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|
+[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,2-G,/2-|[D3/2G,3/2-]G,2-G,/2- [B,3/2G,3/2-]G,2-G,/2-|[D3/2G,3/2-]G,2-G,/2- [B,3-G,3]B,|
+[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [E3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [A,G,-][B,G,-]|[C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2-|[C3/2G,3/2-]G,/2- [CG,-][A,G,-] [C3G,3-]G,-|
+[C3/2G,3/2-]G,/2- [D3/2G,3/2-]G,/2- [E3/2G,3/2-]G,/2- [D3/2G,3/2-]G,/2-|[C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2-|[C3/2G,3/2-]G,/2- [D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [E3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|
+[B,3/2G,3/2-]G,/2- [A,3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2-|[D3/2G,3/2-]G,/2- [C3/2G,3/2-]G,/2- [B,3/2G,3/2-]G,2-G,/2-|[D3/2G,3/2-]G,2-G,/2- [B,3/2G,3/2-]G,2-G,/2-|[D3/2G,3/2-]G,2-G,/2- [B,3-G,3]B,|
+%Arr. Gary Bricault, (c) 1997

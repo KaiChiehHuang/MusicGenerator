@@ -1,0 +1,29 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/wagner-bridal-chorus.mid
+% format 1 file 2 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=120
+% Last note suggests Phrygian mode tune
+K:Bb % 2 flats
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+%Bridal Chorus
+%Richard Wagner
+%Jim Paterson
+V:1
+%%MIDI program 0
+%Piano
+[f4F4] [f3F3][fF]|[f4F4] [f4F4]|[f8F8]|[f8F8]|
+[F4D4B,4] [B3F3D3B,3][BFDB,]|[B8F8D8B,8]|[F4D4B,4] [c3F3E3F,3][AFEF,]|[B8F8D8B,8]|
+[F4D4B,4] [B3F3B,3][eBGB,]|[e4B4G4B,4] [d3B3F3B,3][cFEB,]|[B2F2D2B,2-] [cB,-][BB,] [A3=E3B,3G,3][B=EB,G,]|[c8A8F8C8F,8]|
+[F4D4B,4] [B3F3D3B,3][BFDB,]|[B8F8D8B,8]|[F4D4B,4] [c3F3_E3F,3][AFEF,]|[B8F8D8B,8]|
+[F4D4B,4] [B3F3D3B,3][dBDB,]|[f4A4F4D4] [d3G3D3B,3][BGDB,]|[G4E4C4] [c3F3E3A,3][dFEA,]|[B8F8D8B,8]|
+[e4B4G4E,4] [d2B2F2E,2] [c2G2E2E,2]|[G4E4C4E,4] [G4E4C4E,4]|[A4F4C4F,4] [B3F3D3F,3][cAFF,]|[c8A8F8F,8]|
+[e4B4G4E,4] [d2B2F2E,2] [c2G2E2E,2]|[G4E4C4E,4] [G4E4C4E,4]|[G4D4=B,4G,4] [A3_G3D3D,3][=B=GDG,]|[=B8G8D8G,8]|
+[F4D4_B,4] [_B3F3D3B,3][BFDB,]|[B8F8D8B,8]|[F4D4B,4] [c3F3E3F,3][AFEF,]|[B8F8D8B,8]|
+[F4D4B,4] [B3F3B,3][eBGB,]|[e4B4G4B,4] [d3B3F3B,3][cFEB,]|[B2F2D2B,2-] [cB,-][BB,] [A3=E3B,3G,3][B=EB,G,]|[c8A8F8C8F,8]|
+[F4D4B,4] [B3F3D3B,3][BFDB,]|[B8F8D8B,8]|[F4D4B,4] [c3F3_E3F,3][AFEF,]|[B8F8D8B,8]|
+[F4D4B,4] [B3F3D3B,3][dBDB,]|[f4A4F4D4] [d3G3D3B,3][BGDB,]|[g8G8E8C8]|[f2A2C2-F,2-] [e2A2C2F,2] [d2A2C2-F,2-] [c2A2C2F,2]|
+[B8F8D8B,8]|

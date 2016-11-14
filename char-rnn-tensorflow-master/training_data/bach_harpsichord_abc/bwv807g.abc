@@ -1,0 +1,54 @@
+% input file /afs/.ir/users/q/u/quinlanj/cs221/project/training_data/bwv807g.mid
+% format 1 file 4 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+% Last note suggests Phrygian mode tune
+K:A % 3 sharps
+%untitled
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%English Suite 2, 6. Bourree 2
+%%MIDI program 0
+[E3/2C3/2]z/2 [E3/2C3/2]z/2 [F3/2D3/2]z/2 [=GE][FD]|[EC][DB,] [E3/2C3/2]z/2 [AC][^GB,] [A3/2C3/2]z/2|[E3/2C3/2]z/2 [FB,-][DB,-] [CB,-][DB,-] [EB,-][DB,-]|[C/2-B,/2]C/2B, DC B,C A,3/2z/2|
+[E3/2C3/2]z/2 [E3/2C3/2]z/2 [F3/2D3/2]z/2 [=GE][FD]|[EC][DB,] [E3/2C3/2-]C/2- [AC-][^GC-] [AC]c|[B3/2^D3/2]z/2 [B3E3-]E- [AE-][G/2-E/2]G/2|[F^D-][E/2-^D/2]E/2 [E4-E4-] [EE]z|
+[E3/2C3/2]z/2 [E3/2C3/2]z/2 [F3/2=D3/2]z/2 [=GE][FD]|[EC][DB,] [E3/2C3/2]z/2 [AC][^GB,] [A3/2C3/2]z/2|[E3/2C3/2]z/2 [FB,-][DB,-] [CB,-][DB,-] [EB,-][DB,-]|[C/2-B,/2]C/2B, DC B,C A,3/2z/2|
+[E3/2C3/2]z/2 [E3/2C3/2]z/2 [F3/2D3/2]z/2 [=GE][FD]|[EC][DB,] [E3/2C3/2-]C/2- [AC-][^GC-] [AC]c|[B3/2^D3/2]z/2 [B3E3-]E- [AE-][G/2-E/2]G/2|[F^D-][E/2-^D/2]E/2 [E4-E4-] [EE]z|
+[G3/2B,3/2]z/2 [G3/2B,3/2]z/2 [A3/2C3/2]z/2 [B=D][AC]|[GB,][FA,] [AC][GB,] [FA,][GB,] [E3/2G,3/2]z/2|[A3/2E3/2]z/2 F=F ^FA GA|BF G=F ^F^D =FC|
+c3/2z/2 cd ec dB|c^A Bc dB c=A|BG cB dc BA|GA ^F4- Fz|
+[A3/2C3/2]z/2 [A3/2-B,3/2]A/2- [A-^D][A-C] [A^D-]^D/2z/2|[A3/2^D3/2]z/2 [AE-][GE-] [AE-][FE-] [GE]E|[=G3/2B,3/2]z/2 [=G3/2-A,3/2]=G/2- [=G-C][=G-B,] [=GC-]C/2z/2|[=G3/2C3/2]z/2 [=G=D-][FD-] [=GD-][ED-] [FD]D|
+[B3/2D3/2]z/2 [B3/2D3/2]z/2 [c3/2E3/2]z/2 [dE-][cE-]|[BE]A [B3/2E3/2-]E/2- [eE-][dE-] [e-E]e/2z/2|[^G3/2E3/2]z/2 [A2-E2-] [A/2E/2]z/2[BA] [B2-G2-]|[B/2G/2-]G/2A A-[A-E] [A3C3]z|
+[G3/2B,3/2]z/2 [G3/2B,3/2]z/2 [A3/2C3/2]z/2 [BD][AC]|[GB,][FA,] [AC][GB,] [FA,][GB,] [E3/2G,3/2]z/2|[A3/2E3/2]z/2 F=F ^FA GA|BF G=F ^F^D =FC|
+c3/2z/2 cd ec dB|c^A Bc dB c=A|BG cB dc BA|GA ^F4- Fz|
+[A3/2C3/2]z/2 [A3/2-B,3/2]A/2- [A-^D][A-C] [A^D-]^D/2z/2|[A3/2^D3/2]z/2 [AE-][GE-] [AE-][FE-] [GE]E|[=G3/2B,3/2]z/2 [=G3/2-A,3/2]=G/2- [=G-C][=G-B,] [=GC-]C/2z/2|[=G3/2C3/2]z/2 [=G=D-][FD-] [=GD-][ED-] [FD]D|
+[B3/2D3/2]z/2 [B3/2D3/2]z/2 [c3/2E3/2]z/2 [dE-][cE-]|[BE]A [B3/2E3/2-]E/2- [eE-][dE-] [e-E]e/2z/2|[^G3/2E3/2]z/2 [A2-E2-] [A/2E/2]z/2[BA] [B2-G2-]|[B/2G/2-]G/2A A-[A-E] [A3C3]
+V:2
+%J.S. Bach, Edition Wood
+%%MIDI program 0
+A,3/2z/2 A,6-|A,8-|A,3-A,/2z/2 A,3/2z/2 G,3/2z/2|E,3/2z/2 A,2- [A,3/2-E,3/2]A,/2- [A,C,-]C,/2z/2|
+[A,3/2E,3/2]z/2 A,6-|A,3-A,/2z/2 G,3/2z/2 F,3/2z/2|A,3/2z/2 A,G, F,E, B,3/2z/2|B,,3/2z/2 E,3/2z/2 B,,3/2z/2 E,,3/2z/2|
+A,3/2z/2 A,6-|A,8-|A,3-A,/2z/2 A,3/2z/2 G,3/2z/2|E,3/2z/2 A,2- [A,3/2-E,3/2]A,/2- [A,C,-]C,/2z/2|
+[A,3/2E,3/2]z/2 A,6-|A,3-A,/2z/2 G,3/2z/2 F,3/2z/2|A,3/2z/2 A,G, F,E, B,3/2z/2|B,,3/2z/2 E,3/2z/2 B,,3/2z/2 E,,3/2z/2|
+E,3/2z/2 E,6-|E,6- E,z|C,2 [A,3/2-D,3/2]A,/2- [A,C,-]C,/2z/2 [B,3/2B,,3/2]z/2|[F,3/2D,3/2]z/2 [=F,3/2C,3/2-]C,/2- [A,3/2C,3/2-]C,/2- [G,-C,]G,/2z/2|
+[B,3/2G,3/2=F,3/2C,3/2]z/2 [^A,3/2^F,3/2-]F,/2- [C3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2-|[E/2-F,/2]Ez/2 [D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2- [=A,3/2F,3/2-]F,/2-|[G,/2-F,/2]G,z/2 [A,3/2F,3/2]z/2 [G,3/2B,,3/2]z/2 [F,3/2C,3/2-]C,/2-|[=F,-C,]=F,/2z/2 ^F,D, C,B,, A,,G,,|
+[F,-A,,][F,/2F,,/2-]F,,/2 [^D,3/2B,,3/2-]B,,/2- [F,B,,-][E,B,,-] [F,-B,,]F,/2z/2|[F,3/2B,,3/2]z/2 [E,4-E,,4-] [E,E,,]z|[E,3/2E,,3/2]z/2 [C,3/2A,,3/2-]A,,/2- [E,A,,-][=D,A,,-] [E,-A,,]E,/2z/2|[E,3/2A,,3/2]z/2 [D,4-D,,4-] [D,D,,]z|
+[F,3/2D,3/2]z/2 [E,3G,,3]z [E,3/2A,,3/2-]A,,/2-|[F,-A,,]F,/2z/2 [G,4-D,4-] [G,D,]z|[B,3/2D,3/2]z/2 [A,3/2-C,3/2]A,/2- [A,D,-]D,/2z/2 [E,3/2-E,3/2]E,/2-|[E,E,,-]E,,/2z/2 A,,3-[E,A,,-] [A,-A,,]A,/2z/2|
+E,3/2z/2 E,6-|E,6- E,z|C,2 [A,3/2-D,3/2]A,/2- [A,C,-]C,/2z/2 [B,3/2B,,3/2]z/2|[F,3/2D,3/2]z/2 [=F,3/2C,3/2-]C,/2- [A,3/2C,3/2-]C,/2- [G,-C,]G,/2z/2|
+[B,3/2G,3/2=F,3/2C,3/2]z/2 [^A,3/2^F,3/2-]F,/2- [C3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2-|[E/2-F,/2]Ez/2 [D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2- [=A,3/2F,3/2-]F,/2-|[G,/2-F,/2]G,z/2 [A,3/2F,3/2]z/2 [G,3/2B,,3/2]z/2 [F,3/2C,3/2-]C,/2-|[=F,-C,]=F,/2z/2 ^F,D, C,B,, A,,G,,|
+[F,-A,,][F,/2F,,/2-]F,,/2 [^D,3/2B,,3/2-]B,,/2- [F,B,,-][E,B,,-] [F,-B,,]F,/2z/2|[F,3/2B,,3/2]z/2 [E,4-E,,4-] [E,E,,]z|[E,3/2E,,3/2]z/2 [C,3/2A,,3/2-]A,,/2- [E,A,,-][=D,A,,-] [E,-A,,]E,/2z/2|[E,3/2A,,3/2]z/2 [D,4-D,,4-] [D,D,,]z|
+[F,3/2D,3/2]z/2 [E,3G,,3]z [E,3/2A,,3/2-]A,,/2-|[F,-A,,]F,/2z/2 [G,4-D,4-] [G,D,]z|[B,3/2D,3/2]z/2 [A,3/2-C,3/2]A,/2- [A,D,-]D,/2z/2 [E,3/2-E,3/2]E,/2-|[E,E,,-]E,,/2z/2 A,,3-[E,A,,-] [A,-A,,]A,/2
+%Arr. Gary Bricault, (c) 1997

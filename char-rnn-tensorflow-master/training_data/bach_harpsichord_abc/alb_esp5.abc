@@ -1,0 +1,66 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/alb_esp5.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:Eb % 3 flats
+%Espana Op. 165
+%Capricho Catalan
+%Copyright \0xa9 2001 by Bernd Krueger
+%Isaac Albeniz
+%Allegretto
+%Fertiggestellt am 17.02.2001
+
+%Normierung: 23.12.2002
+
+%Update am 31.8.2010
+
+%Dauer: 2:03 Minuten
+
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-3  minor=0
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|[g3e3][fd] [a2f2] [fd][ge]|[e2c2] [c2A2] [B4G4]|[c2A2-] [dA-][fA] [d2A2-] [B2A2]|
+[cG-][dG-] [gG-][cG] [B4G4]|[d3B3][BG] [c2=A2-] [_g=A-][=a=A]|[=gB-][dB] [c=A-][d=A] [B4G4]|[f3B3][g=A-] [e=A-][f=A-] [g=A-][=a=A]|
+[fB][d_A] [e=A][_dF-] [=dF-][c_A-F-] [=BAF-][_BF]|[g3e3][fd] [_a2f2] [fd][ge]|[e2c2] [c2A2] [B4G4]|[c2A2-] [dA-][fA] [d2A2-] [B2A2]|
+[cG-][dG-] [gG-][cG] [B4G4]|[d3B3][BG] [c2=A2-] [_g=A-][=a=A]|[=gB-][dB] [c=A-][d=A] [B4G4]|[B2F2] [c_G][eB] [c_G][eB] [_gc][eB]|
+[d2=A2-] [c=A-][d=A] [B4F4]|[f3d3][c_A] [e2c2] [dB][B=G]|[d2B2] [c2A2] [A4F4]|[_a3f3][=g=e] [=e_d][g=e] [f=d][d=B]|
+[fd][_ec] [cA][AF] [F4D4]|[_g-=A][_g-_B] [_g=B][ac-] [_g/2c/2-][a/2_g/2c/2-][fc-] [=ec-][fc]|[_d-=E][_d/2-F/2]_d/2- [_d_G][_dF] [_d_B-=E-][cB-=E-] [=B_B-=E-][cB=E]|[c2_A2] [_dB][f_d] [_d2B2] [B2=G2]|
+[G=E][AF] [BG][_dB] [c4A4]|[c2A2] [_ec][af] [f2_d2] [_d2B2]|[BG][cA] [_dB][=e_d] [_e4c4]|[ecA][e2c2A2][ecA] [ecA][e2c2A2][ecA]|
+z[ecA] z[ecA] z[ecA] z[ecA]|[ecA][e2c2A2][ecA] [ecA][e2c2A2][ecA]|z[ecA] z[ecA] z[ecA] z[ecA]|[c'3a3][=g=e] [b2g2] [af][f=d]|
+[d2B2] [B2G2] [G2=E2] [A2F2]|[=B3_G3-][_d_G] [=B=E]=e _ga|=ba _g=e [_e2A2-] [=d2A2]|[=g3e3][fd] [a2f2] [fd][ge]|
+[e2c2] [c2A2] [_B4=G4]|[c2A2-] [dA-][fA] [d2A2-] [B2A2]|[cG-][dG-] [gG-][cG] [B4G4]|[d3B3][BG] [c2=A2-] [_g=A-][=a=A]|
+[=gB-][dB] [c=A-][d=A] [B4G4]|[f3B3][g=A-] [e=A-][f=A-] [g=A-][=a=A]|[fB][d_A] [e=A][_dF-] [=dF-][c_A-F-] [=BAF-][_BF]|[g3e3][fd] [_a2f2] [fd][ge]|
+[e2c2] [c2A2] [B4G4]|[c2A2-] [dA-][fA] [d2A2-] [B2A2]|[cG-][dG-] [gG-][cG] [B4G4]|[_d3G3][cG] [c3G3-][BG]|
+[G_E-][AE] =Bc =de [aec][cAE]|[c3A3E3][dAF] [c2A2E2] [_B2A2D2]|[G3E3][BE] [A2E2] [G2E2]|[FC][AE] [FC][GD] [F2C2] [B2G2D2]|
+z8|[g3e3][fd] [a2f2] [fd][ge]|[e2c2] [c2A2] [B4G4]|[E8=A,8_G,8]|
+[e'6g6] f'/2[g'/2f'/2]e'/2[c'/2_b/2]|g4 [f4e4=B4]|[e''8b'8g'8e'8]|
+V:2
+%Piano left
+%%MIDI program 0
+[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[F-E,-][F2-B,2E,2-][FB,E,] [F-E,-][F2-B,2E,2-][FB,E,]|
+[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[D=G,-][D2G,2-][DG,] [EG,-][E2G,2-][EG,]|[DG,-][DG,] [EG,-][EG,] [DG,-][D2G,2-][DG,]|[D-F,][D2F,2-][EF,-] [CF,-][DF,-] [EF,-][FF,]|
+D=B, C=A, _B,-[EB,-] [D2B,2]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[F-E,-][F2-B,2E,2-][FB,E,] [F-E,-][F2-B,2E,2-][FB,E,]|
+[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[DG,-][D2G,2-][DG,] [EG,-][E2G,2-][EG,]|[DG,-][DG,] [EG,-][EG,] [DG,-][D2G,2-][DG,]|[DF,-][DF,] E_G E_G _B_G|
+[FF,-][FF,-] [EF,-][EF,] [DB,]=B,/2D/2 C_B,|B,,,B,2B, B,B,2B,|B,B,2B, B,B,2B,|B,,,B,2B, B,B,2B,|
+B,B,2B, =A,B,/2_D/2 =B,_B,|E2 _A,2 =A,-[E2=A,2-][C=A,]|B,2 _A,2 G,3-[G,C,]|[C,F,,-][C,2F,,2-][C,F,,] [C,F,,-][C,2F,,2-][C,F,,]|
+[C,F,,-][C,2F,,2-][C,F,,] [C,-F,,][C,2-F,,2][C,=E,,]|_E,,E2E EE2E|EE2E A,E A=G|G3F C2 =B,C|
+F2 G2 G2 F2|G3F C2 =B,C|FG AG G2 F2|B,,,_B,2B, B,B,2B,|
+B,B,2B, B,B,2B,|[E-=A,][E2-=A,2][E=A,] _A,2 z2|z4 [F4B,4]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|
+[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[F-E,-][F2-B,2E,2-][FB,E,] [F-E,-][F2-B,2E,2-][FB,E,]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[=DG,-][D2G,2-][DG,] [EG,-][E2G,2-][EG,]|
+[DG,-][DG,] [EG,-][EG,] [DG,-][D2G,2-][DG,]|[D-F,][D2F,2-][EF,-] [CF,-][DF,-] [EF,-][FF,]|D=B, C=A, _B,-[EB,-] [D2B,2]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|
+[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|[F-E,-][F2-B,2E,2-][FB,E,] [F-E,-][F2-B,2E,2-][FB,E,]|[B,E,-][B,2E,2-][B,E,] [B,E,-][B,2E,2-][B,E,]|FE,2E ED _D2|
+=B,C G,_A, =B,C F,2|B,,_B,2B,2B,2B,|B,,B,2=D2C2B,|[A,B,,]C A,B, A,2 [A,2B,,2]|
+[B,,E,,-][B,,2E,,2-][B,,E,,] [B,,E,,-][B,,2E,,2-][B,,E,,]|[B,,E,,-][B,,2E,,2-][B,,E,,] [B,,E,,-][B,,2E,,2-][B,,E,,]|[B,,E,,-][B,,2E,,2-][B,,E,,] [B,,E,,-][B,,2E,,2-][B,,E,,]|[=B,,E,,-][=B,,2E,,2-][=B,,E,,] [=B,,E,,-][=B,,2E,,2-][=B,,E,,]|
+E,,_B,, E,G, B,4|z4 [E4A,4]|[E,,8E,,,8]|
+%Albeniz :Espana Op. 165 Capricho Catalan
+%Copyright \0xa9 2001 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2010-08-31
+%Spur 7

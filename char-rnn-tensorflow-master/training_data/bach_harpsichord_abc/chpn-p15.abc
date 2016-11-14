@@ -1,0 +1,91 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p15.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=70
+% Last note suggests Locrian mode tune
+K:F# % 6 sharps
+%Chopin Prelude  No. 15, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Sostenuto
+%Fertiggestellt am  28.09.2002
+
+%Normierung: 23.12.2002
+
+%Update am 20.7.2003
+
+%Update am 20.6.2010
+
+%Update am 21.2.2014
+
+%Dauer:4:36 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-5  minor=0
+%Thema
+% MIDI Key signature, sharp/flats=4  minor=0
+%Mittelteil
+% MIDI Key signature, sharp/flats=-5  minor=0
+%Thema
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+f3/2c/2 G4 A2|=c6 ^c2|[d3/2E3/2=C3/2-][f/2G/2=C/2-] [e4A4=C4] [f-G^C]f|[f-G=C-][f-=C-] [fE=C-][d=C] c2 [d/2d/2][f/2d/2][d/2=d/2][e/2f/2]|
+f3/2c/2 G4 A2|=c6 ^c2|[^d3/2E3/2=C3/2-][f/2G/2=C/2-] [e4A4=C4] [f-G^C]f|[f-G=C-][f-=C-] [fE=C-][d=C] c2 =c^c|
+d2 d4 f2|ef dc f4|dB AG A3/2-A/2 A3/2B/2|G2 d2 c2 =e2|
+d2 d4 f2|^ef dc f4-|fc =cA =c3/2-=c/2 =c^c|A2 f2 d2 e2|
+fc =cA =c3/2-=c/2 =c3/2^c/2|A2 d2 f2 d2|f6 d2|f3/2c/2 G4 A2|
+=c6 ^c2|[d3/2E3/2=C3/2-][f/2G/2=C/2-] [e4A4=C4] [f-G^C]f|[f-G=C]f- [fE=C]d c2 =d/2[=e/2^d/2][g/2f/2][=g/2^e/2]|f3/2c/2 G4 A2|
+=c6 ^c2|[d3/2E3/2=C3/2-][f/2G/2=C/2-] [e4A4=C4] [=c-D]=c|[d4E4] z4|G,G, G,G, G,G, G,G,|
+G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|
+G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|G,[GG,] [GG,][GG,] [GG,][GG,] [GG,][GG,]|[GG,][GG,] [GG,][GG,] [G^C-G,][GCG,] [G=C-G,][G=CG,]|
+[GG,][GG,] [GG,][GG,] [GD-G,][GDG,] [G^C-G,][GC-G,]|[GC-G,][GCG,] [GD-G,][GDG,] [G=E-G,][G=EG,] [GD-G,][GDG,]|[GD-G,][GD-G,] [GD-G,][GD-G,] [GD-G,][GD-G,] [GD-G,][GDG,]|[BG-=E-B,][BG-=E-B,] [BG-=E-B,][BG=EB,] [BG-D-B,][BG-D-B,] [BG-D-B,][BGDB,]|
+[BG-=E-B,][BG-=E-B,] [BG-=E-B,][BG=EB,] [BG-D-B,][BG-D-B,] [BG-D-B,][BGDB,]|[BG-D-B,][BG-D-B,] [BG-D-B,][BGDB,] [B=G-D-B,][B=G-D-B,] [B=G-D-B,][B=GDB,]|[B^GDB,]G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|
+G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|
+G,G, G,G, G,G, G,G,|G,G, G,G, G,G, G,G,|G,[GG,] [GG,][GG,] [GG,][GG,] [GG,][GG,]|[GG,][GG,] [GG,][GG,] [GC-G,][GCG,] [G=C-G,][G=CG,]|
+[GG,][GG,] [GG,][GG,] [GD-G,][GDG,] [G^C-G,][GC-G,]|[GC-G,][GCG,] [GD-G,][GDG,] [G=E-G,][G=EG,] [GD-G,][GDG,]|[GD-G,][GD-G,] [GD-G,][GD-G,] [GD-G,][GD-G,] [GD-G,][GDG,]|[BG-=E-B,][BG-=E-B,] [BG-=E-B,][BG=EB,] [BG-D-B,][BG-D-B,] [BG-D-B,][BGDB,]|
+[BG-=E-B,][BG-=E-B,] [BG-=E-B,][BG=EB,] [BG-D-B,][BG-D-B,] [BG-D-B,][BGDB,]|[BG-D-B,][BG-D-B,] [BG-D-B,][BGDB,] [B=G-D-B,][B=G-D-B,] [B=G-D-B,][B=GDB,]|[B^GDB,]G GG GG GG|[=c-G=C-][=c-G=C-] [=c-G=C-][=cG=C] [^c-G^C-][c-GC-] [c-GC-][cGC]|
+[d-c-GD-][d-c-GD-] [d-c-GD-][d-c-GD-] [d-c-GD-][dcGD] [d-=c-GD-][d=cGD]|[=e-d-G=E-][=edG=E] [=e-^c-G=E-][=ecG=E] [d-c-GD-][dcGD] [d-=c-GD-][d=cGD]|[^c-GC-][c-GC-] [c-^EC-][c-EC-] [c-GC-][c-GC-] [c-=AC-][c=AC]|[G-D-=C-G,][G-D-=C-G,] [G-D-=C-G,][GD=CG,] [G-=E-^C-G,][G=ECG,] [G-C-A,-G,][GCA,G,]|
+[G-D-=C-G,][GD=CG,] [G-=E-^C-G,][G=ECG,] [G-C-A,-G,][GCA,G,] [G-=E-C-G,][G=ECG,]|[G-=E-C-G,][G=ECG,] [G-D-=C-G,][GD=CG,] [G-^E-D-G,][GEDG,] [G-=E-^C-G,][G=ECG,]|[G-D-=C-G,][G-D-=C-G,] [G-D-=C-G,][G-D-=C-G,] [G-D-=C-G,][G-D-=C-G,] [G-D-=C-G,][GD=CG,]|[=c-GD-=C-][=c-GD-=C-] [=c-GD-=C-][=cGD=C] [^c-G^C-][c-GC-] [c-GC-][cGC]|
+[d-c-GD-][d-c-GD-] [d-c-GD-][d-c-GD-] [d-c-GD-][dcGD] [d-=c-GD-][d=cGD]|[=e-d-G=E-][=edG=E] [=e-^c-G=E-][=ecG=E] [d-c-GD-][dcGD] [d-=c-GD-][d=cGD]|[^c-B-G-C][c-B-G-C] [c-B-G-C][cBGC] [c-=A-G-C][c=AGC] [c-=A-^E-C][c=AEC]|[G-E-D-G,][G-E-D-G,] [G-E-D-G,][GEDG,] [G-E-C-G,][GECG,] [^A-=E-C-G,][A=ECG,]|
+[A-=E-C-G,][A-=E-C-G,] [A-=E-C-G,][A=ECG,] [G-D-=C-G,][GD=CG,] [A-=E-^C-G,][A=ECG,]|[A-=E-C-G,][A-=E-C-G,] [A-=E-C-G,][A=ECG,] [G-D-=C-G,][GD=CG,] [A-=E-^C-G,][A=ECG,]|[A-=E-C-G,][A=ECG,] [G-D-=C-G,][GD=CG,] G,G, G,G,|f3/2c/2 G4 A2|
+=c6 ^c2|[d3/2^E3/2=C3/2-][f/2G/2=C/2-] [^e4A4=C4] [f-G^C]f|[f-G=C-][f-=C-] [fE=C-][d=C] c3/2=d/2 z/2z/2z/2z/2|f3/2c/2 G4 A2|
+=c6 a2-|a2 ^g2 e2 =c2|f2 ^d2 ^c2 A2|[E4-D4-A,4] [E4D4=C4]|
+[F4-^C4-] [F-C][F-C] [F3/2-D3/2][F/2C/2]|[E2-D2-C2] [E2-D2-=C2] [A2E2-D2-] [E2D2=C2]|[E8D8=C8]|[F8^C8]|
+[F8C8G,8]|
+V:2
+%Piano left
+%%MIDI program 0
+C,G, [F-C-][F-C-G,] [F-C-G,][FCG,] [FC]G,|[E-D-][E-D-G,] [E-D-G,][E-D-G,] [E-D-A,][EDG,] [FC]G,|zG,2G, G,G,2G,|zG, zG, [FC]G, [E=C]G,|
+C,G, [F-^C-][F-C-G,] [F-C-G,][F-C-G,] [F-C-G,][FCG,]|[E-D-][E-D-G,] [E-D-G,][E-D-G,] [E-D-A,][EDG,] [FC]G,|zG,2G, G,G,2G,|zG, zG, [FC]G, [FC]G,|
+G,,G, [D=C]G, [DB,]G, [FB,C,]^C|[A,E,]C [EA,]C C,G, [FC]G,|D,G, [DB,]G, D,=G, [DC]=G,|G,,^G, [DB,]G, [CA,]G, [=EC]G,|
+G,,G, [D-B,-][D-B,-G,] [D-B,-G,][DB,G,] [FB,]G,|D,E, [^EA,]E, A,,F, [FCA,]F,|F,,F, [FCA,]F, F,,F, [FD=A,]F,|A,,F, [FC]F, [D=C]F, [ED]F,|
+[F^C]F, [FC^A,]F, [D=A,]F, [FD]F,|A,,F, [D=C]F, [F^C]F, [D=C]F,|[F-^C-][F-C-F,] [F-C-F,][FCF,] [FC]E,- [D=CE,]G,|C,G, [F-^C-][F-C-G,] [F-C-G,][FCG,] [FC]G,|
+[E-D-][E-D-G,] [E-D-G,][E-D-G,] [E-D-^A,][EDG,] [FC]G,|zG,2G, G,G,2G,|zG, zG, [FC]G, [E=C]G,|C,G, [F-^C-][F-C-G,] [F-C-G,][F-C-G,] [F-C-G,][FCG,]|
+[E-D-][E-D-G,] [E-D-G,][E-D-G,] [E-D-A,][EDG,] [FC]G,|zG,2G, G,G,2G,|zG, G,G, G,G, G,G,|[G,,2C,,2] [G,,2D,,2] [C,2=E,,2] [=C,2D,,2]|
+[G,,2D,,2] [G,,2=E,,2] [D,2^E,,2] [^C,2=E,,2]|[C,2=E,,2] [D,2G,,2] [=E,2C,2] [D,2G,,2]|[D,8-G,,8-]|[D,2G,,2] [=E,2C,2] [D,2G,,2] [C,2=E,,2]|
+[D,2G,,2] [C,2=E,,2] [=C,2D,,2] [^C,2=E,,2]|[=C,2D,,2] [^C,2=E,,2] [D,2D,,2] [=E,2C,,2]|[D,8G,,8]|[G,,2C,,2] [G,,2D,,2] [C,2=E,,2] [=C,2D,,2]|
+[G,,2D,,2] [G,,2=E,,2] [D,2^E,,2] [^C,2=E,,2]|[C,2=E,,2] [D,2G,,2] [=E,2C,2] [D,3/2G,,3/2]G,,,/2|[D,8G,,8]|[=E,,4=E,,,4] [B,,4B,,,4]|
+[=E,,4=E,,,4] [B,,3B,,,3][A,,A,,,]|[G,,4G,,,4] [D,4D,,4]|[G,,4G,,,4] z4|[G,,2C,,2] [G,,2D,,2] [C,2=E,,2] [=C,2D,,2]|
+[G,,2D,,2] [G,,2=E,,2] [D,2^E,,2] [^C,2=E,,2]|[C,2=E,,2] [D,2G,,2] [=E,2C,2] [D,2G,,2]|[D,8-G,,8-]|[D,2G,,2] [=E,2C,2] [D,2G,,2] [C,2=E,,2]|
+[D,2G,,2] [C,2=E,,2] [=C,2D,,2] [^C,2=E,,2]|[=C,2D,,2] [^C,2=E,,2] [D,2D,,2] [=E,2C,,2]|[D,8G,,8]|[G,,2C,,2] [G,,2D,,2] [C,2=E,,2] [=C,2D,,2]|
+[G,,2D,,2] [G,,2=E,,2] [D,2^E,,2] [^C,2=E,,2]|[C,2=E,,2] [D,2G,,2] [=E,2C,2] [D,3/2G,,3/2]G,,,/2|[D,8G,,8]|[=E,,4=E,,,4] [B,,4B,,,4]|
+[=E,,4=E,,,4] [B,,3B,,,3][A,,A,,,]|[G,,4G,,,4] [D,4D,,4]|[G,,4G,,,4] z4|[^E,4G,,4^E,,4] [=E,2G,,2-=E,,2] [C,2G,,2C,,2]|
+[G,,6G,,,6] [G,2G,,2]|[G,4C,4] [G,4G,,4]|[=A,4=A,,4] [G,2G,,2] [^E,2^E,,2]|G,,4 [G,,4C,,4]|
+[G,,2G,,,2] [G,,6C,,6]|[G,,2C,,2] [G,,4G,,,4] [G,,2C,,2]|[G,,8G,,,8]|[E,-G,,E,,-][E,-G,,E,,-] [E,-G,,E,,-][E,G,,E,,] [=E,2G,,2-=E,,2] [C,2G,,2C,,2]|
+[G,,8G,,,8]|[G,,4C,,4] [G,4G,,4]|[F,4F,,4] [^E,4^E,,4]|[=C,4=C,,4] [^C,4^C,,4]|
+[G,,6G,,,6] [G,,2C,,2]|[G,,6G,,,6] [G,,2C,,2]|[G,,2G,,,2-] [G,,2G,,,2-] G,,,-[F,G,,,] E,D,|C,G, [F-C-][F-C-G,] [F-C-G,][F-C-G,] [F-C-G,][FCG,]|
+[E-D-][E-D-G,] [E-D-G,][E-D-G,] [E-D-^A,][EDG,] [FC]G,|zG,2G, G,G,2G,|zG, zG, [FC]G, [E=C]G,|C,G, [F-^C-][F-C-G,] [F-C-G,][F-C-G,] [F-C-G,][FCG,]|
+[ED]G, G,G, A,G, z2|z8|z8|G,,-[G,G,,-] [G,G,,-][G,G,,-] [G,G,,-][G,G,,-] [G,G,,-][G,G,,]|
+[G,C,-][G,C,-] [G,C,-][G,C,-] [G,C,-][G,C,-] [G,C,-][G,C,]|[G,G,,-][G,G,,-] [G,G,,-][G,G,,-] [G,G,,-][G,G,,-] [G,G,,-][G,G,,]|[G,G,,-][G,G,,-] [G,G,,-][G,G,,-] [G,G,,-][G,G,,-] [G,G,,-][G,G,,]|[G,C,-][G,C,-] [G,C,-][G,C,] [G,G,,-][G,G,,-] [G,G,,-][G,G,,]|
+C,,8|
+%Chopin: Prelude No.15 in Db Major Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-21
+%Spur 7
+%Spur 8

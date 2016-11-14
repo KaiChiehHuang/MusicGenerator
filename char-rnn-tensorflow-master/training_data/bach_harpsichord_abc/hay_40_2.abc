@@ -1,0 +1,108 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/hay_40_2.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=139
+% Last note suggests Phrygian mode tune
+K:G % 1 sharps
+%Klaviersonate in G-Dur Hoboken XVI:40
+%2. Satz
+%Copyright \0xa9 1998 von Bernd Kr\0xfcger. http://www.piano-midi.de
+%Joseph Haydn
+%Presto
+%Fertiggestellt am 1.2.98
+
+%Update am 5.10.99
+
+%Update am 21.6.2002
+
+%Normierung: 23.12.2002
+
+%Update am 29.11.2011
+
+%Dauer: 2:59 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%Presto - Teil 1
+%Teil 1 Wiederholung
+%Teil 2
+%Teil 2 Wiederholung
+%Teil 3
+%Teil 4
+%Teil 4 Wiederholung
+%Fine
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+G3/2z/2 Gz2D GB|B/2A/2G/2A/2 Gd d/2z/2d/2z/2 d/2z/2d/2z/2|d3/2z/2 cB Aa2g|g/2f/2e/2d/2 dd d/2e/2c/2d/2 B/2c/2A/2B/2|
+G3/2z/2 Gz2D GB|B/2A/2G/2A/2 Ge e/2z/2e/2z/2 e/2z/2e/2z/2|e3/2z/2 b3/2z/2 d2 ^c/2[d/2^c/2]z/2z/2|d/2e/2f/2g/2 a/2f/2e/2d/2 ^c/2d/2e/2f/2 g/2e/2d/2^c/2|
+d/2e/2f/2g/2 a/2f/2e/2d/2 ^c/2d/2e/2f/2 g/2e/2d/2^c/2|d3/2z/2 d'2 z4|G3/2z/2 Gz2D GB|B/2A/2G/2A/2 Gd d/2z/2d/2z/2 d/2z/2d/2z/2|
+d3/2z/2 =cB Aa2g|g/2f/2e/2d/2 dd d/2e/2c/2d/2 B/2c/2A/2B/2|G3/2z/2 Gz2D GB|B/2A/2G/2A/2 Ge e/2z/2e/2z/2 e/2z/2e/2z/2|
+e3/2z/2 b3/2z/2 d2 ^c/2[d/2^c/2]z/2z/2|d/2e/2f/2g/2 a/2f/2e/2d/2 ^c/2d/2e/2f/2 g/2e/2d/2^c/2|d/2e/2f/2g/2 a/2f/2e/2d/2 ^c/2d/2e/2f/2 g/2e/2d/2^c/2|d3/2z/2 d'2 z4|
+=f3/2z/2 =fz2A AA|^A3/2z/2 dz2F FF|G3/2z/2 ^Az2^C ^C^C|D3/2z/2 A,F, D,2 z2|
+G3/2z/2 Gz2D GB|B/2=A/2G/2A/2 Ge e/2z/2e/2z/2 e/2z/2e/2z/2|e3/2z/2 c'e d/2z/2d/2z/2 d/2z/2d/2z/2|d3/2z/2 bz4z|
+z3z/2z/2 g/2zz/2 e/2zz/2|=cz2z/2z/2 cc cc|c3/2z/2 BB Ae dF|G/2A/2B/2c/2 d/2B/2A/2G/2 F/2G/2A/2B/2 c/2A/2G/2F/2|
+G/2A/2B/2c/2 d/2B/2A/2G/2 F/2G/2A/2B/2 c/2A/2G/2F/2|G3/2z/2 g2 z4|=f3/2z/2 =fz2A AA|^A3/2z/2 dz2F FF|
+G3/2z/2 ^Az2^C ^C^C|D3/2z/2 A,F, D,2 z2|G3/2z/2 Gz2D GB|B/2=A/2G/2A/2 Ge e/2z/2e/2z/2 e/2z/2e/2z/2|
+e3/2z/2 c'e d/2z/2d/2z/2 d/2z/2d/2z/2|d3/2z/2 bz4z|z3z/2z/2 g/2zz/2 e/2zz/2|cz2z/2z/2 cc cc|
+c3/2z/2 BB Ae dF|G/2A/2B/2c/2 d/2B/2A/2G/2 F/2G/2A/2B/2 c/2A/2G/2F/2|G/2A/2B/2c/2 d/2B/2A/2G/2 F/2G/2A/2B/2 c/2A/2G/2F/2|G3/2z/2 g2 z4|
+zE2<e2^d ^f2-|fe2<g2f b2-|b^a [e'3^c'3][d'2b2][^c'-e-]|[^c'e][b2=d2][^a^c] zB bz|
+zE2<e2^d f2-|fe2<g2f b2-|b^a [e'3^c'3][d'2b2][^c'-e-]|[^c'e][b2=d2][^a^c] zB bz|
+zA2<=a2^g d'2-|d'=c'2b2a zf|=g3f [c'3a3][b-g-]|[bg][a2f2][g2e2][f^d] b/2a/2g/2f/2|
+e2 z[eG] [f3A3][fA]|[g3B3][gB] [a3=c3]f|^d3c2<A2F|^D3^D/2=C/2 A,/2z/2C/2A,/2 F,/2z/2A,/2F,/2|
+^D,z2c'/2a/2 f/2z/2a/2f/2 ^d/2z/2f/2^d/2|cz4C B,A|z[GB,] z[FA,] z[EG,] z[^DF,]|[E2G,2] z^d' e'2 zE|
+[=F2=D2] z[=FD] [^G2B,2] z[^GB,]|[A2C2] z[AC] [=G2^C2] z[G^C]|[^F2D2] z^c' =d'2 zD|[E2^C2] z[E^C] [F2=C2] zD|
+G3/2z/2 Gz2D GB|B/2A/2G/2A/2 G=d d/2z/2d/2z/2 d/2z/2d/2z/2|d3/2z/2 cB Aa2g|g/2f/2e/2d/2 dd d/2e/2c/2d/2 B/2c/2A/2B/2|
+G3/2z/2 G/2D/2B/2A/2 G/2D/2G/2B/2 d/2B/2A/2G/2|B/2A/2G/2A/2 Ge ^d/2e/2=f/2^f/2 g/2^g/2a/2^a/2|b2 =a/2=g/2f/2e/2 =d2 ^c/2[d/2^c/2]z/2z/2|d/2e/2f/2g/2 a/2b/2^c'/2d'/2 ^c'/2e'/2^c'/2a/2 g/2b/2g/2e/2|
+f/2a/2g/2f/2 e/2d/2^c/2B/2 A/2B/2^c/2d/2 e/2f/2g/2e/2|d/2e/2f/2g/2 a/2b/2^c'/2z/2 d2 z2|G3/2z/2 G/2D/2B/2A/2 G/2D/2G/2B/2 d/2B/2A/2G/2|B/2A/2G/2A/2 Gd dd dd|
+d/2g/2e/2d/2 =c/2e/2c/2B/2 A/2e'/2=c'/2b/2 a/2c'/2a/2g/2|f/2g/2a/2g/2 f/2e/2d/2^c/2 d/2d'/2=c/2c'/2 B/2b/2A/2a/2|G3/2z/2 G/2D/2B/2A/2 G/2D/2G/2B/2 d/2B/2A/2G/2|B/2A/2G/2A/2 Ge ^d/2e/2=f/2^f/2 g/2^g/2a/2^a/2|
+b2 =a/2=g/2f/2e/2 =d2 ^c/2[d/2^c/2]z/2z/2|d/2e/2f/2g/2 a/2b/2^c'/2d'/2 ^c'/2e'/2^c'/2a/2 g/2b/2g/2e/2|f/2a/2g/2f/2 e/2d/2^c/2B/2 A/2B/2^c/2d/2 e/2f/2g/2e/2|d/2e/2f/2g/2 a/2b/2^c'/2z/2 d2 z2|
+=f3/2z/2 =f=f'2A AA|^A3/2z/2 dd'2F FF|G3/2z/2 ^A^a2^C ^C^C|D/2E/2F/2G/2 =A/2F/2G/2E/2 D2 z2|
+G3/2z/2 G/2D/2B/2A/2 G/2D/2G/2B/2 d/2B/2A/2G/2|B/2A/2G/2A/2 Ge'/2e/2 e'/2e/2e'/2e/2 e'/2e/2e'/2e/2|e'z/2z/2 =ad'/2d/2 d'/2d/2d'/2d/2 d'/2d/2d'/2d/2|d'z/2z/2 gz4z|
+z3z/2z/2 g/2z/2z/2z/2 e/2z/2z/2z/2|=c2 zz/2z/2 cb =c'c'|c'/2b/2c'/2a/2 b/2a/2b/2g/2 a/2^g/2a/2e/2 =g/2^f/2e/2d/2|g/2d/2g/2b/2 d'/2b/2a/2g/2 f/2d/2f/2a/2 c'/2a/2g/2f/2|
+g/2d/2g/2b/2 d'/2b/2a/2g/2 f/2d/2f/2a/2 c'/2a/2g/2f/2|g/2b/2g/2d/2 B/2z4z3/2|=f3/2z/2 =f=f'2A AA|^A3/2z/2 dd'2F FF|
+G3/2z/2 ^A^a2^C ^C^C|D/2E/2F/2G/2 =A/2F/2G/2E/2 D2 z2|G3/2z/2 G/2D/2B/2A/2 G/2D/2G/2B/2 d/2B/2A/2G/2|B/2A/2G/2A/2 Ge'/2e/2 e'/2e/2e'/2e/2 e'/2e/2e'/2e/2|
+e'z/2z/2 =ad'/2d/2 d'/2d/2d'/2d/2 d'/2d/2d'/2d/2|d'z/2z/2 gz4z|z3z/2z/2 g/2z/2z/2z/2 e/2z/2z/2z/2|c2 zz/2z/2 cb c'c'|
+c'/2b/2c'/2a/2 b/2a/2b/2g/2 a/2^g/2a/2e/2 =g/2^f/2e/2d/2|g/2d/2g/2b/2 d'/2b/2a/2g/2 f/2d/2f/2a/2 c'/2a/2g/2f/2|g/2d/2g/2b/2 d'/2b/2a/2g/2 f/2d/2f/2a/2 c'/2a/2g/2f/2|g/2b/2g/2d/2 B/2
+V:2
+%Piano left
+%%MIDI program 0
+[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[=C2G,2] [B,G,]z [G/2=F/2]z/2[G/2=F/2]z/2 [G/2=F/2]z/2[G/2=F/2]z/2|[G3E3][=FD] [E2C2] [E2^C2]|D2 z6|
+[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[=C2G,2] [B,G,]z [B/2G/2]z/2[B/2G/2]z/2 [B/2G/2]z/2[B/2G/2]z/2|[BG][BG] [BG][BG] [^FA,][FA,] [EA,][EA,]|[FD][FD] [FD][FD] [GD][GD] [GD][GD]|
+[FD][FD] [FD][FD] [GD][GD] [GD][GD]|[F2D2] z2 [=D,2D,,2] z2|[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z [G/2=F/2]z/2[G/2=F/2]z/2 [G/2=F/2]z/2[G/2=F/2]z/2|
+[G3E3][=FD] [E2C2] [E2^C2]|D2 z6|[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[=C2G,2] [B,G,]z [B/2G/2]z/2[B/2G/2]z/2 [B/2G/2]z/2[B/2G/2]z/2|
+[BG][BG] [BG][BG] [^FA,][FA,] [EA,][EA,]|[FD][FD] [FD][FD] [GD][GD] [GD][GD]|[FD][FD] [FD][FD] [GD][GD] [GD][GD]|[F2D2] z2 [D,2D,,2] z2|
+[D2^A,2] z[D^A,] [^D2C2] z[^DC]|[=F2=D2] z[D^A,] [C2=A,2] z[CA,]|[D2^A,2] z[^A,G,] [G,2^D,2] z[G,^D,]|[F,3/2=D,3/2]z/2 A,,F,, D,,2 z2|
+[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z [d/2^G/2]z/2[d/2^G/2]z/2 [d/2^G/2]z/2[d/2^G/2]z/2|[c2A2] z2 [c/2^F/2]z/2[c/2F/2]z/2 [c/2F/2]z/2[c/2F/2]z/2|[B2=G2] z6|
+z8|[GE]z2z/2z/2 ^D2 z3/2z/2|[F2=D2] [G2E2] [E2C2] D2|[B,G,][B,G,] [B,G,][B,G,] [CG,][CG,] [CG,][CG,]|
+[B,G,][B,G,] [B,G,][B,G,] [CG,][CG,] [CG,][CG,]|[B,2G,2] z2 [G,,2G,,,2] z2|[D2^A,2] z[D^A,] [^D2C2] z[^DC]|[=F2=D2] z[D^A,] [C2=A,2] z[CA,]|
+[D2^A,2] z[^A,G,] [G,2^D,2] z[G,^D,]|[F,3/2=D,3/2]z/2 A,,F,, D,,2 z2|[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z [d/2^G/2]z/2[d/2^G/2]z/2 [d/2^G/2]z/2[d/2^G/2]z/2|
+[c2A2] z2 [c/2^F/2]z/2[c/2F/2]z/2 [c/2F/2]z/2[c/2F/2]z/2|[B2=G2] z6|z8|[GE]z2z/2z/2 ^D2 z3/2z/2|
+[F2=D2] [G2E2] [E2C2] D2|[B,G,][B,G,] [B,G,][B,G,] [CG,][CG,] [CG,][CG,]|[B,G,][B,G,] [B,G,][B,G,] [CG,][CG,] [CG,][CG,]|[B,2G,2] z2 [G,,2G,,,2] z2|
+[E,2E,,2] z[BG] [A3F3][cA]|[B3G3][^AE] [B3D3][FD]|[E3^C3]^A, B,2 E2|F2 F2 B,2 z[^D,^D,,]|
+[E,2E,,2] z[BG] [=A3F3][cA]|[B3G3][^AE] [B3D3][FD]|[E3^C3]^A, B,2 E2|F2 F2 B,2 z[B,,B,,,]|
+[C,2C,,2] z[E=C] [D3B,3][B,^G,]|[C2=A,2] [D2B,2] [E2C2] z2|z[dB] [c2=A2] zF G2|^D2 E2 B,2 z2|
+zE,2<E2^D F2-|FE2<G2F A2-|AF2<^D2C A,2-|A,F, ^D,^D,/2C,/2 A,,/2z/2C,/2A,,/2 F,,/2z/2A,,/2F,,/2|
+^D,,z6z|z6 ^D,2|E,z A,,z B,,z B,,z|zE, E,,z2E, E,,z|
+zE, E,,z2E, E,,z|zE, E,,z2^D, ^D,,z|z=D, =D,,z2D, D,,z|zD, D,,z2D, D,,z|
+[B,=G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z [G/2=F/2]z/2[G/2=F/2]z/2 [G/2=F/2]z/2[G/2=F/2]z/2|[G3E3][=F=D] [E2C2] [E2^C2]|D2 z6|
+[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[=C2G,2] [B,G,]z [BG][BG] [BG][BG]|[BG][BG] [BG][BG] [^FA,][FA,] [EA,][EA,]|[FD][FD] [FD][FD] [GD][GD] [GD][GD]|
+[FD][FD] [FD][FD] [GD][GD] [GD][GD]|[FD][FD] [FD][F/2D/2]z/2 [F2D2] z2|[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z =F/2G/2=F/2G/2 =F/2G/2=F/2G/2|
+E2 zE/2D/2 C2 z^C|D4 D,2 z2|[B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[=C2G,2] [B,G,]z [BG][BG] [BG][BG]|
+[BG][BG] [BG][BG] [^FA,][FA,] [EA,][EA,]|[FD][FD] [FD][FD] [GD][GD] [GD][GD]|[FD][FD] [FD][FD] [GD][GD] [GD][GD]|[FD][FD] [FD][F/2D/2]z/2 [F2D2] z2|
+^A,/2=F/2D/2=F/2 ^A,/2=F/2D/2=F/2 C/2=F/2^D/2=F/2 C/2=F/2^D/2=F/2|^A,/2=F/2=D/2=F/2 ^A,/2=F/2D/2=F/2 =A,/2D/2C/2D/2 A,/2D/2C/2D/2|G,/2D/2^A,/2D/2 G,/2D/2^A,/2D/2 ^D,/2G,/2F,/2G,/2 ^D,/2G,/2F,/2G,/2|=D,2 z2 D,,/2D,/2C,,/2C,/2 B,,,/2B,,/2A,,,/2A,,/2|
+G,,,2 [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z [d^G][d^G] [d^G][d^G]|[c2A2] z2 [c^F][cF] [cF][cF]|[B2=G2] z6|
+z8|[G2E2] z2 ^D/2G/2^D/2G/2 ^D/2G/2^D/2G/2|[F2=D2] G2 [c2C2] [c2D2]|[BG][BG] [BG][BG] [cG][cG] [cG][cG]|
+[BG][BG] [BG][BG] [cG][cG] [cG][cG]|[B2G2] z/2G/2D/2B,/2 G,z3|^A,/2=F/2D/2=F/2 ^A,/2=F/2D/2=F/2 C/2=F/2^D/2=F/2 C/2=F/2^D/2=F/2|^A,/2=F/2=D/2=F/2 ^A,/2=F/2D/2=F/2 =A,/2D/2C/2D/2 A,/2D/2C/2D/2|
+G,/2D/2^A,/2D/2 G,/2D/2^A,/2D/2 ^D,/2G,/2F,/2G,/2 ^D,/2G,/2F,/2G,/2|=D,2 z2 D,,/2D,/2C,,/2C,/2 B,,,/2B,,/2A,,,/2A,,/2|G,,,2 [B,G,][B,G,] [B,G,][B,G,] [B,G,][B,G,]|[C2G,2] [B,G,]z [d/2^G/2]z/2[d/2^G/2]z/2 [d/2^G/2]z/2[d/2^G/2]z/2|
+[c2A2] z2 [c/2^F/2]z/2[c/2F/2]z/2 [c/2F/2]z/2[c/2F/2]z/2|[B2=G2] z6|z8|[G2E2] z2 ^D/2G/2^D/2G/2 ^D/2G/2^D/2G/2|
+[F2=D2] G2 [c2C2] [c2D2]|[BG][BG] [BG][BG] [cG][cG] [cG][cG]|[BG][BG] [BG][BG] [cG][cG] [cG][cG]|[B2G2] z/2G/2D/2B,/2 G,
+%Pedale
+%Haydn: Piano sonata in G major, Hoboken XVI:40, 2. Movement
+%Copyright \0xa9 1998 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2011-11-29

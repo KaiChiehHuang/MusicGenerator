@@ -1,0 +1,69 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/mendel_op19_1.mid
+% format 1 file 18 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=25
+K:E % 4 sharps
+%Mendelssohn: Lieder ohne Worte Opus 19 Nr. 1
+%Copyright \0xa9 2014 by Bernd Krueger
+%Bernd Krueger
+%Andante con moto
+%Erstellt: 27.9.2014
+
+%Dauer: 2:46 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=4  minor=0
+%Andante con moto
+%Teil 1
+%Teil 1 Wiederholung
+%Teil 2
+V:1
+%Piano right
+%%MIDI program 0
+z6 zA|GF Ee dc Bc|AB/2F/2 G/2z/2B/2A/2 G2 F/2z/2A|GF Ee dc Bg|
+c3g2<c2c|ce dc/2G/2 B2 ^A2|=A2 G/2z/2G ^AB dc/2z/2|B2 z=A GF Ee|
+dc Bc AB/2F/2 G/2z/2B/2A/2|G2 F/2z/2A GF Ee|dc Bg2<c2g|c3c ce dc/2G/2|
+B2 ^A2 =A2 G/2z/2G|^AB dc/2z/2 B2 zF/2F/2|=GF/2E/2 =AA/2A/2 BA/2=G/2 =c=c/2=c/2|=d=c/2B/2 =gf/2e/2 =d=d z/2z/2z/2z/2|
+z/2f/2z/2z/2 z/2z/2z/2z/2 =dB Ae|=dB AB/2=c/2 z/2B/2=d/2B/2 B/2A/2=G/2A/2|B4- B/2B/2=d/2B/2 B/2A/2=G/2A/2|B3^A B2 z=c|
+B2 z=A ^GF Ee|^d^c Bc A/2c/2B/2F/2 G/2G/2B/2A/2|G2 F/2z/2G/2A/2 BG Fc|BG Fe eB3/2B/2c/2B/2|
+A2 G/2F/2G/2A/2 BG Fc|BG Fe dc B/2d/2f/2a/2|^g/2d/2f/2e/2 d/2c/2A/2F/2 E2 D2|=D2 C/2z/2C ^DE GF/2z/2|
+E2 z=D C2 z=C|B,2 zG/2F/2 E2 zG|E2 E2 [E4G,4]|
+V:2
+%Piano middle
+%%MIDI program 0
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 [=D=CA,F,]z|
+z4 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2z/2z/2 
+V:3
+%Piano left
+E,,2 G,,2 F,,2 B,,,z|E,,F,, G,,^A,, B,,C, D,=F,|^F,B,, E,=A,, B,,2 B,,/2z/2D,,|E,,F,, G,,^A,, B,,C, D,E,|
+C,G,2<E,2G, =F,2|^F,^A,, B,,E, F,z2F,,-|F,,F,, E,,D,, C,,B,, ^A,,F,,|B,,3z E,,F,, G,,^A,,|
+B,,C, D,=F, ^F,B,, E,=A,,|B,,2 B,,/2z/2D,, E,,F,, G,,^A,,|B,,C, D,E, C,G, E,2-|E,G, =F,2 ^F,^A,, B,,E,|
+F,z2F,,2F,, E,,D,,|C,,B,, ^A,,F,, B,,3z|E,,2 F,,=D, =G,,2 =A,,2|B,,2 =C,2 =D,E, z2|
+z4 zB,, =C,2|=D,2 E,F, =G,z =C,2|B,,4 =G,,2 =C,2|B,,4 B,,4|
+B,,3z E,,F,, ^G,,^A,,|B,,^C, ^D,=F, ^F,B,, E,C,|B,,3=A,, G,,2 A,,2|B,,2 C,2 B,,2 B,,2|
+E,B,, E,z2B,, ^A,,=A,,|G,,B,, ^A,,C, B,,E, D,B,|E,^G, A,=A,, B,,z2B,,,-|B,,,B,,, A,,,G,,, F,,,E,, D,,B,,,|
+E,,2 E,,4 E,,2-|E,,2 E,,4 E,,2-|E,,E,, E,,E,, [B,,4E,,4]|
+%Pedale
+%%MIDI program 0
+%Mendelssohn: Song without words Opus 19 No. 1
+%Copyright \0xa9 2010 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2014-09-27
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16
+%Spur 17

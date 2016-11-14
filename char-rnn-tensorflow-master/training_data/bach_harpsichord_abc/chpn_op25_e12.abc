@@ -1,0 +1,233 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn_op25_e12.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=299
+% Last note suggests unknown mode tune
+K:Eb % 3 flats
+%Chopin Etude  No. 12, Opus 25
+%Copyright \0xa9 2003 by Bernd Krueger 
+%Frederic Chopin
+%Allegro molto con fuoco
+%Fertiggestellt am  31.3.2003
+
+%Dauer: 2:19 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-3  minor=0
+V:1
+%Piano right
+%%MIDI program 1
+%bdca426d104a26ac9dcb070447587523
+E,G, EE Ge eg|e'g ee GE EG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+F,C FF cf fc'|f'c' ff cF FC|
+%bdca426d104a26ac9dcb070447587523
+E,G, EE Ge eg|e'g ee GE EG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+E,A, EE Ae ea|e'a ee AE EA,|
+%bdca426d104a26ac9dcb070447587523
+C,E, CC Ec- [c-E][c-C]|[cE]B- [B-E][B-C] [BE]A- [A-E][A-C]|[AD]G- [G-D][G-=B,] [G_D]G- [G-_D][G-_B,]|[GC]F- [F-C][F-=A,] [F=B,]F- [F-=B,][F_A,]|
+%bdca426d104a26ac9dcb070447587523
+E,G, EE Ge eg|e'g ee GE EG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, =DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+F,C FF cf fc'|f'c' ff cF FC|
+%bdca426d104a26ac9dcb070447587523
+=E,C =E=E c=e =ec'|=e'c' =e=e c=E =EC|
+%bdca426d104a26ac9dcb070447587523
+A,_D AA _da a_d'|a'_d' aa _dA A_D|
+%bdca426d104a26ac9dcb070447587523
+G,=B, GG =Bg g=b|g'=b gg =BG G=B,|
+%bdca426d104a26ac9dcb070447587523
+=E,G, =E=E G=e =eg|=e'=e' g'=e'' g'=e' =e'g|
+%bdca426d104a26ac9dcb070447587523
+=e=e G=E =E-[=E-G,] [=E-=E,][=EG,]|D,G, =DG, F,G, GG,|
+%bdca426d104a26ac9dcb070447587523
+=E,G, =E=E- [G=E]=e =eg|=e'=e' g'=e'' g'=e' =e'g|
+%bdca426d104a26ac9dcb070447587523
+=e=e G=E =E-[=E-G,] [=E-=E,][=EG,]|D,G, D-[D-G,] [D-C,][DG,] C-[CG,]|
+%bdca426d104a26ac9dcb070447587523
+D,G, DD- [GD]=d dg|=d'd' g'd'' g'd' d'g|
+%bdca426d104a26ac9dcb070447587523
+dd GD D-[D-G,] [D-D,][DG,]|C,F, C-[C-F,] [C-C,][CF,] =A,-[=A,F,]|
+%bdca426d104a26ac9dcb070447587523
+C,F, CC Fc cf|c'f cc FC CF,|
+%bdca426d104a26ac9dcb070447587523
+C,=E, CC =Ec c=e|c'=e cc =EC C=E,|
+%bdca426d104a26ac9dcb070447587523
+C,_E, CC _Ec c_e|c'c' _e'c'' e'c' c'e|
+%bdca426d104a26ac9dcb070447587523
+cc EC C-[C-E,] [C-C,][CE,]|B,,E, _B,E, _D,E, EE,|
+%bdca426d104a26ac9dcb070447587523
+C,E, CC- [EC]c ce|c'c' e'c'' e'c' c'e|
+%bdca426d104a26ac9dcb070447587523
+cc EC C-[C-E,] [C-C,][CE,]|B,,E, B,E, A,,E, _A,E,|
+%bdca426d104a26ac9dcb070447587523
+B,,E, B,B,- [EB,]_B Be|_bb e'b' e'b be|
+%bdca426d104a26ac9dcb070447587523
+BB EB, B,-[B,-E,] [B,-B,,][B,E,]|A,,_D, A,-[A,-_D,] [A,-A,,][A,_D,] F,-[F,_D,]|
+%bdca426d104a26ac9dcb070447587523
+A,,_D, A,A, _DA A_d|a_d AA _DA, A,_D,|
+%bdca426d104a26ac9dcb070447587523
+A,,C, A,A, CA CA,|_G,,C, _G,_G, C_G C_G,|
+%bdca426d104a26ac9dcb070447587523
+=G,,=B,, =G,G, =B,=G G=B|g=B GG =B,G, G,=B,,|
+%bdca426d104a26ac9dcb070447587523
+A,,C, A,A, CA Ac|ac AA CA, A,C,|
+%bdca426d104a26ac9dcb070447587523
+C,F, CC Fc cf|c'f cc FC CF,|
+%bdca426d104a26ac9dcb070447587523
+=B,,F, =B,=B, F=B =Bf|=bf =B=B F=B, =B,F,|
+%bdca426d104a26ac9dcb070447587523
+=B,,F, =B,=B, F=B =Bf|=bf =B=B F=B, =B,F,|
+%bdca426d104a26ac9dcb070447587523
+C,F, CC Fc cf|c'f cc FC CF,|
+%bdca426d104a26ac9dcb070447587523
+E,_G, EE _Ge e_g|e'_g ee _GE E_G,|
+%bdca426d104a26ac9dcb070447587523
+=D,=G, =DD =G=d d=g|d'g dd GD DG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+E,A, EE Ae ea|e'a ee AE EA,|
+%bdca426d104a26ac9dcb070447587523
+G,C GG cg gc'|g'c' gg cG GC|
+%bdca426d104a26ac9dcb070447587523
+F,C FF cf fc'|f'=b ff =BF F=B,|
+%bdca426d104a26ac9dcb070447587523
+A,=B, AA =Ba a=b|a'=b aa =BA A=B,|
+%bdca426d104a26ac9dcb070447587523
+G,=B, GG =Bg g=b|g'=b gg =BG G=B,|
+%bdca426d104a26ac9dcb070447587523
+G,,=B,, G,G, =B,G =B,G,|G,,C, G,G, CG CG,|
+%bdca426d104a26ac9dcb070447587523
+G,,_D, G,G, _DG _DG,|G,,_D, G,_D, G,,=D, G,D,|
+%bdca426d104a26ac9dcb070447587523
+E,G, EE Ge eg|e'g ee GE EG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, =DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+F,C FF cf fc'|f'c' ff cF FC|
+%bdca426d104a26ac9dcb070447587523
+E,G, EE Ge eg|e'g ee GE EG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+E,A, EE Ae ea|e'a ee AE EA,|
+%bdca426d104a26ac9dcb070447587523
+C,E, CC Ec- [c-E][c-C]|[cE]_B- [B-E][B-C] [BE]A- [A-E][A-C]|[AD]G- [G-D][G-=B,] [G_D]G- [G-_D][G-_B,]|[GC]F- [F-C][F-=A,] [F=B,]F- [F-=B,][F_A,]|
+%bdca426d104a26ac9dcb070447587523
+E,G, EE Ge eg|e'g ee GE EG,|
+%bdca426d104a26ac9dcb070447587523
+D,A, =DD Ad da|d'a dd AD DA,|
+%bdca426d104a26ac9dcb070447587523
+=E,_B, =E=E B=e =e_b|=e'b =e=e B=E =E=B,-|
+%bdca426d104a26ac9dcb070447587523
+[=B,F,]A, FF Af fa|f'a ff AF FA,|
+%bdca426d104a26ac9dcb070447587523
+F,A, FF Af fa|f'a ff AF FA,|
+%bdca426d104a26ac9dcb070447587523
+=E,_B, =E=E B=e =eb|=e'b =e=e B=E =EB,|
+%bdca426d104a26ac9dcb070447587523
+F,=B, FF =Bf f=b|f'=b ff =BF F=B,|
+%bdca426d104a26ac9dcb070447587523
+G,=B, GG =Bg =BG|A,=B, AA =Ba =BA|
+%bdca426d104a26ac9dcb070447587523
+G,C GG cg gc'|g'c' gg cG GC|
+%bdca426d104a26ac9dcb070447587523
+CG cc gc' c'g'|c''g' c'c' gc cG|
+%bdca426d104a26ac9dcb070447587523
+_B,C _BB c_b cB|A,C AA ca cA|
+%bdca426d104a26ac9dcb070447587523
+F,A, FF Af AF|D,A, DD Ad AD|
+%bdca426d104a26ac9dcb070447587523
+G,C GG cg gc'|g'c' gg cG GC|
+%bdca426d104a26ac9dcb070447587523
+A,C AA ca ac'|a'c' aa cA AC|
+%bdca426d104a26ac9dcb070447587523
+A,=B, AA =Ba a=b|a'=b aa =BA A=B,|
+%bdca426d104a26ac9dcb070447587523
+G,=B, GG =Bg g=b|g'=b gg =BG G=B,|
+%bdca426d104a26ac9dcb070447587523
+=E,G, =E=E G=e =eg|=e'=e' g'=e'' g'=e' =e'g|
+%bdca426d104a26ac9dcb070447587523
+=e=e G=E =E-[=E-G,] [=E-=E,][=EG,]|D,G, DG, F,G, G-[GG,]|
+%bdca426d104a26ac9dcb070447587523
+=E,G, =E=E G=e =eg|=e'=e' g'=e'' g'=e' =e'g|
+%bdca426d104a26ac9dcb070447587523
+=e=e G=E =E-[=E-G,] [=E-=E,][=EG,]|D,G, D-[D-G,] [D-C,][DG,] C-[CG,]|
+%bdca426d104a26ac9dcb070447587523
+D,G, DD- [GD]d dg|d'd' g'd'' g'd' d'g|
+%bdca426d104a26ac9dcb070447587523
+dd GD D-[D-G,] [D-D,][DG,]|C,F, C-[C-F,] [C-C,][CF,] =A,-[=A,F,]|
+%bdca426d104a26ac9dcb070447587523
+C,F, CC Fc cf|c'c' f'c'' f'c' c'f|
+%bdca426d104a26ac9dcb070447587523
+cc FC C-[C-F,] [C-C,][CF,]|C,F, C-[C-F,] [C-C,][CF,] D-[DF,]|
+%bdca426d104a26ac9dcb070447587523
+C,F, CC Fc cf|c'c' f'c'' f'c' c'f|
+%bdca426d104a26ac9dcb070447587523
+cc FC C-[C-F,] [C-C,][CF,]|C,F, C-[C-F,] [C-C,][CF,] D-[DF,]|
+%bdca426d104a26ac9dcb070447587523
+=E,G, =EG, =E,G, =EG,|=E,G, =EG, =E,G, =EG,|
+%bdca426d104a26ac9dcb070447587523
+=E,G, =EG, =E,G, =EG,|=E,G, =EG, =E,G, =EG,|
+=E,4 z4|[=e8c8G8=E8]|
+V:2
+%Piano left
+%%MIDI program 1
+C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|
+C,,A,, C,C, _A,C CA|cA CC A,C, C,A,,|C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|
+C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|C,,F,, =B,,C, A,=B, CF|=BF C=B, F,C, =B,,F,,|
+C,,G,, C,C, G,C G,C,|G,C G,C, G,C G,C,|G,=B, G,C, G,_B, G,C,|F,=A, F,C, F,_A, F,C,|
+C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|
+C,,A,, C,C, A,C CA|cA CC A,C, C,A,,|C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|
+F,,_D, F,F, _DF F_d|f_d FF _DF, F,_D,|G,,=D, F,G, =DF G=B|f=B GF DG, D,G,,|
+C,,G,, C,C, G,C CG|cc gc' gc cG|CC G,C, C,G,, C,,G,,|=B,,G,, C,,G,, D,G,, C,,G,,|
+C,,G,, C,C, G,C CG|cc gc' gc cG|CC G,C, C,G,, C,,G,,|=B,,G,, C,,G,, =A,,G,, C,,G,,|
+C,,G,, =B,,=B,, G,=B, CG|=Bc g=b gc =BG|C=B, G,C, =B,,G,, C,,G,,|=A,,F,, C,,F,, =A,,F,, C,,F,,|
+C,,_A,, C,C, A,C CA|cA CC A,C, C,A,,|C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|
+A,,,E,, A,,A,, _E,A, A,_E|AA _ea eA AE|A,A, E,A,, A,,E,, A,,,E,,|G,,E,, A,,,E,, _B,,E,, A,,,E,,|
+A,,,E,, A,,A,, E,A, A,E|AA ea eA AE|A,A, E,A,, A,,E,, A,,,E,,|G,,E,, A,,,E,, F,,E,, A,,,E,,|
+A,,,E,, G,,A,, E,G, A,E|GA eg eA GE|A,G, E,A,, G,,E,, A,,,E,,|F,,_D,, A,,,_D,, F,,_D,, A,,,_D,,|
+A,,,=E,, A,,A,, =E,A, A,=E|A=E A,A, =E,A,, A,,=E,,|A,,,_E,, A,,A,, _E,A, E,A,,|A,,,=D,, A,,A,, D,A, D,A,,|
+G,,,D,, G,,G,, D,G, G,D|GD G,G, D,G,, G,,D,,|G,,,E,, G,,G,, E,G, G,_E|GE G,G, E,G,, G,,E,,|
+G,,,D,, A,,A,, D,A, A,D|AD A,A, D,A,, A,,D,,|G,,,D,, G,,G,, D,G, G,D|GD G,G, D,G,, G,,D,,|
+G,,,D,, G,,G,, D,G, G,D|GD G,G, D,G,, G,,D,,|A,,,F,, A,,A,, F,A, A,F|AF A,A, F,A,, A,,F,,|
+=A,,,_G,, =A,,=A,, _G,=A, =A,_G|=A_G =A,=A, _G,=A,, =A,,_G,,|B,,,=G,, B,,B,, =G,_B, B,=G|_BG B,B, G,B,, B,,G,,|
+=B,,,F,, =B,,=B,, F,=B, =B,F|=BF =B,=B, F,=B,, =B,,F,,|C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|
+E,,_A,, E,E, _A,E E_A|eA EE A,E, E,A,,|D,,A,, D,D, A,D DA|=dA DD A,D, D,A,,|
+G,,D, F,G, DF Gd|fd GF DG, F,D,|G,,D, F,G, DF Gd|fd GF DG, F,D,|
+G,,,D,, G,,G,, D,G, D,G,,|_A,,,C,, A,,A,, C,A, C,A,,|=A,,,_D,, =A,,=A,, _D,=A, _D,=A,,|_B,,,_D,, _B,,_D,, =B,,,=D,, =B,,D,,|
+C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|
+C,,_A,, C,C, _A,C CA|cA CC A,C, C,A,,|C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|
+C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|C,,F,, =B,,C, A,=B, CF|=BF C=B, F,C, =B,,F,,|
+C,,G,, C,C, G,C G,C,|G,C G,C, G,C G,C,|G,=B, G,C, G,_B, G,C,|F,=A, F,C, F,_A, F,C,|
+C,,G,, C,C, G,C CG|cG CC G,C, C,G,,|C,,F,, C,C, F,C CF|cF CC F,C, C,F,,|
+C,,G,, C,C, G,C CG|cG CC G,C, C,G,,-|[G,,_D,,]A,, _D,_D, A,_D _DA|_dA _D_D A,_D, _D,A,,|
+_D,,A,, _D,_D, A,_D _DA|_dA _D_D A,_D, _D,A,,|_D,,G,, _D,_D, G,_D _DG|_dG _D_D G,_D, _D,G,,|
+_D,,A,, _D,_D, A,_D _DA|_dA _D_D A,_D, _D,A,,-|[A,,=D,,]G,, =D,D, G,=D G,D,|D,,F,, D,D, F,D F,D,|
+E,,C, E,E, CE Ec|ec EE CE, E,C,|=E,,C, =E,=E, C=E =Ec|=ec =E=E C=E, =E,C,|
+F,,C, F,F, CF CF,|F,,C, F,F, CF CF,|F,,C, F,F, CF CF,|F,,C, F,F, CF CF,|
+G,,_E, G,G, _EG G_e|ge GG EG, G,E,|G,,E, G,G, EG Ge|ge GG EG, G,E,|
+G,,D, F,G, DF G=d|fd GF DG, F,D,|G,,D, F,G, DF Gd|fd GF DG, D,G,,|
+C,,G,, C,C, G,C CG|cc gc' gc cG|CC G,C, C,G,, C,,G,,|=B,,G,, C,,G,, D,G,, C,,G,,|
+C,,G,, C,C, G,C CG|cc gc' gc cG|CC G,C, C,G,, C,,G,,|=B,,G,, C,,G,, =A,,G,, C,,G,,|
+C,,G,, =B,,C, G,=B, CG|=Bc g=b gc =BG|C=B, G,C, =B,,G,, C,,G,,|=A,,F,, C,,F,, =A,,F,, C,,F,,|
+C,,_A,, C,C, A,C CA|cc ac' ac cA|CC A,C, C,A,, C,,A,,|C,,A,, C,A,, C,,A,, C,A,,|
+C,,A,, C,C, A,C CA|cc ac' ac cA|CC A,C, C,A,, C,,A,,|C,,A,, C,A,, C,,A,, C,A,,|
+C,,G,, C,G,, G,,,G,, C,G,,|C,,G,, C,G,, G,,,G,, C,G,,|C,,G,, C,G,, G,,,G,, C,G,,|C,,G,, C,G,, G,,,G,, C,G,,|
+[C,,4C,,,4] z4|[C8G,8C,8]|
+%Chopin: Etude No.12 in C Minor Op. 25
+%Copyright \0xa9 2003 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 31.3.2003
+%Spur 7

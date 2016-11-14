@@ -1,0 +1,145 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p8.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=172
+% Last note suggests Phrygian mode tune
+K:A % 3 sharps
+%Prelude No. 8
+%Copyright \0xa9 1997 by Bernd Krueger http://www.piano-midi.de
+%Frederic Chopin
+%Molto agitato
+%Fertiggestellt am 6.5.97
+
+%Korrekturen am 27.8.98
+
+%Anpassungen an Digitalpiano am 18.12.98
+
+%Update am 11.4.99
+
+%Normierung: 23.12.2002
+
+%Update am 10.6.2010
+
+%Update am 20.2.2014
+
+%Dauer: 1:31 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=3  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+zc GB AF zd|zc GB AG zf|zf ^Ac BG z=f|za =cd ^cB zg|
+zc GB =AF zd|zc GB AG z^f|zf ^Ac BG z=f|za =cd ^cB zg|
+zc' gb a^f z^d'|zc' =fg ^fd z=c'|zb fa =ge z^c'|zb ^df ec z^a|
+z=a =d=f ^d=c zb|za ^ce =dB z^g|z^f ^Ac BG z=f|zd =G=A ^G=F zc|
+zc GB A^F zd|zc GB AG z^f|zf ^Ac BG z=f|za =cd ^cB zg|
+zc GB =AF zd|zc GB AG za|za ce dB zg|zc' ^d^f e=d zb|
+ze' b=d' =c'a zf'|ze' gb af z^d'|z=d' =g^a ^g=f ze'|zd' ^f=a =ge z^c'|
+z=c' =f^g ^f^d zd'|z=c' e=g =f=d zb|zb ^d^f ec z^a|z^a ^df ec z^a|
+zb e=g =f=d z=a|za ce dB z^g|zg c^d =dB z=g|z=g de ^d=d z=c'|
+z=c' ^f^g =g^d zb|zb ^df ec z^a|z^a ^d=f ec z=a|za e=g =fe zd'|
+zd' e=g =f^d z=c'|z=c' e=g =f=d z^a|z^a c^d =d=c z=a|za ^c^d =dB z=g|
+z=g A=c ^AG z=f|ze =A=c ^AG z=f|z=f =AB ^AG z=f|z^f d=f ^d^A z^f|
+zf =G^A ^GF ze|ze =G^A ^GE zG|zB =FG ^F^D zB|z^A =FG ^F^D zB|
+z=c =FG ^FE z=c|z^c =FG ^FE z=d|zd =FG ^FE zd|z^d ^Ac BF z^d|
+z^d Gc BG z^d|z=d Gc BG z^d|z=f ^A^d =d^A z=f|z^f ^A^d =d^A z=f|
+z^d Gc BG z^d|z=d Gc BG z^d|z=f ^A^d =d^A z=f|z^a e^f =fd z^a|
+z^d Gc BG z^d|z=d Gc BG z^d|z=f ^A^d =d^A z=f|z^f ^A^d =d^A z=f|
+z^d Gc BG z^d|z=d Gc BG z^d|z=f ^A^d =d^A z=f|z=f =cd ^cB zc|
+zc GB =AF zd|zc GB AG z^f|zf ^Ac BG z=f|z=a =cd ^cB z^g|
+zc GB =AF zd|zc GB AG za|za ce dB zg|z^c' ^d^f e=d zb|
+zb ^df ec z^a|zd' =f=g ^fe zc'|zc' =f^g ^f^d z=c'|z=f' gb =ag z^f'|
+zg' d'=f' ^d'=c' za'|zg' =d'=f' ^d'=c' za'|zg' ^c'e' =d'=c' za'|zg' ^c'e' d'=c' za'|
+za' =f'g' ^f'^c' za'|zg' ^d'f' e'c' zg'|ze' b=d' c'a ze'|zc' gb af zc'|
+zg ^df ec zg|zf ce =dA zf|ze Bd cA ze|zd Ac B=G zd|
+zc ^GB AF zc|zc GB AF zc|zc GB AF zc|zc GB AF zc|
+zc =GA ^GF zc|zc =GA ^GF zc|zc =GA ^G=F zc|zc =GA ^G=F zc|
+zc GB A^F zc|zc GB AF zc|zc GB AF zc|zc GB AF zc|
+zd ^Ac BF zd|zd ^Ac BF zd|zd ^Ac BF zd|zf ^Ac BF zd|
+zc GB ^AF zc|zc GB ^AF zc|zc GB ^AF zc|zc GB ^AF zc|
+z^d ^Ac BF z^d|z^d ^Ac BF z^d|z^d ^Ac BF z^d|zf ^Ac BF z^d|
+zc GB ^AF zc|zc GB ^AF zc|zc GB ^AF zc|zc GB ^AF zc|
+zc GB =AF zc|zc GB AF zc|zc GB AF zc|zc GB AF zc|
+V:2
+%Piano right Main
+%%MIDI program 0
+C6 =D2|C6 F2|F6 =F2|A6 G2|
+C6 D2|C6 ^F2|F6 =F2|A6 G2|
+c6 ^d2|c6 =c2|B6 ^c2|B6 ^A2|
+=A6 B2|A6 G2|^F6 =F2|D6 C2|
+C6 D2|C6 ^F2|F6 =F2|A6 G2|
+C6 D2|C6 ^F2|A6 G2|c6 B2|
+e6 f2|e6 ^d2|=d6 e2|d6 c2|
+=c6 d2|=c6 B2|B6 ^A2|^A6 ^A2|
+^A6 =A2|A6 G2|G6 =G2|=G6 =c2|
+=c6 B2|B6 ^A2|^A6 =A2|A6 d2|
+d6 =c2|=c6 ^A2|^A6 =A2|A6 =G2|
+=G6 =F2|E6 =F2|=F6 =F2|^F6 F2|
+F6 E2|E6 G,2|B,6 B,2|^A,6 B,2|
+=C6 =C2|^C6 D2|D6 D2|^D6 ^D2|
+^D6 ^D2|=D6 ^D2|=F6 =F2|^F6 =F2|
+^D6 ^D2|=D6 ^D2|=F6 =F2|^A6 ^A2|
+^D6 ^D2|=D6 ^D2|=F6 =F2|^F6 =F2|
+^D6 ^D2|=D6 ^D2|=F6 =F2|=F6 C2|
+C6 =D2|C6 ^F2|F6 =F2|=A6 ^G2|
+C6 D2|C6 ^F2|A6 G2|^c6 B2|
+B6 ^A2|d6 c2|c6 =c2|=f6 ^f2|
+g6 a2|g6 a2|g6 a2|g6 a2|
+a6 a2|g6 g2|e6 e2|^c6 c2|
+G6 G2|F6 F2|E6 E2|D6 D2|
+C6 C2|C6 C2|C6 C2|C6 C2|
+C6 C2|C6 C2|C6 C2|C6 C2|
+C6 C2|C6 C2|C6 C2|C6 C2|
+D6 D2|D6 D2|D6 D2|F6 D2|
+C6 C2|C6 C2|C6 C2|C6 C2|
+^D6 ^D2|^D6 ^D2|^D6 ^D2|F6 ^D2|
+C6 C2|C6 C2|C6 C2|C6 C2|
+C6 C2|C6 C2|C6 C2|C6 C2|
+[c8-E8-C8-]|[c8E8C8]|[B8=G8=D8]|[=F8C8B,8]|
+=F2 z6|C2- [^F6-C6-]|[F8-C8-]|[F8C8]|
+V:3
+%Piano left
+%%MIDI program 0
+=A,3/2C,-[F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, A,,4|D3/2G,-[B,/2-G,/2]B, D,4|C3/2=F,-[B,/2-=F,/2]B, C,4|
+A,3/2C,-[^F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, A,,4|D3/2G,-[B,/2-G,/2]B, D,4|C3/2=F,-[B,/2-=F,/2]B, C,4|
+=A3/2^D-[F/2-^D/2]F A,4|^G3/2^D-[F/2-^D/2]F G,4|=G3/2C-[E/2-C/2]E =G,4|F3/2C-[E/2-C/2]E ^F,4|
+=F3/2=C-[^D/2-=C/2]^D =F,4|=F3/2B,-[=D/2-B,/2]D =F,4|D3/2^G,-[B,/2-G,/2]B, D,4|B,3/2C,-[=F,/2-C,/2]=F, C,,4|
+A,3/2C,-[^F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, A,,4|D3/2G,-[B,/2-G,/2]B, D,4|^C3/2=F,-[B,/2-=F,/2]B, C,4|
+A,3/2C,-[^F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, A,,4|=F3/2B,-[D/2-B,/2]D =F,4|E3/2G,-[D/2-G,/2]D E,4|
+=c3/2^F-[A/2-F/2]A =C4|B3/2F-[A/2-F/2]A B,4|^A3/2=F-[^G/2-=F/2]G ^A,4|=A3/2E-[=G/2-E/2]=G =A,4|
+^G3/2^D-[^F/2-^D/2]F G,4|=G3/2=D-[=F/2-D/2]=F =G,4|=G3/2^C-[E/2-C/2]E =G,4|^F3/2C-[E/2-C/2]E ^F,4|
+=F3/2^A,-[D/2-^A,/2]D =F,4|=F3/2B,-[D/2-B,/2]D =F,4|=F3/2=G,-[B,/2-=G,/2]B, =F,4|^D3/2=G,-[=C/2-=G,/2]=C =F,4|
+=G3/2=C-[^D/2-=C/2]^D =F,4|=G3/2^C-[E/2-C/2]E =F,4|=G3/2=A,-[C/2-A,/2]C =F,4|=F3/2A,-[=D/2-A,/2]D =F,4|
+=F3/2A,-[^D/2-A,/2]^D =F,4|=D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|D3/2^F,-[=C/2-F,/2]=C D,4|^A,3/2D,-[=G,/2-D,/2]=G, =G,,4|
+^A,3/2D,-[^G,/2-D,/2]G, ^A,,4|^A,3/2D,-[G,/2-D,/2]G, ^A,,4|G,3/2^A,,-[D,/2-^A,,/2]D, ^D,,4|F,3/2^A,,-[^D,/2-^A,,/2]^D, ^D,,4|
+G,3/2^G,,-[C,/2-G,,/2]C, E,,4|G,3/2G,,-[C,/2-G,,/2]C, E,,4|F,3/2B,,-[^D,/2-B,,/2]^D, F,,4|F,3/2B,,-[^D,/2-B,,/2]^D, F,,4|
+F,3/2^A,,-[E,/2-^A,,/2]E, F,,4|F,3/2^A,,-[E,/2-^A,,/2]E, F,,4|E,3/2F,,-[^A,,/2-F,,/2]^A,, B,,,4|^D,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|
+G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|
+G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|
+G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|
+G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|G,3/2B,,-[^D,/2-B,,/2]^D, =F,,4|D3/2=F,-[^A,/2-=F,/2]^A, ^A,,4|B,3/2C,-[=F,/2-C,/2]=F, G,,4|
+=A,3/2C,-[^F,/2-C,/2]F, ^F,,4|A,3/2C,-[F,/2-C,/2]F, =A,,4|D3/2G,-[B,/2-G,/2]B, F,4|^C3/2=F,-[B,/2-=F,/2]B, C,4|
+A,3/2C,-[^F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, A,,4|=F3/2B,-[D/2-B,/2]D =F,4|E3/2G,-[D/2-G,/2]D E,4|
+=G3/2C-[E/2-C/2]E =G,4|^F3/2^A,-[E/2-^A,/2]E ^F,4|A3/2^D-[F/2-^D/2]F =A,4|=c3/2F-[A/2-F/2]A =C4|
+f3/2A-[=c/2-A/2]=c ^D4|f3/2A-[=c/2-A/2]=c ^D4|f3/2A-[=c/2-A/2]=c =D4|f3/2A-[=c/2-A/2]=c D4|
+f3/2A-[^c/2-A/2]c ^C4|e3/2^G-[c/2-G/2]c C4|c3/2E-[A/2-E/2]A A,4|A3/2C-[F/2-C/2]F F,4|
+E3/2^G,-[C/2-G,/2]C C,4|D3/2F,-[A,/2-F,/2]A, =D,4|C3/2E,-[A,/2-E,/2]A, A,,4|B,3/2D,-[=G,/2-D,/2]=G, B,,4|
+A,3/2A,,-[C,/2-A,,/2]C, C,,4|A,3/2A,,-[C,/2-A,,/2]C, C,,4|^G,3/2A,,-[C,/2-A,,/2]C, C,,4|F,3/2A,,-[C,/2-A,,/2]C, C,,4|
+F,3/2G,,-[C,/2-G,,/2]C, C,,4|F,3/2G,,-[C,/2-G,,/2]C, C,,4|=F,3/2G,,-[C,/2-G,,/2]C, C,,4|=F,3/2G,,-[C,/2-G,,/2]C, C,,4|
+A,3/2C,-[^F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, F,,4|
+F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|
+^A,3/2C,-[F,/2-C,/2]F, F,,4|^A,3/2C,-[F,/2-C,/2]F, F,,4|^A,3/2C,-[F,/2-C,/2]F, F,,4|^A,3/2C,-[F,/2-C,/2]F, F,,4|
+F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|F,3/2F,,-[B,,/2-F,,/2]B,, B,,,4|
+^A,3/2C,-[F,/2-C,/2]F, F,,4|^A,3/2C,-[F,/2-C,/2]F, F,,4|^A,3/2C,-[F,/2-C,/2]F, F,,4|^A,3/2C,-[F,/2-C,/2]F, F,,4|
+=A,3/2C,-[F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, F,,4|A,3/2C,-[F,/2-C,/2]F, F,,4|
+[A,8-E,8-A,,8-]|[A,8E,8A,,8]|[=G,8B,,8]|[^G,8C,8]|
+z2 F,,2- [C,2-F,,2-] [A,2-C,2-F,,2-]|[A,8-C,8-F,,8-]|[A,8-C,8-F,,8-]|[A,8C,8F,,8]|
+%Chopin: Prelude No.8 in F#-, Op. 28
+%Copyright \0xa9 1997 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-20

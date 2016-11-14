@@ -1,0 +1,58 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p6.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:D % 2 sharps
+%Chopin Prelude  No. 6, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Assai lento
+%Fertiggestellt am 27.8.2002
+
+%Normierung: 23.12.2002
+
+%Update am 8.6.2010
+
+%Update am 20-2-2014 (keine \0xc4nderungen)
+
+%Dauer: 1:38 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=2  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+[B2F2-D2-] [B2F2D2] [B2F2-] [B2F2]|[B2F2-] [B2F2] [B2F2-D2-] [B2F2D2]|[B2F2-D2-] [B2F2D2] [B2F2-D2-] [B2F2D2]|[B2F2-D2-] [B2F2D2] [d2B2-] [d2B2]|
+[d2B2-] [d2B2] [d2B2-F2-] [d2B2F2]|[d2B2-F2-] [d2B2F2] [d2B2-F2-] [d2B2F2]|[d2B2-G2-] [d2B2G2] [d2B2-] [d2B2]|[d2B2-] [d2B2] [d2B2-^G2-] [d2B2^G2]|
+[c2B2-^G2-] [c2B2^G2] [c2^A2=G2-] [d2B2G2]|[e2-^A2G2] [e2-B2G2] [e2^A2G2] [f2c2F2]|[eB-F-][d/2B/2-F/2-][B/2F/2] [d/2c/2-F/2-][c/2F/2-][BF] [^A2G2C2] [B2^G2D2]|[d2B2D2] [c2^A2C2] z4|
+[B2F2-D2-] [B2F2D2] [B2F2-] [B2F2]|[B2F2-] [B2F2] [B2F2-D2-] [B2F2D2]|[B2F2-D2-] [B2F2D2] [B2F2-D2-] [B2F2D2]|[B2=G2-D2-] [B2G2D2] [B2G2-] [B2G2]|
+[B2G2-] [B2G2] [=c2G2-] [=c2G2]|[=c2G2-E2-] [=c2G2E2] [=c2G2-E2-] [=c2G2E2]|[=c2G2-E2-] [=c2G2E2] [=c2G2-] [=c2G2]|[=c2G2-E2-] [=c2G2E2] [=c2G2-] [=c2G2]|
+[=c2G2-] [=c2G2] [B2G2-] [B2G2]|[^A2G2-C2-] [^A2G2C2] [^A2F2-C2-] [^A2F2C2]|[B2F2-D2-] [B2F2D2] [B2G2-C2-] [B2G2C2]|[^A2G2-C2-] [^A2G2C2] [B2G2-D2-] [B2G2D2]|
+[B2G2-D2-] [B2G2D2] [B2F2-C2-] [B2F2C2]|[^A2E2-C2-] [^A2E2C2] [^A2E2-C2-] [^A2E2C2]|[B2D2-B,2-] [B2D2B,2] [B2G2-D2-] [B2G2D2]|[B2G2-C2-] [B2G2C2] [^A2G2-C2-] [^A2G2C2]|
+[B2F2-D2-] [B2F2D2] [B2G2-C2-] [B2G2C2]|[^A2G2-C2-] [^A2G2C2] [B2G2-D2-] [B2G2D2]|[B2G2-D2-] [B2G2D2] [B2F2-C2-] [B2F2C2]|[^A2F2-C2-] [^A2F2C2] [B2F2-D2-] [B2F2D2]|
+[B2F2-D2-] [B2F2D2] [=A2F2-D2-] [A2F2D2]|[F2D2-] [F2D2] F2 F2|F2 F2 [F2D2-] [F2D2]|[F2D2-] [F2D2] [F2D2-] [F2D2]|
+[F2D2-] [F2D2] z4|[F2D2-] [F2D2] [F2D2-] [F2D2]|
+V:2
+%Piano left
+%%MIDI program 0
+B,,D, F,B, D4|C3D B,4-|B,2 F,2 D,2 C,2|B,,F, B,D F4|
+E3F D4-|D2 B,2 F,2 D,2|G,,D, B,D G4|F4 F4|
+=F4 E2 D2|C3/2E/2 D2 C2 ^A,2|B,2 D,2 E,2 =F,2|^F,4 D,2 C,2|
+B,,D, F,B, D4|C3D B,4-|B,2 F,2 D,2 B,,2|G,,D, G,B, D4|
+E2 =F2 E4|z2 =C2 G,2 =C,2|=C,,G,, E,G, E4|=C,,G,, E,G, E4-|
+E4 z4|E,6 F,2|E,D, ^C,B,, E,4-|E,2 F,2 E,D, C,B,,|
+A,,G,, D,,E,, F,,4-|F,,4 G,,4-|G,,4 G,4|E,6 F,2|
+E,D, C,B,, E,4-|E,2 F,2 E,D, C,B,,|A,,G,, D,,E,, F,,4-|F,,4 B,,,4-|
+B,,,8-|B,,,D, F,B, D4|^C3D B,4-|B,2 F,2 D,2 C,2|
+B,,8-|B,,8|
+%Chopin: Prelude No.6 in B Minor, Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-20
+%Spur 7
+%Spur 8

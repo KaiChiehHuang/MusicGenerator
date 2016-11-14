@@ -1,0 +1,71 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/ty_april.mid
+% format 1 file 13 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=70
+% Last note suggests Mixolydian mode tune
+K:Bb % 2 flats
+%Die Jahreszeiten
+%April
+%Copyright \0xa9 2004 by Bernd Krueger
+%Peter Tschaikowsky
+%Allegro con moto e un poco rubato
+%Fertiggestellt am 19.8.2000
+
+%Normierung: 23.12.2002
+
+%Update am 13.8.2004
+
+%Update am 12.9.2008
+
+%Dauer: 2:09 Minuten
+
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z4 zF G2-|GA2B2<d2c-|cF2<=B2c2d|f3e2e =e2-|
+=eb2a2<A2b-|ba2<A2b2a|A-[A-FD] [A-FD][A-FD] [AFD]F, G,2-|G,A,2C2<G,2F,-|
+F,G,2<A,2=B,2D|_A,3G,2C _D2-|_D-[c2_D2-][_B_D] =D3-[A-D-]|[AD-][GD] _A,2 =A,D2A,|
+A,3_B,2A, G,2-|G,A,2C2<G,2F,-|F,G,2<A,2=B,2D|_A,3G,2C _D2-|
+_D-[c2_D2-][B_D] =D3-[A-D-]|[AD-][GD] _A,2 =A,D2A,|C3_B,2z D2-|DF- [F_DA,][=E_DA,] _D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2|
+f/2z3/2 D3F- [F_DA,][=E_DA,]|_D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2 a/2z3/2 D2-|DF- [F_DA,][=E_DA,] _D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2|f/2z3/2 D3F- [F_DA,][=E_DA,]|
+_D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2 a/2z3/2 d'2-|d'd3 C3/2D/2 _E/2=E/2G-|[G/2-C/2A,/2]G/2[F/2-C/2A,/2]F/2 b3B3|A,3/2B,/2 =B,/2_D/2=E- [=E/2-F,/2]=E/2[=D/2-F,/2]D/2 z[GD_B,]|
+[GDB,]a2A z[GDB,] [GDB,]a-|aA =E3/2_E/2 =E/2F/2A2G|z[D2B,2G,2]z [_D2G,2=E,2] =D2-|DF- [F_DA,][=E_DA,] _D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2|
+f/2z3/2 D3F- [F_DA,][=E_DA,]|_D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2 a/2z3/2 D2-|DF- [F_DA,][=E_DA,] _D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2|f/2z3/2 D3F- [F_DA,][=E_DA,]|
+_D/2=D/2=E/2F/2 _A/2=A/2_d/2=d/2 a/2z3/2 d'2-|d'd3 C3/2D/2 _E/2=E/2G-|[G/2-C/2A,/2]G/2[F/2-C/2A,/2]F/2 b3B3|B,3/2=B,/2 C/2D/2F2_E z[FEF,]|
+[FEF,]z [FEF,][FEF,] _A3/2=A/2 _A/2=A/2d|[=BE][cE] z[FEF,] [FEF,]z [FEF,][FEF,]|_A3/2=A/2 _A/2=A/2d [=BE][cE] G2|c_G [EC][FEC] =G2 c_G|
+[EC][FEC] =G3A2_B|d3c2F =B2-|=Bc2d2<f2_e-|ee2<=e2b2a|
+A3b2a A2-|Ab2a A-[A-FD] [A-FD][A-FD]|[AFD]F,2<G,2A,2C|G,3F,2G, A,2-|
+A,=B,2D2<_A,2G,-|G,C _D3-[c2_D2-][_B_D]|=D3-[A2D2-][GD] _A,2|=A,D2A,2<C2_B,-|
+B,z _A2 =Ad2A|c3B3 _D2-|_D=D3 A,3B,-|B,2 _a2 =ad'2a|
+c'3b3 _d2-|_d=d3 A3B-|B2 A3B3|A3B3 A2-|
+A2 _A/2=A/2B/2A/2 d2 c[B-F-D-]|[B2F2D2] 
+V:2
+%Piano left
+%%MIDI program 0
+z6 [FDB,][FDB,]|[FDB,][FDB,] [FDB,]z2[FEA,] [FEA,][FEA,]|[FEA,]z2[FD_A,] [FD_A,][FD_A,] [FD_A,]z|z[ECG,] [ECG,][ECG,] [ECG,]z2[=E_D=A,G,]|
+[=E_DA,G,][=E_DA,G,] [=E_DA,G,]z2[=DA,F,] [DA,F,][DA,F,]|[DA,F,]z2[_DA,G,=E,] [_DA,G,=E,][_DA,G,=E,] [_DA,G,=E,]z|z[A,D,] [A,D,][A,D,] [A,D,]z2[F_EF,C,]|[FEF,C,][FEF,C,] [FEF,C,]z2[F=DB,,] [FDB,,][FDB,,]|
+[FDB,,]z2[GFG,D,] [GFG,D,][GFG,D,] [GFG,D,]z|z[ECC,] [ECC,][ECC,] [ECC,]z2[=EB,G,]|[=EB,G,][=EB,G,] [=EB,G,]z2[FB,F,] [FB,F,][FB,F,]|[FB,F,]z2[_E,F,,] [E,F,,]z [D,_G,,][D,_G,,]|
+z[G,D,=G,,] [G,D,G,,][G,D,G,,] [G,D,G,,]z2[F_EF,C,]|[FEF,C,][FEF,C,] [FEF,C,]z2[DB,B,,] [DB,B,,][DB,B,,]|[DB,B,,]z2[GFG,D,] [GFG,D,][GFG,D,] [GFG,D,]z|z[ECC,] [ECC,][ECC,] [ECC,]z2[=EB,G,]|
+[=EB,G,][=EB,G,] [=EB,G,]z2[FB,F,] [FB,F,][FB,F,]|[FB,F,]z2[E,C,] [E,C,]z [A,F,E,F,,][F,E,F,,]|z[A,_G,E,B,,] [A,_G,E,B,,][F,-E,B,,-] [F,_D,B,,]=D, z[FB,=G,]|[FB,G,]z [G,A,,][G,A,,] z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2|
+D,/2z/2[A/2F/2D/2]z3/2[FB,G,] [FB,G,]z [G,A,,][G,A,,]|z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2 D,/2z/2[A/2F/2D/2]z3/2[FB,G,]|[FB,G,]z [G,A,,][G,A,,] z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2|D,/2z/2[A/2F/2D/2]z3/2[FB,G,] [FB,G,]z [G,A,,][G,A,,]|
+z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2 D,/2z/2[A/2F/2D/2]z3/2[B/2_G/2D/2C/2]z/2|[A/2_G/2D/2C/2]z3/2 [A/2D/2B,/2]z/2[=G/2D/2B,/2]z3/2[B,/2G,/2]z/2 [B,/2G,/2]z3/2|[C,/2F,,/2]z/2[C,/2F,,/2]z3/2[G/2D/2_A,/2]z/2 [F/2D/2_A,/2]z3/2 [F/2D/2G,/2]z/2[=E/2D/2G,/2]z/2|z[G,/2=E,/2]z/2 [G,/2=E,/2]z3/2 [D,/2B,,/2]z/2[D,/2B,,/2]z/2 =E2|
+=E,z [G_D=A,][G_DA,] =E2 =E,z|[G_DA,][G_DA,] z[=D2B,2G,2]z [D2B,2=E,2]|=E,,3/2_E,,/2 =E,,/2G,,/2B,,2A,, z[FB,G,]|[FB,G,]z [G,A,,][G,A,,] z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2|
+D,/2z/2[A/2F/2D/2]z3/2[FB,G,] [FB,G,]z [G,A,,][G,A,,]|z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2 D,/2z/2[A/2F/2D/2]z3/2[FB,G,]|[FB,G,]z [G,A,,][G,A,,] z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2|D,/2z/2[A/2F/2D/2]z3/2[FB,G,] [FB,G,]z [G,A,,][G,A,,]|
+z[D/2A,/2F,/2]z/2 D,/2z/2[F/2D/2A,/2]z/2 D,/2z/2[A/2F/2D/2]z3/2[B/2_G/2D/2C/2]z/2|[A/2_G/2D/2C/2]z3/2 [A/2D/2B,/2]z/2[=G/2D/2B,/2]z3/2[B,/2G,/2]z/2 [B,/2G,/2]z3/2|[C,/2F,,/2]z/2[C,/2F,,/2]z3/2[G/2D/2B,/2_A,/2]z/2 [F/2D/2B,/2_A,/2]z3/2 [F/2B,/2G,/2]z/2[_E/2B,/2G,/2]z/2|z[_A,/2F,/2]z/2 [_A,/2F,/2]z3/2 [C/2G,/2C,/2]z/2[C/2G,/2C,/2]z/2 _A,,3/2=A,,/2|
+_A,,/2=A,,/2D, =B,,C, z[EC_G,] [EC_G,]z|[=A,F,][A,F,] _A,,3/2=A,,/2 _A,,/2=A,,/2D, =B,,C,|z[EC_G,] [EC_G,]z [A,F,][A,F,] z[ECB,]|[ECB,]z [A,F,][A,F,] z[ECB,] [ECB,]z|
+[A,F,][A,F,] z[FDB,] [FDB,][FDB,] [FDB,]z|z[FEA,] [FEA,][FEA,] [FEA,]z2[FD_A,]|[FD_A,][FD_A,] [FD_A,]z2[EC=G,] [ECG,][ECG,]|[ECG,]z2[=E_D=A,G,] [=E_DA,G,][=E_DA,G,] [=E_DA,G,]z|
+z[=DA,F,] [DA,F,][DA,F,] [DA,F,]z2[_DA,G,=E,]|[_DA,G,=E,][_DA,G,=E,] [_DA,G,=E,]z2[A,D,] [A,D,][A,D,]|[A,D,]z2[F_EF,C,] [FEF,C,][FEF,C,] [FEF,C,]z|z[=DB,_B,,] [DB,B,,][DB,B,,] [DB,B,,]z2[GFG,D,]|
+[GFG,D,][GFG,D,] [GFG,D,]z2[ECC,] [ECC,][ECC,]|[ECC,]z2[=EB,G,] [=EB,G,][=EB,G,] [=EB,G,]z|z[FB,F,] [FB,F,][FB,F,] [FB,F,]z2[_E,C,]|[E,C,]z [A,F,E,F,,][F,E,F,,] z[A,_G,E,B,,] [A,_G,E,B,,][F,-E,B,,-]|
+[F,_D,B,,]=D, z[_EC_G,] [EC_G,][DC_G,] [DC_G,]z|z[DB,=G,] [DB,G,]z [EB,G,][EB,G,] z[=EB,_G,]|[=EB,_G,]z [FB,F,][FB,F,] z2 [_G,E,]z|z[F,D,B,,] z[_ec_G] [ec_G]z [dc_G][dc_G]|
+z[dB=G] [dBG]z [eBG][eBG] z[=eB_G]|[=eB_G]z [fBF][fBF] z2 [_G_E]z|z[FDB,] z2 [_GE]z2[FDB,]|z2 [_GE]z2[FDB,] z2|
+z[_G3E3] z3[F,-B,,-]|[F,2B,,2] 
+%Tschaikowsky: The Seasons: April
+%Copyright \0xa9 2004 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2008-09-12

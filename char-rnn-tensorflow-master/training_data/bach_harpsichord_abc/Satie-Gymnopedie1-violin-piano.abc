@@ -1,0 +1,41 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/Satie-Gymnopedie1-violin-piano.mid
+% format 1 file 3 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=18
+% Last note suggests Mixolydian mode tune
+K:G % 1 sharps
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=2  minor=0
+V:1
+%%MIDI program 40
+%Violin 
+z6 z/2f/2a/2g/2|f/2^c/2B/2^c/2 d<A F4-|F3/2zf/2a/2g/2 f/2^c/2B/2^c/2 d<A|^c3/2f3/2E4-E/2A/2|
+B/2=c/2e/2d/2 B/2d/2[c/2E/2-][B/2E/2] d/2-
+%%MIDI program 45
+[d/2-D/2]d- [d/2D/2]
+%%MIDI program 40
+d/2e/2=f/2|g/2a/2c/2d/2 e/2[d/2E/2-][B/2E/2]d/2- 
+%%MIDI program 45
+[d/2-D/2]d-[d/2D/2] 
+%%MIDI program 40
+d<g|^f3/2B/2 A/2B/2^c/2d/2 e/2^c/2d/2e/2 F/2D/2G/2=c/2-|cd3/2z4z3/2|
+zf/2a/2 g/2f/2^c/2B/2 ^c/2d<AF3/2-|F4 zf/2a/2 g/2f/2^c/2B/2|^c/2d<A^c3/2 f3/2E2-E/2-|E2 A/2B/2=c/2e/2 d/2B/2d/2[c/2E/2-] [B/2E/2]d/2-
+%%MIDI program 45
+[d/2-D/2]d/2-|
+d/2-[d/2D/2]
+%%MIDI program 40
+d/2e/2 =f/2g/2a/2c/2 d/2e/2[d/2E/2-][B/2E/2] d/2-
+%%MIDI program 45
+[d/2-D/2]d-|[d/2D/2]
+%%MIDI program 40
+d<g=f3/2 B/2c/2=f/2e/2 d/2c/2e/2d/2|c/2=F/2D/2G<cd3/2
+V:2
+%%MIDI program 0
+%Piano
+G,,/2-[^FDB,G,,]D,,/2- [F^CA,D,,]G,,/2-[FDB,G,,]D,,/2-[F^CA,D,,] G,,/2-[FDB,G,,]D,,/2-|[F^CA,D,,]G,,/2-[FDB,G,,]D,,/2-[F^CA,D,,] G,,/2-[FDB,G,,]D,,/2- [F^CA,D,,]G,,/2-[F/2-D/2-B,/2-G,,/2-]|[F/2D/2B,/2G,,/2]D,,/2-[F^CA,D,,] G,,/2-[FDB,G,,]D,,/2- [F^CA,D,,]G,,/2-[FDB,G,,]D,,/2-[F^CA,D,,]|F,,/2-[F^CA,F,,]B,,,/2- [FDB,B,,,]E,,/2-[B,G,E,,]E,,/2-[GDB,E,,] D,,/2-[DA,=F,D,,]A,,,/2-|
+[E=CA,A,,,]D,,/2-[EB,G,D,,]D,,/2-[B,G,D,D,,] D,,/2-[DA,E,C,D,,]D,,/2- [DA,^F,C,D,,]D,,/2-[=F/2-C/2-A,/2-D,,/2-]|[=F/2C/2A,/2D,,/2]D,,/2-[ECA,D,,] D,,/2-[B,G,D,D,,]D,,/2- [A,E,C,D,,]D,,/2-[A,F,C,D,,]E,,/2-[GEB,E,,]|F,,/2-[^F^CA,F,,]B,,,/2- [FDB,B,,,]E,,/2-[AE^CE,,]E,,/2-[AF^CA,E,,] E,,/2-[A,/2B,,/2E,,/2-][D/2B,/2E,/2E,,/2][c/2-A/2-E/2-=C/2-G,/2-A,,/2-]|[cAECG,A,,][d3/2A3/2F3/2D3/2D,3/2A,,3/2D,,3/2]G,,/2-[FDB,G,,] D,,/2-[F^CA,D,,]G,,/2- [FDB,G,,]D,,/2-[F/2-^C/2-A,/2-D,,/2-]|
+[F/2^C/2A,/2D,,/2]G,,/2-[FDB,G,,] D,,/2-[F^CA,D,,]G,,/2- [FDB,G,,]D,,/2-[F^CA,D,,]G,,/2-[FDB,G,,]|D,,/2-[F^CA,D,,]G,,/2- [FDB,G,,]D,,/2-[F^CA,D,,]G,,/2-[FDB,G,,] D,,/2-[F^CA,D,,]G,,/2-|[FDB,G,,]D,,/2-[F^CA,D,,]F,,/2-[F^CA,F,,] B,,,/2-[FDB,B,,,]E,,/2- [B,G,E,,]E,,/2-[G/2-D/2-B,/2-E,,/2-]|[G/2D/2B,/2E,,/2]D,,/2-[DA,=F,D,,] A,,,/2-[E=CA,A,,,]D,,/2- [EB,G,D,,]D,,/2-[B,G,D,D,,]D,,/2-[A,E,C,D,,]|
+D,,/2-[A,^F,C,D,,]D,,/2- [=FCA,D,,]D,,/2-[ECA,D,,]D,,/2-[B,G,D,D,,] D,,/2-[A,E,C,D,,]D,,/2-|[A,F,C,D,,]E,,/2-[GEB,E,,]E,,/2-[A=FDA,E,,] E,,/2-[=FCA,E,,]E,,/2- [AECE,,]E,,/2-[A/2-=F/2-C/2-A,/2-E,,/2-]|[A/2=F/2C/2A,/2E,,/2]E,,/2-[A,/2B,,/2E,,/2-][D/2B,/2E,/2E,,/2] [c3/2A3/2E3/2C3/2G,3/2A,,3/2][d3/2A3/2=F3/2D3/2D,3/2A,,3/2D,,3/2]

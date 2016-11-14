@@ -1,0 +1,82 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn_op7_2.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:A % 3 sharps
+%Chopin Mazurka Opus 7 No. 2
+%Copyright \0xa9 2003 by Bernd Krueger 
+%Frederic Chopin
+%Vivo ma non troppo
+%Fertiggestellt am 5.7.2003
+
+%Update am 7.7.2010
+
+%Update am 11.2.1014
+
+%Dauer: 2:42 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+% MIDI Key signature, sharp/flats=3  minor=0
+% MIDI Key signature, sharp/flats=0  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z4 e2 =f3/2e/2|d2 =f2 =f4|e2 d/2[e/2d/2]c d^d eB|=d4 =c2 (3ABA|
+Gz Az Bz e2-|e2 B=G EB ^D2|E4 e2 =f3/2e/2|d2 =f2 =f4|
+e2 [e/2d/2]d/2^c d^d eB/2B/2|=d4 =c2 (3A^A=A|=G2 A2 ^A2 d2|z2 =A3/2^G/2 [E2=D2] [G2D2]|
+[A2-=C2] A2 e2 =f3/2e/2|d2 =f2 =f4|e2 [e/2d/2]d/2^c d^d eB|=d4 =c2 (3ABA|
+Gz Az Bz e2-|e2 B=G EB ^D2|E4 e2 =f3/2e/2|d2 =f2 =f4|
+e2 [e/2d/2]d/2^c d^d eB/2B/2|=d4 =c2 (3A^A=A|=G2 A2 ^A2 d2|z2 =A3/2^G/2 [E2=D2] [G2D2]|
+[A2-=C2] A2 B2 =cd|^d2 ^d3/2=f/2 ^d4|=d2 =cd ^d2 ^d3/2=f/2|^d4 =d2 ^a2-|
+^a2 ^c2 =a4|=c2 g4 B2|=g3^A =Ae =fe|d2 =f2 =f4|
+e2 [e/2d/2]d/2^c d^d eB|=d4 =c2 (3A^A=A|=G2 A2 ^A2 d2|z2 =A3/2^G/2 [E2D2] [G2D2]|
+[A2-=C2] A2 B2 =cd|^d2 ^d3/2=f/2 ^d4|=d2 =cd ^d2 ^d3/2=f/2|^d4 =d2 ^a2-|
+^a2 ^c2 =a4|=c2 ^g4 B2|=g3^A =Ae =fe|d2 =f2 =f4|
+e2 [e/2d/2]d/2^c d^d eB|=d4 =c2 (3A^A=A|=G2 A2 ^A2 d2|z2 =A3/2^G/2 [E2D2] [G2D2]|
+A2- [A2E2^C2] [E2C2] [^c=G-]=G/2-[c/2=G/2]|[d2F2] [B2=F2] [^G3/2D3/2-][E/2D/2] [A2-C2-]|[AC][BG] [c3/2=G3/2-][e/2=G/2] [d3/2^F3/2]z/2 [B2=F2]|[^G/2D/2-][^F/2D/2-]D/2-[E/2D/2] [A3C3][BG] z/2zz/2|
+[dF]z [B2=F2] z/2zz/2 [A2-C2-]|[AC][BG] z/2zz/2 [d^F]z [B2=F2]|z/2zz/2 [A4C4] [cA]z/2[c/2A/2]|[d3/2B3/2]z/2 [B3/2G3/2]z/2 [c/2A/2][B/2G/2]z/2[A/2^F/2] [d3/2B3/2]z/2|
+[B3/2G3/2]z/2 [cA]z/2[c/2A/2] [d3/2B3/2]z/2 [B3/2G3/2]z/2|[c/2A/2][B/2G/2]z/2[A/2F/2] [f'2^f2] [f'2f2] [cA]z/2[c/2A/2]|[d3/2B3/2]z/2 [B3/2G3/2]z/2 [c/2A/2][B/2G/2]z/2[A/2F/2] [d3/2B3/2]z/2|[B3/2G3/2]z/2 [cA-][^dA] [e4G4]|
+[cA-][^d/2A/2-][f/2A/2] [e3G3-][=dG] [c=G-]=G/2-[c/2=G/2]|[d2F2] [B2=F2] [^G3/2D3/2-][E/2D/2] [A2-C2-]|[AC][BG] [c3/2=G3/2-][e/2=G/2] [d2^F2] [B2=F2]|[^G/2D/2-][^F/2D/2-]D/2-[E/2D/2] [A3C3][BG] z/2zz/2|
+[dF]z [B2=F2] z/2zz/2 [A2-C2-]|[AC][BG] z/2zz/2 [d^F]z [B2=F2]|z/2zz/2 [A4C4] [cA]z/2[c/2A/2]|[d3/2B3/2]z/2 [B3/2G3/2]z/2 [c/2A/2][B/2G/2]z/2[A/2^F/2] [d3/2B3/2]z/2|
+[B3/2G3/2]z/2 [cA]z/2[c/2A/2] [d3/2B3/2]z/2 [B3/2G3/2]z/2|[c/2A/2][B/2G/2]z/2[A/2F/2] [f'2f2] [f'2f2] [cA]z/2[c/2A/2]|[d3/2B3/2]z/2 [B3/2G3/2]z/2 [c/2A/2][B/2G/2]z/2[A/2F/2] [d3/2B3/2]z/2|[B3/2G3/2]z/2 [cA-][^dA] [e4G4]|
+[cA-][^d/2A/2-][f/2A/2] [e3G3-][=dG] [c=G-]=G/2-[c/2=G/2]|[d2F2] [B2=F2] [^G3/2D3/2-][E/2D/2] [A2-C2-]|[AC][BG] [c3/2=G3/2-][e/2=G/2] [d2^F2] [B2=F2]|[^G/2D/2-][^F/2D/2-]D/2-[E/2D/2] [A3C3][BG] z/2zz/2|
+[dF]z [B2=F2] z/2zz/2 [A2-C2-]|[AC][BG] z/2zz/2 [d^F]z [B2=F2]|z/2zz/2 [A2C2] e2 =f3/2e/2|d2 =f2 =f4|
+e2 d/2[e/2d/2]c d^d eB|=d4 =c2 (3ABA|Gz Az Bz e2-|e2 B=G EB ^D2|
+E4 e2 =f3/2e/2|d2 =f2 =f4|e2 [e/2d/2]d/2^c d^d eB/2B/2|=d4 =c2 (3A^A=A|
+=G2 A2 ^A2 d2|z2 =A3/2^G/2 [E2=D2] [G2D2]|[A2-=C2] A2 
+V:2
+%Piano left
+%%MIDI program 0
+z8|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|[E2=C2A,2] z2 [D2G,2E,2] [D2G,2E,2]|z2 A,,2 [=C2E,2] z2|
+[=CE,]z A,,z3 [B,2=G,2E,2]|B,,2 z2 [B,2=G,2B,,2] [B,2F,2B,,2]|[B,2=G,2E,2] E,,2 z4|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|
+[E2=C2A,2] z2 [D2^G,2E,2] [D2G,2E,2]|z2 [D2A,2=F,2] [=C2A,2=F,2] z2|[^D2=C2=F,2] [^D2=C2=F,2] [=D2^A,2-] [=F2^A,2]|z4 [B,2E,2] [B,2E,2]|
+[E,2A,,2] A,,,2 z4|[=F2D2=A,2] [=F2D2A,2] z2 [=F2=C2A,2]|[E2=C2A,2] z2 [D2G,2E,2] [D2G,2E,2]|z2 A,,2 [=C2E,2] z2|
+[=CE,]z A,,z3 [B,2=G,2E,2]|B,,2 z2 [B,2=G,2B,,2] [B,2^F,2B,,2]|[B,2=G,2E,2] E,,2 z4|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|
+[E2=C2A,2] z2 [D2^G,2E,2] [D2G,2E,2]|z2 [D2A,2=F,2] [=C2A,2=F,2] z2|[^D2=C2=F,2] [^D2=C2=F,2] [=D2^A,2-] [=F2^A,2]|z4 [B,2E,2] [B,2E,2]|
+[E,2A,,2] A,,,2 z4|[^F2=C2G,2] [F2=C2G,2] z2 [F2=C2=G,2]|[=G2B,2=G,2] z2 [F2=C2^G,2] [F2=C2G,2]|z2 [=F2B,2G,2] [=F2^A,2G,2] z2|
+[=F2^A,2=G,2] [E2^A,2=G,2] z2 [E2=A,2=G,2]|[^D2A,2^F,2] z2 [^D2^G,2=F,2] [=D2G,2=F,2]|z2 [D2=G,2E,2] [^C2=G,2E,2] [D2=F,2D,2]|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|
+[E2=C2A,2] z2 [D2^G,2E,2] [D2G,2E,2]|z2 [D2A,2=F,2] [=C2A,2=F,2] z2|[^D2=C2=F,2] [^D2=C2=F,2] [=D2^A,2-] [=F2^A,2]|z4 [B,2E,2] [B,2E,2]|
+[E,2A,,2] A,,,2 z4|[^F2=C2G,2] [F2=C2G,2] z2 [F2=C2=G,2]|[=G2B,2=G,2] z2 [F2=C2^G,2] [F2=C2G,2]|z2 [=F2B,2G,2] [=F2^A,2G,2] z2|
+[=F2^A,2=G,2] [E2^A,2=G,2] z2 [E2=A,2=G,2]|[^D2A,2^F,2] z2 [^D2^G,2=F,2] [=D2G,2=F,2]|z2 [D2=G,2E,2] [^C2=G,2E,2] [D2=F,2D,2]|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|
+[E2=C2A,2] z2 [D2^G,2E,2] [D2G,2E,2]|z2 [D2A,2=F,2] [=C2A,2=F,2] z2|[^D2=C2=F,2] [^D2=C2=F,2] [=D2^A,2-] [=F2^A,2]|z4 [B,2E,2] [B,2E,2]|
+z2 [=A,2A,,2] [A,4A,,4]|D,2 D,,2 E,,2 A,,2|E,2 A,2 D,3/2z/2 D,,2|E,,2 A,,2 E,2 A,2|
+D,z D,,2 E,,2 A,,2|E,2 A,2 D,z D,,2|E,,2 A,,2 A,2 [^C^F,-]F,/2-[C/2F,/2-]|[D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2 [C/2F,/2-][B,/2F,/2-][A,/2F,/2-]F,/2- [D3/2F,3/2-]F,/2-|
+[B,3/2F,3/2-]F,/2 [CF,-]F,/2-[C/2F,/2-] [D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2|[C/2F,/2-][B,/2F,/2-][A,/2F,/2-]F,/2 [F,2F,,2] [F,2F,,2] [CF,-]F,/2-[C/2F,/2-]|[D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2 [C/2F,/2-][B,/2F,/2-][A,/2F,/2-]F,/2- [D3/2F,3/2-]F,/2-|[B,3/2F,3/2-]F,/2- [CF,-][B,-F,] [B,4E,4-]|
+[CE,-][B,-E,] [B,4E,4] A,2|D,2 D,,2 E,,2 A,,2|E,2 A,2 D,2 D,,2|E,,2 A,,2 E,2 A,2|
+D,2 D,,2 E,,2 A,,2|E,2 A,2 D,2 D,,2|E,,2 A,,2 A,2 [CF,-]F,/2-[C/2F,/2-]|[D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2 [C/2F,/2-][B,/2F,/2-][A,/2F,/2-]F,/2- [D3/2F,3/2-]F,/2-|
+[B,3/2F,3/2-]F,/2 [CF,-]F,/2-[C/2F,/2-] [D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2|[C/2F,/2-][B,/2F,/2-][A,/2F,/2-]F,/2 [F,2F,,2] [F,2F,,2] [CF,-]F,/2-[C/2F,/2-]|[D3/2F,3/2-]F,/2- [B,3/2F,3/2-]F,/2 [C/2F,/2-][B,/2F,/2-][A,/2F,/2-]F,/2- [D3/2F,3/2-]F,/2-|[B,3/2F,3/2-]F,/2- [CF,-][B,-F,] [B,4E,4-]|
+[CE,-][B,-E,] [B,4E,4] A,2|D,2 D,,2 E,,2 A,,2|E,2 A,2 D,2 D,,2|E,,2 A,,2 E,2 A,2|
+D,2 D,,2 E,,2 A,,2|E,2 A,2 D,2 D,,2|E,,2 [A,,2A,,,2] z4|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|
+[E2=C2A,2] z2 [D2G,2E,2] [D2G,2E,2]|z2 A,,2 [=C2E,2] z2|[=CE,]z A,,z3 [B,2=G,2E,2]|B,,2 z2 [B,2=G,2B,,2] [B,2F,2B,,2]|
+[B,2=G,2E,2] E,,2 z4|[=F2D2A,2] [=F2D2A,2] z2 [=F2=C2A,2]|[E2=C2A,2] z2 [D2^G,2E,2] [D2G,2E,2]|z2 [D2A,2=F,2] [=C2A,2=F,2] z2|
+[^D2=C2=F,2] [^D2=C2=F,2] [=D2^A,2-] [=F2^A,2]|z4 [B,2E,2] [B,2E,2]|[E,2A,,2] A,,,2 
+%Chopin: Mazurka Opus 7 No 2
+%Copyright \0xa9 2003 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-11
+%Spur 7

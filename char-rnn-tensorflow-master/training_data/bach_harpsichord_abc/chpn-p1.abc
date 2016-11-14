@@ -1,0 +1,52 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p1.mid
+% format 1 file 7 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=90
+% Last note suggests Phrygian mode tune
+K:C % 0 sharps
+%Chopin Prelude  No. 1, Opus 28
+%Copyright \0xa9 2002 by Bernd Krueger 
+%Frederic Chopin
+%Agitato
+%Fertiggestellt am 27.8.2002
+
+%Normierung: 23.12.2002
+
+%Update am 24.12.2002
+
+%Update am 2.6.2010
+
+%Update am 20.2.2014
+
+%Dauer: 0:34 Minuten
+
+% Time signature=2/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z2 C[G-E] [GC]A z2|D[G-F] [GD]A z2 C[G-E]|[GC]A z2 E[B-G] [BE]c|zE- [AE-][e-cE-] [eAE][dD] zE-|
+[AE-][e-cE-] [eAE][dD] zE- [GE-][e-BE-]|[eGE][dD] z2 D[B-F] [BD]A|z2 C[G-E] [GC]A z2|D[G-F] [GD]A z2 C[G-E]|
+[GC]A z2 E[B-G] [BE]c|z^C- [F^C-][^c-A^C-] [^cF^C][dD] z^D-|[G^D-][^d-=c^D-] [^dG^D][eE] zG- [AG-][g-cG-]|[gAG][fF] z^D- [G^D-][^d-c^D-] [^dG^D][eE]|
+zE- [AE-][e-cE-] [eAE][fF] ^F3/2-[B/2-^F/2-]|[B^F-][^f-=d^F-] [^fB^F][gG] ^G3/2-[c3/2^G3/2-][^g-e^G-]|[^gc^G][aA] ^A3/2-[d3/2^A3/2-][^a-=g^A-] [^ad^A][bB]|zd- [ed-][d'-gd-] [d'ed][c'c] zB-|
+[cB-][b-^dB-] [bcB][=a=A] A3/2-[c3/2A3/2-][a-eA-]|[acA][g=G] zE- [GE-][e-BE-] [eGE][=d=D]|z3/2=C3/2[G-E] [GC]A E3/2-[G/2-E/2-]|[GE-][e-BE-] [eGE][dD] z2 C[G-E]|
+[GC]A zE- [GE-][e-BE-] [eGE][dD]|zC- [=FC][c-A] [c-F][c-GE] c-[c-C-]|[cFC][c-A] [c-F][c-GE] c-[c-C-] [cFC][c-A]|[c-F][c-GE] c-[c-C-] [cFC][c-A] [c-F][cGE]|
+z4 zC- [E2-C2-]|[E4C4] 
+V:2
+%Piano left
+%%MIDI program 0
+C,,[G,-G,,] [G,-E,]G,2A, B,,,[G,-G,,]|[G,-F,]G,2A, C,,[G,-G,,] [G,-E,]G,-|G,A, E,,[B,-E,] [B,-G,]B,2C|F,,E, A,z3 ^F,,D,|
+Cz3 G,,F, B,z|z2 G,,,[B,-G,,] [B,-F,]B,2A,|C,,[G,-G,,] [G,-E,]G,2A, B,,,[G,-G,,]|[G,-F,]G,2A, C,,[G,-G,,] [G,-E,]G,-|
+G,A, E,,[B,-E,] [B,-G,]B,2C|=F,,C, A,z3 G,,C,|^A,z3 A,,F, Cz|z2 G,,C, Cz3|
+A,,F, Cz3 B,,G,|Dz3 C,G, Ez|z2 D,G, Fz3|E,C Gz3 ^F,,^D,|
+Cz3 G,,E, Cz|z2 G,,F, B,z3|[G,-C,,][G,-G,,] [G,-E,]G,2=A, C,,G,,|F,z3 C,,[G,-G,,] [G,-E,]G,-|
+G,A, C,,G,, F,z3|C,,G,, G,z3 C,,G,,|G,z3 C,,G,, G,z|z2 C,,G,, G,z3|
+C,,-[G,,-C,,-] [C,-G,,-C,,-][E,-C,-G,,-C,,-] [G,4-E,4-C,4-G,,4-C,,4-]|[G,4E,4C,4G,,4C,,4] 
+%Chopin: Prelude No.1 in C, Op. 28
+%Copyright \0xa9 2002 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-20

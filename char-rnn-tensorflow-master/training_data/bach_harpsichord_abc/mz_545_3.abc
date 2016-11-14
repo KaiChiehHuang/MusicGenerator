@@ -1,0 +1,84 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/mz_545_3.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=166
+K:C % 0 sharps
+%Klaviersonate KV 545 3. Satz
+%Copyright \0xa9 2006 by Bernd Krueger
+%Mozart
+%Ver\0xf6ffentlicht: 1.10.2006
+
+%Update: 29.9.2013
+
+%Dauer: 1:44 Minuten
+
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+z4 [g/2e/2]z3/2 [g/2e/2]z3/2|[e3/2c3/2]z3[f/2d/2]z3/2[f/2d/2]z|z/2[d3/2B3/2] z3c de|cA Bz/2c^cdef/2-|
+f/2d=cBz/2 AG [g/2e/2]z3/2|[g/2e/2]z3/2 [e3/2c3/2]z3[a/2f/2]z|z/2[a/2f/2]z3/2[d3/2B3/2] z3a|gf e^c de z/2fA/2-|
+A/2=cBdc2z2z/2|[g/2e/2]z3/2 [g/2e/2]z3/2 [e3/2c3/2]z2z/2|z/2[f/2d/2]z3/2[f/2d/2]z3/2[d3/2B3/2] z2|zc de cA Bc|
+z/2^cdefd=cBA/2-|A/2z/2G [g/2e/2]z3/2 [g/2e/2]z3/2 [e3/2c3/2]z/2|z2 z/2[a/2f/2]z3/2[a/2f/2]z3/2[d3/2B3/2]|z3a gf e^c|
+de z/2fA=cBdc/2-|c3/2z2z/2 e^f g/2z/2g/2z/2|ag ^fz/2ed/2z/2d/2 z/2d/2z/2d/2|z/2edcz/2 Be' d'c'|
+b^g ab z/2c'e^f=g/2-|g/2ag^fez/2d [d'/2b/2]z3/2|[d'/2b/2]z3/2 [b3/2g3/2]z3[c'/2a/2]z|z/2[c'/2a/2]z3/2[a3/2^f3/2] z3g|
+ab g^d eg z/2e=d/2-|d/2BcAGz3z/2|GA Bc dz3|z/2Bcde=fz2z/2|
+zd ef ga/2z3/2^g/2z/2|z3/2=g/2 z3/2^f/2 z3/2=f2z/2|z2 [g/2e/2]z3/2 [g/2e/2]z3/2 [e3/2c3/2]z/2|z2 z/2[f/2d/2]z3/2[f/2d/2]z3/2[d3/2B3/2]|
+z3c de cA|Bc z/2^cdefd=c/2-|c/2BAz/2G [g/2e/2]z3/2 [g/2e/2]z3/2|[e3/2c3/2]z3[a/2f/2]z3/2[a/2f/2]z|
+z/2[d3/2B3/2] z3a gf|e^c de z/2fA=cB/2-|B/2dc2z4z/2|z2 e^d fz/2ez3/2|
+z2 z/2e^dfz/2 e[c'/2e/2]z/2|z[c'/2e/2]z3/2[ac] z3z/2[b/2=d/2]|z3/2[b/2d/2] z3/2[^gB]z3z/2|ae cA c^A ^A/2z^A/2-|
+^A/2d^c^c/2z/2^c/2 z/2ed/2 z/2fz/2|e/2z/2=g f/2z/2f e/2z/2e ^d/2z/2c'-|c'3z/2^d2e2z/2|z2 b^g e=d =ce|
+az/2^gaec=A^GB/2-|B/2ez/2 ^gb ^ge dc|ea z/2^gaecAE/2-|E3/2z2z/2 [e/2c/2]z3/2 [e/2c/2]z3/2|
+[cA]z3 z/2[d/2B/2]z3/2[d/2B/2]z|z/2[B^G]z6z/2|zE ^DF z/2Ez2z/2|z3/2e'^d'f'z/2e' =d'^c'|
+e'd' d'=c' c'/2zbba/2-|a/2a/2z/2=g/2 z/2gf/2 z/2fz/2 e/2z/2e|d/2z/2d c/2z/2^A fd z/2^A=A/2-|A3/2^G2A2z2z/2|
+^Gd B^G A2 z2|z/2^GdB^GA2z3/2|z^G dB ^GA ec|z/2ABfdBz2z/2|
+z2 [g/2e/2]z3/2 [g/2e/2]z3/2 [e3/2c3/2]z/2|z2 z/2[f/2d/2]z3/2[f/2d/2]z3/2[d3/2B3/2]|z3c de cA|Bc z/2^cdefd=c/2-|
+c/2BAz/2=G [g/2e/2]z3/2 [g/2e/2]z3/2|[e3/2c3/2]z3[a/2f/2]z3/2[a/2f/2]z|z/2[d3/2B3/2] z3a gf|e^c de z/2fA=cB/2-|
+B/2dc2z2z/2 Bf|dB ag fz/2edf/2-|f/2dBagfz/2 ed'|c'b aa gf/2ze/2z/2e/2-|
+e/2dc/2 z/2B/2z/2d2c2z/2|Bf dB ag fz/2e/2-|e/2dfdBagfz/2|ed' c'b aa gf/2z/2|
+z/2e/2z/2edc/2 z/2B/2z/2ceG/2-|G/2z/2c EG CE Gc|[ec]z/2[ge][ge][fd][e/2c/2]z/2[d/2B/2] z/2ce/2-|e/2Gz/2 cE GC EG|
+c[ec] z/2[ge][ge][fd][e/2c/2] z/2[d/2B/2]z/2c/2-|c3/2[c'3/2g3/2e3/2]z [c3/2E3/2]z/2 [c3/2E3/2]z/2|[c4E4] z/2
+V:2
+%Piano left
+%%MIDI program 0
+z8|z/2[C/2A,/2]z3/2[C/2A,/2]z3/2[A,F,]z2z/2|z[B,/2G,/2]z3/2[B,/2G,/2]z3/2[G,E,] z2|z3/2F,6-F,/2|
+D,2 G,2 z4|z2 z/2[C/2A,/2]z3/2[C/2A,/2]z3/2[F,D,]z/2|z3[B,/2G,/2]z3/2[B,/2G,/2]z3/2[E,C,]|z3z/2[A,4-F,4-][A,/2-F,/2-]|
+[A,2F,2] [F2G,2] [E2C2] C,z|z4 z/2[C/2A,/2]z3/2[C/2A,/2]z|z/2[A,F,]z3z/2[B,/2G,/2]z3/2[B,/2G,/2]z/2|z[G,E,] z3z/2F,2-F,/2-|
+F,4 D,2 G,2|z6 z/2[C/2A,/2]z|z/2[C/2A,/2]z3/2[F,D,]z3z/2[B,/2G,/2]z/2|z[B,/2G,/2]z3/2[E,C,] z3z/2[A,/2-F,/2-]|
+[A,6F,6] [F2G,2]|[E2C2] C,z Cz/2GEG/2-|G/2B,G=DG^F,z/2 DA,|DG, DB, DB,, z/2G,D,/2-|
+D,/2G,C,A,E,A,^C,z/2A,|E,A, D,2 z4|z2 z/2[G/2E/2]z3/2[G/2E/2]z3/2[EC]z/2|z3[^F/2D/2]z3/2[^F/2D/2]z3/2[DB,]|
+z3z/2[G,4-=C,4][G,/2-D,/2-]|[G,2D,2-] [^F,3/2-D,3/2]^F,/2 G,z G,,z|z4 z/2[B,G,]zG,,z/2|z4 z[B,G,] zG,,|
+z8|z8|z6 z/2[C/2A,/2]z|z/2[C/2A,/2]z3/2[A,=F,]z3z/2[B,/2G,/2]z/2|
+z[B,/2G,/2]z3/2[G,E,] z3z/2F,/2-|F,6 D,2|G,2 z6|z/2[C/2A,/2]z3/2[C/2A,/2]z3/2[F,D,]z2z/2|
+z[B,/2G,/2]z3/2[B,/2G,/2]z3/2[E,C,] z2|z3/2[A,6-F,6-][A,/2F,/2]|[=F2G,2] [E2C2] C,z [E/2C/2]z3/2|z/2[E/2C/2]z3/2[CA,]z3[D/2B,/2]z|
+z[D/2B,/2]z3/2[B,^G,] z4|z3z/2E^DFEz/2|z4 E^D FE|[E4C4] z/2[F3-=D3-][F/2-D/2-]|
+[F/2D/2][G4E4]z/2[A2-F2][A-^C-]|[A-^C][A2-D2]A/2-[A2E2][A2F2]z/2|z3/2[A2F2]z2z/2 E,E|^G,E B,E z/2^G,EE,E/2-|
+E/2A,E=CEz/2A, EE,|E^G, EB, Ez/2^G,EE,/2-|E,/2EA,ECEz/2 A,E|E,2 z6|
+z/2E^DFEz3z/2|zE ^DF E[C/2E,/2]z2[C/2E,/2]|z3/2[A,C,]z3[B,/2D,/2] z2|[B,/2D,/2]z3/2 [^G,B,,]z3 [B,2-^G,2-]|
+[B,2^G,2] z/2[C2A,2][=D2B,2][E3/2-C3/2-]|[E/2-C/2]E/2-[E3/2^C3/2-]^C/2[A2-D2][A2-E2][A-F-]|[A-F]A/2-[A2E2][F4D4][=C/2-E,/2-]|[C3/2E,3/2-]E,/2- [B,3/2-E,3/2]B,/2 A,C EC|
+E,B, z/2DB,A,CEC/2-|C/2E,B,z/2D B,A, CE|CE, B,z/2DB,A,CE/2-|E/2C=G,Dz/2 FD z2|
+z6 z/2[C/2A,/2]z|z/2[C/2A,/2]z3/2[A,F,]z3z/2[B,/2G,/2]z/2|z[B,/2G,/2]z3/2[G,E,] z3z/2F,/2-|F,6 D,2|
+G,2 z6|z/2[C/2A,/2]z3/2[C/2A,/2]z3/2[F,D,]z2z/2|z[B,/2G,/2]z3/2[B,/2G,/2]z3/2[E,C,] z2|z3/2[A,6-F,6-][A,/2F,/2]|
+[F2G,2] [E2C2] C,z F,B,|z/2G,B,E,CG,CF,B,/2-|B,/2z/2G, B,E, CG, CF,|Dz/2A,DG,ECEG,/2-|
+G,/2Fz/2 DF CG EG|F,B, z/2G,B,E,CG,C/2-|C/2F,B,z/2G, B,E, CG,|CF, Dz/2A,DG,EC/2-|
+C/2EG,Fz/2 DF CE|G,C E,G, z/2C,E,G,3/2-|G,/2z2G,,2z2z/2C|EG, CE, G,z/2C,E,G,/2-|
+G,3/2z2G,,2z2z/2|[C,2C,,2] [E,3/2E,,3/2]z/2 [G,3/2G,,3/2]z[E,3/2E,,3/2]|z/2[C,4C,,4]
+%Pedale
+%%MIDI program 0
+%Mozart: Sonate KV 541 3. Satz
+%Copyright \0xa9 2006 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2013-09-29
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

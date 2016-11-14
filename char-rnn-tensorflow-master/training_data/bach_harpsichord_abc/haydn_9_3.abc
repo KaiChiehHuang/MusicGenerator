@@ -1,0 +1,57 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/haydn_9_3.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=112
+K:F % 1 flats
+%Haydn: Klaviersonate Hob. XVI:9, 3. Satz
+%Scherzo
+%Copyright \0xa9 2011 by Bernd Krueger
+%Bernd Krueger
+%Erstellt: 12.11.2011
+
+%Dauer:  0:51 Minuten
+
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-1  minor=0
+%Teil 1
+%Teil 1 Wiederholung
+%Teil 2
+%Teil 2 Wiederholung
+V:1
+%Piano right
+%%MIDI program 0
+z3c f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 e/2f/2g/2e/2 c/2z/2[b/2g/2]z/2|[b2g2] [af]c f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 g/2a/2b/2g/2 f/2e/2d/2c/2|
+f2 zc f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 e/2f/2g/2e/2 c/2z/2[b/2g/2]z/2|[b2g2] [af]c f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 g/2a/2b/2g/2 f/2e/2d/2c/2|
+f2 zc b/2z/2b/2z/2 b/2z/2d'/2b/2|a2 zc' e/2z/2e/2z/2 e/2z/2g/2e/2|f2 zc g/2z/2g/2z/2 g/2z/2G/2B/2|A/2c/2B/2A/2 G/2F/2E/2F/2 D/2B/2d/2c/2 B/2A/2G/2F/2|
+E2 zc f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 e/2f/2g/2e/2 c/2z/2[b/2g/2]z/2|[b2g2] [af]c f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 g/2a/2b/2g/2 f/2e/2d/2c/2|
+f2 zc b/2z/2b/2z/2 b/2z/2d'/2b/2|a2 zc' e/2z/2e/2z/2 e/2z/2g/2e/2|f2 zc g/2z/2g/2z/2 g/2z/2G/2B/2|A/2c/2B/2A/2 G/2F/2E/2F/2 D/2B/2d/2c/2 B/2A/2G/2F/2|
+E2 zc f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 e/2f/2g/2e/2 c/2z/2[b/2g/2]z/2|[b2g2] [af]c f/2c/2f/2c/2 a/2f/2a/2f/2|c'2 b/2a/2g/2f/2 g/2a/2b/2g/2 f/2e/2d/2c/2|
+f2 
+V:2
+%Piano left
+%%MIDI program 0
+z4 [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G/2C/2]z/2[G/2C/2]z/2 [G/2C/2]z/2[G/2C/2]z/2|FC/2z/2 F,2 [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G2B,2] [G2C2]|
+F2 z2 [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G/2C/2]z/2[G/2C/2]z/2 [G/2C/2]z/2[G/2C/2]z/2|FC/2z/2 F,2 [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G2B,2] [G2C2]|
+F2 z2 E,/2C/2E,/2C/2 E,/2C/2E,/2C/2|F,/2C/2F,/2C/2 F,/2C/2F,/2C/2 G,/2C/2G,/2C/2 G,/2C/2G,/2C/2|A,/2C/2A,/2C/2 A,/2C/2A,/2C/2 E,/2C/2E,/2C/2 E,/2C/2E,/2C/2|F,2 z2 [B,2B,,2] z=B,|
+CG,/2z/2 C,z [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G/2C/2]z/2[G/2C/2]z/2 [G/2C/2]z/2[G/2C/2]z/2|FC/2z/2 F,2 [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G2_B,2] [G2C2]|
+[F2F,2] z2 E,/2C/2E,/2C/2 E,/2C/2E,/2C/2|F,/2C/2F,/2C/2 F,/2C/2F,/2C/2 G,/2C/2G,/2C/2 G,/2C/2G,/2C/2|A,/2C/2A,/2C/2 A,/2C/2A,/2C/2 E,/2C/2E,/2C/2 E,/2C/2E,/2C/2|F,2 z2 [B,2B,,2] z=B,|
+CG,/2z/2 C,z [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G/2C/2]z/2[G/2C/2]z/2 [G/2C/2]z/2[G/2C/2]z/2|FC/2z/2 F,2 [A2F2] z2|[A/2F/2]z/2[A/2F/2]z/2 [A/2F/2]z/2[A/2F/2]z/2 [G2_B,2] [G2C2]|
+[F2F,2] 
+%Pedale
+%%MIDI program 0
+%Haydn Piano Sonata in F major, 3. movement
+%Copyright \0xa9 2010 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2011-11-12
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

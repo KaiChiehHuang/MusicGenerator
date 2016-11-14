@@ -1,0 +1,89 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn_op25_e2.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=336
+% Last note suggests Phrygian mode tune
+K:Ab % 4 flats
+%Chopin Etude  No. 2, Opus 25
+%Copyright \0xa9 2003 by Bernd Krueger 
+%Frederic Chopin
+%Presto
+%Fertiggestellt am 31.1.2003
+
+%Update am 16.2.2014
+
+%Dauer: 1:31 Minuten
+
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-4  minor=0
+% Time signature=5/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|zc3 cd =Bc|ed cd =Bc _g=g|cd =Bc ed cd|
+=Bc af =ef =e_e|=eg bc' b=a bd'|c'd' c'=b c'g _a_b|ag a=e fg f=e|
+fc d_e dc d=B|cd c=B cG A_B|AG AF =EG Bd|=eg bd' c'b ag|
+bc' ag af =eg|f=e fd cd =Bc|_ed cd =Bc _g=g|cd =Bc ed cd|
+=Bc af ef e=d|eg bc' b=a bf'|e'f' e'=d' e'=b c'_d'|c'=b c'g _a_b ag|
+a=e fg f=e f_d|cd _BG AB cd|_ef ga ga fe|fd cd Bc FG|
+AB AG A=A Bc|Bc FG _AB AG|A=A Bc Bc FG|_AB AG AB cd|
+c=B cd cd c=B|cd cd cd cd|cd =Bc ed cd|=Bc _g=g cd =Bc|
+ed cd =Bc af|=ef =e_e =eg bc'|b=a bd' c'd' c'=b|c'g _a_b ag a=e|
+fg f=e fc d_e|dc d=B cd c=B|cG A_B AG AF|=EG Bd =eg bd'|
+c'b ag bc' ag|af =eg f=e fd|cd =Bc _ed cd|=Bc _g=g cd =Bc|
+ed cd =Bc af|ef e=d eg bc'|b=a bf' e'f' e'=d'|e'=b c'_d' c'=b c'g|
+_a_b ag a=e fg|f=e f_d cd _BG|AB cd _ef ga|ga fe fd cd|
+Bc FG AB AG|A=A Bc Bc FG|_AB AG A=A Bc|Bc FG _AB AG|
+AB cd c=B cd|ef ef ed cd|cd G=A _Bc B=A|B=B cd cd G=A|
+_Bc B=A B=B cd|cd G=A _Bc B=A|Bc =de =d_d =de|fg fg fe =de|
+=de =A=B c_d c=B|cg ab ag a=e|fg f_e dc _B_A|GF GA Gd c=B|
+cg ab ag a=e|fg f_e dc _BA|GF GA Gg f=e|dc BA GF GA|
+Gg f=e dc BA|GF GA Gd c=B|cd cd c=B cd|cd c=B cd cd|
+cd cd cd =Bc|_ed cd =Bc _g=g|cd =Bc ed cd|=Bc af =ef =e_e|
+=eg bc' b=a bd'|c'd' c'=b c'g _a_b|ag a=e fg f=e|fc d_e dc d=B|
+cd c=B cG A_B|AG AF =EG Bd|=eg bd' c'b ag|bc' ag af =eg|
+f=e fd cd =Bc|_ed cd =Bc _g=g|cd =Bc ed cd|=Bc af =ef =e_e|
+=eg bc' b=a bd'|c'a' g'_g' f'=e' _e'=d'|_d'c' =b_b =a_a gf'|d'b gf d_B Gd|
+cd =Bc A_B cd|cd f_e cd Bc|ed Bc AB dc|Fc' ba gf ed|
+cB cd Fc' ba|gf ed cB ce|d3/2c3/2z3/2F-[A/2-F/2-] [c2-A2-F2-]|[cA-F-][c3A3-F3-] [c3A3-F3-][c-A-F-]|
+[c8-A8-F8-]|[c3A3-F3]
+V:2
+%Piano left
+%%MIDI program 0
+z8|z4 =E,2 G2|C2 B,2 G2 C2|F,2 A2 C2 A,2|
+A2 C2 G,2 B2|=E2 D2 B2 =E2|A,2 A2 F2 C2|A2 F2 B,,2 D2|
+G,2 F,2 D2 G,2|C,2 C2 A,2 F,2|C2 A,2 C,2 =E2|C2 G,2 =E2 B,2|
+F,2 F2 C2 A,2|F2 D2 =E,2 G2|C2 B,2 G2 C2|F,2 A2 C2 A,2|
+A2 C2 G,2 B2|_E2 D2 B2 E2|A,2 A2 E2 C2|A2 E2 D,2 F2|
+B,2 A,2 F2 B,2|_E,2 E2 C2 A,2|E2 C2 E,2 E2|D2 G,2 E2 D2|
+A,,2 C2 E,2 =E,2|D2 _E,2 A,,2 C2|E,2 =E,2 D2 _E,2|A,,2 C2 E,2 C,2|
+G,2 B,2 E3z|z8|=E,2 G2 C2 B,2|G2 C2 F,2 A2|
+C2 A,2 A2 C2|G,2 B2 =E2 D2|B2 =E2 A,2 A2|F2 C2 A2 F2|
+B,,2 D2 G,2 F,2|D2 G,2 C,2 C2|A,2 F,2 C2 A,2|C,2 =E2 C2 G,2|
+=E2 B,2 F,2 F2|C2 A,2 F2 D2|=E,2 G2 C2 B,2|G2 C2 F,2 A2|
+C2 A,2 A2 C2|G,2 B2 _E2 D2|B2 E2 A,2 A2|E2 C2 A2 E2|
+D,2 F2 B,2 A,2|F2 B,2 _E,2 E2|C2 A,2 E2 C2|E,2 E2 D2 G,2|
+E2 D2 A,,2 C2|E,2 =E,2 D2 _E,2|A,,2 C2 E,2 =E,2|D2 _E,2 A,,2 C2|
+E,2 _G,,2 E2 B,2|_G,2 E2 B,2 F,2|E2 =A,2 B,,2 D2|F,2 _G,2 E2 F,2|
+B,,2 D2 F,2 _G,2|E2 F,2 B,,2 D2|F,2 A,,2 C2 F,2|=D,2 C2 F,2 =G,,2|
+=B,2 F,2 C,2 =E2|_B,2 _A,2 F2 C2|C,2 D2 A,2 F,2|D2 A,2 C,2 =E2|
+B,2 A,2 F2 C2|C,2 D2 A,2 F,2|D2 A,2 C,2 =E2|=G,2 F,2 D2 A,2|
+C,2 =E2 G,2 F,2|D2 A,2 C,2 C2|=E2 z6|z8|
+z4 =E,2 G2|C2 B,2 G2 C2|F,2 A2 C2 A,2|A2 C2 G,2 B2|
+=E2 D2 B2 =E2|A,2 A2 F2 C2|A2 F2 B,,2 D2|G,2 F,2 D2 G,2|
+C,2 C2 A,2 F,2|C2 A,2 C,2 =E2|C2 G,2 =E2 B,2|F,2 F2 C2 A,2|
+F2 D2 =E,2 G2|C2 B,2 G2 C2|F,2 A2 C2 A,2|A2 C2 G,2 B2|
+=E2 D2 B2 _E2|A,2 A2 F2 C2|A2 F2 B,,2 D2|G,2 F,2 D2 G,2|
+C,2 F2 C2 A,2|F2 C2 C,2 E2|G,2 F,2 D2 =E,2|F,2 A2 C2 B,2|
+G2 D2 F,2 A2|C2 B,2 G2 D2-|D3F,- [C4-F,4-]|[C8-F,8-]|
+[C8-F,8-]|[C3-F,3]
+%Chopin: Etude No.2 in F Minor Op. 25
+%Copyright \0xa9 2003 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-16
+%Spur 7

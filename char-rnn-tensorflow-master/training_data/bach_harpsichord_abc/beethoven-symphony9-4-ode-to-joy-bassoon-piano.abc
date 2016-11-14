@@ -1,0 +1,24 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/beethoven-symphony9-4-ode-to-joy-bassoon-piano.mid
+% format 1 file 3 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=62
+K:D % 2 sharps
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=2  minor=0
+%Fur Elise
+%Ludwig van Beethoven
+V:1
+%%MIDI program 70
+%Bassoon
+F,F, G,A, A,G, F,E,|D,D, E,F, F,3/2E,/2 E,z|F,F, G,A, A,G, F,E,|D,D, E,F, E,3/2D,/2 D,z|
+E,E, F,D, E,F,/2G,/2 F,D,|E,F,/2G,/2 F,E, D,E, A,,F,-|F,F, G,A, A,G, F,E,|D,D, E,F, E,3/2D,/2 D,z|
+E,E, F,D, E,F,/2G,/2 F,D,|E,F,/2G,/2 F,E, D,E, A,,F,-|F,F, G,A, A,G, F,E,|D,D, E,F, E,3/2D,/2 D,
+V:2
+%%MIDI program 0
+%Piano
+[ADA,F,][ADA,F,] [AEA,G,][AFA,A,] [AFA,A,][AEA,G,] [ADA,F,][AGA,E,]|[AFA,D,][AFA,D,] [AGA,E,][ADA,F,] [ADA,F,]z [ACA,E,]z|[ADA,F,][ADA,F,] [AEA,G,][AFA,A,] [AFA,A,][AEA,G,] [ADA,F,][AGA,E,]|[AFA,D,][AFA,D,] [AGA,E,][ADA,F,] [AGA,E,]z [AFA,D,]z|
+[AGA,E,][ACA,E,] [ADA,F,][AFA,D,] [AGA,E,][A/2-E/2-A,/2-F,/2][A/2E/2A,/2G,/2] [ADA,F,][AFA,D,]|[A/2-G/2A,/2-E,/2-][A/2C/2A,/2E,/2][A/2-D/2A,/2-F,/2][A/2E/2A,/2G,/2] [ADA,F,][AGA,E,] [AFB,D,][^GDB,E,] [ACA,A,,][A-D-A,-F,-]|[ADA,F,][A^DA,F,] [AEA,G,][AFA,A,] [AFA,A,][AEA,G,] [A=DA,F,][A=GA,E,]|[AFA,D,][AFA,D,] [AGA,E,][ADA,F,] [AGCA,E,-]E,/2D,/2 [AFDA,D,]z|
+[AGA,E,][ACA,E,] [ADA,F,][AFA,D,] [AGA,E,][A/2-E/2-A,/2-F,/2][A/2E/2A,/2G,/2] [ADA,F,][AFA,D,]|[A/2-G/2A,/2-E,/2-][A/2C/2A,/2E,/2][A/2-D/2A,/2-F,/2][A/2E/2A,/2G,/2] [ADA,F,][AGA,E,] [AFB,D,][^GDB,E,] [ACA,A,,][A-D-A,-F,-]|[ADA,F,][A^DA,F,] [AEA,G,][AFA,A,] [AFA,A,][AEA,G,] [A=DA,F,][A=GA,E,]|[AFA,D,][AFA,D,] [AGA,E,][ADA,F,] [AGCA,E,-]E,/2D,/2 [AFDA,D,]

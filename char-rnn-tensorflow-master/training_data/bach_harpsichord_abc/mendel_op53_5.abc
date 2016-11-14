@@ -1,0 +1,118 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/mendel_op53_5.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=220
+% Last note suggests minor mode tune
+K:C % 0 sharps
+%Lieder ohne Worte Op. 53 No. 5
+%Volkslied
+%Copyright \0xa9 2004 by Bernd Krueger
+%Mendelssohn
+%Allegro con fuoco
+%Fertiggestellt am 6.1.2004
+
+%Update am 3.4.2014
+
+%Dauer:  2:35 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+z8|z6 cd|ec A3/2z3/2e cA|fd A3/2z3/2f dA|
+dB ^G3/2z3/2d B^G|ec A3/2z3/2B cd|ec A3/2z3/2e cA|fd A3/2z3/2f dA|
+dB ^G3/2z3/2d B^G|ec A3/2z3/2d B^G|ec A3/2z3/2d B^G|ec A3/2z3/2d B^G|
+ec AE z4|z4 E4|[A6E6] [B2E2]|[c4A4] [d4B4]|
+[e4c4] [g4-e4-]|[g4e4] [f3d3][ec]|[e4c4] [d3B3][cA]|[c4A4] [e3c3F3][dB]|
+[c8A8]|[B2^G2] z2 [E4D4]|[A6E6C6] [B2E2]|[c4A4] [d4B4]|
+[e4c4] [g4-e4-=G4-]|[g4e4G4] [f3d3][ec]|[e4c4] [d3B3][cA]|[c4A4] [B3G3][AF]|
+[AF]z [B^GB,]z [cAC]z [dBD]z|[ecE]z [dBD]z [cAC]z2[BEB,]|[B8E8B,8]|[A2C2] z4 ^GA|
+B^G E3/2z3/2B ^GE|cA E3/2z3/2c AE|A^F ^D3/2z3/2A ^F^D|B^G E3/2z3/2^F ^GA|
+B^G E3/2z3/2B ^GE|cA E3/2z3/2c AE|A^F ^D3/2z3/2A ^F^D|B^G E3/2z2z/2 E2|
+[B6E6] [c2A2]|[d4^G4] [c4A4]|[f^G]z2[e^G] [d4-^G4-]|[d4^G4] [f4^G4]|
+[e4A4] [c4E4]|[B4E4] [A3^D3-C3-][B^DC]|[A8^D8C8]|[^G4E4B,4] E4|
+[B6E6B,6] [c2A2C2]|[d4^G4=D4] [f4^G4=F4]|[eAE]z2[dAD] [c4-A4-C4-]|[c4A4C4] [e4c4E4]|
+[d4B4D4] [c4A4E4]|[B4=G4D4] [A3^F3-D3-C3-][B^FDC]|[A8^F8D8C8]|[G4D4B,4] G4|
+[g6e6G6] [f2d2=F2]|[e4c4E4] [f4d4F4]|[e4c4E4] [d3B3D3][cAC]|[d4B4D4] [G4F4]|
+[e6c6E6] [dBD]z|[cAC]z [dBD]z [ecE]z [dBD]z|[c4A4C4] [B3^G3B,3][A^FA,]|[B4^G4B,4] [E4D4]|
+[A6E6C6] [B2E2]|[c4A4] [d4B4]|[e4c4] [g4-e4-=G4-]|[g4e4G4] [f3d3][ec]|
+[e4c4] [d3B3][cA]|[c2A2] c2 [e3c3=F3E3][dB]|[c4-A4-] [c3-A3-^D3][cAE]|[B2^G2] z2 [E4=D4]|
+[A6E6C6] [B2E2]|[c3A3][BE] [c3A3][dB]|[e4c4] [g4-e4-]|[g4e4] [^a4-g4-]|
+[^a8-g8-]|[^a3g3][^ag^A] [=af=A]z2[ge=G]|[f8-d8-F8-]|[f3d3F3][fdF] [ecE]z2[dBD]|
+[c8-A8-C8-]|[c2A2C2] [B^GB,]z [A^FA,]z [B^GB,]z|[cAC]z [dBD]z [ecE]z [fd=F]z|[ecE]z [dBD]z [cAC]z2[BE]|
+[B8E8]|[A4C4] zA ^GA|B^G E3/2z3/2B ^GE|cA E3/2z3/2c AE|
+A^F ^D3/2z3/2A ^F^D|B^G E3/2z3/2^F ^GA|B^G E3/2z3/2B ^GE|cA E3/2z3/2c AE|
+A^F ^D3/2z3/2A ^F^D|B^G E3/2z2z/2 E2|[B6E6B,6] [c2E2C2]|[d4E4=D4] [c4E4C4]|
+[f^G=F]z2[e^GE] [d4-^G4-D4-]|[d4^G4D4] [f4^G4F4]|[e4A4E4] [c4E4C4]|[B4E4B,4] [A3^D3-C3-][B^DC]|
+[A8^D8C8]|[^G4E4B,4] E4|[B6E6B,6] [c2A2C2]|[d4^G4=D4] [f4^G4F4]|
+[eAE]z2[dAD] [c4-A4-C4-]|[c4A4C4] [e4c4^F4E4]|[d4B4=G4D4] [c4A4E4C4]|[B4G4D4B,4] [A3^F3-C3-A,3-][B^FCB,A,]|
+[A8^F8C8A,8]|[G4D4B,4] G4|[g6e6G6] [f2d2=F2]|[e4c4E4] [f4d4F4]|
+[e4c4E4] [d3B3D3][cAC]|[d4B4D4] [G4F4]|[e6c6E6] [dBD]z|[cAC]z [dBD]z [ecE]z [dBD]z|
+[c4A4C4] [B3^G3B,3][A^FA,]|[B4^G4B,4] [E4D4]|[A6E6C6A,6] [B2E2B,2]|[c4A4C4] [d4B4D4]|
+[e4c4E4] [g4-e4-=G4-]|[g4e4G4] [f3d3=F3][ecE]|[e4c4E4] [d3B3D3][cAC]|[c4A4C4] [e3c3E3][dBD]|
+[c8A8C8]|[B4^G4B,4] [E4D4]|[A6E6C6A,6] [B2E2B,2]|[c3A3C3][B^GB,] [c3A3C3][dBD]|
+[e4c4E4] [g4-e4-=G4-]|[g4e4G4] [^a4-g4-^A4-]|[^a8-g8-^A8-]|[^a3g3^A3][^ag^A] [=a3f3=A3][geG]|
+[f8-d8-F8-]|[f3d3F3][fdF] [e3c3E3][dBD]|[c8-A8-C8-]|[c2-A2-C2-] [cBA^GCB,]z [A^FA,]z [B^GB,]z|
+[cAC]z [dBD]z [ecE]z [fd=F]z|[ecE]z [dBD]z [cAC]z [B^GB,]z|[cAC]z [dBD]z [ecE]z [fdF]z|[ecE]z [dBD]z [cAC]z [B^GB,]z|
+[cAC]z [dBD]z [ecE]z [fdF]z|[ecE]z [dBD]z [cAC]z [B^GB,]z|[cAC]z [dBD]z [ecE]z [fdF]z|[ecE]z [dBD]z [cAC]z [B^GB,]z|
+[c3/2A3/2C3/2]z/2 [B3/2^G3/2B,3/2]z/2 [c3/2A3/2C3/2]z/2 [B3/2^G3/2B,3/2]z/2|[c3/2A3/2C3/2]z/2 [B3/2^G3/2B,3/2]z/2 [c3/2A3/2C3/2]z/2 [B3/2^G3/2B,3/2]z/2|[c3/2A3/2C3/2]z/2 [B3/2^G3/2B,3/2]z/2 [c3/2A3/2C3/2]z/2 [d3/2B3/2D3/2]z/2|[e4c4E4] [B3E3B,3][cC]|
+[B8E8B,8]|[A4A,4] zB cd|ec A3/2z3/2e cA|fd A3/2z3/2f dA|
+dB ^G3/2z3/2d B^G|ec A3/2z3/2B cd|e^c A3/2z3/2e ^cA|fd A3/2z3/2f dA|
+dB ^G3/2z3/2d B^G|e=c A3/2z3/2d B^G|ec A3/2z3/2d B^G|ec Ad B^G ec|
+Ad B^G ec Ad|B^G ec Ad B^G|ec Ae cA ec|Ae cA ec Ae|
+cA ec Ae cA|e8|c4 A4-|A8|
+V:2
+%Piano left
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|z8|z4 [E4C4A,4]|z4 [F4D4A,4]|
+z4 [D4B,4A,4]|z4 [E4C4A,4]|z4 [E4C4A,4]|z4 [F4D4A,4]|
+z4 [D4B,4A,4]|z2 [E3/2C3/2A,3/2]z/2 [F4D4A,4]|z2 [E3/2C3/2A,3/2]z/2 [F4D4A,4]|z2 [E3/2C3/2A,3/2]z/2 [F4D4A,4]|
+z4 CA, E,C,|[A,,2A,,,2] z2 E,4|[A,6C,6] [B,2E,2]|[C4A,4] [D4B,4]|
+[E4C4] [=G4-E4-]|[G4E4] [F3D3][EC]|[E4C4] [D3B,3][CA,]|[C4A,4] [E3C3D,3-][DB,D,]|
+[C8A,8E,8-]|[B,2^G,2E,2] z2 E,4|[A,6C,6A,,6] [B,2E,2]|[C4A,4] [D4B,4]|
+[E4C4] [E-E,]E- [E-F,]E-|[E4=G,4-] [F3D3G,3-][ECG,-]|[E4C4G,4] [D3B,3G,3-][CA,G,]|[C4A,4] [B,4G,4E,4]|
+[A,2F,2-] [^G,F,-]F, [A,E,]z [B,D,]z|[CC,]z [B,D,]z [A,E,]z2E,|E,8|[A,2A,,2] z6|
+z4 [B,4^G,4E,4]|z4 [C4A,4E,4]|z4 [A,4^F,4E,4]|z4 [B,4^G,4E,4]|
+z4 [D4B,4E,4]|z4 [C4A,4E,4]|z4 [C4A,4^F,4E,4]|z4 [B,2^G,2E,2] E,2|
+[B,6^G,6] [C2A,2]|[D4B,4] [C4A,4]|[FD]z2[EC] [D4-B,4-]|[D4B,4] [F4D4]|
+[E4C4] [C4A,4]|[B,4^G,4] [A,3^F,3-][B,^F,]|[A,8E,8-]|[^G,4E,4] E,4|
+^G,6 A,2|B,4 D4|Cz2B, A,4-|A,4 [^F,4A,,4]|
+[=G,4B,,4] [C4C,4]|[B,4D,4] [A,3D,3-][B,D,]|[A,8D,8]|[G,4G,,4] [G,4=F,4]|
+[E6E,6-] [D2E,2-]|[C4E,4] [D4D,4]|[C4G,4-] [B,3G,3-][A,G,-]|[B,2-G,2] [B,-F,]B, [G,-E,]G,- [G,-D,]G,|
+[C6C,6-] [B,C,-]C,-|[A,C,-]C,- [B,C,-]C, [CB,,-]B,,- [B,B,,-]B,,|[A,4E,4-] [^G,3E,3-][^F,E,-]|[^G,2-E,2] [^G,-D,]^G, [E,-C,]E,- [E,-A,,]E,|
+[A,6C,6A,,6] [B,2E,2]|[C4A,4] [D4B,4]|[E4C4] [E-E,]E- [E-=F,]E-|[E4=G,4-] [F3D3G,3-][ECG,-]|
+[E4C4G,4] [D3B,3^G,3-][CA,^G,]|[C4A,4] [C3D,3-][DB,D,]|[C8A,8E,8-]|[B,2^G,2E,2] z2 E,4|
+[A,6C,6A,,6] [B,2E,2]|[C3A,3][B,E,] [C3A,3][DB,]|[E4C4] [G4-E4-]|[G4E4] [^A4-G4-]|
+[^A2-G2-] [^A-G-F][^A-G-] [^A-G-E][^A-G-] [^A-G-D][^A-G-]|[^A3G3^C3-][G^C] Fz2E|D2- [D-=C]D- [D-B,]D- [D-A,]D-|[D3^G,3-][D^G,] Cz2B,|
+A,2- [A,-=G,]A,- [A,-^F,]A,- [A,-E,]A,-|[A,2-^D,2-] [A,^G,^D,-]^D, ^F,z ^G,z|[A,E,-]E,- [B,E,-]E,- [CE,-]E,- [DE,-]E,-|[CE,-]E,- [B,E,-]E,- [A,E,-]E,/2z3/2[B,E,]|
+[B,8E,8]|[A,4A,,4] z4|z4 [B,4^G,4E,4]|z4 [C4A,4E,4]|
+z4 [A,4^F,4E,4]|z4 [B,4^G,4E,4]|[E,4E,,4] [D4B,4E,4]|z4 [C4A,4E,4]|
+[E,4E,,4] [C4A,4^F,4E,4]|z4 [B,2^G,2E,2] [E,2E,,2]|[E,6^G,,6] [E,2A,,2]|[E,4B,,4] [E,4A,,4]|
+[E,=D,]z2[E,C,] [E,4-B,,4-]|[E,4B,,4] [D4E,4D,4]|[C4E,4C,4] [A,4E,4A,,4]|[^G,4E,4^G,,4] [^F,4E,4^F,,4]|
+[E,4E,,4] [E,,4-E,,,4-]|[E,,4E,,,4] [E,4E,,4]|[^G,6E,6D,6] [A,2E,2C,2]|[B,4E,4B,,4] [D4E,4D,4]|
+[CE,C,]z2[B,E,B,,] [A,4-E,4-A,,4-]|[A,4E,4A,,4] [A,,4A,,,4]|[B,,4B,,,4] [C,4C,,4]|[D,4D,,4] [D,4D,,4]|
+[=G,,4G,,,4] [=G,4-G,,4-]|[G,4G,,4] [=F,4=F,,4]|[E,4C,4G,,4E,,4] [E4-C4-G,4-E,4-]|[E4C4G,4E,4] [D,4D,,4]|
+[G,4G,,4] [G,,4-G,,,4-]|[G,,2G,,,2] [F,2F,,2] [E,3/2E,,3/2]z/2 [D,3/2D,,3/2]z/2|[C,4C,,4] [C4-A,4-E,4-C,4-]|[C4A,4E,4C,4] [B,,4B,,,4]|
+[E,4E,,4] [E,,4-E,,,4-]|[E,,2E,,,2] [D,2D,,2] [C,3/2C,,3/2]z/2 [B,,3/2B,,,3/2]z/2|[A,,2A,,,2] [E,2E,,2] [C,2C,,2] [E,2E,,2]|[A,2A,,2] [E,2E,,2] [B,2B,,2] [E,2E,,2]|
+[C2C,2] [B,2B,,2] [C2C,2] [D2D,2]|[E2E,2] [G,2G,,2] [A,2A,,2] [B,2B,,2]|[C2C,2] [E,2E,,2] [^F,2^F,,2] [^G,2^G,,2]|[A,2A,,2] [C,2C,,2] [=F,2=F,,2] [D,2D,,2]|
+[E,2E,,2] [^D,2^D,,2] [E,2E,,2] [^D,2^D,,2]|[E,2E,,2] [=D,2=D,,2] [B,,2B,,,2] [C,2C,,2]|[A,,2A,,,2] [E,2E,,2] [C,2C,,2] [E,2E,,2]|[A,2A,,2] [E,2E,,2] [A,2A,,2] [B,2B,,2]|
+[C2C,2] [B,2B,,2] [C2C,2] [D2D,2]|[E2E,2] [F2F,2] [G2=G,2] [=A2A,2]|[^A2^A,2] [G2G,2] [E2E,2] [D2D,2]|[^C3-^C,3-][G^C^C,] F3E|
+[D2D,2] [=C=C,]z [B,B,,]z [=A,A,,]z|[^G,3-^G,,3-][D^G,^G,,] C3B,|[A,2A,,2] [=G,=G,,]z [^F,^F,,]z [E,E,,]z|[^D,2^D,,2] ^G,z ^F,z ^G,z|
+[E,E,,]z B,z Cz Dz|Cz B,z A,z E,z|A,z B,z Cz Dz|Cz B,z A,z [^G,B,,^G,,]z|
+[A,C,A,,]z [B,=D,B,,]z [CE,C,]z [D=F,D,]z|[CE,C,]z [B,D,B,,]z [A,C,A,,]z [^G,B,,^G,,]z|[A,C,A,,]z [B,D,B,,]z [CE,C,]z [DF,D,]z|[CE,C,]z [B,D,B,,]z [A,C,A,,]z [^G,B,,^G,,]z|
+[A,3/2C,3/2A,,3/2]z/2 [^G,3/2B,,3/2^G,,3/2]z/2 [A,3/2C,3/2A,,3/2]z/2 [^G,3/2B,,3/2^G,,3/2]z/2|[A,3/2C,3/2A,,3/2]z/2 [^G,3/2B,,3/2^G,,3/2]z/2 [A,3/2C,3/2A,,3/2]z/2 [^G,3/2B,,3/2^G,,3/2]z/2|[A,4C,4A,,4] [F,4A,,4=F,,4]|[E,4^G,,4E,,4] [E,3-B,,3E,,3-][E,C,E,,]|
+[E,8B,,8E,,8]|[A,,4A,,,4] z4|z4 [E4C4A,4]|z4 [F4D4A,4]|
+z4 [D4B,4A,4]|z4 [E4C4A,4]|z4 [G4E4A,4]|z4 [F4D4A,4]|
+z4 [F4D4B,4A,4]|z2 [E3/2C3/2A,3/2]z/2 [F4D4A,4]|z2 [E3/2C3/2A,3/2]z/2 [F4D4A,4]|[E4C4A,4-] [F4D4A,4-]|
+[E2C2A,2-] [F2D2A,2] [E4C4A,4-]|[F4D4A,4-] [E2C2A,2-] [F2D2A,2]|[E8-C8-A,8-]|[E8-C8-A,8-]|
+[E8-C8-A,8-]|[E8-C8-A,8-A,,8-A,,,8-]|[E8-C8-A,8-A,,8-A,,,8-]|[E8C8A,8A,,8A,,,8]|
+%Mendelssohn: Songs without Words, Op. 53 No. 5
+%Copyright \0xa9 2004 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2014-04-03
+%Spur 7

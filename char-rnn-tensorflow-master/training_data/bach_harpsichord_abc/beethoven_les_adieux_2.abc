@@ -1,0 +1,64 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/beethoven_les_adieux_2.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=50
+% Last note suggests unknown mode tune
+K:F % 1 flats
+%Sonate Les adieux 2. Satz
+%Copyright \0xa9 2008 by Bernd Krueger
+%Ludwig van Beethoven
+%Andante expressivo
+%Erstellt: 12.2.2008
+
+%Update: 7.8.2012
+
+%Dauer: 2:54 Minuten
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-3  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+G3/2_G/2 A6|=G3/2_G/2 A4- [A3/2-A3/2][_e/2A/2]|_e2 [d3/2D3/2-][=G/2D/2] G2 [_G3/2C3/2-][A/2C/2]|A3/2=B/2- [=B2-D2=B,2] [=B-D-=B,-][c/2=B/2D/2-=B,/2-][=B/2A/2D/2=B,/2] =Bc|
+_e3/2d/2 f4- f3/2d/2|[f/2_e/2-]_ed/2 f4- [f3/2-d3/2][_a/2f/2]|_a2 [g3/2=G3/2-][c/2G/2] c2 [=B3/2F3/2-][d/2F/2]|d3/2_e/2- [_e2-_E2] [_e-_E][_e_A] G_A|
+c_B/2[c/2B/2] [B/2-=A/2]Bc/2 _d2- _d/2c/2b/2g/2|g3b/2_a/2 z2 _AG|[G3/2C3/2-A,3/2-][_G/2C/2-A,/2-] [=A4C4A,4] [A3/2D3/2-][=G/2D/2]|[G3/2D3/2-C3/2-][_G/2D/2C/2] [A3/2D3/2-_B,3/2-][=G/2D/2B,/2] [B3/2D3/2-A,3/2-][A/2D/2A,/2] _G/2A/2c/2_e/2|
+=d/2c/2B/2A/2 c/2_g/2=a/2c'/2 b/2a/2=g/2_g/2 a/2c'/2d'/2_e'/2|d'/2c'/2b/2a/2 c'/2a/2=g/2_g/2 c'/2a/2=g/2_g/2 a/2_g/2_e/2d/2|d2 A4 =B=G|G_G/2[=G/2_G/2] [_G/2-=E/2]_G/2=G A=B c/2_d/2_d/2=d/2|
+_d/2=d/2=e/2d/2 A2- A/2=B/2[=B/2A/2][c/2A/2] [c/2=B/2][d/2=B/2]_d/2G/2|G2 z/2z/2G A_B c/2_d/2_d/2=d/2|d[bd] z[bd] z[ac] z[=gB]|z[gBG] z[g_eG] z[fdG] z[_ecG]|
+[f3/2_d3/2-B3/2-G3/2-][=e/2_d/2-B/2-G/2-] [g6_d6B6G6]|[f3/2_d3/2-B3/2-G3/2-][e/2_d/2-B/2-G/2-] [g4-_d4B4G4] [g3/2-g3/2_d3/2-][_d'/2g/2_d/2]|_d'2 [c'3/2c3/2-][f/2c/2] f2 [e3/2B3/2-][g/2B/2]|g3/2_a/2- [_a2-c2] [_a-c][_a/2_d/2-]_d/2 c_d|
+f_e/2[f/2_e/2] [_e/2-=d/2]_ef/2 _g2- _g/2f/2_e'/2c'/2|c'3_e'/2_d'/2 z2 _GF|[F3/2_D3/2-B,3/2-G,3/2-][E/2_D/2-B,/2-G,/2-] [=G-_DB,G,]G3 [G3/2C3/2-_A,3/2-][F/2C/2_A,/2]|[F3/2C3/2-B,3/2-][E/2C/2B,/2] [G3/2C3/2-_A,3/2-][F/2C/2_A,/2] [_A3/2C3/2-G,3/2-][G/2C/2G,/2] E/2G/2B/2_d/2|
+c/2B/2_A/2G/2 B/2=e/2=g/2b/2 _a/2g/2f/2e/2 g/2b/2c'/2_d'/2|c'/2b/2_a/2g/2 b/2g/2f/2e/2 b/2g/2f/2e/2 [g'/2g/2][=e'/2e/2][_d'/2_d/2][c'/2c/2]|[c'2c2] [g4G4] [=a=A][fF]|[fF-][e/2F/2-][f/2e/2F/2] [e/2-=d/2E/2-][e/2E/2][fF] [gG][aA] [b/2B/2][=b/2=B/2][=b/2=B/2][c'/2c/2]|
+=b/2c'/2=d'/2c'/2 g2- g/2a/2[a/2g/2][_b/2g/2] [b/2a/2][c'/2a/2]=b/2f'/2|[fF-][e/2F/2-][f/2e/2F/2] [e/2-d/2E/2-][e/2E/2][fF] [gG][_a_A] [_b/2_B/2][=b/2=B/2][=b/2=B/2][c'/2c/2]|[c'_ac][_a'c'_a] z[_ac] z[g_B] z[f_A]|[f_A][f'_af] z[f_AF] z[_ecF] z[_dBF]|
+[c3/2_A3/2-F3/2-=D3/2-][=B/2_A/2-F/2-D/2-] [=d6_A6F6D6]|c3/2=B/2 dz d3/2c/2 _ez|[_e3/2_A3/2-F3/2-][d/2_A/2-F/2-] [f6_A6F6]|_e3/2d/2 fz f3/2_e/2 gz|
+[g3/2d3/2_A3/2]f/2 _a3-_a/2f/2 d'2-|d'3/2_a/2 f'3-f'/2d'/2 _a'2|
+V:2
+%Piano left
+%%MIDI program 0
+[_E2-C,2-] [_E2-_G,2C,2-] [_E2-=A,2C,2-] [_E2_G,2C,2]|[_E2-C,2-] [_E2-_G,2C,2-] [_E2-A,2C,2-] [_E2_G,2C,2]|z2 [=G,2=B,,2] z2 [A,2D,2]|z2 [G,2G,,2] [G,2G,,2] z2|
+[_A2-F,2-] [_A2-=B,2F,2-] [_A2-D2F,2-] [_A2=B,2F,2]|[_A2-F,2-] [_A2-=B,2F,2-] [_A2-D2F,2-] [_A2=B,2F,2]|z2 [C2_E,2] z2 [D2G,2]|z2 [C2C,2] [CC,][_EC] [_E_D_B,][_EC_A,]|
+[_E2B,2G,2] [=E3B,3G,3][_D_A,F,] [CG,=E,][CG,E,]|[C2G,2E,2] [C2_A,2F,2] z4|[_E,2D,,2-] [_G,,2D,,2-] [A,,2D,,2] [B,2D,2_B,,2]|[=A,2D,2A,,2] [G,2D,2=G,,2] [_G,2D,2_G,,2] z2|
+z8|z8|[A,/2_G,/2]=D/2[A,/2_G,/2]D/2 [A,/2_G,/2]D/2[A,/2_G,/2]D/2 [A,/2_G,/2]D/2[A,/2_G,/2]D/2 [=B,/2=G,/2]D/2[=B,/2G,/2]D/2|[C/2A,/2]D/2[C/2A,/2]D/2 [C/2A,/2]D/2[C/2A,/2]D/2 [C/2A,/2]D/2[=B,/2G,/2]D/2 [A,/2_G,/2]D/2[A,/2_G,/2]D/2|
+[A,/2_G,/2]D/2[A,/2_G,/2]D/2 [A,/2_G,/2]D/2[A,/2_G,/2]D/2 [A,/2_G,/2]D/2[A,/2_G,/2]D/2 [=B,/2=G,/2]D/2[=B,/2G,/2]D/2|[C/2A,/2]D/2[C/2A,/2]D/2 [C/2A,/2]D/2[C/2A,/2]D/2 [C/2A,/2]D/2[_B,/2G,/2]D/2 [A,/2_G,/2]D/2[A,/2_G,/2]D/2|[B,/2=G,/2]D/2_G/2=G/2 D/2B,/2A,/2G,/2 [_G,/2D,/2]A,/2C/2D,/2 _E,/2=G,/2B,/2G,/2|[G,/2_E,/2]B,/2D/2_E/2 B,/2G,/2F,/2_E,/2 [=B,,/2=G,,/2]D,/2G,/2=B,,/2 C,/2_E,/2G,/2C,/2|
+[_D2-_B,,2-] [_D2-=E,2B,,2-] [_D2-G,2B,,2-] [_D2E,2B,,2]|[_D2-B,,2-] [_D2-E,2B,,2-] [_D2-G,2B,,2] [_D2E,2B,,2]|z2 [F,2C,2_A,,2] z2 [=E2G,2C,2]|z2 [F2F,2] [FF,][_AF] [_A_G_E][_AF_D]|
+[_A2_E2C2] [=A3_E3C3][_G_DB,] [FCA,][FCA,]|[F2C2A,2] [F2_D2B,2] z4|[_D,2C,,2-] [E,,2C,,2-] [G,,2C,,2] [_A,,2C,,2_A,,,2]|[G,,2C,,2G,,,2] [F,,2C,,2F,,,2] [E,,2C,,2E,,,2] z2|
+z8|z8|[G,/2E,/2]C/2[G,/2E,/2]C/2 [G,/2E,/2]C/2[G,/2E,/2]C/2 [G,/2E,/2]C/2[G,/2E,/2]C/2 [A,/2F,/2]C/2[A,/2F,/2]C/2|[B,/2G,/2]C/2[B,/2G,/2]C/2 [B,/2G,/2]C/2[B,/2G,/2]C/2 [B,/2G,/2]C/2[A,/2F,/2]C/2 [G,/2E,/2]C/2[G,/2E,/2]C/2|
+[G,/2E,/2]C/2[G,/2E,/2]C/2 [G,/2E,/2]C/2[G,/2E,/2]C/2 [G,/2E,/2]C/2[G,/2E,/2]C/2 [A,/2F,/2]C/2[A,/2F,/2]C/2|[B,/2G,/2]C/2[B,/2G,/2]C/2 [B,/2G,/2]C/2[B,/2G,/2]C/2 [B,/2G,/2]C/2[_A,/2F,/2]C/2 [G,/2E,/2]C/2[G,/2E,/2]C/2|[_A,/2F,/2]C/2=E/2F/2 C/2_A,/2G,/2F,/2 [E,/2C,/2]G,/2B,/2C,/2 _D,/2F,/2_A,/2F,/2|[F,/2_D,/2]_A,/2C/2_D/2 _A,/2F,/2_E,/2_D,/2 [=A,,/2F,,/2]C,/2F,/2A,,/2 B,,/2_D,/2F,/2B,,/2|
+[_A,2G,,2-] [=B,,2G,,2-] [=D,2G,,2-] [=B,,2G,,2]|z8|[=D2=B,,2-] [F,2=B,,2-] [_A,2=B,,2-] [F,2=B,,2]|z8|
+[D/2-_B,,/2]D3/2 F,2 D2 F,2|F2 D2 _A2 F2|
+%Pedale
+%%MIDI program 0
+%Beethoven: Sonate Les adieux No. 2
+%Copyright \0xa9 2008 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 20012-08-07
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

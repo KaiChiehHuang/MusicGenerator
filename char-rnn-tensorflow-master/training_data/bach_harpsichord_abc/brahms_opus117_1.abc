@@ -1,0 +1,89 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/brahms_opus117_1.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=47
+% Last note suggests Phrygian mode tune
+K:Eb % 3 flats
+%Intermezzo Opus 117 Nr. 1
+%Copyright \0xa9 2010 by Bernd Krueger
+%Johannes Brahms
+%Andante moderato
+%Erstellt: 9.10.2010
+
+%Dauer: 4:39 Minuten
+
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-3  minor=0
+%Andante moderato
+% MIDI Key signature, sharp/flats=-6  minor=0
+%Piu Adagio
+% MIDI Key signature, sharp/flats=-3  minor=0
+%Un poco piu Andante
+V:1
+%Piano right
+%%MIDI program 0
+z8|z2 B2 [e2-E2-] [e2d2E2]|[e2c2E2] [e4B4E4] [e-AE-][eGE]|[e2-F2] [e2E2] [e2G2] [e2-B2-E2-]|
+[e2B2E2] [e-cE-][edE] [e2-E2-] [e2d2E2]|[e2c2E2] [e4B4E4] [e-AE-][eGE]|[e2-B2] [e3/2-E3/2-][e/2G/2E/2] [d2F2] [e2-E2-]|[e-E][eG] Bg [a2-f2A2-] [a2c2A2]|
+[f2d2F2] [g3-B3-G3-][geBG] [b-gB-][beB]|[a2-f2A2-] [a2c2A2] [f2d2F2] [g2-e2G2-]|[g2B2G2] [e2c2G2] [f4d4F4]|[b4d4B4] [d2B2] [=a2f2B2]|
+[g2e2B2] [f2d2=A2] [ecG][d/2B/2F/2][_A/2-E/2-] [f2c2A2-E2]|[B2A2D2] [cEC][BFD] [e2-E2-] [e2d2E2]|[e2c2E2] [e4B4E4] [e-AE-][eGE]|[e2-F2] [e2E2] [e2G2] [e2-B2-E2-]|
+[e2B2E2] [e-cE-][edE] [e2-E2-] [e2d2E2]|[e2c2E2] [e4B4E4] [e-=AE-][eGE]|[e2-=A2F2-] [e2B2F2] [e2c2F2] [f2-e2-B2-F2-]|[f-eBF][fd] [b-c][bB] [e'2-e2-] [e'2d'2e2]|
+[e'2-c'2e2] [e'2b2d2] [_a2e2-c2] [g2e2B2]|[f2e2_A2] [e-G][eF] [c-E][cG] B2-|B2 [cE-][dE] [e2-E2-] [e2d2E2]|[e2c2E2] B2- [e2-B2E2-] [e-AE-][eGE]|
+[e2-B2] [e3/2-E3/2-][e/2G/2E/2] [d2F2] [e2-E2-]|[e2E2] [=e=E][_g_G] [a2A2] [_g2_G2]|[=e2=E2] [_e4_E4] [E2_D2E,2]|[E4=B,4E,4] [E2A,2E,2] [E2-E,2-]|
+[E2E,2] [=e=E][_g_G] [a2A2] [_g2_G2]|[=e2=E2] [_e4_E4] [=e=E][_g_e_G]|[a2=e2A2] [_g2_e2_G2] [=e2_d2=E2] [_e2=B2_E2]|[_d2_B2_D2] [=B2A2=B,2] z2 [_B2_G2-]|
+[_G-_B,]_G [=B2A2-] [A-=B,]A [A2F2]|A,z [a2-f2] [a-A]a [b2-_g2]|[b-_B]b [_g2e2] _Gz [_G2E2-]|[E-_G,]E [F2E2=B,2-] [=B,-F,]=B, [F2E2=B,2]|
+z2 [f2-_d2B2] [f-F]f [e2-_d2B2]|[e-E]e [e2_d2B2] z2 [=E2-C2_B,2]|[=E2=E,2] [F2-C2B,2] [F2F,2] [C2B,2]|[f2-e2-=A2-F2-] [f2-e2-_d2=A2-F2-] [f2e2c2=A2F2] [f2-e2-B2-F2-]|
+[f2-e2B2-F2-] [f2_d2B2F2] z2 [=E2-C2B,2]|[=E2=E,2] [_G2-_E2-B,2] [_G2E2_G,2] [C2_G,2_E,2]|[f2-e2-=A2-F2-] [f2-e2-_d2=A2-F2-] [f2e2c2=A2F2] [a2=d2-B2-_A2]|[_g2d2-B2-_G2] [f2d2B2F2] z2 [B2_G2-]|
+[_G-B,]_G [=B2A2-] [A-=B,]A [A2=E2]|A,z [a2-=e2-_d2-_B2] [a-=e-_d-A][a=e_d] [b2-=g2-_d2]|[b-g-B][bg] [_d2B2_D2] z2 [_G2-_E2-C2]|[_G-E-_G,][_GE] [_G2-E2-=B,2] [_G-E-_G,][_GE] [=E2_E2=B,2]|
+z2 [a2-=e2-_d2-B2] [a-=e-_d-A][a=e_d] [=e2-_d2-B2]|[=e-_d-=E][=e_d] [_e2_d2B2] z2 [=D2-=B,2]|[D2F,2] [_E2-_B,2] [E2E,2] [B,2_G,2]|[B2-A2-D2-B,2-] [B2-A2-_G2D2-B,2-] [B2A2F2D2B,2] [B2-A2-E2-B,2-]|
+[B2-A2E2-B,2-] [B2_G2E2B,2] z2 [=e2-=B2-A2]|[=e2=B2=E2] [_e2-_B2-_G2] [e2B2_E2] [B2_G2]|[B,6A,6D,6] [B,2-A,2-D,2-]|[B,4A,4D,4] [E4-_D4=G,4-E,4-]|
+[E2=B,2-G,2E,2] [E2-=B,2G,2-E,2-] [E3/2-_B,3/2G,3/2-E,3/2-][E2-G,2-E,2-][E/2G,/2E,/2]|[e2-=G2-E2-] [e2=d2G2E2=D2] [e'2g2e2c2E2C2] [e'2-g2-e2-B2-E2-B,2-]|[e'2g2e2B2E2B,2] [AEA,][GG,] [F2G,2-] [E2G,2]|[e'2g2e2G2E2G,2] [e'4g4e4B4E4B,4] [cC][dD]|
+[e2B2E2] [d2D2] [e'2g2e2c2E2C2] [e'2-g2-e2-B2-E2-B,2-]|[e'2g2e2B2E2B,2] [AEA,][GG,] [B2B,2-] [E3/2-B,3/2-][G/2E/2B,/2]|[F2D2A,2] [E3G,3-][GG,] [BG-][gG]|[a2-f2A2-] [a2c2A2] [f2d2F2] [g2-B2-G2-]|
+[g-B-G-][geBG] [b-gB-][beB] [a-fA-][a-eA-] [a-fA-][acA]|[f-eF-][fdF] [g-eG-][g-dG-] [g-eG-][gBG] [e-cG-][eBG]|[f-dF-][f-cF-] [f-dF-][fBF] [e-cE-][eBE] [f-dF-][f-cF-]|[f-dF-][fBF] [=a-f-=A][=afB] [g-e-B][geG] [f-d-=A][fdG]|
+[ecG][dBF] [c-_A-E][cA-C] [B-A-G-D][BAGB,] [B-AEC][BFD]|[e2-E2-] [e2d2E2] [e2c2E2] [e2-B2-E2-]|[e2B2E2] [e-AE-][eGE] [e2-F2] [e2E2]|[e2G2] [e4B4E4] [e-cE-][edE]|
+[e2-E2-] [e2d2E2] [e2c2E2] [e2-B2-E2-]|[e2B2E2] [e-=AE-][eGE] [e2-=A2E2-] [e2B2E2]|[d2c2D2] [d3-B3D3][dd] [b-c][bB]|[e'3e3-][d'e] [e'e-][c'e-] [e'e][b-d]|
+[be][_a-c] [ae][gB-] [fB][d_A-] [eA][gG]|[b-F][b-D] [b-E][b-G] [bB-][cB] df|[e2-E2-] [e2d2E2] [e2c2E2] B2-|[e2-B2E2-] [e-AE-][eGE] [e2-B2] [e2E2]|
+[d-G][d4-F4-][d/2F/2]z/2 [e2-c2E2-]|[e4B4E4] [e2-=A2E2-] [e2-_A2-E2-]|[e2A2E2] [e2-G2E2] [e2-B2] [e2E2]|[d-G][d6-F6][dE]|
+[e4E4] z2 [B,2-G,2-B,,2-]|[B,2G,2B,,2] z2 [g4-e4-G4-]|[g2e2G2] 
+V:2
+%Piano left
+%%MIDI program 0
+z8|z2 E,,2 [G,4E,4]|[G,2E,2] [G,4E,4] E,,2|[G,4E,4] [G,2E,2] [G,2-E,2-]|
+[G,2E,2] G,,,2 [G,4E,4G,,4]|[G,2E,2G,,2] [G,4E,4G,,4] B,,,2|[G,4B,,4] [A,2B,,2] [G,2-E,2-]|[G,2E,2] E,,2 [C4E,4]|
+[A,2E,2] [B,4E,4] E,,2|[C4E,4] [A,2E,2] [B,2-E,2-]|[B,2E,2] [E,2E,,2] [B,2B,,2] [=A,2=A,,2]|[G,2G,,2] [F,4F,,4] [E,E,,][D,D,,]|
+[F,4F,,4] [B,,2B,,,2] [B,,2-B,,,2-]|[B,,2B,,,2] [_A,3/2B,,3/2]E,,/2- [G,4E,,4]|[G,2E,2] [G,4E,4] E,,2|[G,4E,4] [G,2E,2] [G,2-E,2-]|
+[G,2E,2] C,,2 [G,4C,4]|[G,2C,2] [G,4C,4] F,,2|[C4F,4] [=A,2F,2] [B,2-B,,2-]|[B,2B,,2] [A3/2D3/2B,3/2]E,/2- [G3-B,3-E,3-][G/2B,/2-E,/2][B,/2E,/2-]|
+[G4B,4-E,4] [B,/2-B,/2E,/2-][B,3-E,3-][B,/2E,/2]|[B,4E,4] [G,4E,4]|[G,4E,4G,,4] [G,4E,4=A,,4]|[G,4E,4B,,4] [G,4E,4C,4]|
+[G,4B,,4] [_A,2B,,2] [G,2-E,2-]|[G,2E,2] [=E,=E,,][_G,_G,,] [A,2_A,,2] [_G,2_G,,2]|[=E,2=E,,2] [_E,4_E,,4] [_D,_D,,][=B,,=B,,,]|[_B,,2_B,,,2] [A,,2A,,,2] [=B,,2=B,,,2] E,,2-|
+E,,2 [_D2E,2] [=B,4E,4]|[A,2E,2] [E4E,4] [_D,2_D,,2]|[_B,,4_B,,,4] [=G,,4G,,,4]|[A,,4A,,,4] B,,,B,, E,_G,|
+z2 B,,,B,, F,A, z2|B,,,B,, =D,F, z2 B,,,B,,|E,_G, z2 B,,,B,, =B,,E,|z2 A,,,A,, =B,,E, z2|
+A,,,A,, _B,,_D, z2 _G,,,_G,,|B,,_D, z2 _G,,,_G,, B,,C,|z2 F,,,F,, B,,C, z2|[F,2-E,2-=A,,2-F,,2-] [F,2-E,2-_D,2=A,,2-F,,2-] [F,2E,2C,2=A,,2F,,2] [F,2-E,2-B,,2-F,,2-]|
+[F,2-E,2B,,2-F,,2-] [F,2_D,2B,,2F,,2] _G,,,_G,, B,,C,|z2 C,,,C,, E,,B,, z2|[F,2-E,2-=A,,2-F,,2-] [F,2-E,2-_D,2=A,,2-F,,2-] [F,2E,2C,2=A,,2F,,2] [A,2=D,2-B,,2-_A,,2]|[_G,2D,2-B,,2-_G,,2] [F,2D,2B,,2F,,2] E,,B,, E,_G,|
+z2 A,,,A,, =B,,=E, z2|B,,,_B,, _D,=E, z2 E,,B,,|_E,=G, z2 A,,,E,, A,,C,|z2 A,,,E,, A,,=B,, z2|
+B,,,_B,, _D,=E, z2 =G,,,=G,,|B,,_E, z2 A,,,E,, A,,=B,,|z2 _G,,,E,, _G,,_B,, z2|[A,2-=D,2-B,,2-] [A,2-_G,2D,2-B,,2-] [A,2F,2D,2B,,2] [A,2-E,2-B,,2-]|
+[A,2E,2-B,,2-] [_G,2E,2B,,2] A,,,A,, =B,,=E,|z2 B,,,_G,, _B,,_E, z2|[B,,4-A,,4] [B,,2_G,,2-] [B,,2-_G,,2]|[B,,4F,,4] [_D,4E,,4-]|
+[=B,,2-E,,2] [=B,,2E,,2-] [_B,,3/2E,,3/2-]E,,2-[E,,/2-E,,/2]|[=G,4B,,4-E,,4] B,,/2z3z/2|z2 [B,,2E,,2] [F,2B,,2E,,2] E,2|z6 [E,2=G,,2]|
+[E,4G,,4] z4|z2 [B,,2B,,,2] [G,4E,4B,,4]|[B,,2B,,,2] [B,,4E,,4] E,,2|[C4E,4] [A,2E,2] [_B,2-E,2-]|
+[B,2E,2] E,,2 [C4E,4]|[A,2E,2] [B,4E,4] [E,2E,,2]|[B,2B,,2] [=A,2=A,,2] [G,2B,,2G,,2] [F,2-B,,2-F,,2-]|[F,2B,,2F,,2] [E,E,,][=D,=D,,] [F,4F,,4]|
+[B,,2B,,,2] [B,,4B,,,4] B,,-[_A,/2B,,/2]E,,/2-|[G,4E,,4] [G,2E,2] [G,2-E,2-]|[G,2E,2] E,,2 [G,4E,4]|[G,2E,2] [G,4E,4] C,,2|
+[G,4C,4] [G,2C,2] [G,2-C,2-]|[G,2C,2] D,,2 [C4_G,4D,4]|[=A,2_G,2D,2] [B,4B,,4] [A3/2=D3/2B,3/2]E,/2-|[G3-B,3-E,3-][G/2B,/2-E,/2][B,/2E,/2-] [G3/2B,3/2-E,3/2][B,/2E,/2-] [G2-B,2-E,2-]|
+[G2B,2-E,2] [B,/2-B,/2E,/2-][B,3/2E,3/2] [B,3-E,3-][B,/2E,/2]E,/2-|[_A,3/2-E,3/2][A,/2E,/2-] [=G,4-E,4] [G,/2-G,/2E,/2-G,,/2-][G,3/2-E,3/2-G,,3/2]|[G,4E,4=A,,4] [G,4E,4B,,4]|[G,4E,4C,4] [G,4B,,4]|
+[A,4-B,,4-] [A,3/2B,,3/2]_A,,/2- [C2-E,2-A,,2-]|[C4E,4-A,,4] [E,/2-E,/2C,/2-][E,3-C,3-][E,/2-C,/2-]|[E,2C,2] [G,6B,,6]|[A,8B,,8]|
+[G,4E,4] z2 [E,,2-E,,,2-]|[E,,2E,,,2] z2 [E4-G,4-E,4-]|[E2G,2E,2] 
+%Pedale
+%%MIDI program 0
+%Brahms: Intermezzo Opus 117 No. 1
+%Copyright \0xa9 2010 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2010-10-09
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

@@ -1,0 +1,54 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn-p10.mid
+% format 1 file 7 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=179
+% Last note suggests minor mode tune
+K:E % 4 sharps
+%Prelude No. 10
+%Copyright \0xa9 1997 by Bernd Krueger http://www.piano-midi.de
+%Frederic Chopin
+%Molto Allegro
+%Fertiggestellt am 6.5.97
+
+%Korrekturen am 27.8.98
+
+%Anpassungen an Digitalpiano am 26.12.98
+
+%Update am 14.4.99
+
+%Normierung: 23.12.2002
+
+%Update am 12.6.2010
+
+%Update am 20.2.2014
+
+%Dauer: 0:26 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=4  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z6 g'/2a'/2g'/2a'/2|g'/2=g'/2[c''/2^g'/2]a'/2 g'/2e'd'/2- [g'/2d'/2c'/2]d'/2c'/2ag/2-[c'/2g/2f/2]g/2|f/2ed/2- [g/2d/2c/2]d/2c/2AG/2-[c/2G/2F/2]G/2 F/2ED/2-|[G/2D/2C/2]D/2C/2B,A,z4z/2|
+z8|z2 E3[c''/2g'/2]a'/2 g'/2e'd'/2-|[g'/2d'/2c'/2]d'/2c'/2ag/2-[c'/2g/2f/2]g/2 f/2ed/2- [g/2d/2c/2]d/2c/2A/2-|A/2G/2-[c/2G/2F/2]G/2 F/2ED/2- [G/2D/2C/2]D/2C/2B,^A,z/2|
+z2 D6|z6 G2-|G[c''/2f'/2]g'/2 f'/2=d'c'/2- [f'/2c'/2b/2]c'/2b/2ag/2-[c'/2g/2f/2]g/2|f/2=dc/2- [f/2c/2B/2]c/2B/2AG/2-[c/2G/2F/2]G/2 F/2=DC/2-|
+[F/2C/2B,/2]C/2B,/2=A,G,z2z/2 C2-|C^D3 z3D-|D2 E3[c''/2g'/2]a'/2 g'/2e'^d'/2-|[g'/2d'/2c'/2]d'/2c'/2ag/2-[c'/2g/2f/2]g/2 f/2e^d/2- [g/2d/2c/2]d/2c/2A/2-|
+A/2G/2-[c/2G/2F/2]G/2 F/2ED/2- [G/2D/2C/2]D/2C/2B,A,z/2|z8|z2 z/2Ez2z/2 A2-|A4 z4|
+z4 z/2E/2-[E/2C/2-]C2-C/2|
+V:2
+%Piano left
+%%MIDI program 0
+z8|z/2C,/2-[G,/2-C,/2-][E3G,3C,3]z2F,,/2-[C,/2-F,,/2-][A,/2-C,/2-F,,/2-]|[A,C,F,,]z/2C,/2- [G,/2-C,/2-][E3/2G,3/2C,3/2] z/2F,,/2-[C,/2-F,,/2-][A,3/2C,3/2F,,3/2]z/2C,,/2-|[G,,/2-C,,/2-][E,3/2G,,3/2C,,3/2] z3/2G,3-[=C3/2-G,3/2-D,3/2-G,,3/2-]|
+[=C3/2G,3/2-D,3/2G,,3/2-][^A,3G,3-C,3G,,3G,,,3][=C3/2-G,3/2-D,3/2-G,,3/2] [=C/2G,/2-D,/2][^CG,-E,G,,][D/2-=C/2-G,/2-F,/2-G,,/2-]|[D2-=C2-G,2-F,2-G,,2-] [D/2=C/2G,/2F,/2G,,/2-][G,2-G,,2-G,,,2-][G,/2C,/2-G,,/2-G,,,/2][G,/2-C,/2-G,,/2][E2-G,2-C,2-][E/2-G,/2-C,/2-]|[E/2G,/2C,/2]z2F,,/2-[C,/2-F,,/2-][=A,3/2C,3/2F,,3/2]z/2C,/2- [G,/2-C,/2-][E3/2G,3/2C,3/2]|z/2F,,/2-[C,/2-F,,/2-][A,3/2C,3/2F,,3/2]z/2C,,/2- [G,,/2-C,,/2-][E,3/2G,,3/2C,,3/2] z3/2G,/2-|
+G,2- G,/2-[=C2-G,2-D,2-D,,2-][=C/2-G,/2-D,/2-D,,/2-=D,,/2][=C/2G,/2D,/2-^D,,/2D,,/2][^A,/2-=G,/2-D,/2-D,,/2] [^A,/2-=G,/2-D,/2-E,,/2D,,/2][^A,/2-=G,/2-D,/2-E,,/2][^A,/2-=G,/2-D,/2-D,,/2][^A,/2-=G,/2-D,/2-E,,/2D,,/2]|[^A,/2=G,/2D,/2D,,/2=D,,/2][B,3/2-^G,3/2-D,3/2-G,,3/2] [B,/2G,/2D,/2][^C^A,D,G,,][D3B,3D,3G,,3][G,3/2-G,,,3/2-]|[G,/2-G,,,/2-][G,/2F,,/2-G,,,/2][C,/2-F,,/2-][=A,3/2C,3/2F,,3/2-]F,,/2-[B,,/2-F,,/2-] [F,/2-B,,/2-F,,/2][=D3/2F,3/2B,,3/2] z/2F,,/2-[C,/2-F,,/2-][A,/2-C,/2-F,,/2-]|[A,C,F,,]z/2B,,/2- [F,/2-B,,/2-][=D3/2F,3/2B,,3/2] z/2F,,/2-[C,/2-F,,/2-][A,3/2C,3/2F,,3/2]z|
+z3z/2F,3-[A,3/2-F,3/2-C,3/2-F,,3/2-]|[A,3/2-F,3/2-C,3/2-F,,3/2][A,3F,3C,3^D,,3][=C3/2-G,3/2-D,3/2-G,,3/2] [=C/2G,/2D,/2][^CG,E,G,,][=C/2-F,/2-G,,/2-]|[=C2-F,2-G,,2-] [=C/2-F,/2G,,/2-][=C2-G,2-G,,2-G,,,2-][=C/2G,/2C,/2-G,,/2-G,,,/2][G,/2-C,/2-G,,/2][E2-G,2-C,2-][E/2-G,/2-C,/2-]|[E/2G,/2C,/2]z2F,,/2-[C,/2-F,,/2-][A,3/2C,3/2F,,3/2]z/2C,/2- [G,/2-C,/2-][E3/2G,3/2C,3/2]|
+z/2F,,/2-[C,/2-F,,/2-][A,3/2C,3/2F,,3/2]z/2C,,/2- [G,,/2-C,,/2-][E,3/2G,,3/2C,,3/2] z3/2G,/2-|G,2- G,/2-[=C3G,3-D,3G,,3-][^C2-G,2-E,2-G,,2-G,,,2-][C/2-G,/2-E,/2-G,,/2-G,,,/2-]|[C/2G,/2E,/2G,,/2G,,,/2][^D3/2-=C3/2-D,3/2-G,,3/2] [D/2=C/2D,/2][G,G,,][^C3E,3C,,3]A,3/2-|A,4- A,/2-[=C3A,3-D,3G,,3-][^C/2-A,/2-E,/2-G,,/2-G,,,/2-]|
+[C2-A,2-E,2-G,,2-G,,,2-] [C/2A,/2E,/2G,,/2G,,,/2][D3/2=C3/2G,3/2F,3/2G,,3/2] z[=C/2-F,/2-G,,/2-][=C/2F,/2E,/2-G,,/2C,,/2-] [E,2-C,,2-]|[E,/2C,,/2]
+%Chopin: Prelude No.10 in C#-, Op. 28
+%Copyright \0xa9 1997 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-20

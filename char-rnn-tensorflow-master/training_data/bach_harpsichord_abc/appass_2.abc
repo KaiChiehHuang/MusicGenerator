@@ -1,0 +1,125 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/appass_2.mid
+% format 1 file 11 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:Db % 5 flats
+%Sonate Nr. 23 Op. 57
+%Appassionata
+%Copyright \0xa9 2001 by Bernd Krueger
+%Ludwig van Beethoven
+%Andante con moto
+%Fertiggestellt am 22.10.2001
+
+%Normierung: 23.12.2002
+
+%Update: 25.7.2012
+
+%Dauer: 6:13 Minuten
+
+% Time signature=2/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-5  minor=0
+%Teil 1
+%Teil 1 Wiederholung
+%Teil 2
+%Teil 2 Wiederholung
+%Teil 3
+%Teil 3 Wiederholung
+%Teil 4
+%Teil 4 Wiederholung
+%Teil 5
+%Teil 5 Wiederholung
+%Teil 6
+%Teil 6 Wiederholung
+%Teil 7
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+[A,4F,4D,4] [B,4G,4D,4]|[A,6F,6D,6] [B,2E,2D,2]|[A,4E,4D,4] [A,4E,4C,4]|[A,8F,8D,8]|
+[D4A,4F,4] [D4B,4G,4]|[D6A,6F,6] [D2=G,2=E,2]|[D4_G,4_E,4] [C4G,4E,4]|[D6F,6D,6] z2|
+[A,4F,4D,4] [B,4G,4D,4]|[A,6F,6D,6] [B,2E,2D,2]|[A,4E,4D,4] [A,4E,4C,4]|[A,8F,8D,8]|
+[D4A,4F,4] [D4B,4G,4]|[D6A,6F,6] [D2=G,2=E,2]|[D4_G,4_E,4] [C4G,4E,4]|[D6F,6D,6] z2|
+[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A,3F,3D,3][DA,F,] [C2A,2G,2] [D2A,2F,2]|[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A,3F,3D,3][FA,F,] [FA,-G,-][EA,G,] [D2A,2F,2]|
+[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A3D3A,3][AFD] [AE-C-][GEC] [F2D2A,2]|[E4B,4G,4] [A,4E,4C,4]|[D6F,6D,6] z2|
+[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A,3F,3D,3][DA,F,] [C2A,2G,2] [D2A,2F,2]|[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A,3F,3D,3][FA,F,] [FA,-G,-][EA,G,] [D2A,2F,2]|
+[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A3D3A,3][AFD] [AE-C-][GEC] [F2D2A,2]|[E4B,4G,4] [A,4E,4C,4]|[D6F,6D,6] z2|
+[A,2F,2D,2] z2 [B,2G,2D,2] z2|[A,2F,2D,2] z2 [B,2E,2D,2] z2|[A,2E,2D,2] z2 [A,2E,2C,2] z2|G,z F,z E,z D,z|
+[D2A,2F,2] z2 [D2B,2G,2] z2|[D2A,2F,2] z2 [D2=G,2=E,2] z2|[D2_G,2_E,2] z2 [C2G,2E,2] z2|[DF,D,]z A,z F,z E,z|
+[A,2F,2D,2] z2 [B,2G,2D,2] z2|[A,2F,2D,2] z2 [B,2E,2D,2] z2|[A,2E,2D,2] z2 [A,2E,2C,2] z2|G,z F,z E,z D,z|
+[D2A,2F,2] z2 [D2B,2G,2] z2|[D2A,2F,2] z2 [D2=G,2=E,2] z2|[D2_G,2_E,2] z2 [C2G,2E,2] z2|[DF,D,]z A,z F,z D,z|
+[A,2E,2C,2] z2 [A,2E,2C,2] z2|[A,2F,2D,2] F,z G,z A,z|[A,2E,2C,2] z2 [C2A,2E,2] z2|[D2A,2F,2] A,z Cz Dz|
+[A,2E,2C,2] z2 [E2C2G,2] z2|[F2D2F,2] [FF,]z [GG,]z [AA,]z|[B2B,2] z2 [A,2E,2C,2] z2|G,z F,z E,z D,z|
+[A,2E,2C,2] z2 [A,2E,2C,2] z2|[A,2F,2D,2] F,z G,z A,z|[A,2E,2C,2] z2 [C2A,2E,2] z2|[D2A,2F,2] A,z Cz Dz|
+[A,2E,2C,2] z2 [E2C2G,2] z2|[F2D2F,2] [FF,]z [GG,]z [AA,]z|[B2B,2] z2 [A,2E,2C,2] z2|F,z E,z D,z3|
+AF DA DB GD|AF DA DA [ED]B|AE DA CA EC|AF DA Fd AF|
+dA Fd Gd BG|dA Fd Fd [=G=E]d|_Ed _GE cG Ec|dA Fd AF DA|
+AF DA DB GD|AF DA DA [ED]B|AE DA CA EC|AF DA Fd AF|
+dA Fd Gd BG|dA Fd Fd [=G=E]d|_Ed _GE cG Ec|dA Fd AF DA|
+AE CA CA GC|DF Ad cG dF|AE CA CA GC|DF Af eG dF|
+AE CA CA GC|za Aa gA fA|eB Ge AG EA|Fd AF Dz3|
+AE CA CA GC|DF Ad cG dF|AE CA CA GC|DF Af eG dF|
+AE CA CA GC|za Aa gA fA|eB Ge AG EA|Fd AF Dz3|
+z2 a4 b2-|b2 a4 [b2e2d2]|[a2e2d2] [a2e2d2] [a2e2c2] [a2e2c2]|[a2f2d2] z6|
+z2 [d'4a4] [d'2-b2-]|[d'2b2] [d'4a4] [d'2=g2d2]|[d'2_g2d2] [d'2g2d2] [c'2g2c2] [c'2g2c2]|d'/2e'/2f'/2c'/2 d'/2a/2b/2g/2 f/2a/2g/2e/2 d/2f/2e/2c/2|
+d/2e/2d/2c/2 d/2a/2=g/2a/2 d/2e/2d/2c/2 d/2b/2=a/2b/2|d/2e/2d/2c/2 d/2_a/2=g/2a/2 d/2a/2=g/2a/2 d/2b/2=a/2b/2|d/2_a/2=g/2a/2 d/2a/2=g/2a/2 c/2a/2=g/2a/2 c/2a/2=g/2a/2|a/2_g/2f/2e/2 d/2e/2f/2g/2 a/2g/2f/2g/2 a/2b/2c'/2d'/2|
+f/2g/2f/2=e/2 f/2d'/2c'/2d'/2 g/2a/2g/2f/2 g/2d'/2c'/2d'/2|f/2g/2f/2=e/2 f/2d'/2c'/2d'/2 f/2d'/2c'/2d'/2 [=g/2=e/2]d'/2c'/2d'/2|[_g/2_e/2]d'/2c'/2d'/2 [g/2e/2]d'/2c'/2d'/2 [g/2e/2]c'/2=b/2c'/2 [g/2e/2]c'/2=b/2c'/2|[d'2f2d2] z6|
+z2 a4 a2|a2 a2 a2 a2|z2 a4 a2|a2 a2 a2 a2|
+z2 c'2 =b2 c'2|d'2 f'2 e'2 d'2|g'4 [a4g4e4]|[a/2f/2]_b/2a/2g/2 f/2g/2a/2b/2 c'/2d'/2a/2g/2 f/2a/2f/2d/2|
+c/2a/2b/2a/2 c'/2a/2b/2a/2 e'/2a/2b/2a/2 c'/2a/2b/2a/2|d'/2a/2b/2a/2 d'/2a/2b/2a/2 g/2a/2b/2a/2 f/2a/2b/2a/2|c/2a/2b/2a/2 c'/2a/2b/2a/2 e'/2a/2b/2a/2 b/2a/2b/2a/2|b/2a/2b/2a/2 d'/2a/2b/2a/2 e'/2a/2b/2a/2 f'/2a/2b/2a/2|
+e'/2c'/2d'/2c'/2 e'/2c'/2d'/2c'/2 a'/2c'/2d'/2c'/2 a'/2c'/2d'/2c'/2|a'/2c'/2d'/2c'/2 a'/2d'/2e'/2d'/2 a'/2e'/2f'/2e'/2 a'/2f'/2g'/2f'/2|b'/2g'/2b'/2a'/2 g'/2f'/2e'/2d'/2 c'/2b/2a/2g/2 f/2e/2d/2c/2|d/2B/2A/2G/2 F/2E/2D/2C/2 z4|
+[A,4F,4D,4] [B,4G,4D,4]|[A,6F,6D,6] [B2E2D2]|[A4E4D4] [A4E4C4]|[A2F2D2] z6|
+[D4A,4F,4] [D4B,4G,4]|[D6A,6F,6] [d2=G2=E2]|[d4_G4_E4] [c4G4E4]|[d2F2D2] z6|
+[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A,3F,3D,3][dAF] [c2A2G2] [d2A2F2]|[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[A,3F,3D,3][fAF] [fA-G-][eAG] [d2A2F2]|
+[A,4E,4C,4] [A,3-G,3-C,3-][A,/2G,/2C,/2][A,/2E,/2C,/2]|[a3d3A3][afd] [ae-c-][gec] [f2d2]|[e4B4G4] [A4E4]|z2 z/2D/2-[=E/2-D/2-][=G/2-=E/2-D/2-] [d4=G4=E4D4]|
+z2 [d'6=g6=e6d6]|
+V:2
+%Piano left
+%%MIDI program 0
+D,,4 G,,,4|D,,6 G,,,2|A,,,4 A,,3-A,,/2G,,/2|F,,3G,, A,,3/2G,,<F,,E,,/2|
+[D,4D,,4] [G,,4G,,,4]|[D,6D,,6] [=A,,2=A,,,2]|[_A,,4_A,,,4] A,,4-|A,,3/2G,,<F,,E,,/2 D,,2 z2|
+D,,4 G,,,4|D,,6 G,,,2|A,,,4 A,,3-A,,/2G,,/2|F,,3G,, A,,3/2G,,<F,,E,,/2|
+[D,4D,,4] [G,,4G,,,4]|[D,6D,,6] [=A,,2=A,,,2]|[_A,,4_A,,,4] A,,4-|A,,3/2G,,<F,,E,,/2 D,,2 z2|
+[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[A,,3F,,3][A,,D,,] [A,,2E,,2] [A,,2D,,2]|[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[A,,3F,,3][A,,D,,] [A,,2C,,2] [A,,2D,,2]|
+[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[F,3F,,3][D,D,,] [E,2E,,2] [F,2F,,2]|G,,4 A,,4-|A,,3/2G,,<F,,E,,/2 D,,2 z2|
+[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[A,,3F,,3][A,,D,,] [A,,2E,,2] [A,,2D,,2]|[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[A,,3F,,3][A,,D,,] [A,,2C,,2] [A,,2D,,2]|
+[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[F,3F,,3][D,D,,] [E,2E,,2] [F,2F,,2]|G,,4 A,,4-|A,,3/2G,,<F,,E,,/2 D,,2 z2|
+z2 D,,4 G,,,2-|G,,,2 A,,,4 =G,,,2-|=G,,,2 A,,,4 G,,2-|G,,F,,2E,,2D,,2C,,-|
+C,,2 D,,4 G,,2-|G,,2 A,,4 =A,,2-|=A,,2 _A,,4 A,,,2-|A,,,D,,2A,,2F,,2E,,-|
+E,,2 D,,4 _G,,,2-|G,,,2 A,,,4 =G,,,2-|=G,,,2 A,,,4 G,,2-|G,,F,,2E,,2D,,2C,,-|
+C,,2 D,,4 G,,2-|G,,2 A,,4 =A,,2-|=A,,2 _A,,4 A,,,2-|A,,,D,,2A,,2F,,2D,,|
+z2 G,,4 _G2-|GF zD, zE, zF,|z2 G,,4 [A2-G2-]|[AG]F z[F,D,] z[G,E,] z[A,F,]|
+z2 [G,,4_G,,,4] [_e2-c2-]|[ec][fd] z[D,D,,] z[E,E,,] z[F,-F,,-]|[F,2F,,2] G,,4 A,,2-|A,,G,,2F,,2E,,2D,,|
+z2 G,,4 G2-|GF zD, zE, zF,|z2 G,,4 [A2-G2-]|[AG]F z[F,D,] z[G,E,] z[A,F,]|
+z2 [G,,4G,,,4] [e2-c2-]|[ec][fd] z[D,D,,] z[E,E,,] z[F,-F,,-]|[F,2F,,2] G,,4 A,,2-|A,,F,,2E,,3 D,,2|
+D,4 G,,4|D,6 G,,2|A,,4 A,4-|A,2 G,F, E,2 D,2|
+D4 G,4|D6 =A,2|_A,4 A,,4-|A,,2 D,,F,, A,,D, F,E,|
+D,4 G,,4|D,6 G,,2|A,,4 A,4-|A,2 G,F, E,2 D,2|
+D4 G,4|D6 =A,2|_A,4 A,,4-|A,,2 D,F, F,D, F,A,|
+[A,4-G,4] [A,4E,4]|[A,2F,2] [A,E,][A,F,] [A,2E,2] [A,2D,2]|[A,4-G,4] [A,4E,4]|[A,2F,2] [A,E,][A,D,] [A,2C,2] [A,2D,2]|
+[A,4-G,4] [A,4E,4]|[D2A,2F,2] [DG,E,][DF,D,] [C2G,2E,2] [D2A,2F,2]|[_E4B,4G,4] [C4A,4]|[D2A,2] D,E, F,[A,D,] [A,E,][A,F,]|
+[A,4-G,4] [A,4E,4]|[A,2F,2] [A,E,][A,F,] [A,2E,2] [A,2D,2]|[A,4-G,4] [A,4E,4]|[A,2F,2] [A,E,][A,D,] [A,2C,2] [A,2D,2]|
+[A,4-G,4] [A,4E,4]|[D2A,2F,2] [DG,E,][DF,D,] [C2G,2E,2] [D2A,2F,2]|[E4B,4G,4] [C4A,4]|[D2A,2] D,2 z/2A/2F/2A/2 =E/2A/2F/2A/2|
+D/2A/2F/2A/2 d/2A/2F/2A/2 D/2B/2G/2B/2 d/2B/2G/2B/2|D/2A/2F/2A/2 d/2A/2F/2A/2 D/2A/2F/2A/2 G,/2G/2_E/2G/2|A,/2G/2E/2G/2 A,/2G/2E/2G/2 A,/2G/2E/2G/2 A,/2G/2E/2G/2|D/2E/2F/2G/2 A/2B/2A/2G/2 F/2G/2A/2B/2 c/2d/2A/2G/2|
+F/2d/2A/2d/2 f/2d/2A/2d/2 G/2d/2B/2d/2 _g/2d/2B/2d/2|F/2d/2A/2d/2 f/2d/2A/2d/2 F/2d/2A/2d/2 =E/2B/2=G/2B/2|_E/2=A/2_G/2=A/2 E/2=A/2G/2=A/2 E/2_A/2G/2A/2 E/2A/2G/2A/2|[A2F2D2] z6|
+z2 [A4F4D4] [B2-G2-D2-]|[B2G2D2] [A4F4D4] [G2E2D2G,2]|[G2E2D2A,2] [G2E2D2A,2] [G2E2C2A,2] [G2E2C2A,2]|[F2D2] z6|
+z2 [d4A4] [d2-B2-]|[d2B2] [d4A4] =A2|_A2 A2 A,2 A,2|A,/2B,/2C/2D/2 C/2D/2E/2F/2 E/2F/2G/2A/2 B/2c/2d/2A/2|
+G/2e/2c/2e/2 =B/2e/2c/2e/2 g/2e/2c/2e/2 G/2e/2c/2e/2|F/2d/2A/2d/2 F/2d/2A/2d/2 E/2c/2G/2c/2 D/2d/2F/2d/2|G/2e/2c/2e/2 =B/2e/2c/2e/2 g/2e/2c/2e/2 G/2e/2c/2e/2|F/2f/2d/2f/2 A/2f/2d/2f/2 G/2e/2c/2e/2 F/2d/2A/2d/2|
+c/2g/2e/2g/2 a/2g/2e/2g/2 a/2g/2e/2g/2 a/2g/2e/2g/2|f/2a/2f/2a/2 d'/2a/2d'/2a/2 c'/2g/2c'/2g/2 f/2a/2f/2a/2|b/2g/2b/2a/2 g/2f/2e/2d/2 c/2_B/2A/2G/2 F/2E/2D/2C/2|D2 z6|
+z2 G,4 [e2-A2-G2-]|[e2A2G2] [dAF]z [cAE]z [dAD]z|z2 G,4 [g2-e2-c2-]|[g2e2c2] [fdA]z [ecG]z [dAF]z|
+z2 [e4c4G4] [a2-g2-e2-]|[a2g2e2] [afd]z [gecG]z [fdAF]z|z2 [dBGE]z3 [GECA,]z|z4 B,/2A,/2G,/2F,/2 E,/2D,/2A,,/2F,,/2|
+D,,4 G,,,4|D,,6 G,2|A,4- A,G, F,E,|D,B,, A,,G,, F,,A,, G,,E,,|
+[D,4D,,4] [G,,4G,,,4]|[D,6D,,6] =A,2|_A,4- A,G, E,C,|A,,F,, E,,D,, C,,D,, F,,D,,|
+[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[A,,3F,,3]D E2 D2|[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|[A,,3F,,3]D C2 D2|
+[A,,4G,,4] [A,,3-E,,3-][A,,/2E,,/2][A,,/2G,,/2]|F3[FD] [G2E2] [AF][FD]|[B,4G,4] [C4A,4]|B,,/2-[D,/2-B,,/2-][=E,/2-D,/2-B,,/2-][=G,/2-=E,/2-D,/2-B,,/2-] [B,6=G,6=E,6D,6B,,6]|
+B,/2-[D/2-B,/2-][=E/2-D/2-B,/2-][=G/2-=E/2-D/2-B,/2-] [B6=G6=E6D6B,6]|
+%Pedal
+%Beethoven: Sonate Op. 57 (Appassionata) 2. Satz
+%Copyright \0xa9 2001 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2012-07-25
+%Spur 8
+%Spur 9
+%Spur 10

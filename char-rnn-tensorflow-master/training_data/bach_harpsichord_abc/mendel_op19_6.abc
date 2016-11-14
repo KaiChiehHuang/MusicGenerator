@@ -1,0 +1,59 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/mendel_op19_6.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=45
+% Last note suggests Phrygian mode tune
+K:Bb % 2 flats
+%Mendelssohn: Lieder ohne Worte Opus 19 Nr. 6
+%Venetianisches Gondellied
+%Copyright \0xa9 2014 by Bernd Krueger
+%Bernd Krueger
+%Andante sostenuto
+%Erstellt: 9.12.2014
+
+%Dauer:  2:41 Minuten
+
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+z8|z4 D3F-|F4- FE3|D4- Dz3|
+z8|z[dB] [c2A2] [BG][A2_G2][cA]|[B2D2] [AC][=G2B,2]D [E2C2]|[EC][E/2C/2][F/2D/2] [G/2E/2]z/2[E/2C/2]z/2 D4-|
+D-[dBD-] [c2A2D2-] [BGD-][A2_G2D2-][cAD]|[B2D2] [AC][=GB,] GA B_d|=d[f_d] =e=d [a2d2] fd-|dA B[_d=E] [=dF][fA] [=eG][dF]|
+[d4-F4-] [dF]d f-[fF]|[dG]c- [cF][=BG] c-[c_EC] G_A-|[_AFD]=B c-[cEC] G_A- [_AFD]=B|c-[c-E] [c-G]c E[cG] _e-[eE]|
+[=A_G]e- [eE][A_G] e-[e-E] [e-A_G]e-|[eE][dA] c-[cD] [_B=G]A [B_D]G|[dA_G=D]d dd dd d[B=GD]|[ec_G]d- [dB=G][gdB] d[BGD] [ec_G]d-|
+[dB=G][gdB] d[cGD] [BGD]A- [AGE][AGE]|d-[d_GD] [A_GD]c- [cAD][B=GD] d[BGD]|[ec_G]d- [dB=G][gdB] d[BGD] [ec_G]d-|[d=B=G][g-fd=B] [gec]g ed ec|
+_B[cG] [AE]G A[_GDC] [=GDB,]z|z3[dB] [c2A2] [BG][A-_G-]|[A_G][cE] [B2D2] [d'd][d'2d2][BD]|[A2C2] [=GB,][_G2A,2][A_G] [=G2D2]|
+[d'd][d'2d2][BD] G2 [d'd][d'-d-]|[d'd]z4F3-|F3E3 D2-|D3z4z|
+z4 zD3-|Dz2D4
+V:2
+%Piano left
+%%MIDI program 0
+G,,-[B,G,G,,] D,G,,- [B,G,G,,]D, G,,-[B,G,G,,]|D,G,,- [CA,G,G,,]E, [G,,-G,,,-][B,G,G,,G,,,] D,[F,,-F,,,-]|[CA,F,,F,,,]F, [G,,-G,,,-][DB,G,,G,,,] F,[C,-C,,-] [CG,C,C,,]E,|D,,-[B,G,D,,] D,D,,- [B,G,D,,]D, D,,-[CA,D,,]|
+D,D,,- [A,_G,D,,]D, G,,[B,=G,] D,G,,|[B,G,]D, G,,[CA,] D,G,, [CA,]D,|G,,[B,G,] D,G,, G,D, G,,G,|E,G,, [CG,]E, G,,[B,G,] D,G,,|
+[B,G,]D, G,,[CA,] D,G,, [CA,]D,|G,,[B,G,] D,G,, G,D, G,,[DB,]|G,G,, [_DB,]G, F,,[=DA,] F,F,,|[DA,]F, G,,[DB,] G,G,, _DA,|
+F,[=DA,] F,F, [DA,]F, G,,[=B,G,]|D,G,, [=B,G,]D, C,,G, E,C,|[_A,F,]D, C,,G, E,C, [_A,F,]D,|C,,[G,E,] C,C,, [G,E,]C, _G,,[=A,E,]|
+C,_G,, [A,E,]C, _G,,[A,E,] C,_G,,|[A,E,]C, =G,,[G,D,] B,,E,, [_B,G,]E,|D,,2 z4 [G,,G,,,]z|z4 [G,,G,,,]z3|
+z2 [B,,B,,,]z2[C,C,,] z2|[D,D,,]z2[G,G,,] z2 [G,,G,,,]z|z4 [G,G,,]z3|z2 [C,C,,]z3 GE|
+DE CD zD, G,,[B,G,]|D,G,, [B,G,]D, G,,[CA,] D,G,,|[CA,]D, G,,[B,G,] D,G,, [B,G,]D,|G,,G, D,G,, [DC]D, G,,[B,G,]|
+D,G,, [B,G,]D, G,,[B,G,] D,G,,|[B,G,]D, G,,[B,G,] D,[F,,-F,,,-] [CA,F,,F,,,]F,|[B,,-B,,,-][DB,B,,B,,,] F,[C,-C,,-] [CG,C,C,,]E, D,,-[B,G,D,,]|D,D,,- [B,G,D,,]D, D,,-[CA,D,,] D,D,,-|
+[A,_G,D,,]D, G,,,-[B,=G,G,,,] D,z3|G,,,-[B,G,G,,,] D,z3 G,,,2-|G,,,4 
+%Pedale
+%%MIDI program 0
+%Mendelssohn: Songs without words Opus 19 No. 6
+%Copyright \0xa9 2010 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2014-12-09
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

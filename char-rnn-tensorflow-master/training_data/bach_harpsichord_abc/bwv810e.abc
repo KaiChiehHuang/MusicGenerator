@@ -1,0 +1,49 @@
+% input file /afs/.ir/users/q/u/quinlanj/cs221/project/training_data/bwv810e.mid
+% format 1 file 4 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=228
+% Last note suggests minor mode tune
+K:G % 1 sharps
+% Time signature=1/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=36  32nd-notes/24-MIDI-clocks=8
+% Time signature=2/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+V:1
+%English Suite 1, 5. Passepeid 1
+%%MIDI program 0
+B3/2z/2 ef g3/2z/2 f3/2z/2|g3/2z/2 e^d ef ga|bc' ba be fg|ab c'3/2z/2 ba gf|
+b3/2z/2 ag fe ag|fg af gB ^c^d|e^d ef ga gf|gf e^d ef ga|
+bc' ba be fg|ab c'=d ef ga|b3/2z/2 B3/2z/2 e3f|g/2f/2g/2f/2 g/2f/2e e3z|
+g3/2z/2 B=c d3/2z/2 e3/2z/2|d3/2z/2 cB AG g3/2z/2|Bc de d3/2z/2 g2-|g3-g/2z/2 e3/2z/2 a3/2z/2|
+f4<b4|ag fe gf ed|f3/2z/2 B^c d3/2z/2 ^c3/2z/2|d3/2z/2 ^cB ^cd ef|
+g3/2z/2 f3/2z/2 g4-|g3^a bg fe|d=f ^fd ^cB ef|d/2^c/2d/2^c/2 d/2^c/2B B3z|
+B3/2z/2 ef g3/2z/2 f3/2z/2|g3/2z/2 e^d ef g=a|bc' ba be fg|ab c'3/2z/2 ba gf|
+b3/2z/2 ag fe ag|fg af gB ^c^d|e^d ef ga gf|gf e^d ef ga|
+bc' ba be fg|ab c'=d ef ga|b3/2z/2 B3/2z/2 e3f|g/2f/2g/2f/2 g/2f/2e e3z|
+B=c dB ^GE =f2-|=f3/2z/2 e3/2z/2 d3/2z/2 ce|ae d^g ae cA|ce a^f ^dB c2-|
+c3/2z/2 B3/2z/2 A3/2z/2 =GB|e^d ef e^d ^cB|b3e =f=d eB|d=c BA2<a2d|
+^dc =dA cB AG|d3A BG A=F|Ed cA BG ^f=g|cB AB G3z|
+B3/2z/2 ef g3/2z/2 f3/2z/2|g3/2z/2 e^d ef ga|bc' ba be fg|ab c'3/2z/2 ba gf|
+b3/2z/2 ag fe ag|fg af gB ^c^d|e^d ef ga gf|gf e^d ef ga|
+bc' ba be fg|ab c'=d ef ga|b3/2z/2 B3/2z/2 e3f|g/2f/2g/2f/2 g/2f/2e e3
+V:2
+%J.S. Bach, Edition Kalmus
+%%MIDI program 0
+E3/2z/2 G,3/2z/2 A,3/2z/2 B,3/2z/2|E,3/2z/2 G,3/2z/2 B,3/2z/2 E^F|G3/2z/2 F3/2z/2 G3/2z/2 FE|FG A3/2z/2 F3/2z/2 D3/2z/2|
+G3/2z/2 E3/2z/2 C3/2z/2 F,3/2z/2|E3/2z/2 ^D3/2z/2 E3/2z/2 E,3/2z/2|F,3/2z/2 G,3/2z/2 A,3/2z/2 B,3/2z/2|E,3/2z/2 G,3/2z/2 B,3/2z/2 EF|
+G3/2z/2 F3/2z/2 G3/2z/2 FE|FG A3/2z/2 F3/2z/2 =D3/2z/2|GF ED CB, CA,|B,3/2z/2 B,,3/2z/2 E,3/2z/2 E,,3/2z/2|
+E,F, G,A, B,C B,A,|B,A, G,A, B,C B,A,|G,A, B,C B,A, G,F,|E,D, ^C,E, A,G, F,E,|
+D,E, D,^C, B,,A,, G,,E,|A,3/2z/2 A,,3/2z/2 D,2- D,/2z/2F,|B,A, G,F, E,D, E,F,|B,,B, ^A,^G, ^A,B, ^C,B,|
+=A,=G, A,^D, E,A, G,F,|G,E, ^C,3/2z/2 =D,3/2z/2 ^A,,3/2z/2|B,,3/2z/2 D,3/2z/2 G,3E,|F,3/2z/2 F,,3/2z/2 B,,3/2z/2 B,A,|
+G,F, G,3/2z/2 A,3/2z/2 B,3/2z/2|E,3/2z/2 G,3/2z/2 B,3/2z/2 EF|G3/2z/2 F3/2z/2 G3/2z/2 FE|FG A3/2z/2 F3/2z/2 D3/2z/2|
+G3/2z/2 E3/2z/2 C3/2z/2 F,3/2z/2|E3/2z/2 ^D3/2z/2 E3/2z/2 E,3/2z/2|F,3/2z/2 G,3/2z/2 A,3/2z/2 B,3/2z/2|E,3/2z/2 G,3/2z/2 B,3/2z/2 EF|
+G3/2z/2 F3/2z/2 G3/2z/2 FE|FG A3/2z/2 F3/2z/2 =D3/2z/2|GF ED CB, CA,|B,3/2z/2 B,,3/2z/2 E,3/2z/2 E,,3/2z/2|
+z4 E,F, ^G,A,|B,A, ^G,B, E,^G, A,3/2z/2|D,3/2z/2 E,3/2z/2 =A,,3/2z/2 A,3/2z/2|=G,3/2z/2 F,3/2z/2 B,,^C, ^D,E,|
+F,E, ^D,F, B,,^D, E,3/2z/2|=C,3/2z/2 A,,3/2z/2 B,,2- B,,/2z/2B,|A,F, ^G,3/2z/2 E,3/2z/2 ^G,3/2z/2|A,,2- A,,/2z/2A, =G,E, F,3/2z/2|
+=D,3/2z/2 F,3/2z/2 A,,2- A,,/2z/2D,|C,A,, B,,3/2z/2 G,,3/2z2z/2|C,3/2z/2 A,,3/2z2z/2 D,3/2z/2|C,3/2z/2 D,3/2z/2 G,A, B,G,|
+A,F, G,3/2z/2 A,3/2z/2 B,3/2z/2|E,3/2z/2 G,3/2z/2 B,3/2z/2 EF|G3/2z/2 F3/2z/2 G3/2z/2 FE|FG A3/2z/2 F3/2z/2 D3/2z/2|
+G3/2z/2 E3/2z/2 C3/2z/2 F,3/2z/2|E3/2z/2 ^D3/2z/2 E3/2z/2 E,3/2z/2|F,3/2z/2 G,3/2z/2 A,3/2z/2 B,3/2z/2|E,3/2z/2 G,3/2z/2 B,3/2z/2 EF|
+G3/2z/2 F3/2z/2 G3/2z/2 FE|FG A3/2z/2 F3/2z/2 =D3/2z/2|GF ED CB, CA,|B,3/2z/2 B,,3/2z/2 E,3/2z/2 E,,3/2
+%Arr. Gary Bricault, (c) 1997

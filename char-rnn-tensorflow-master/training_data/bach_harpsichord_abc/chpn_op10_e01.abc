@@ -1,0 +1,115 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn_op10_e01.mid
+% format 1 file 7 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=337
+% Last note suggests Phrygian mode tune
+K:C % 0 sharps
+%Et\0xfcde Opus 10 No. 5
+%Copyright \0xa9 1999 von Bernd Kr\0xfcger. 
+%Frederic Chopin
+%Allegro
+%Dauer: 1:50 Minuten
+
+%Fertiggestellt am 24.4.99
+
+%Normierung: 23.12.2002
+
+%Update am 12.6.2006
+
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+%Allegro
+%Fine
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z4 EC Gc|ec gc' e'c' g'c''|e''c'' g'c' e'c' gc|ec GC EC z2|
+z4 FC Ac|fc ac' f'c' a'c''|e''c'' a'c' e'c' ac|ec AC DC z2|
+z4 DB, GB|dB gb d'b g'a'|d''a' ^f'c' d'a ^fc|dA ^FC Dz3|
+z4 DC =F^G|dc =f^g d'c' =f'^g'|d''=g' f'b d'=g fB|d=G FB, ^Dz3|
+z4 EC Gc|ec gc' e'c' g'c''|e''c'' g'c' e'c' gc|ec GC EC z2|
+z4 FC Fc|fc fc' f'c' f'c''|e''c'' ^f'c' e'c' ^fc|ec ^FC EC z2|
+z4 =DC Gc|dc gc' d'c' g'c''|d''b' g'b d'b gB|dB GB, DB, z2|
+z4 ED Gd|ed gd' e'd' g'd''|e''c'' g'c' e'c' gc|ec GC EC z2|
+z3E =FE ce|=fe c'e' =f'e' c''e''|f''d'' b'd' f'd' bd|fd BD FD B,z|
+z4 ED Bd|ed bd' e'd' b'd''|e''c'' a'c' e'c' ac|ec AC EC z2|
+z4 EC Ac|ec ac' e'c' a'c''|^d''b' a'b ^d'b aB|^dB AB, ^Dz3|
+z4 EB, AB|eB ab e'b a'b'|e''b' ^g'b e'b ^gB|eB ^GB, EB, z2|
+z4 =GE A^c|=ge a^c' =g'^c' ae|g'=c' ae g=c AE|GC z2 ^FC z2|
+z4 =F=D Gc|f=d gc' f'=d' g'c''|f''b' g'd' f'b gd|fB GD Fz3|
+z4 EC G^A|ec g^a e'c' g'c''|^d''^a' ^d'c' ^d'^a ^dc|^d^A ^DC ^D^A, z2|
+z4 ^DC ^D=A|^dc ^d=a ^d'c' ^d'=a'|^d''^g' ^d'b ^d'^g ^dB|^d^G ^DB, ^Dz3|
+z4 =D^A, F^G|=d^A f^g =d'^a f'^g'|=d''^g' e'^a d'^g e^A|d^G E^A, Dz3|
+z4 ^C=A, E=A|^cA e=a ^c'a e'a'|^c''a' e'a ^c'a eA|^cA EA, ^Cz3|
+z4 =CA, D^F|=cA d^f =c'a d'^f'|=c''=f' d'=g c'=f d=G|c=F Dz4z|
+z6 CE|BG ce bg c'e'|b'e' c'f be cF|BE Cz4z|
+z6 zD|AF Bd af bd'|=g'd' be gd BE|Ac ge ac' g'e'|
+f'c' ad fc AD|GB fd gb f'd'|e'b gc eB GC|FA ec fa e'c'|
+d'a fB dA FB,|Dz6z|^d'a ^fB ^dA ^FB,|^Dz6z|
+z4 EB, E^G|eB e^g e'b e'^g'|e''^g' e'b e'^g eB|e^G EB, =FB, z2|
+z4 EC =Gc|ec =gc' e'c' =g'c''|e''c'' g'c' e'c' gc|ec GC EC z2|
+z4 FC Ac|=fc ac' f'c' a'c''|e''c'' a'c' e'c' ac|ec AC =DC z2|
+z4 DB, GB|=dB gb =d'b g'a'|d''a' ^f'c' d'a ^fc|dA ^FC Dz3|
+z4 DC =F^G|dc =f^g d'c' =f'^g'|d''=g' f'b d'=g fB|d=G FB, ^Dz3|
+z4 EC Gc|ec gc' e'c' g'c''|e''c'' g'c' e'c' gc|ec GC EC z2|
+z4 FC Fc|fc fc' f'c' f'c''|e''c'' ^f'c' e'c' ^fc|^dc ^FC ^DC z2|
+z4 =DC Gc|=dc gc' d'c' g'c''|d''b' g'b d'b gB|dB GB, DB, z2|
+z4 DC Ac|dc ac' d'c' a'c''|^d''c'' a'c' ^d'c' ac|^dB AB, ^DB, z2|
+z4 EB, ^GB|eB ^gb e'b ^g'b'|e''b' ^g'b e'b ^gB|eB ^GB, EB, z2|
+z4 =F=D Ac|=f=d ac' =f'=d' a'c''|f''b' =g'd' f'd' =gd|fB =GD FB, z2|
+z4 EC Gc|ec ^ac' g'c' ^ae|^f'c' =a^d ^fc A^D|=fB ^G=D FB, z2|
+z4 EC =Gc|ge gc' e'c' gc|^d'a ^fc ^dA ^FC|=d^G =FB, Dz3|
+z6 E=G|^c^A eg ^c'^a e'g'|^c''^f' ^d'=a ^c'^f ^d=A|^c^F ^DA, =c^F ^DA,|
+z^G, =D=F c^G =d=f|=c'^g =d'=f' =c''f' d'^g|b'f' d'=g bf d=G|BF Dz4z|
+z6 EG|cG eg c'g e'g'|c''g' e'g c'g eG|cG E
+V:2
+%Piano left
+%%MIDI program 0
+[C,-C,,-][C,-C,C,,-] [=G,C,-C,,-][CC,-C,,-] [C,4-C,,4-]|[C,8-C,,8-]|[C,8-C,,8-]|[C,6-C,,6-] [G,C,-C,,-][C,C,C,,]|
+[F,,-F,,,-][C,F,,-F,,,-] [A,F,,-F,,,-][CF,,-F,,,-] [F,,4-F,,,4-]|[F,,8F,,,8]|[^F,,8-^F,,,8-]|[^F,,6-^F,,,6-] [A,^F,,-^F,,,-][C,^F,,^F,,,]|
+[G,,-G,,,-][B,,G,,-G,,,-] [G,G,,-G,,,-][B,G,,-G,,,-] [G,,4G,,,4]|[^F,,4^F,,,4] [E,,4E,,,4]|[D,,8-D,,,8-]|[D,,4-D,,,4-] [D,,-D,,,-][A,D,,-D,,,-] [^F,D,,-D,,,-][C,D,,D,,,]|
+[G,,-G,,,-][C,G,,-G,,,-] [=F,G,,-G,,,-][^G,G,,-G,,,-] [G,,4-G,,,4-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,4-G,,,4-] [G,,-G,,,-][=G,G,,-G,,,-] [F,G,,-G,,,-][B,,G,,G,,,]|
+[C,-C,,-][C,-C,C,,-] [G,C,-C,,-][CC,-C,,-] [C,4-C,,4-]|[C,8-C,,8-]|[C,8-C,,8-]|[C,6-C,,6-] [G,C,-C,,-][C,C,C,,]|
+[A,,-A,,,-][C,A,,-A,,,-] [F,A,,-A,,,-][CA,,-A,,,-] [A,,4-A,,,4-]|[A,,8-A,,,8-]|[A,,8-A,,,8-]|[A,,6-A,,,6-] [^F,A,,-A,,,-][C,A,,A,,,]|
+[G,,-G,,,-][C,G,,-G,,,-] [G,G,,-G,,,-][CG,,-G,,,-] [G,,4-G,,,4-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,6-G,,,6-] [G,G,,-G,,,-][B,,G,,G,,,]|
+[C,-C,,-][D,C,-C,,-] [G,C,-C,,-][DC,-C,,-] [C,4-C,,4-]|[C,8-C,,8-]|[C,8-C,,8-]|[C,6-C,,6-] [G,C,-C,,-][C,C,C,,]|
+[A,,-A,,,-][E,A,,-A,,,-] [CA,,-A,,,-][A,,4-A,,,4-][A,,-A,,,-]|[A,,8A,,,8]|[B,,8B,,,8]|[A,,6-A,,,6-] [A,,-A,,,-][D,A,,A,,,]|
+[^G,,-^G,,,-][D,^G,,-^G,,,-] [B,^G,,-^G,,,-][D^G,,-^G,,,-] [^G,,4-^G,,,4-]|[^G,,8^G,,,8]|[A,,8A,,,8]|[=G,,6-=G,,,6-] [A,G,,-G,,,-][C,G,,G,,,]|
+[=F,,-=F,,,-][C,F,,-F,,,-] [A,F,,-F,,,-][CF,,-F,,,-] [F,,4-F,,,4-]|[F,,8-F,,,8-]|[F,,8-F,,,8-]|[F,,4-F,,,4-] [F,,-F,,,-][B,F,,-F,,,-] [A,F,,-F,,,-][B,,F,,F,,,]|
+[E,,-E,,,-][B,,E,,-E,,,-] [A,E,,-E,,,-][B,E,,-E,,,-] [E,,4-E,,,4-]|[E,,8-E,,,8-]|[E,,8-E,,,8-]|[E,,6-E,,,6-] [^G,E,,-E,,,-][B,,E,,E,,,]|
+[A,,-A,,,-][E,A,,-A,,,-] [A,A,,-A,,,-][^CA,,-A,,,-] [A,,4-A,,,4-]|[A,,8A,,,8]|[D,8-D,,8-]|[D,2-D,,2-] [A,D,-D,,-][E,D,-D,,-] [D,2-D,,2-] [A,D,-D,,-][D,D,D,,]|
+[G,,-G,,,-][D,G,,-G,,,-] [=G,G,,-G,,,-][=CG,,-G,,,-] [G,,4-G,,,4-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,4-G,,,4-] [G,,-G,,,-][B,G,,-G,,,-] [G,G,,-G,,,-][D,G,,G,,,]|
+[C,-C,,-][C,-C,C,,-] [G,C,-C,,-][^A,C,-C,,-] [C,4-C,,4-]|[C,8C,,8]|[^F,,8-^F,,,8-]|[^F,,6-^F,,,6-] [^D,^F,,-^F,,,-][C,^F,,^F,,,]|
+[=F,,-=F,,,-][C,F,,-F,,,-] [^D,F,,-F,,,-][=A,F,,-F,,,-] [F,,4-F,,,4-]|[F,,8F,,,8]|[B,,8-B,,,8-]|[B,,4-B,,,4-] [B,,-B,,,-][^G,B,,-B,,,-] [^D,B,,-B,,,-][B,,B,,B,,,]|
+^A,,,-[^A,,^A,,,-] [=F,^A,,,-][^G,^A,,,-] ^A,,,4-|^A,,,8-|[^A,,8-^A,,,8-]|[^A,,4-^A,,,4-] [^A,,-^A,,,-][^G,^A,,-^A,,,-] [E,^A,,-^A,,,-][^A,,^A,,^A,,,]|
+[=A,,-=A,,,-][A,,-A,,A,,,-] [E,A,,-A,,,-][A,A,,-A,,,-] [A,,4-A,,,4-]|[A,,8-A,,,8-]|[A,,8-A,,,8-]|[A,,4-A,,,4-] [A,,-A,,,-][A,A,,-A,,,-] [E,A,,-A,,,-][A,,A,,A,,,]|
+D,,-[A,,D,,-] [=D,D,,-][^F,D,,-] D,,4-|D,,8|[G,,8-G,,,8-]|[G,,3-G,,,3-][=G,G,,-G,,,-] [B,G,,-G,,,-][=F,G,,-G,,,-] [D,G,,-G,,,-][G,,G,,G,,,]|
+C,,-[G,,C,,-] [C,C,,-][E,C,,-] [B,C,,-][G,C,,-] C,,2-|C,,8|[F,,8-F,,,8-]|[F,,3-F,,,3-][F,F,,-F,,,-] [A,F,,-F,,,-][E,F,,-F,,,-] [C,F,,-F,,,-][F,,F,,F,,,]|
+B,,,-[F,,B,,,-] [B,,B,,,-][D,B,,,-] [A,B,,,-][F,B,,,-] [B,B,,,-]B,,,-|B,,,8|[E,,8E,,,8]|[A,,8A,,,8]|
+[D,,8D,,,8]|[G,,8G,,,8]|[C,,8C,,,8]|[F,,8F,,,8]|
+[B,,8-B,,,8-]|[B,,-B,,,-][A,B,,-B,,,-] [F,B,,-B,,,-][B,,B,,B,,,] B,,,4-|[B,,8-B,,,8-]|[B,,-B,,,-][A,B,,-B,,,-] [^F,B,,-B,,,-][B,,B,,B,,,] B,,,4|
+[E,,-E,,,-][B,,E,,-E,,,-] [E,E,,-E,,,-][^G,E,,-E,,,-] [E,,4-E,,,4-]|[E,,8-E,,,8-]|[E,,8-E,,,8-]|[E,,4E,,,4] [D,,2-D,,,2-] [=G,D,,-D,,,-][D,D,,D,,,]|
+[C,,-C,,,-][C,C,,-C,,,-] [G,C,,-C,,,-][CC,,-C,,,-] [C,,4-C,,,4-]|[C,,8-C,,,8]|[C,8-C,,8-]|[C,6-C,,6-] [G,C,-C,,-][C,C,C,,]|
+[F,,-F,,,-][C,F,,-F,,,-] [A,F,,-F,,,-][CF,,-F,,,-] [F,,4-F,,,4-]|[F,,8F,,,8]|[^F,,8-^F,,,8-]|[^F,,6-^F,,,6-] [A,^F,,-^F,,,-][C,^F,,^F,,,]|
+[G,,-G,,,-][B,,G,,-G,,,-] [G,G,,-G,,,-][B,G,,-G,,,-] [G,,4G,,,4]|[^F,,4^F,,,4] [E,,4E,,,4]|[D,,8-D,,,8-]|[D,,4-D,,,4-] [D,,-D,,,-][A,D,,-D,,,-] [^F,D,,-D,,,-][C,D,,D,,,]|
+[G,,-G,,,-][C,G,,-G,,,-] [=F,G,,-G,,,-][^G,G,,-G,,,-] [G,,4-G,,,4-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,4-G,,,4-] [G,,-G,,,-][=G,G,,-G,,,-] [F,G,,-G,,,-][B,,G,,G,,,]|
+[C,-C,,-][C,-C,C,,-] [G,C,-C,,-][CC,-C,,-] [C,4-C,,4-]|[C,8-C,,8-]|[C,8-C,,8-]|[C,6-C,,6-] [G,C,-C,,-][C,C,C,,]|
+[A,,-A,,,-][C,A,,-A,,,-] [F,A,,-A,,,-][CA,,-A,,,-] [A,,4-A,,,4-]|[A,,8-A,,,8-]|[A,,8-A,,,8-]|[A,,4A,,,4] [^G,,2-^G,,,2-] [^F,^G,,-^G,,,-][C,^G,,^G,,,]|
+[=G,,-=G,,,-][C,G,,-G,,,-] [G,G,,-G,,,-][CG,,-G,,,-] [G,,4-G,,,4-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,6-G,,,6-] [G,G,,-G,,,-][B,,G,,G,,,]|
+[^F,,-^F,,,-][C,^F,,-^F,,,-] [A,^F,,-^F,,,-][C^F,,-^F,,,-] [^F,,4-^F,,,4-]|[^F,,8^F,,,8]|[=F,,8-=F,,,8-]|[F,,6-F,,,6-] [A,F,,-F,,,-][B,,F,,F,,,]|
+[E,,-E,,,-][B,,E,,-E,,,-] [^G,E,,-E,,,-][B,E,,-E,,,-] [E,,4-E,,,4-]|[E,,8-E,,,8]|[E,8E,,8-]|E,,6- [^G,E,,-][B,,E,,]|
+D,,-[D,D,,-] [A,D,,-][CD,,-] D,,4-|D,,8|[G,,8-G,,,8-]|[G,,6-G,,,6-] [=G,G,,-G,,,-][D,G,,G,,,]|
+C,,-[C,C,,-] [G,C,,-][CC,,-] C,,4-|C,,8-|[C,8-C,,8-]|[C,6-C,,6-] [^G,C,-C,,-][D,C,C,,]|
+C,,-[C,C,,-] [=G,C,,-][CC,,-] C,,4-|C,,8|[G,,8-G,,,8-]|[G,,4-G,,,4-] [G,,-G,,,-][^G,G,,-G,,,-] [=F,G,,-G,,,-][B,,G,,G,,,]|
+[G,,-G,,,-][^A,,G,,-G,,,-] [E,G,,-G,,,-][=G,G,,-G,,,-] [^CG,,-G,,,-][^A,G,,-G,,,-] [G,,2-G,,,2-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,8G,,,8]|
+[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,8-G,,,8-]|[G,,3-G,,,3-][G,G,,-G,,,-] [B,G,,-G,,,-][F,G,,-G,,,-] [D,G,,-G,,,-][G,,G,,G,,,]|
+[C,,-C,,,-][G,,C,,-C,,,-] [E,C,,-C,,,-][G,C,,-C,,,-] [=CC,,-C,,,-][G,C,,-C,,,-] [C,,2-C,,,2-]|[C,,8-C,,,8-]|[C,,8-C,,,8-]|[C,,3-C,,,3-][G,C,,-C,,,-] [CC,,-C,,,-][G,C,,-C,,,-] [E,C,,-C,,,-][G,,C,,C,,,]|
+[C,,8-C,,,8-]|[C,,8C,,,8]|
+%Chopin: Etude Op, 10, No. 1
+%Copyright \0xa9 1999 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 12.6.06

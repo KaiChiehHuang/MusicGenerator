@@ -1,0 +1,33 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/Songwithoutwords48.mid
+% format 1 file 2 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=124
+K:C % 0 sharps
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+%Song Without Words no. 48
+%Felix Mendelsshon-Bartholdy
+% Time signature=6/4  MIDI-clocks/click=72  32nd-notes/24-MIDI-clocks=8
+V:1
+%%MIDI program 0
+%Piano
+[G4E4C4-C,4-] [A3F3-C3-C,3-][BFCC,]|[c4E4C4C,4-] [e4G4G,4C,4]|[dF-A,-C,-][F-A,-C,-] [cF-A,-C,-][F-A,-C,-] [BF-A,-C,-][F-A,-C,-] [AF-A,-C,-][F/2A,/2-C,/2-][A,/2C,/2]|[A4F4-B,4-C,4-] [G4F4B,4C,4]|
+[G4E4C4C,4] [c3G3C3E,,3-][EE,,]|[D4C4A,4F,,4] [E4C4G,4E,,4]|[F4C4F,4D,,4] [A3F3B,3G,,3-][GEG,,]|[F4D4B,4C,,4-] [E3-C3-C,,3-][E/2-C/2-C,,/2][E/2C/2]|
+[E4C4G,4C,4] [E3C3G,3C,3][ECG,C,]|[^F6D6A,6C,6] [^F2D2A,2C,2]|[^FDA,C,]z [GDB,B,,]z [A^FCA,,]z [BGDG,,]z|[c6A6D6^F,,6] [c2A2D2^F,,2]|
+[c2A2D2-G,,2-] [B2G2D2G,,2-] [A^FC-G,,-][CG,,-] [GB,-G,,-][B,G,,]|[^F2^A,2-G,2-^C,2-] [E2^A,2-G,2^C,2-] [^F2^A,2-^F,2^C,2-] [G2^A,2E,2^C,2]|[D2B,2-D,2-] [D2B,2D,2] [^F3D3-C3-D,3-D,,3-][ADCD,D,,]|[A4D4-C4G,,4-] [G3-D3-B,3-G,,3-][G/2-D/2-B,/2-G,,/2][G/2D/2B,/2]|
+[G4D4B,4G,4] [D3B,3G,3-=F,3][ECG,E,]|[=F6C6-=A,6-D,6-] [F3/2-C3/2-A,3/2D,3/2][F/2C/2]|[F2B,2-G,2-G,,2-] [A2F2B,2G,2G,,2] [GECA,,]z [FDB,,]z|[EC=C,]z [FCD,]z [GCE,]z [AFCF,]z|
+[c4E4C4G,4C,4] [G3E3C3^A,3][AF=A,]|[^A4-F4-D4-G,4-] [^A3/2F3/2D3/2-G,3/2-][D/2-G,/2-] [^A3/2-D3/2G,3/2]^A/2|[^AE-CC,]E [dE-^A,C,]E [cE-=A,C,]E [^AE-G,C,]E|[=A4-E4-G,4-^C,4-] [A3/2E3/2-G,3/2-^C,3/2-][E/2-G,/2-^C,/2-] [A3/2-E3/2G,3/2-^C,3/2-][A/2G,/2^C,/2]|
+[AD-F,-D,-][D-F,-D,-] [dD-F,-D,-][D-F,-D,-] [B3/2D3/2-F,3/2-D,3/2-][D/2-F,/2-D,/2] [D-F,-=C,-][A/2D/2F,/2C,/2-]C,/2|[G-DF,-B,,][G-F,-] [G-DF,-B,,][G-F,-] [G3/2-C3/2F,3/2-A,,3/2][G/2F,/2-] [G-F,-][G/2-D/2F,/2B,,/2]G/2|[GC-E,-C,-][C-E,-C,-] [cC-E,-C,-][C-E,-C,-] [A3/2C3/2-E,3/2-C,3/2-][C/2-E,/2-C,/2] [C-E,-B,,-][G/2C/2E,/2B,,/2-]B,,/2|[^F4-^D4-C4-A,,4] [^F4^D4C4^G,,4]|
+[G4E4C4G,4-=G,,4-] [A3=F3G,3-G,,3-][BG,G,,]|[c4E4G,,4-] [e4G4G,4G,,4]|[dF-A,-G,-][F-A,-G,-] [cF-A,-G,-][F-A,G,-] [BF-B,-G,-][F-B,-G,-] [AF-B,-G,-][F/2B,/2-G,/2]B,/2|[A4F4B,4C,4-] [G3-E3-C3-C,3-][G/2-E/2-C/2-C,/2][G/2E/2C/2]|
+[c4E4C4A,,4] [E3=D3-B,3-^G,,3-][EDB,^G,,]|[E4C4A,,4] [A3D3A,3=F,,3-][FF,,]|[E4-C4G,4=G,,4-] [E2B,2-F,2-G,,2-] [D2B,2F,2G,,2]|[C6-E,6-C,,6-] [C3/2E,3/2C,,3/2]z/2|
+[G2-D2-B,2-] [G-D-B,-G,][GDB,] [D-B,-F,][D-B,-] [DB,E,][EC]|[F-CD,]F- [F-EC,]F- [F-DB,,]F/2z/2 [F-CA,,]F|[F2B,2-] [A-F-B,-G,,G,,,][AFB,] [GECA,,A,,,]z [FDB,,B,,,]z|[ECC,C,,]z [FCD,D,,]z [GCE,E,,]z [AFCF,F,,]z|
+[c2-E2-C2-] [c-E-C-C][cEC] [G-E-^A,][G-E-] [GE=A,][AF]|[^A-FG,]^A- [^A-=AF,]^A- [^A-GE,]^A/2z/2 [^A-FD,]^A|[^AE]z [d^AEC,-C,,-][C,C,,] [c=AEC,-C,,-][C,C,,] [^AGEC,-C,,-][C,C,,]|[=A2-G2-E2-^C,2^C,,2] [A2-G2-E2-E,2E,,2] [A2-G2-E2-A,2A,,2] [A2-G2E2^C,2^C,,2]|
+[A2F2-D,2-D,,2-] [d2F2-D,2D,,2] [B2F2-] [A2F2=C,2=C,,2]|[G2-F2-D2-B,,2B,,,2] [G2-F2-D2-D,2D,,2] [G2-F2-D2-G,2G,,2] [G2-F2D2B,,2B,,,2]|[G2E2-C,2-C,,2-] [cE-C,-C,,-][E-C,-C,,-] [AE-C,-C,,-][E-C,C,,] [GE-B,,-B,,,-][EB,,B,,,]|[^F-^D-C-A,,A,,,][^F-^D-C-] [^F-^D-C-C,][^F-^D-C-] [^F-^D-C-^G,,^G,,,][^F-^D-C-] [^F-^D-C-C,][^F^DC]|
+[G2-E2-C2-=G,,2=G,,,2] [G2E2C2G,,2-G,,,2-] [A2-=F2-G,,2G,,,2] [AFG,,-G,,,-][BG,,-G,,,-]|[c2-E2-G,,2G,,,2] [c2E2G,,2-G,,,2-] [e2-G2-G,,2G,,,2] [e2G2G,2-]|[dF-A,-G,-][F-A,-G,] [cF-A,-G,-][FA,G,-] [BF-B,-G,-][F-B,-G,] [AF-B,-G,-][FB,G,]|[A2-F2-B,2-] [A-F-B,-G,,G,,,][AFB,] [G-E-C-C,C,,][G-E-C-] [G-E-C-B,,B,,,][GEC]|
+[c-E-C-A,,A,,,][c-E-C-] [c-E-C-C,C,,][cEC] [E-=D-B,-E,E,,][E-D-B,-] [ED-B,-^G,^G,,][EDB,]|[E-C-A,,][E-C-] [E-C-C,][EC] [A-D-A,-D,F,,-][A-D-A,-F,,-] [ADA,F,F,,-][FF,,]|[E4-C4=G,4=G,,4-] [E2B,2-F,2-G,,2-] [D2B,2F,2G,,2]|[C2-E,2C,2] [C2-C,2] [C2-C,2] [C3/2C,3/2-]C,/2|
+[c-E-C,][c-E-] [c-E-C,][cE] [G-F-D,C,][G-F-] [GFE,C,][^AG]|[=A-F-F,C,][A-F-] [A-F-G,C,][A-F-] [A-F-A,C,][A/2F/2]z/2 [d-^G-F-B,C,][d^GF]|[c=GE]z [GEC,]z [GFD,C,]z [^AGE,C,]z|[=A-F-F,C,][A-F-] [A-F-G,C,][A-F-] [A-F-A,C,][AF] [d^GFB,C,]z|
+[c-=GE]c- [c-^AGE,C,]c- [c-=AFF,C,]c [d-^GFB,C,]d|[c-=GECC,]c- [c-^AGE,C,]c- [c-=AFF,C,]c [f-d-^GFB,,C,,][fd]|[e2c2=G2C,2-C,,2-] [c2G2E2C,2-C,,2-] [G2E2C2C,2-C,,2-] [E2C2G,2C,2-C,,2-]|[G2E2C2C,2-C,,2-] [c2G2E2C,2-C,,2-] [e2c2G2C,2-C,,2-] [g2e2c2C,2-C,,2-]|
+[c'8-g8-e8-C,8-C,,8-]|[c'8-g8-e8-C,8-C,,8-]|[c'8g8e8C,8C,,8]|

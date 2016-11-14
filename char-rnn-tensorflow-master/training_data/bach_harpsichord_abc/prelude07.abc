@@ -1,0 +1,22 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/prelude07.mid
+% format 1 file 2 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Mixolydian mode tune
+K:A % 3 sharps
+% Time signature=1/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=3  minor=0
+%Prelude No. 7
+%Frederic Chopin
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%%MIDI program 0
+E4 [c3E,,3-][dE,,]|[B4G4E4D4E,4] [B4G4E4D4E,4]|[B6-G6-E6-D6-E,6-] [B3/2G3/2E3/2D3/2E,3/2]z/2|[f4d4] [^d3=c3A,,3-][e^cA,,]|
+[a4c4E4A,4] [a4c4E4A,4]|[a6-c6-E6-A,6-] [a3/2c3/2E3/2A,3/2]z/2|[c4E4] [^A3C3E,,3-][BD-E,,]|[=d4F4D4-B,4E,4] [d4F4D4-B,4E,4]|
+[d8F8D8-B,8-E,8-]|[G/2-D/2-D/2B,/2-E,/2-][G3-D3-B,3E,3][G/2D/2] [G3D3A,,,3-][=AC-A,,,]|[c4E4E4C4A,4E,4] [c4E4E4C4A,4E,4]|[c6-E6-E6-C6-A,6-E,6-] [c3/2E3/2-E3/2C3/2A,3/2-E,3/2-][E/2-A,/2-E,/2-]|
+[E3-E3-A,3-E,3-][E/2-E/2A,/2E,/2]E/2- [c3G3-E3-E,,3-][dGE-E,,]|[B/2-G/2-E/2-E/2D/2-E,/2-][B3-G3-E3-D3-E,3-][B/2G/2E/2D/2E,/2] [B4G4E4D4E,4]|[B6-G6-E6-D6-E,6-] [B3/2G3/2E3/2-D3/2E,3/2-][E/2-E,/2-]|[f3-d3-E3-E,3-][f/2-d/2-E/2E,/2][f/2d/2] [^d3=c3A,,3-][e-^c-A,,]|
+[c'4a4e4c4A4E4A,4] [c'4a4e4c4A4E4A,4]|[^A/2-F/2-E/2-C/2-F,/2-][c/2-^A/2-F/2-E/2-C/2-F,/2-][e/2-c/2-^A/2-F/2-E/2-C/2-F,/2-][c'6^a6-e6-c6^A6F6-E6-C6-F,6-][^a/2e/2F/2-E/2-C/2-F,/2-]|[c3-^A3-F3-E3-C3-F,3-][c/2-^A/2-F/2E/2C/2F,/2][c/2^A/2] [c3^A3B,,,3-][=dB-B,,,]|[g4B4D4F,4] [f4=A4D4B,4F,4]|
+[f6-G6-D6-B,6-E,6-] [f3/2-G3/2-D3/2B,3/2E,3/2][f/2G/2]|[G4D4] [B3D3A,,,3-][ACA,,,]|[=a4c4A4-E4A,4E,4] [a4c4A4E4A,4E,4]|[a6-c6-A6-E6-A,6-] [a3/2c3/2A3/2E3/2A,3/2]

@@ -1,0 +1,115 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/chpn_op27_2.mid
+% format 1 file 8 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=80
+K:Db % 5 flats
+%Chopin Nocturne Opus 27 Nr. 2
+%Copyright \0xa9 2003 by Bernd Krueger 
+%Frederic Chopin
+%lento sostenuto
+%Fertiggestellt am  26.5.2003
+
+%Update am 17.6.2003
+
+%Update am 28.7.2010
+
+%Update am 19.2.2014
+
+%Dauer: 5:13 Minuten
+
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-5  minor=0
+% Time signature=6/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% Time signature=6/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z8|z4 
+%bdca426d104a26ac9dcb070447587523
+f4-|f2 e2 d3F|A8|
+d2 f2 b4-|b3a =ef cd|
+%bdca426d104a26ac9dcb070447587523
+=A8-|=A4 
+%bdca426d104a26ac9dcb070447587523
+B4-|
+B2 zc' bf ag|f4 _e3f/2[e/2=d/2]|[f/2-e/2]f3/2 g3/2g/2 g'3-g'/2-[g'/2e'/2]|d'/2=a/2g/2e/2 c/2z/2_d/2z/2 =d/2z/2e/2z/2 f/2z/2g/2z/2|
+=g4- =g/2_a/2b/2a/2 f2-|f4- [f2_d2] [_g2-e2-]|[ge][dB] [e2c2] [f2d2] [c2=A2]|[e2c2] [dB]z/2[b/2d/2] [b/2d/2][a/2c/2]z/2[g/2B/2] [f2-B2]|
+[f/2-=A/2][f/2-B/2]f/2-[f/2=B/2] [f/2c/2][f/2d/2]z/2[f/2e/2] [f2d2] [g2-e2-]|[ge][d_B] [d/2B/2][fd][e/2c/2-] [f/2e/2c/2][d/2B/2]z/2[e/2c/2] [f/2d/2]z[c/2=A/2]|[e2c2] [dB]z [b2-d2] [b=d][=ba]|[_b/2_d/2][=a/2_a/2]z/2[b/2d/2] [f'/2a/2]z[b/2a/2] [b2g2] [=b2a2]|
+[g2e2] [_b/2g/2][a/2f/2]z/2[b/2g/2] [a/2f/2][g/2e/2]z/2[a/2f/2] [b/2g/2]z[f/2=d/2]|[a2f2] [ge]z/2[e'/2g/2] [e'/2g/2][d'/2f/2]z/2[=b/2e/2] [_b/2=d/2][b/2B/2]z/2[b/2=B/2]|[b/2c/2][b/2_d/2]z/2[b/2=d/2] [b/2e/2][b/2=e/2]z/2[b/2f/2] [bg][=b/2-a/2-][=b/2_b/2-a/2g/2-] [b/2g/2][a/2-f/2-][b/2-a/2g/2-f/2][b/2g/2]|[=b/2a/2]z[g/2_e/2] [g/2e/2][_b/2g/2]z/2[a/2f/2] z/2[a/2g/2f/2e/2]z/2[a/2f/2] [a/2f/2][b/2g/2]z/2[f/2=d/2]|
+[f/2=d/2][af]z2z/2 [g4e4]|[g=d]z [g_d]z [g3c3][=a=A]|[_a4_A4] [g2G2] [d2D2]|[c4C4] A2 (3=A=B=A|
+_A=A =e3/2_e/2 e2 z[=a=A]|[_a4_A4] [a/2A/2][g/2G/2][a/2A/2][g/2G/2] [=e/2=E/2][_e/2_E/2][=e/2=E/2][_e/2_E/2]|[cC]z4A (3=A=B=A|_A=A/2=A<=e_e/2 e2 z2|
+z2 e6-|e6 =d2-|=d4 _d4|z2 d6-|
+d2 c2 _B3_A|Bc de 
+%bdca426d104a26ac9dcb070447587523
+f4-|f2 e2 d3F|A8|
+d2 f2 b4-|b3a =ef cd|
+%bdca426d104a26ac9dcb070447587523
+=A8-|=A4 
+%bdca426d104a26ac9dcb070447587523
+B4-|
+B2 zc' bf ag|f4 _e3-[e/2=d/2-]=d/2|e=e f3/2g/2 [g'/2-g/2]g'2e'/2z/2d'/2|(3=ag_e cz/2_A/2>e/2[c'/2=A/2]=e/2[d'/2B/2] f/2[=d'/2=B/2]g/2[e'/2c/2]|
+[=e'3=g3][f'_a] [f'/2a/2][g'/2b/2]z/2[f'/2a/2] [f'/2a/2][_d'3/2-f3/2-]|[d'4f4] [d'2=e2] [=d'2_g2]|[=a2_d2] [_d'=e][=b/2=d/2][d'/2=b/2=e/2=d/2] [_b_d][=b=d] [d'/2=e/2]z[_a/2=B/2]|[=b=d]z2[=a_d] [=a/2d/2][_a/2d/2]z/2[g/2d/2] [=e2-=d2-]|
+[=e=d][=e/2_B/2]z/2 [=e/2=B/2]z/2[=e/2c/2]z/2 [=e4_d4]|[g=d][_d=A] [d/2_A/2][=ed][=d/2=B/2] z/2[=d/2_d/2=B/2_B/2]z/2[=d/2=B/2] [=d/2=B/2][=e/2_d/2]z/2[=B/2A/2]|[=d2=B2] [_d2=A2] [=a4d4]|[=a2d2] [=a2d2] [_a2d2-] [=a2-d2-]|
+[=ad-][_ad-] [g/2-d/2][g/2-_e/2]g/2-[g/2-d/2] [g/2c/2-][=e/2c/2-]c/2-[g/2c/2-] [a/2c/2-]c/2z/2[_e/2c/2]|[g2-e2-] [g/2e/2][=e/2d/2]z/2[d'/2=e/2] [d'/2=e/2][=b/2a/2]z/2[=a/2g/2] [_a/2=e/2][a/2_A/2]z/2[a/2=A/2]|[a/2_B/2][a/2=B/2]z/2[a/2c/2] [a/2d/2][a/2=d/2][a/2a/2=e/2_e/2][a/2f/2] [a3/2g3/2]=b/2 [=a2g2]|[_a2g2] [_e'/2g/2]z3/2 [a2=e2] [a2_e2]|
+[a4e4-] [g2e2] z2|[g2e2c2] [g2e2=B2] [ge_B]z/2g/2 g'2-|g'3=d' (3e'=a_b (3fg=d|[ge=A]z/2g/2 g'4- g'=d'|
+(3e'_a=a (3fg=d [ge=A]z/2g/2 g'2-|g'2 [g_d=A]z/2g/2 g'2 [gc=A]z/2g/2|g'2- g'/2(3f'=e'g(3_e'=d'_d'e/2z/2c'/2|(3b=ac (3_a=g_g 
+%bdca426d104a26ac9dcb070447587523
+f4-|
+f2 e2 d3F|_A8|d2 f2 b4-|b3a =ef cd|
+%bdca426d104a26ac9dcb070447587523
+=B8-|=B4 
+%bdca426d104a26ac9dcb070447587523
+=b4-|=b2- =b/2(3=ga=g(3_g=g_ba/2z/2f/2|_e6 [e/2d/2][e/2d/2][e/2d/2d/2][e/2e/2d/2]|
+[d/2c/2][e/2d/2]f/2[a/2_g/2] b/2[d'/2=b/2]e'/2[g'/2f'/2] b'/2a'/2=b'/2=g'/2 a'/2=g'/2=b'/2_g'/2|=g'/2_g'/2=b'/2f'/2 g'/2f'/2=b'/2=e'/2 f'/2=e'/2=b'/2_e'/2 =e'/2_e'/2=b'/2=d'/2|_d'/2e'/2d'/2c'/2 d'/2e'/2f'/2g'/2 a'/2_b'/2=b'/2d''/2 f''/2e''/2d''/2=b'/2|a'/2f'/2d'/2=b/2 a/2f/2d/2=B/2 _B3=A/2B/2|
+=B/2_B/2>d/2[=B/2_B/2] B4 _b2-|[b2g2] [=b2a2] [g3/2e3/2][g/2e/2] [_bg]z/2[a/2f/2]|z/2[a/2g/2f/2e/2]z/2[a/2f/2] [b/2g/2]z[f/2=d/2] [a2f2] [ge]z/2[e'/2g/2]|[e'/2g/2][d'/2f/2]z/2[=b/2e/2] [_b/2=d/2][b/2B/2]z/2[b/2=B/2] [b/2c/2][b/2_d/2]z/2[b/2=d/2] [b/2e/2][b/2=e/2]z/2[b/2f/2]|
+[b2g2] [=b3a3][g/2_e/2][g/2e/2] [_bg]z/2[a/2f/2]|z/2[a/2g/2f/2e/2]z/2[a/2f/2] [a/2f/2][b/2g/2]z/2[f/2=d/2] [a2f2] [ge]z|[g'3b3][f'/2a/2]z/2 [e'/2g/2][d'/2f/2]z/2[c'/2e/2] [b/2_d/2][a/2c/2]z/2[g/2_B/2]|[f2_A2] [g2B2] [f2A2] [e2G2]|
+[d2F2] [F2D2] [A4-D4-]|[A2D2] [B6E6D6]|[E3-D3-A,3-][E/2D/2-A,/2-][d/2A/2D/2-A,/2-] [e/2D/2-A,/2-][d'/2a/2D/2-A,/2-][e'/2D/2-A,/2-][d''/2a'/2D/2A,/2] e''2-|e''3/2[d''/2a'/2] e'/2[d'/2a/2]e/2[d/2A/2] E4-|
+E2 [A3-F3A,3-][A-EA,-] [A/2-F/2A,/2-][A/2-E/2A,/2-][A/2-A,/2-][A/2D/2A,/2]|D4 z2 d'2|=g4 c'2 _g2-|g2 =b2 f4|
+_b2 =e4 =a2|_e4 _a4-|[a-A][a-B] [a-c][a-d] [a-=d][a-e] [a-f][a-g]|[a4f4] z2 d'3/2-[_b'/2d'/2]|
+=g4 c'3/2-[=a'/2c'/2] _g2-|g2 =b3/2-[_a'/2=b/2] f4|_b3/2-[=g'/2b/2] =e4 =a3/2-[_g'/2=a/2]|_e4 _a4-|
+a3-[a-=g] [a-_g][a-f] [a-e][a-f]|[a6_d6-] [fd-][gd-]|[=gd-][ad-] [c'd-][bd] [a-c][a-d] [a-=d][a-e]|[a-_g][a-f] [ae-][=ge-] [_ge-][fe] [eA-][fA]|
+[_d-=A][d-_A] [d-=G][d/2-A/2-][d/2-c/2A/2] [d-B][dA] [fA-][gA-]|[=gA-][aA] c'b [a-c][a-d] [a-=d][a-e]|[a-_g][a-f] [ae-][=ge-] [_ge-][fe] [eA-][fA]|[_d8-F8-]|
+[d4F4] [fA][g/2-B/2-][a/2-g/2c/2-B/2] [a/2c/2][bd][c'/2-e/2-]|[d'/2-c'/2f/2-e/2][d'/2f/2][e'g] [f'a][g'/2-b/2-][a'/2-g'/2c'/2-b/2] [a'/2c'/2][b'd'][c''/2-e'/2-] [d''/2-c''/2f'/2-e'/2][d''/2f'/2][e''g']|[f''4a'4] z2 [f2-A2-]|[f4A4] [d4-F4-]|
+[d8F8]|
+V:2
+%Piano left
+%%MIDI program 0
+D,,F A,F DF, D,F|A,F DF, D,F A,F|DF, D,F A,F DF,|D,F A,F DF, D,F|
+A,F DF, D,F A,F|DF, D,F A,F DF,|D,,_G =A,G EG, D,G|=A,G E=A, D,G B,G|
+EG, D,G B,G EG,|C,G =A,G EG, B,,G|B,G EG, =A,,G =A,G|DE, _A,,G _A,G CE,|
+D,,=E/2z/2 =G,=E/2z/2 B,F, D,,F|A,F DF, B,,F B,F|DF, B,,F =A,F _EF,|B,,F B,F DF, F,,F|
+CF E=A, B,,F B,F|DF, B,,F =A,F EF,|B,,F B,F DF, B,,A|B,A =DF, E,,G B,G|
+E_G, E,A B,A =DF,|E,G B,G EG, B,,A|B,A =DF, E,,G B,G|EG, E,A B,A =DF,|
+E,G B,G EG, =A,,-[_D=A,,-]|[E,=A,,-][D=A,,-] [G,=A,,-][=A,,=A,,] _A,,C E,C|G,E, =A,,-[=A,=A,,-] [E,=A,,-][=A,=A,,-] [G,=A,,-][E,=A,,]|_A,,_A, E,A, G,E, D,=E|
+G,=E =A,D, C,_E G,E|_A,G, =A,,D E,D G,E,|_A,,A, E,A, G,A,, D,=E|G,=E =A,D, C,_E G,E|
+=A,G, =B,,E G,E =A,G,|=B,,E F,E _A,F,- [F,=B,,]=D|=E,-[=D=E,] A,=E, =A,,_D =E,D|=A,=E, =A,,D _E,D G,E,|
+_A,,C E,C G,D, A,,_A,|C,A, G,E, D,,F A,F|DF, D,F A,F DF,|D,F A,F DF, D,F|
+A,F DF, D,F A,F|DF, D,F A,F DF,|D,,-[GD,,] =A,G DG, D,G|=A,G =DG, D,-[GD,] B,G|
+EG, D,G B,G EG,|C,G =A,G EG, _B,,G|B,G EG, =A,,G =A,G|_DE, _A,,G _A,G CE,|
+D,,A A,A DF, D,F|A,F DA, D,=E =E,=E|=A,=E, =D,=E =E,=E _A,=E,|_D,=E =E,=E =A,=E, A,,=E|
+=E,=E =D=E, =A,,=E =E,=E|_D=E, =E,,=E _A,=E =D=E,|=A,,=E =A,=E _D=E, _E,,G|=A,G D_E, _A,,G _A,G|
+DE, A,,G A,G CE,|A,,=E A,=E D=E, A,,,=E|A,=E D=E, A,,_E G,E|C_E, A,,,E G,E CE,|
+=A,,E G,E CE, =A,,,E|G,E =B,E, B,,E G,E|_B,E, B,,,E G,E B,E,|=B,,E G,E =A,E, =B,,,E|
+G,E =A,E, C,-[EC,-] [G,C,-][EC,]|=A,E, D,-[DD,-] [G,D,-][=A,D,] =D,-[C=D,-]|[G,=D,-][=A,=D,] E,-[EE,-] [G,E,-][_A,E,] _A,,G|A,G CG, D,,F A,F|
+DF, _D,F A,F DF,|D,F A,F DF, D,F|A,F DF, D,F A,F|DF, D,F A,F DF,|
+D,,F A,F DF, D,F|A,F DF, D,F A,F|DF, D,F A,F DF,|D,,F A,F =B,F, D,F|
+A,F =B,F, D,2 F2|A,2 F2 =B,2 F,2|D,2 F2 A,2 F2|=B,2 F,2 =D,F A,F|
+_B,F, =D,F A,F B,F,|E,G B,G EG, E,A|B,A =DF, E,G B,G|EG, _B,,F B,F =DF,|
+E,,G B,G EG, E,A|B,A =DF, E,G B,G|EG, G,,E G,E B,E,|A,,_D F,D A,A,, B,,D|
+F,D B,B,, F,,A, _D,A,|D,F,, G,,B, D,B, E,G,,|_A,,,D E,D A,E, A,,D|E,D A,E, A,,,D E,D|
+G,E, A,,C E,C G,A,,|D,,F A,F DF, D,=E|B,=E D=G, D,_E =A,E|C_G, D,-[=DD,-] [_A,D,-][=DD,-] [=B,D,-][F,D,]|
+D,-[_DD,-] [=G,D,-][DD,-] [_B,D,-][=E,D,] D,-[DD,-]|[_G,D,-][DD,-] [=A,D,-][_E,D,] D,C G,C|_A,E, D,C G,C A,E,|D,,F A,F DF, D,=E/2z/2|
+B,=E/2z/2 D=G, D,_E =A,E|C_G, D,=D _A,=D =B,F,|D,-[_DD,-] [=G,D,-][DD,-] [_B,D,-][=E,D,] D,-[DD,-]|[_G,D,-][DD,-] [=A,D,-][_E,D,] D,C G,C|
+_A,E, D,C G,C A,E,|D,,D D,D F,A,, D,,D|D,D F,A,, D,,C E,C|G,A,, D,,C E,C G,A,,|
+D,,D D,D F,A,, D,,D|D,D F,A,, D,,C E,C|G,A,, D,,C E,C G,A,,|D,,D D,D F,A,, D,,D|
+D,D F,A,, D,,D D,D|F,A,, D,,D D,D F,A,,|D,,4 z2 [A,2-A,,2-]|[A,4A,,4] [A,4-D,4-]|
+[A,8D,8]|
+%Chopin:  Nocturne Op. 27 Nr. 2
+%Copyright \0xa9 2003 by Bernd Krueger
+%http://www.piano-midi.de
+%Edition: 2014-02-19
+%Spur 7

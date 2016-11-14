@@ -1,0 +1,119 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/beethoven_hammerklavier_2.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=237
+% Last note suggests Phrygian mode tune
+K:Bb % 2 flats
+%Hammerklaviersonate  2. Satz
+%Copyright \0xa9 2008 by Bernd Krueger
+%Ludwig van Beethoven
+%Scherzo
+%Erstellt: 3.5.2008
+
+%Update: 16.8.2012
+
+%Dauer: 2:15 Minuten
+
+% Time signature=3/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+% MIDI Key signature, sharp/flats=-5  minor=0
+% Time signature=2/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+%Presto
+% MIDI Key signature, sharp/flats=-2  minor=0
+% Time signature=8/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=5/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=3/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% Time signature=4/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+% Time signature=3/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+V:1
+%Piano right
+%%MIDI program 0
+z4 d3/2[f/2A/2] [f2c2]|[dF]z B3/2[d/2_G/2] [d2A2] [BD]z|=G3/2[B/2D/2] [B2F2] [GB,]z [G3/2B,3/2][A/2E/2]|[A2E2] [BB,]z [B3/2F3/2-][c/2F/2] [c2F2]|
+[dBF]z [d3/2B3/2-][e/2B/2] [e2B2] [f/2_d/2B/2F/2]z3/2|[g/2c/2B/2G/2]z3/2 [cAC]z3 d'3/2[f'/2a/2]|[f'2c'2] [d'f]z b3/2[d'/2_g/2] [d'2a2]|[b=d]z =g3/2[b/2d/2] [b2f2] [gB]z|
+[g3/2B3/2][a/2e/2] [a2e2] [bB]z [b3/2f3/2-][c'/2f/2]|[c'2f2] [d'f]z [e'3/2b3/2-][=e'/2b/2] [=e'2b2]|[f'/2a/2f/2]z3/2 [g'/2=e'/2b/2g/2]z3/2 [f'af]z3|[d3/2=B3/2][f/2d/2] [f2d2] [d=B]z [d3/2=B3/2][g/2e/2]|
+[g2e2] [ec]z [c3/2A3/2][e/2c/2] [e2c2]|[cA]z [c3/2A3/2][f/2_d/2] [f2=d2] [d_B]z|[C3/2A,3/2][E/2C/2] [E4C4] [D2B,2]|[C2A,2] [B,2G,2] [A,4F,4]|
+[G,2=E,2] [C4G,4-_E,4] [=B,2G,2D,2]|z6 =B,3/2D/2|D2 =B,z [=B3/2D3/2-][d/2D/2-] [d2D2-]|[=BD]z c'3/2_e'/2 e'2 c'z|
+[=B3/2D3/2][d/2F/2] [d2F2] [=BD]z [=B3/2D3/2][e/2G/2]|[e2G2] [cE]z [c3/2A3/2][a/2c/2] [a2c2]|[f/2A/2]z3/2 [b/2_B/2]z3/2 [bB]z3|[d'3/2=b3/2][f'/2d'/2] [f'2d'2] [d'=b]z [d'3/2=b3/2][g'/2e'/2]|
+[g'2e'2] [e'c']z [c'3/2a3/2][e'/2c'/2] [e'2c'2]|[c'a]z [c'3/2a3/2][f'/2_d'/2] [f'2=d'2] [d'_b]z|[c3/2A3/2][e/2c/2] [e4c4] [d2B2]|[c2A2] [B2G2] [A4F4]|
+[G2=E2] [c4G4-_E4] [=B2G2D2]|z6 =B3/2d/2|d2 =Bz [=b3/2d3/2-][d'/2d/2-] [d'2d2-]|[=bd]z c3/2e/2 e2 cz|
+[=b3/2d3/2][d'/2f/2] [d'2f2] [=bd]z [=b3/2d3/2][e'/2g/2]|[e'2g2] [c'e]z [c'3/2a3/2][a'/2c'/2] [a'2c'2]|[f'/2a/2]z3/2 [b'/2_b/2]z3/2 [b'b]z3|[_d'4_d4] [f'2f2] [_d'2-_d2-]|
+[_d'2_d2] [b2_B2] [f2F2] [b2-B2-]|[b2B2] [_d'2_d2] [f'4f4]|[_d'2_d2] [b4B4] [f2F2]|[b4B4] [_d'2_d2] [f'2-f2-]|
+[f'2f2] [_a'2_a2] [_d'2_d2] z2|[b/2B/2]z3/2 [b/2B/2]z3z/2 (3_dBF|(3_dBF (3f_dB (3_dBF (3_dBF|(3BF_D (3F_D_B, [B/2_D/2](3B,_DB_D/2z/2B,/2|
+[_d/2F/2](3_DFf(3_dBf(3_dB_dB/2z/2F/2|(3BF_D (3BF_D (3F_DB, [_A/2_D/2]_A,/2z/2_D/2|(3_AF_D [_d/2F/2](3_DFf(3_d_Af_d/2z/2_A/2|(3_af_d [_d2F2] z2 [f'2-f2-]|
+[f'2f2] [_a'2_a2] [f'4f4]|[_d'2_d2] [_a2_A2] [_d'4_d4]|[f'2f2] [_a'4_a4] [f'2f2]|[_d'4_d4] [b2B2] [f2-F2-]|
+[f2F2] [b2B2] [_d'4_d4]|[f'2f2] [b2B2] z2 [_d/2_D/2]z3/2|[_d/2_D/2]z3/2 (3_DF_d f/2-[f/2-_d/2]f/2-[f/2_A/2] f/2-[f/2-_d/2]f/2-[f/2_A/2]|[_a/2-f/2][_a/2-_d/2]_a/2-[_a/2_A/2] (3f_d_A (3f_d_A (3_d_AF|
+[_A/2_D/2]_A,/2z/2_D/2 [_d/2F/2](3_DF_d(3_AFf_d/2z/2_A/2|(3_af_d (3f_df (3f_dF (3_dBF|(3_dBF (3BF_D (3F_DB, (3F_DB,|[B/2_D/2](3B,_D_d(3BF_d(3BFf_d/2z/2F/2|
+B2 z4 B/2z3/2|_d/2z3/2 c/2z3/2 F/2z3/2 f/2z3/2|e/2z3/2 _d/2z3/2 c/2z3/2 B/2z3/2|_d/2z3/2 c/2z3/2 _A/2z3/2 c/2z3/2|
+G/2z3/2 F4 z[c_AF]|z[c_AF] z[cB=E] z[cBG=E] z[cG=E]|z[cG=E] z[c_AF] z[cB=E] z[c_AF]|z[fc_AF] z[fcBF] z[=ecB=E] z[fcF]|
+z[_ecF] z[_dBF] z[c=A_E] [bfB]z|[_d'bf_d]z [c'=afc]z [fcAF]z [f'bf]z|[e'afe]z [_d'bf_d]z [c'fc]z [bf_dB]z|[_d'bf_d]z [c'fc]z [fcAF]z [f'f]z|
+[_d'b_d]z [c'4a4c4] [f'f]z|[_d'b]z [c'4a4] [c2-A2-]|[c2A2] [C4=A,4] [C,2-A,,2-]|[C,2A,,2] [C,,6-A,,,6-]|
+[C,,4A,,,4] z4|z8|z6 (3FGA|Bc =d=e (3fga bc'|
+=d'=e' (3f'g'=a' b'c'' d''=e''|f''z [_g/2_e/2]A/2[_g/2e/2]A/2 [_g/2e/2]A/2[_g/2e/2]A/2 [_g/2e/2]A/2[_g/2e/2]A/2|z6 d3/2[f/2A/2]|[f2c2] [dF]z B3/2[d/2_G/2] [d2A2]|
+[B=D]z =G3/2[B/2D/2] [B2F2] [GB,]z|[G3/2B,3/2][A/2E/2] [A2E2] [BB,]z [B3/2F3/2-][c/2F/2]|[c2F2] [dBF]z [d3/2B3/2-][e/2B/2] [e2B2]|[f/2_d/2B/2F/2]z3/2 [=g/2c/2B/2G/2]z3/2 [cAC]z3|
+d'3/2[f'/2a/2] [f'-a-][f'af-] [d'f]z b3/2[d'/2_g/2]|d'-[d'=d-] [bd]z =g3/2[b/2d/2] b-[bB-]|[gB]z [g3/2B3/2][a/2e/2] a-[ae] [bB]z|[b3/2f3/2-][c'/2f/2] c'-[c'f-] [d'f]z [_e'3/2b3/2-][=e'/2b/2]|
+=e'-[=e'b] [f'/2a/2]z3/2 [g'/2=e'/2b/2g/2]z3/2 [f'af]z|z2 [d3/2=B3/2][f/2d/2] [f2d2] [d=B]z|[d3/2=B3/2][g/2e/2] [g2e2] [ec]z [c3/2A3/2][e/2c/2]|[e-c-][ecE-] [cAE]z [c3/2A3/2][f/2_d/2] [f-=d-][fdF-]|
+[d_BF]z [C3/2A,3/2][E/2C/2] [E4C4]|[D2B,2] [C2A,2] [B,2G,2] [A,2-F,2-]|[A,2F,2] [G,2=E,2] [C4G,4-_E,4]|[=B,2G,2D,2] z6|
+=B,3/2D/2 D2 =B,z [=B3/2D3/2-][d/2D/2-]|[d-D][dD-] [=BD]z c'3/2_e'/2 e'2|c'z [=B3/2D3/2][d/2F/2] [d2F2] [=BD]z|[=B3/2D3/2][e/2G/2] [e2G2] [cE]z [c3/2A3/2][a/2c/2]|
+[a2c2] [f/2A/2]z3/2 [b/2_B/2]z3/2 [bB]z|z2 [d'3/2=b3/2][f'/2d'/2] [f'2d'2] [d'=b]z|[d'3/2=b3/2][g'/2e'/2] [g'2e'2] [e'c']z [c'3/2a3/2][e'/2c'/2]|[e'-c'-][e'c'e-] [c'ae]z [c'3/2a3/2][f'/2_d'/2] [f'-=d'-][f'd'f-]|
+[d'_bf]z [c3/2A3/2][e/2c/2] [e4c4]|[d2B2] [c2A2] [B2G2] [A2-F2-]|[A2F2] [G2=E2] [c4G4-_E4]|[=B2G2D2] z6|
+=B3/2d/2 d2 =Bz [=B,3/2D,3/2-][D/2D,/2-]|[D-D,][DD,-] [=B,D,]z c'3/2e'/2 e'2|c'z [=b3/2d3/2][d'/2f/2] [d'2f2] [=bd]z|[=b3/2d3/2][e'/2g/2] [e'2g2] [c'e]z [c'3/2a3/2][a'/2c'/2]|
+[a'2c'2] [f'/2a/2]z3/2 [b'/2_b/2]z3/2 [b'b]z|z2 [=B/2=B,/2]z3/2 [=B=B,]z3|[b'/2b/2]z3/2 [b'b]z3 [=B/2=B,/2]z3/2|[=B=B,]z3 [_B/2_B,/2]z3/2 [BB,]z|
+z2 D3/2_G/2 _G2 Dz|[=B/2=B,/2]z3/2 [=B=B,]z3 [=B/2=B,/2]z3/2|[=B=B,]z3 [=B=B,]z [=B2=B,2]|[=B2=B,2] [=B2=B,2] [=B2=B,2] [=B2=B,2]|
+[=b2=B2] [=b2=B2] [=b2=B2] [=b2=B2]|[=b'2=b2] [=b'2=b2] [=b'2=b2] [=b'2=b2]|[=b'2=b2] [=b'2=b2] [_b'_b]z [b'b]z|z2 D3/2F/2 F-[FC-] [DCF,]z|
+d3/2f/2 f-[fc-] [dcF]z d'3/2f'/2|f'-[f'c'-] [d'c'f]
+V:2
+%Piano left
+%%MIDI program 0
+z4 [D3/2_B,3/2][C/2F,/2] [C2A,2]|[DB,]z [B,3/2G,3/2][A,/2D,/2] [A,2_G,2] [B,=G,]z|[G,3/2E,3/2][F,/2B,,/2] [F,2D,2] [G,E,]z [G,3/2E,3/2][F,/2C,/2]|[F,2-C,2] [F,D,]z [F,3/2-D,3/2][F,/2A,,/2] [F,2-A,,2]|
+[F,_A,,]z [F,3/2_A,,3/2][E,/2G,,/2] [E,2G,,2] [_D,/2F,,/2]z3/2|[C,/2=E,,/2]z3/2 [F,F,,]z3 [d3/2_B3/2][c/2F/2]|[c2A2] [dB]z [B3/2=G3/2][A/2D/2] [A2_G2]|[B=G]z [G3/2E3/2][F/2B,/2] [F2D2] [GE]z|
+[G3/2E3/2][F/2C/2] [F2-C2] [FD]z d3/2[c/2A/2]|[c2A2] [B_A]z [B3/2-G3/2][B/2_G/2] [B2_G2]|[c/2F/2]z3/2 [C/2C,/2]z3/2 [FF,]z3|[F6F,6] [F,2-F,,2-]|
+[F,4F,,4] [F,4-F,,4-]|[F,2F,,2] [F,,6F,,,6]|[_G,,4_G,,,4] [=G,,4=G,,,4]|[=A,,2A,,,2] [B,,2B,,,2] [=B,,2=B,,,2] [C,2-C,,2-]|
+[C,2C,,2] C,,2 G,,4|z8|z4 [G,3/2-G,,3/2][G,/2-=B,,/2] [G,2-=B,,2]|[G,G,,]z c3/2e/2 e2 cz|
+[G,6G,,6] [C,2-C,,2-]|[C,4C,,4] [F,,4F,,,4]|[F,/2F,,/2]z3/2 [_B,,/2_B,,,/2]z3/2 [B,,B,,,]z3|[f6F6] [F2-F,2-]|
+[F4F,4] [F4-F,4-]|[F2F,2] [F,6F,,6]|[_G,4_G,,4] [E2C2_G,2] [D2B,2=G,2]|[C2A,2] [B,2G,2B,,2] [A,2-F,2-=B,,2] [A,2F,2C,2-]|
+[G,2=E,2C,2] [C2-G,2_E,2] [C2G,2-] [=B,2G,2]|z8|z4 [=G3/2-G,3/2][G/2-=B,/2] [G2-=B,2]|[GG,]z C3/2E/2 E2 Cz|
+[G6G,6] [C2-C,2-]|[C4C,4] [F,4-F,,4-]|[F,2F,,2] [_B,,/2B,,,/2]z3/2 [B,,B,,,]z3|[B,,B,,,]z [B,,B,,,]z3 (3B,,,F,,_D,|
+(3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D,|(3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D,|(3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D,|(3B,,,F,,_D, (3B,,,F,,_D, (3_A,,,F,,_D, (3_A,,,F,,_D,|
+(3_A,,,F,,_D, (3_D,,F,,_D, (3_D,,F,,_D, (3_D,,F,,_D,|[_D,4_D,,4] [F,2F,,2] [_D,2-_D,,2-]|[_D,2_D,,2] [B,,2B,,,2] [F,,2F,,,2] [B,,2-B,,,2-]|[B,,2B,,,2] [_D,2_D,,2] [F,4F,,4]|
+[_D,2_D,,2] [B,,4B,,,4] [F,,2F,,,2]|[B,,4B,,,4] [_D,2_D,,2] [F,2-F,,2-]|[F,2F,,2] [_A,2_A,,2] [_D,2_D,,2] z2|[_D,_D,,]z [_D,_D,,]z (3_D,,F,,_D, (3_D,,F,,_D,|
+(3_D,,F,,_D, (3_D,,F,,_D, (3_D,,F,,_D, (3_D,,F,,_D,|(3_D,,F,,_D, (3_D,,F,,_D, (3_D,,F,,_D, (3_D,,F,,_D,|(3_A,,,F,,_D, (3_A,,,F,,_D, (3_A,,,F,,_D, (3_A,,,F,,_D,|(3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D, (3B,,,F,,_D,|
+(3B,,,F,,_D, (3B,,,F,,_D, (3F,,,F,,_D, (3F,,,F,,_D,|(3F,,,F,,_D, (3B,,,F,,_D, B,,,2 [F,2-F,,2-]|[F,2F,,2] [_A,2_A,,2] [F,4F,,4]|[_D,2_D,,2] [_A,,2_A,,,2] [_D,4_D,,4]|
+[F,2F,,2] [_A,4_A,,4] [F,2F,,2]|[_D,4_D,,4] [B,,2B,,,2] [F,,2-F,,,2-]|[F,,2F,,,2] [B,,2B,,,2] [_D,4_D,,4]|[F,2F,,2] [B,,2B,,,2] z4|
+(3_D_B,F, (3_DB,F, (3F_DF, B,/2z3/2|_D/2z3/2 C/2z3/2 F,/2z3/2 F/2z3/2|E/2z3/2 _D/2z3/2 C/2z3/2 B,/2z3/2|_D/2z3/2 C/2z3/2 _A,/2z3/2 C/2z3/2|
+G,/2z3/2 F,4 [F,3/2F,,3/2]z/2|[_A,3/2_A,,3/2]z/2 [G,3/2=G,,3/2]z/2 [C,3/2C,,3/2]z/2 [C3/2C,3/2]z/2|[B,3/2B,,3/2]z/2 [_A,3/2_A,,3/2]z/2 [G,3/2G,,3/2]z/2 [F,3/2F,,3/2]z/2|[_A,3/2_A,,3/2]z/2 [G,3/2G,,3/2]z/2 [C3/2C,3/2]z/2 [=A,3/2=A,,3/2]z/2|
+[F,3/2F,,3/2]z/2 [B,3/2B,,3/2]z/2 [C3/2C,3/2]z/2 _D,_D|B,,B, F,,F, _E,,E, _D,,_D,|C,,C, B,,,B,, =A,,,A,, B,,,B,,|B,,,B,, A,,,A,, E,,E, _D,,_D,|
+B,,,B,, [F,4F,,4] _D_d|B,B z2 f2 z2|F2 z2 F,2 z2|F,,2 z2 F,,,4-|
+F,,,4 (3F,,,G,,,A,,, B,,,C,,|=D,,=E,, (3F,,G,,A,, B,,C, =D,=E,|(3F,G,A, B,C =D=E z2|z8|
+z2 (3FG=A Bc =d=e|fz F,/2_E/2F,/2E/2 F,/2E/2F,/2E/2 F,/2E/2F,/2E/2|z6 [D3/2B,3/2][C/2F,/2]|[C2A,2] [DB,]z [B,3/2G,3/2][A,/2D,/2] [A,2_G,2]|
+[B,=G,]z [G,3/2_E,3/2][F,/2B,,/2] [F,2D,2] [G,E,]z|[G,3/2E,3/2][F,/2C,/2] [F,2-C,2] [F,D,]z [F,3/2-D,3/2][F,/2A,,/2]|[F,2-A,,2] [F,_A,,]z [F,3/2_A,,3/2][E,/2G,,/2] [E,2G,,2]|[_D,/2F,,/2]z3/2 [C,/2=E,,/2]z3/2 [F,F,,]z3|
+[d3/2B3/2][c/2F/2] [c2A2] [dB]z [B3/2G3/2][A/2D/2]|[A2_G2] [B=G]z [G3/2E3/2][F/2B,/2] [F2D2]|[GE]z [G3/2E3/2][F/2C/2] [F2-C2] [FD]z|d3/2[c/2A/2] [c2A2] [B_A]z [B3/2-G3/2][B/2_G/2]|
+[B2_G2] [c/2F/2]z3/2 [C/2C,/2]z3/2 [FF,]z|z2 [F3F,3]F, Fz|[F,3F,,3]F,, F,z [F,2-F,,2-]|[F,F,,]F,, F,z [F,,3F,,,3]F,,,|
+F,,z [_G,,4_G,,,4] [=G,,2-=G,,,2-]|[G,,4G,,,4] [=A,,2A,,,2] [B,,2B,,,2]|[=B,,2=B,,,2] [C,2C,,2] C,,2 G,,2-|G,,2 z6|
+z6 [G,3/2-G,,3/2][G,/2-=B,,/2]|[G,2-=B,,2] [G,-G,,]G, c3/2_e/2 e2|cz [G,3G,,3]G,, G,z|[C,3C,,3]C,, C,z [F,,2-F,,,2-]|
+[F,,F,,,]F,, F,/2z3/2 [_B,,/2_B,,,/2]z3/2 [B,,B,,,]z|z2 [f3F3]F fz|[F3F,3]F, Fz [F2-F,2-]|[FF,]F, Fz [F,3F,,3]F,,|
+F,z [E4C4_G,4] [E2C2_G,2]|[D2B,2=G,2] [CA,]A,, [B,2G,2B,,2] [A,2-F,2-=B,,2]|[A,2F,2C,2-] [G,2=E,2C,2] [C2-G,2_E,2] [C2G,2-]|[=B,2G,2] z6|
+z6 [G,,3/2-G,,,3/2][G,,/2-=B,,,/2]|[G,,2-=B,,,2] [G,,-G,,,]G,, c3/2e/2 e2|cz [=G3G,3]G, Gz|[C3C,3]C, Cz [F,2-F,,2-]|
+[F,F,,]F,, F,/2z3/2 [_B,,/2_B,,,/2]z3/2 [B,,B,,,]z|z2 [=B,,/2=B,,,/2]z3/2 [=B,,=B,,,]z3|[_B,,/2_B,,,/2]z3/2 [B,,B,,,]z3 [=B,,/2=B,,,/2]z3/2|[=B,,=B,,,]z3 [_B,,/2_B,,,/2]z3/2 [B,,B,,,]z|
+z8|[=B,,/2=B,,,/2]z3/2 [=B,,=B,,,]z3 [=B,,/2=B,,,/2]z3/2|[=B,,=B,,,]z3 [=B,,=B,,,]z [=B,,2=B,,,2]|[=B,,2=B,,,2] [=B,,2=B,,,2] [=B,,2=B,,,2] [=B,,2=B,,,2]|
+[=B,,2=B,,,2] [=B,,2=B,,,2] [=B,,2=B,,,2] [=B,,2=B,,,2]|[=B,,2=B,,,2] [=B,,2=B,,,2] [=B,,2=B,,,2] [=B,,2=B,,,2]|[=B,,2=B,,,2] [=B,,2=B,,,2] [_B,,_B,,,]z [B,,B,,,]z|z2 _B,3/2F,/2 A,2 B,z|
+B3/2F/2 =A2 Bz b3/2f/2|a2 b
+%Pedale
+%%MIDI program 0
+%Beethoven: Hammerklaviersonate 2. Satz
+%Copyright \0xa9 2008 by Bernd Krueger
+%http://www.piano-midi.de/
+%Edition: 2012-08-16
+%Spur 8
+%Spur 9
+%Spur 10
+%Spur 11
+%Spur 12
+%Spur 13
+%Spur 14
+%Spur 15
+%Spur 16

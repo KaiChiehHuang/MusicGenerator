@@ -1,0 +1,91 @@
+% input file /afs/.ir/users/k/a/kaichieh/midiMusics/mz_330_2.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=46
+% Last note suggests Phrygian mode tune
+K:F % 1 flats
+%Klaviersonate C-Dur KV 330
+%2. Satz
+%Copyright \0xa9 1997 by Kr\0xfcger http://www.piano-midi.de
+%Andante Cantabile
+%Update am 31.3.2000
+
+%Update am 3.12.2001
+
+%Normierung: 23.12.2002
+
+%Update am 1.2.2006
+
+%Update am 20.6.2013
+
+%Dauer: 6:36 Minuten
+
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-1  minor=0
+%Teil1
+%Teil1 Wiederholung
+%Teil2
+%Teil2 Wiederholung
+%Teil3
+% MIDI Key signature, sharp/flats=-4  minor=0
+%Teil3 Wiederholung
+%Teil4
+%Teil4 Wiederholung
+%Teil5
+%Teil6
+% MIDI Key signature, sharp/flats=-1  minor=0
+%Fine
+V:1
+%Piano right
+%%MIDI program 0
+%bdca426d104a26ac9dcb070447587523
+z3c cc c/2z/2c/2f/2|c/2z/2A cE G2 F[FC]|[GE][AFC] [B3/2F3/2]c/2 [d/2c/2]z/2F [E=B,-][F=B,]|[A2F2C2-] [GEC-][GC] GG [g/2-G/2]gd/2|
+[=B/2G/2-]G/2G GG [g/2-G/2]g2-g/2c'/2=b/2|a/2g/2f/2e/2 _d/2=d/2f/2a/2 c3[e/2=B/2-][d/2=B/2]|c2 zc cc c/2z/2c/2f/2|c/2z/2A cE G2 F[FC]|
+[GE][AFC] [_B3/2F3/2]c/2 [d/2c/2]z/2F [E=B,-][F=B,]|[A2F2C2-] [GEC-][GC] GG [g/2-G/2]gd/2|[=B/2G/2-]G/2G GG [g/2-G/2]g2-g/2c'/2=b/2|a/2g/2f/2e/2 _d/2=d/2f/2a/2 c3[e/2=B/2-][d/2=B/2]|
+c2 zc d/2c/2_B/2A/2 G2|_G_G =G[A_G] [A2_G2] [B=G]E|F[GE] [AF-][BF-] [cF-][_dF-] [e/2F/2-][=d/2F/2]c/2[B/2G/2]|[A2F2] [GE]c cc [_b2-c2-]|
+[bc-][ac-] [gc-B][fc-A] [f2c2-G2-] [ec-G-][_ecG]|_e_e z/2z/2_e/2f/2 gf/2_e/2 _e/2d/2d/2_d/2|_d2 =df/2=e/2 g/2f/2e/2d/2 d2|cf [a/2-c/2]a/2[f/2c/2-]c/2 [c/2-A/2]c=B/2 _B[GE]|
+[A/2-F/2-C/2][A/2F/2][B/2-G/2-C/2][B/2G/2] [c/2A/2-C/2][d/2A/2]e/2f/2 [F3C3][A/2E/2-][G/2E/2]|F2 zc d/2c/2B/2A/2 G2|_G_G =G[A_G] [A2_G2] [B=G]E|F[GE] [AF-][BF-] [cF-][_dF-] [e/2F/2-][=d/2F/2]c/2[B/2G/2]|
+[A2F2] [GE]c cc [b2-c2-]|[bc-][ac-] [gc-B][fc-A] [f2c2-G2-] [ec-G-][_ecG]|_e_e z/2z/2_e/2f/2 gf/2_e/2 _e/2d/2d/2_d/2|_d2 =df/2=e/2 g/2f/2e/2d/2 d2|
+cf [a/2-c/2]a/2[f/2c/2-]c/2 [c/2-A/2]c=B/2 _B[GE]|[A/2-F/2-C/2][A/2F/2][B/2-G/2-C/2][B/2G/2] [c/2A/2-C/2][d/2A/2]e/2f/2 [F3C3][A/2E/2-][G/2E/2]|F2 z[_AC] [_AC][_AC] [_A2-C2-]|[_AC][G_B,] [B_D][EG,] [F3_A,3][c_A]|
+[c_A][c_A] [c3G3-][_dG-] [cG-][BG]|[c/2B/2-G/2-][B/2G/2][_AF] z_A Bc _e_d|z_d _d_d _d/2z/2_d/2_e/2 f2-|f_e/2_d/2 c/2_e/2_d/2B/2 _A3[c/2G/2-][B/2G/2]|
+_A2 z[_AC] [_AC][_AC] [_A2-C2-]|[_AC][GB,] [B_D][EG,] [F3_A,3][c_A]|[c_A][c_A] [c3G3-][_dG-] [cG-][BG]|[c/2B/2-G/2-][B/2G/2][_AF] z_A Bc _e_d|
+z_d _d_d _d/2z/2_d/2_e/2 f2-|f_e/2_d/2 c/2_e/2_d/2B/2 _A3[c/2G/2-][B/2G/2]|_A2 z_E _Ac _e2-|_e_d/2c/2 B_A c2 BC|
+F_A2<c2B/2_A/2 GF|[_A2F2] [G=E]c f_a gf|zc f_a gf z[f_ec=A]|[f_ecA][f_ecA] [f/2_d/2][_d/2B/2][_d/2B/2][B/2G/2] [_A2F2] [_A/2G/2-E/2-][G/2E/2]F/2G/2|
+F2 z_E _Ac _e2-|_e_d/2c/2 B_A c2 BC|F_A2<c2B/2_A/2 GF|[_A2F2] [G=E]c f_a gf|
+zc f_a gf z[f_ec=A]|[f_ecA][f_ecA] [f/2_d/2][_d/2B/2][_d/2B/2][B/2G/2] [_A2F2] [_A/2G/2-E/2-][G/2E/2]F/2G/2|F2 z[_AC] [_AC][_AC] [_A2-C2-]|[_AC][GB,] [B_D][EG,] [F3_A,3][c_A]|
+[c_A][c_A] [c3_A3E3-][BGE-] [_dBE][ECB,]|[F2C2_A,2] zc cc c/2z/2c/2f/2|c/2z/2=A cE G2 F[FC]|[GE][AFC] [B3/2F3/2]c/2 [=d/2c/2]z/2F [E=B,-][F=B,]|
+[A2F2C2-] [GEC-][GC] GG [g/2-G/2]gd/2|[=B/2G/2-]G/2G GG [g/2-G/2]g2-g/2c'/2=b/2|=a/2g/2f/2=e/2 _d/2=d/2f/2a/2 c3[e/2=B/2-][d/2=B/2]|c2 zc d/2c/2_B/2A/2 G2|
+_G_G =G[A_G] [A2_G2] [B=G]E|F[GE] [AF-][BF-] [cF-][_dF-] [e/2F/2-][=d/2F/2]c/2[B/2G/2]|[A2F2] [GE]c cc [_b2-c2-]|[bc-][ac-] [gc-B][fc-A] [f2c2-G2-] [ec-G-][_ecG]|
+_e_e z/2z/2_e/2f/2 gf/2_e/2 _e/2d/2d/2_d/2|_d2 =df/2=e/2 g/2f/2e/2d/2 d2|cf [a/2-c/2]a/2[f/2c/2-]c/2 [c/2-A/2]c=B/2 _B[GE]|[A/2-F/2-C/2][A/2F/2][B/2-G/2-C/2][B/2G/2] [c/2A/2-C/2][d/2A/2]e/2f/2 [F3C3][A/2E/2-][G/2E/2]|
+F2 z[AC] [AC][AC] [A2-C2-]|[AC][F=A,] [BG][GE] [c3A3][fA]|[fA][fA] [A3F3][cA] [BG][GE_B,]|[F2A,2] 
+V:2
+%Piano left
+%%MIDI program 0
+z6 [C2-A,2-F,2-]|[C2A,2F,2] [B,2G,2C,2] [B,2D,2-] [A,D,][A,A,,]|[G,G,,][F,F,,] [=DD,][B,B,,] [A,/2A,,/2]z3/2 D,2|C,4 [E2C2] [F2-D2-=B,2-]|
+[F2D2=B,2] [E2C2] [=B,2F,2D,2] [C2G,2E,2]|z3[DA,F,] [E2C2G,2-] [F2D2G,2]|[E2C2] C,z3 [C2-A,2-F,2-]|[C2A,2F,2] [_B,2G,2C,2] [B,2D,2-] [A,D,][A,A,,]|
+[G,G,,][F,F,,] [DD,][B,B,,] A,/2z3/2 D,2|C,4 [E2C2] [F2-D2-=B,2-]|[F2D2=B,2] [E2C2] [=B,2F,2D,2] [C2G,2E,2]|z3[DA,F,] [E2C2G,2-] [F2D2G,2]|
+[E2C2] C,z3 [_E2-C2-]|[_EC][_EC] [D_B,][DCA,] [D2-C2G,2-] [DB,G,][_DB,]|[CA,][CB,G,] [CA,F,]D, A,,2 B,,G,,/2z/2|C,4 z2 [C,3/2C,,3/2][D,/2D,,/2]|
+[E,E,,][F,F,,] [G,G,,][A,A,,] [B,4B,,4]|z2 [F2C2A,2] [F2C2A,2] [F2_E2A,2]|[F4=D4B,4] z2 [D2B,2F,2-]|[C2A,2F,2] z2 [C3G,3E,3][B,B,,]|
+[A,A,,][G,G,,] [F,F,,]z [A,2C,2-] [B,2C,2]|[A,2F,2] F,,z3 [_E2-C2-]|[_EC][_EC] [DB,][DCA,] [D2-C2G,2-] [DB,G,][_DB,]|[CA,][CB,G,] [CA,F,]D, A,,2 B,,G,,/2z/2|
+C,4 z2 [C,3/2C,,3/2][D,/2D,,/2]|[E,E,,][F,F,,] [G,G,,][A,A,,] [B,4B,,4]|z2 [F2C2A,2] [F2C2A,2] [F2_E2A,2]|[F4=D4B,4] z2 [D2B,2F,2-]|
+[C2A,2F,2] z2 [C3G,3E,3][B,B,,]|[A,A,,][G,G,,] [F,F,,]z [A,2C,2-] [B,2C,2]|[A,2F,2] F,,z3 F,,/2F,/2F,/2F,/2|F,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2 F,,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2|
+F,/2F,/2F,/2F,/2 E,,/2E,/2E,/2E,/2 E,/2E,/2E,/2E,/2 E,/2E,/2E,/2E,/2|F,,/2F,/2F,/2F,/2 F,2 z3[_D_A,F,]|[_D_A,F,][_D_A,F,] [_D_A,F,][_D_A,F,] [_E4_D4B,4G,4]|z2 _A,[B,_D,] [C2_E,2-] [_D2_E,2]|
+[C2_A,2] _A,,z3 F,,/2F,/2F,/2F,/2|F,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2 F,,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2|F,/2F,/2F,/2F,/2 E,,/2=E,/2E,/2E,/2 E,/2E,/2E,/2E,/2 E,/2E,/2E,/2E,/2|F,,/2F,/2F,/2F,/2 F,2 z3[_D_A,F,]|
+[_D_A,F,][_D_A,F,] [_D_A,F,][_D_A,F,] [_E4_D4B,4G,4]|z2 _A,[B,_D,] [C2_E,2-] [_D2_E,2]|[C2_A,2] _A,,z4_A,|C_E F,=D z_E, G,[B,=E,]|
+[_A,2F,2] z_D,- [F,_D,-][_A,_D,-] [B,_D,-][=B,_D,]|[C3C,3]z2_A,, B,,_B,|=B,C zC, _D,_D _E[CC,]|[=A,=A,,][F,F,,] [_B,2B,,2] [C2C,2] [B,2C,2]|
+[_A,2F,2] F,,z4_A,|C_E F,=D z_E, G,[B,=E,]|[_A,2F,2] z_D,- [F,_D,-][_A,_D,-] [B,_D,-][=B,_D,]|[C3C,3]z2_A,, B,,_B,|
+=B,C zC, _D,_D _E[CC,]|[=A,=A,,][F,F,,] [_B,2B,,2] [C2C,2] [B,2C,2]|[_A,2F,2] F,,z3 F,,/2F,/2F,/2F,/2|F,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2 F,,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2|
+F,/2F,/2F,/2F,/2 F,,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2|F,2 z4 [C2-=A,2-F,2-]|[C2A,2F,2] [B,2G,2C,2] [B,2=D,2-] [A,D,][A,A,,]|[G,G,,][F,F,,] [=DD,][B,B,,] [A,/2A,,/2]z3/2 D,2|
+C,4 [=E2C2] [F2-D2-=B,2-]|[F2D2=B,2] [E2C2] [=B,2F,2D,2] [C2G,2E,2]|z3[DA,F,] [E2C2G,2-] [F2D2G,2]|[E2C2] C,z3 [_E2-C2-]|
+[_EC][_EC] [D_B,][DCA,] [D2-C2G,2-] [DB,G,][_DB,]|[CA,][CB,G,] [CA,F,]D, A,,2 B,,G,,/2z/2|C,4 z2 [C,3/2C,,3/2][D,/2D,,/2]|[E,E,,][F,F,,] [G,G,,][A,A,,] [B,4B,,4]|
+z2 [F2C2A,2] [F2C2A,2] [F2_E2A,2]|[F4=D4B,4] z2 [D2B,2F,2-]|[C2A,2F,2] z2 [C3G,3E,3][B,B,,]|[A,A,,][G,G,,] [F,F,,]z [A,2C,2-] [B,2C,2]|
+[A,2F,2] F,,z3 F,,/2F,/2F,/2F,/2|F,/2F,/2F,/2F,/2 F,/2F,/2F,/2F,/2 F,,/2F,/2F,/2F,/2 D,,/2D,/2D,/2D,/2|=B,,,/2=B,,/2=B,,/2=B,,/2 C,,/2C,/2C,/2C,/2 C,/2C,/2C,/2C,/2 C,/2C,/2C,/2C,/2|F,,2 
+%Pedale
+%Mozart: Klaviersonate C-Dur KV 330 2. Satz
+%Copyright \0xa9 1997 by Bernd Kr\0xfcger
+%http://www.piano-midi.de
+%Edition: 2013-06-20
+%Spur 8

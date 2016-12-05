@@ -2,12 +2,11 @@
 
 TODO:
 
-1. Write milestone report 
-2. Understand the code in model.py 
-3. think of how to modify the model to improve (Chords and rythm)
+1. Write final report
+2. Try out two model training molody and chord separately  
+3. Run Meganta 
+4. Do listening test for evaluation 
 
 What we can probably try...:
 
-1. increase the number of layers of RNN
-2. use simpler trainning data 
-3. 
+1. Try out different parameters of RNN

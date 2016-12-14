@@ -24,5 +24,10 @@ def filter(line):
 melody_lines = parseFile('melodyData.txt')
 harmony_lines = parseFile('chordData.txt')
 for mel, harm in zip(melody_lines, harmony_lines):
-    print mel, harm
-    sys.exit()
+    if isHeader(mel):
+        print "1st chunk: "+ mel + " 2nd chunk: " + harm
+    else:
+        mel = mel.split('|')
+        harm = harm.split('|')
+        for m, h in zip(mel, harm):
+             print "1st chunk: "+ m + " 2nd chunk: " + h

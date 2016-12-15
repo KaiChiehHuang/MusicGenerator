@@ -39,7 +39,7 @@ def sample(args):
         if ckpt and ckpt.model_checkpoint_path:
             saver.restore(sess, ckpt.model_checkpoint_path)
             # args.n controls generate how many characters
-            print(model.sample(sess, chars, vocab, 1000, 'X:1', args.sample))
+            print(model.sample(sess, chars, vocab, 1000, 'X: 1', args.sample))
 
 if __name__ == '__main__':
     main()

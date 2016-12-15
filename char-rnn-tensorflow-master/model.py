@@ -58,13 +58,12 @@ class Model():
         optimizer = tf.train.AdamOptimizer(self.lr)
         self.train_op = optimizer.apply_gradients(zip(grads, tvars))
 
-    def sample(self, sess, chars, vocab, num=200, prime='X:', sampling_type=1):
+    def sample(self, sess, chars, vocab, num=200, prime='X: 1', sampling_type=1):
         state = sess.run(self.cell.zero_state(1, tf.float32))
-        for char in prime:
-            x = np.zeros((1, 1))
-            x[0, 0] = vocab[char]
-            feed = {self.input_data: x, self.initial_state:state}
-            [state] = sess.run([self.final_state], feed)
+        x = np.zeros((1, 1))
+        x[0, 0] = vocab[prime]
+        feed = {self.input_data: x, self.initial_state:state}
+        [state] = sess.run([self.final_state], feed)
 
         def weighted_pick(weights):
             t = np.cumsum(weights)
@@ -72,11 +71,10 @@ class Model():
             return(int(np.searchsorted(t, np.random.rand(1)*s)))
 
         ret = ""
-        char = prime[0]
         switch = 0
         while True:
             x = np.zeros((1, 1))
-            x[0, 0] = vocab[char]
+            x[0, 0] = vocab[prime]
             feed = {self.input_data: x, self.initial_state:state}
             [probs, state] = sess.run([self.probs, self.final_state], feed)
             p = probs[0]
@@ -84,7 +82,7 @@ class Model():
             if sampling_type == 0:
                 sample = np.argmax(p)
             elif sampling_type == 2:
-                if char == ' ':
+                if prime == ' ':
                     sample = weighted_pick(p)
                 else:
                     sample = np.argmax(p)
@@ -92,14 +90,13 @@ class Model():
                 sample = weighted_pick(p)
 
             pred = chars[sample]
-            if (pred == 'X') and switch:
+            if pred.startswith('X:') and switch:
                 break
-            if pred == 'X':
+            if pred.startswith('X:'):
                 switch = 1
             if switch:
                 ret += pred
-            char = pred
-            
+            prime = pred
         return ret
 
 

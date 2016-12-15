@@ -15,12 +15,6 @@ def isHeader(line):
             return True
     return False
 
-def filter(line):
-    return (not len(line) == 0) and \
-           (not line.startswith('%')) and \
-           (not line.startswith('Error')) \
-
-
 melody_lines = parseFile('melodyData.txt')
 harmony_lines = parseFile('chordData.txt')
 for mel, harm in zip(melody_lines, harmony_lines):

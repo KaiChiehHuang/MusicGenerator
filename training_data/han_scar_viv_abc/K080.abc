@@ -1,0 +1,21 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/scarlatti/K080.MID
+% format 1 file 3 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=66
+K:G % 1 sharps
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%Ger.8l
+gf/2g/2 dB Gd gf/2g/2|dB G^d =d^c GF/2E/2|Dd =cB =F^D/2=D/2 Cc|^A=A G^F/2E/2 D=f ^d=d|
+cB/2A/2 G^a ^g=g =f^d|=dc ^A=A GF dG|FG3/2z/2A DB cD|BA3 d^c/2d/2 AF|
+DA d^c/2d/2 AF D^a|=a^g d^c/2B/2 Aa =g^f|=cB/2A/2 G^g ^g=g =f^d/2=d/2|cc' ^a=a g^f ed|
+cB AB/2A/2 Gd =FE|DE Gc BA3/2z/2D|gc BA2z/2G2-G/2-|G2 
+V:2
+%Track 2
+[B2D2G,2] [A^FD,][B2D2G,,2-]G,, z2|[AFD,][B2D2G,,2]z3 [A^CA,][A-F-D-D,-]|[AFDD,-]D, z2 [DB,G,][^D2=C2G,2C,2-]C,|[^A3G3E3^C,3][=A2F2=D2D,2-]D, [c2-A2-^D2-F,2-]|
+[cA^DF,][B2G2=D2G,2-]G, [d3^G3=F3B,3][c-=G-^D-C-]|[c2G2^D2C2] [^A3G3E3^C3][=A2^F2=D2][GB,]|[AD-A,][G-D-B,] [GDG,][AD-F,] [F-DD,][FDG,] [FD-A,][AD-F,]|[GDG,][A3F3D3D,3] z2 [AEA,,][A-F-D,-]|
+[AFD,-]D, z2 [AEA,,][A2F2D,2]z|z2 [^GEE,][A2E2A,,2-]A,, z2|[AFD,][B2D2G,,2-]G,, [^G3=F3D3B,,3][c-=G-^D-=C,-]|[cG^DC,-]C, [^A3G3E3^C,3][=A3^F3D,3]|
+[A3=D3F,3][B2D2G,2-]G, [D2-G,2-B,,2-]|[DG,B,,][E2G,2=C,2][cGE=C] [GD][F-D,] [FDC][B-G-D-B,]|[BGDB,,][GEC,] [G2D2-D,2] D/2-[F/2-D/2D,,/2-][F/2D,,/2][B2-G2-D2-G,,2-][B/2-G/2-D/2-G,,/2-]|[B2G2D2G,,2] 

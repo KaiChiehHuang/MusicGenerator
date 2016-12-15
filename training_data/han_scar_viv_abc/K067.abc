@@ -1,0 +1,32 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/scarlatti/K067.MID
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=180
+% Last note suggests minor mode tune
+K:A % 3 sharps
+%(C) John Sankey 1998
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+zF AF cc =fc|^fF AF cC =FC|^F-[FF,] [A-F-A,][AFF,] [G-C][GC,] [c-=F,][cC,]|[A-^F,][AF,,] [a-A,,][aF,,] [g-C,][gC,,] [c-=F,,][cC,,]|
+[A-^F,,][AF,,] [f-A,,][fF,,] [d-B,,][dB,,] [B-D,][BB,,]|[G-E,][GE,] [e-G,][eE,] [c-A,][c-A,] [a-cC][aA,]|[fD-][gD] [a-C-][a-AC] [a-dB,-][acB,] [g-dE-][geE-]|[a-c-E][a-cA,] [ac-C][cA,] [B-E][BE,] [e-G,][eE,]|
+[c-A,][cA,,] [A-C,][AA,,] [B-E,][B-E,,] [BE-G,,][EE,,-]|[d-B-E,,][dBB,] [d-B-D][dBB,] [c-F][cF,] [f-^A,][fF,]|[d-B,][dB,,] [B-D,][BB,,] [c-F,][c-F,,] [cF-^A,,][FF,,-]|[e-c-F,,][ecC] [e-c-E][ecC] [^d-G][^dG,] [g-=C][gG,]|
+[e-^C][eC,] [c-E,][cC,] [^d-G,][^dG,,] [G-=C,][GG,,]|[=F-^C,][=FC,] [c-=F,][cC,] [A-^F,][AF,,] [f-=A,,][fF,,]|[=d-B,,][dB,,] [B-D,][BB,,] [G-E,][GE,] [e-G,][eE,]|[c-=A,][cA,] [A-C][AA,] [^F-D][FD,] [d-F,][dD,]|
+[B-G,][BG,] [G-B,][GG,] [=F-C][=F-C,] [c-=F=F,][cC,]|[A^F,-][BF,] [c-E,-][c-CE,] [c-^FD,-][c=FD,-] [B-^FB,-D,-][BGB,D,]|[cC-C,-][cC-C,-] [=fC-C,-][cCC,] gG =cG|^cG =FG c=f Gc|
+=FG C,=F, G,,C, =F,,G,,|C,,4 [C-C,-][cC-C,-] [=fC-C,-][cC-C,-]|[gC-C,-][GC-C,-] [=cC-C,-][GC-C,-] [^c-CC,][cC] [c-=F][cC]|[A-^F][A^F,] [a-A,][aF,] [g-C][gC,] [c-=F,][cC,]|
+[^A-^F,][^A^F,,] [^f-^A,,][fF,,] [d-B,,][dB,,] [B-D,][BB,,]|[c-F,][cF,] [f-^A,][fF,] [^d-B,][^dB,,] [B-^D,][BB,,]|[=G-E,][=GE,] [=g-=G,][=gE,] [f-B,][fB,] [b-^D][bB,]|[^g-E][gE,] [e-^G,][eE,] [c-=A,][c=A,,] [=A-C,][AA,,]|
+[B-E,][BE,,] [e-G,,][eE,,] [c-A,,][cA,,] [a-C,][aA,,]|[f-=D,][fD,] [=d-F,][dD,] [B-G,][BG,] [g-B,][gG,]|[=f-C][=fC,] [c-=F,][cC,] [A^F,-][FF,] [AF,,-][FF,,]|[cE,,-][cE,,] [eE,-][cE,] [^fD,-][FD,] [AD,,-][FD,,]|
+[cC,,-][CC,,] [=FC,-][CC,] ^F-[FF,] [A-F-A,][AFF,]|[^G-C][GC,] [c-=F,][cC,] [A-^F,][AF,,] [a-A,,][aF,,]|[g-C,][g-C,,] [gc-=F,,][cC,,] [A^F,,-][cF,,] [dB,,-][fB,,]|[AC,-][fC,] [GC,,-][=fC,,] [^fF,,-][FF,,] [AF,-][FF,]|
+[cE,-][cE,] [eE,,-][cE,,] [fD,,-][FD,,] [AD,-][FD,]|G-[GC] [c-=F][cC] [A-^F][AF,] [a-A,][aF,]|[g-C][g-C,] [gc-=F,][cC,] [A^F,-][cF,] [dB,-][FB,]|[AC-][FC] [GC,-][=FC,] [^FF,-][cF,] [dB,,-][fB,,]|
+[AC,-][fC,] [GC,,-][=fC,,] [^fF,,-][cF,,-] [AF,,-][cF,,-]|[fF,,-][aF,,-] [cF,,-][fF,,-] [AF,,-][cF,,] FA|C,F, A,,C, F,,4-|F,,8|

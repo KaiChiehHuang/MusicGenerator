@@ -1,0 +1,33 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/scarlatti/K064.MID
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=222
+K:F % 1 flats
+%(C) John Sankey 1998
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+z[f4d4A4D4A,4D,4][e2A,2-E,2-A,,2-][dA,-E,-A,,-]|[_dA,E,A,,][=d2A,2-F,2-D,2-][A2A,2-F,2-D,2-][B2-A,2F,2D,2][B-D-G,-D,-G,,-]|[B-DG,D,G,,][B2D2-A,2-D,2-A,,2-][GD-A,-D,-A,,-] [FDA,D,A,,][G2_D2-G,2-E,2-A,,2-][A-_D-G,-E,-A,,-]|[A_DG,E,A,,][F2=D2-A,2-F,2-D,2-][ED-A,-F,-D,-] [FDA,-F,-D,-][D2-A,2F,2D,2][D-G,-E,-]|
+[DG,E,][f4d4A4A,4F,4D,4][e2A,2-E,2-A,,2-][dA,-E,-A,,-]|[_dA,E,A,,][=d2D2-A,2-F,2-][_a2D2-A,2-F,2-][=a2D2A,2F,2][A-D-A,-F,-]|[ADA,F,][dC-A,-E,-] [cC-A,-E,-][=BC-A,-E,-] [ACA,E,][=B2D2-=B,2-E,2-][_A-D-=B,-E,-]|[_AD=B,E,][=A2A,2-E,2-A,,2-][E2A,2-E,2-A,,2-][G2F2A,2E,2A,,2][E-A,-E,-A,,-]|
+[EA,E,A,,][=B2_A2=B,2-A,2-E,2-_A,,2-][E2=B,2-A,2-E,2-_A,,2-][G2F2=B,2A,2E,2_A,,2][E-=B,-A,-E,-_A,,-]|[E=B,A,E,_A,,][c2=A2A,2-E,2-=A,,2-][E2A,2-E,2-A,,2-][G2F2A,2E,2A,,2][E-A,-E,-A,,-]|[EA,E,A,,][d2=B2_A,2-E,2-D,2-=B,,2-][E2_A,2-E,2-D,2-=B,,2-][G2F2_A,2E,2D,2=B,,2][E-_A,-E,-D,-=B,,-]|[E_A,E,D,=B,,][e2c2=A,2-E,2-C,2-][E2A,2-E,2-C,2-][e2A,2E,2C,2][dA,-E,-C,-]|
+[cA,E,C,][c=B,-A,-D,-] [=B=B,-A,-D,-][A=B,-A,-D,-] [=B=B,A,D,][E/2-=B,/2-A,/2_A,/2-E,/2-][E3/2=B,3/2-_A,3/2-E,3/2-][_a-=B,-_A,-E,-]|[_a=B,_A,E,][=a2=A,2-F,2-][A2A,2-F,2-][e2A,2F,2][dA,-E,-C,-]|[cA,E,C,][c=B,-A,-D,-] [=B=B,-A,-D,-][A=B,-A,-D,-] [=B=B,A,D,][E/2-=B,/2-A,/2_A,/2-E,/2-][E3/2=B,3/2-_A,3/2-E,3/2-][_A-=B,-_A,-E,-]|[_A=B,_A,E,][=A4-=A,4E,4A,,4][A-A,] [A-G,][A-F,]|
+[AE,][c4F,4F,,4][c3-C3-G,3-E,3-]|[cCG,E,][c2C2-A,2-F,2-][dC-A,-F,-] [cC-A,-F,-][f2C2A,2F,2][c-C-G,-E,-]|[cCG,E,][c2C2-A,2-F,2-][dC-A,-F,-] [cC-A,-F,-][f2C2A,2F,2][c-C-G,-E,-]|[cCG,E,][c2F,2-][dF,-] [cF,][f2F,,2][c-A,-]|
+[cA,][e2d2_B,2][c2A,2][_B2G,2][A-F,-]|[AF,][G2E,2][F2D,2][E2C,2][D-_B,,-]|[DB,,][c2A,,2][B2G,,2][A2F,,2][G-E,,-]|[GE,,][F2D,,2-][f2D,,2][g2C,,2-][fC,,-]|
+[eC,,][F2F,,2-][G2F,,2-][A2-F,,2-][A-E-F,,-]|[A-EF,,][A2D2-A,2-_G,2-D,2-_G,,2-][BD-A,-_G,-D,-_G,,-] [cDA,_G,D,_G,,][B2D,2-D,,2-][A-D,-D,,-]|[AD,D,,][B2=G,2-D,2-B,,2-=G,,2-][_G2G,2-D,2-B,,2-G,,2-][=G2-G,2D,2B,,2G,,2][G-D-G,-D,-B,,-G,,-]|[G-DG,D,B,,G,,][G2_D2-A,2-G,2-E,2-D,2-A,,2-][A_D-A,-G,-E,-D,-A,,-] [B_DA,G,E,D,A,,][A2A,2-G,2-E,2-D,2-A,,2-][G-A,-G,-E,-D,-A,,-]|
+[GA,G,E,D,A,,][F2A,2-F,2-D,2-][A2A,2-F,2-D,2-][d2-A,2F,2D,2][d-=D-A,-F,-D,-]|[d-DA,F,D,][d2G2-A,2-G,2-D,2-B,,2-][eG-A,-G,-D,-B,,-] [fG-A,G,D,B,,][e2G2-A,2-G,2-D,2-B,,2-G,,2-][d-G-A,-G,-D,-B,,-G,,-]|[dGA,G,D,B,,G,,][e2_d2A2A,2-G,2-E,2-_D,2-A,,2-][A2A,2-G,2-E,2-_D,2-A,,2-][c2B2A,2G,2E,2_D,2A,,2][A-A,-G,-E,-_D,-A,,-]|[AA,G,E,_D,A,,][e2_d2A,2-G,2-E,2-_D,2-][A2A,2-G,2-E,2-_D,2-][c2B2A,2G,2E,2_D,2][A-A,-G,-E,-_D,-]|
+[AA,G,E,_D,][f2=d2A,2-F,2-=D,2-][A2A,2-F,2-D,2-][c2B2A,2F,2D,2][A-A,-F,-D,-]|[AA,F,D,][g2e2_D2-A,2-G,2-E,2-][A2_D2-A,2-G,2-E,2-][c2B2_D2A,2G,2E,2][A-_D-A,-G,-E,-]|[A_DA,G,E,][a2f2=D2-A,2-F,2-][A2D2-A,2-F,2-][b2D2A,2F,2][a-D-A,-F,-]|[aDA,F,][g2B2D2-B,2-G,2-][f2A2D2-B,2-G,2-][e-G-DB,G,] [eG][d-F-G,-D,-G,,-]|
+[dFG,D,G,,][d2D2-A,2-E,2-D,2-A,,2-][_d2D2A,2E,2D,2A,,2][=d2D2-A,2-G,2-D,2-B,,2-][G-D-A,-G,-D,-B,,-G,,-]|[GDA,G,D,B,,G,,][d4A4F4D4A,4D,4A,,4][_d3-A3-G3-E3-A,3-G,3-E,3-D,3-A,,3-]|[_dAGEA,G,E,D,A,,][=d2F2-A,2-F,2-D,2-][A2F2A,2-F,2-D,2-][c2B2A,2F,2D,2][A-A,-F,-D,-]|[AA,F,D,][e2_d2A,2-G,2-E,2-_D,2-][A2A,2-G,2-E,2-_D,2-][c2B2A,2G,2E,2_D,2][A-A,-G,-E,-_D,-]|
+[AA,G,E,_D,][f2=d2A,2-F,2-=D,2-][A2A,2-F,2-D,2-][c2B2A,2F,2D,2][A-A,-F,-D,-]|[AA,F,D,][g2e2_D2-A,2-G,2-E,2-][A2_D2-A,2-G,2-E,2-][c2B2_D2A,2G,2E,2][A-_D-A,-G,-E,-]|[A_DA,G,E,][a2f2=D2-A,2-F,2-][A2D2-A,2-F,2-][bD-A,-F,-] [dDA,F,][aD-A,-F,-]|[cDA,F,][gD-B,-G,-] [BD-B,-G,-][fD-B,-G,-] [AD-B,-G,-][eD-B,-G,-] [GDB,G,][dG,-D,-G,,-]|
+[FG,D,G,,][d2D2-A,2-E,2-D,2-A,,2-][_d2D2A,2E,2D,2A,,2][=d2D2-A,2-G,2-D,2-B,,2-][G-D-A,-G,-D,-B,,-G,,-]|[GDA,G,D,B,,G,,][d4A4F4D4A,4D,4A,,4][_d3-A3-G3-E3-A,3-G,3-E,3-D,3-A,,3-]|[_dAGEA,G,E,D,A,,][=d6-A6-F6-D6-A,6-F,6-D,6-][d-A-F-D-A,-F,-D,-]|[d8-A8-F8-D8-A,8-F,8-D,8-]|
+[dAFDA,F,D,]

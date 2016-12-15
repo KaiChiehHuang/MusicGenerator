@@ -1,7 +1,7 @@
 import os
-rootdir = './training_data/bach_harpsichord_abc'
+rootdirs = ['./training_data/bach_harpsichord_abc', './training_data/han_scar_viv_abc']
 
-file_input = open('input.txt', 'w')
+file_input = open('bigInput.txt', 'w')
 mashed_line = ""
 
 def isHeader(line):
@@ -11,21 +11,22 @@ def isHeader(line):
             return True
     return False
 
-for subdir, dirs, files in os.walk(rootdir):
-    for file in files:
-    	with open(os.path.join(subdir, file)) as f:
-    	    for line in f:
-    	    	if line.startswith('V'):
-    	    		if len(mashed_line) != 0:
-    	    			file_input.write(mashed_line+'\n')
-    	    		mashed_line = ""
-    	    		file_input.write(line)
-    	    	elif isHeader(line):
-    	    		if len(mashed_line) != 0:
-    	    			file_input.write(mashed_line+'\n')
-    	    		mashed_line = ""
-    	    		file_input.write(line)
-    	    	else:
-    	    		mashed_line += line.rstrip()
+for rootdir in rootdirs:
+    for subdir, dirs, files in os.walk(rootdir):
+        for file in files:
+            with open(os.path.join(subdir, file)) as f:
+                for line in f:
+                    if line.startswith('V'):
+                        if len(mashed_line) != 0:
+                            file_input.write(mashed_line+'\n')
+                        mashed_line = ""
+                        file_input.write(line)
+                    elif isHeader(line):
+                        if len(mashed_line) != 0:
+                            file_input.write(mashed_line+'\n')
+                        mashed_line = ""
+                        file_input.write(line)
+                    else:
+                        mashed_line += line.rstrip()
 
 file_input.close()

@@ -47,10 +47,6 @@ for line in lines:
         flag = NONE
 
     if filter(line):
-        if isStartHeader(line):
-            file_melody.write('MELODY\n')
-            file_chord.write('HARMONY\n') 
-
         if isHeader(line):
             file_melody.write(line+'\n')
             file_chord.write(line+'\n') 

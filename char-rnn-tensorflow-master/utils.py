@@ -5,15 +5,15 @@ from six.moves import cPickle
 import numpy as np
 
 class TextLoader():
-    def __init__(self, data_dir, batch_size, seq_length, input_file_src, encoding='utf-8'):
+    def __init__(self, data_dir, batch_size, seq_length, encoding='utf-8'):
         self.data_dir = data_dir
         self.batch_size = batch_size
         self.seq_length = seq_length
         self.encoding = encoding
 
-        input_file = os.path.join(data_dir, input_file_src)
-        vocab_file = os.path.join(data_dir, "vocab.pkl" if input_file_src == 'melody.txt' else 'vocab2.pkl')
-        tensor_file = os.path.join(data_dir, "data.npy" if input_file_src == 'melody.txt' else 'data2.npy')
+        input_file = os.path.join(data_dir, "input.txt")
+        vocab_file = os.path.join(data_dir, "vocab.pkl")
+        tensor_file = os.path.join(data_dir, "data.npy")
 
         if not (os.path.exists(vocab_file) and os.path.exists(tensor_file)):
             print("reading text file")
@@ -25,7 +25,7 @@ class TextLoader():
         self.reset_batch_pointer()
 
     def isHeader(self, line):
-        prefixes = ['X','T','M','L','Q','K', 'MELODY', 'HARMONY']
+        prefixes = ['X','T','M','L','Q','K']
         for prefix in prefixes:
             if line.startswith(prefix):
                 return True
@@ -38,14 +38,10 @@ class TextLoader():
         data_bars = []
         for line in data:
             if self.isHeader(line):
-                data_bars.append(line+'\n')
+                data_bars.append(line)
             else:
-                bars = line.split('|')
-                for idx, bar in enumerate(bars):
-                    if idx == len(bars) -1:
-                        data_bars.append(bar+'\n')
-                    else:
-                        data_bars.append(bar)
+                for bar in line.split('|'):
+                    data_bars.append(bar)
 
         counter = collections.Counter(data_bars)
         count_pairs = sorted(counter.items(), key=lambda x: -x[1])

@@ -48,8 +48,7 @@ def main():
     train(args)
 
 def train(args):
-    data_loader = TextLoader(args.data_dir, args.batch_size, args.seq_length, 'melody.txt')
-    data_loader2 = TextLoader(args.data_dir, args.batch_size, args.seq_length, 'harmony.txt')
+    data_loader = TextLoader(args.data_dir, args.batch_size, args.seq_length)
     args.vocab_size = data_loader.vocab_size
     
     # check compatibility if training is continued from previously saved model
@@ -79,45 +78,26 @@ def train(args):
         cPickle.dump(args, f)
     with open(os.path.join(args.save_dir, 'chars_vocab.pkl'), 'wb') as f:
         cPickle.dump((data_loader.chars, data_loader.vocab), f)
-    with open(os.path.join(args.save_dir, 'chars_vocab2.pkl'), 'wb') as f:
-        cPickle.dump((data_loader2.chars, data_loader2.vocab), f)
         
-    model = Model(args, mel=True)
-    model2 = Model(args, mel=False)
+    model = Model(args)
     with tf.Session() as sess:
         tf.initialize_all_variables().run()
         saver = tf.train.Saver(tf.all_variables())
+        # restore model
         if args.init_from is not None:
             saver.restore(sess, ckpt.model_checkpoint_path)
         for e in range(args.num_epochs):
             sess.run(tf.assign(model.lr, args.learning_rate * (args.decay_rate ** e)))
-            sess.run(tf.assign(model2.lr, args.learning_rate * (args.decay_rate ** e)))
-
             data_loader.reset_batch_pointer()
-            data_loader2.reset_batch_pointer()
-
             state = sess.run(model.initial_state)
-            state2 = sess.run(model2.initial_state)
             for b in range(data_loader.num_batches):
                 start = time.time()
-
                 x, y = data_loader.next_batch()
-                x2, y2 = data_loader2.next_batch()
-
-                feed = {model.input_data: x, model.input_data2: x2, model.targets: y}
-                feed2 = {model2.input_data: x2, model2.input_data2: x, model2.targets: y2}
-
+                feed = {model.input_data: x, model.targets: y}
                 for i, (c, h) in enumerate(model.initial_state):
                     feed[c] = state[i].c
                     feed[h] = state[i].h
-
-                for i, (c, h) in enumerate(model.initial_state):
-                    feed2[c] = state2[i].c
-                    feed2[h] = state2[i].h
-
                 train_loss, state, _ = sess.run([model.cost, model.final_state, model.train_op], feed)
-                train_loss2, state2, _ = sess.run([model2.cost, model2.final_state, model2.train_op], feed2)
-
                 end = time.time()
                 print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
                     .format(e * data_loader.num_batches + b,

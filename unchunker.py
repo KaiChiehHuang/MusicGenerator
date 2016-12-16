@@ -25,19 +25,28 @@ def filter(line):
            (not line.startswith('%')) and \
            (not line.startswith('Error')) \
 
-melody_lines = parseFile('melody.txt')
-harmony_lines = parseFile('harmony.txt')
-file_interleave = open('interleave.txt', 'w')
+file_interleave = parseFile('song.txt')
+file_uninterleave = open('uninterleave.txt', 'w')
 
-for mel, harm in zip(melody_lines, harmony_lines):
-    if isHeader(mel):
-        file_interleave.write(mel+'\n')
+melody = []
+harmony = []
+for line in file_interleave:
+    if isHeader(line):
+        file_uninterleave.write(line+'\n')
     else:
-        mel = mel.split('|')
-        harm = harm.split('|')
-        for idx, (m, h) in enumerate(zip(mel, harm)):
-            if idx == len(mel) -1:
-                file_interleave.write(m+'|'+h+'\n')
+        line = line.split('|')
+        isMel = True
+        for bar in line:
+            if isMel:
+                melody.append(bar)
             else:
-                file_interleave.write(m+'|'+h+'|')
-file_interleave.close()
+                harmony.append(bar)
+            isMel = not isMel
+
+melody = '|'.join(melody)
+file_uninterleave.write(melody+'\n')
+file_uninterleave.write('V:2\n')
+harmony = '|'.join(harmony)
+file_uninterleave.write(harmony+'\n')
+ 
+file_uninterleave.close()

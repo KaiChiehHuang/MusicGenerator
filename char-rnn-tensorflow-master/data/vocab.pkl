@@ -1,65 +1,210 @@
-(V2
-V/
-V,
-V 
-V[
-V]
-V-
-Vz
-VA
-VG
-V3
-VB
-V|
-V=
-VF
-VE
-VD
-VC
-Vc
-Vd
-V_
-V^
-Ve
-V'
-Vg
-V4
-Vf
-V\u000a
-Va
-Vb
-V8
-V6
-V(
-V:
-V<
-V1
-VV
-V>
-Vs
-VT
-V%
-VK
-VM
-VL
-VQ
-VX
-V0
-Vr
-Vh
-Vp
-Vt
-Vl
-V5
-V9
-V7
-Vo
-Vn
-Vi
-Vm
-V#
-VN
-Vk
-Vw
-tp1
+(VBc G_G =GA3/2z/2z/2A/2-
+p1
+V_g=g [c3-A3]c2a
+p2
+V=B/2c/2d ez/2e/2 d/2e/2f _a=g
+p3
+VB[B3-G3] B2 g_g
+p4
+V_d2 [=d-d][=ed-] [fd]b c/2-c/2-c/2-c/2-
+p5
+VK:Bb % 2 flats
+p6
+VX: 1
+p7
+V_G=G A=B AG cd
+p8
+V[cE-][eE-] [A-E][A-F] [A-E][A-C] [AD-][AD-]
+p9
+Vd/2e/2[f3-d3=B3-] [f2-=B2] [f-c]f/2c/2
+p10
+V_G/2-_G/2-[A_G] [=GG]G- [G-F][G-_E] [G-D][G-C-C]
+p11
+V[e/2-G,/2]e/2A cd _gB d_g
+p12
+V=ed _d=d =eB AG
+p13
+VA=B cd _BA GA
+p14
+V_a3/2z/2 bg- [g-f][g-e] [g-d][g-c]
+p15
+VAB c_G dA _GD
+p16
+Vcd ec BA GF
+p17
+V_D=D =E_G =ED =GA
+p18
+Vag _g=g a_e dc
+p19
+Vz/2A2z/2A AG _G=G
+p20
+VBA B-[B-G] [B-F][B-D] [BE-][BE-]
+p21
+V=Bc d_B AG AB
+p22
+VM: 4/4
+p23
+Vz6 z_d-
+p24
+V[AC-][cC-] [_GC-][A/2-C/2]A/2 [cA,-][d/2-A,/2]d/2 [=GB,-][B/2-B,/2]B/2
+p25
+Vz/2e/2d/2e/2 [f3-d3=B3-][f2-=B2][f-c]
+p26
+Vg3/2z/2 gg _BA cB
+p27
+V=gf ec eg c'b
+p28
+VQ:1/4=184
+p29
+Vg_g =ga ed cB
+p30
+Vfe ce gc' b=a
+p31
+V[dD-][G-D] [G-E][G-D] [G-B,][GC-] [GC-][AC-]
+p32
+Vdc BA GF GB
+p33
+VA/2-A/2-[cA] BB4-B
+p34
+Vc-[c-B] [c/2A/2-]A/2[cG] [c3A3]z
+p35
+Vad Bd fg ba
+p36
+VAG =e2<f2 _ed
+p37
+V_BA B6-
+p38
+Vdc dE D2<C2
+p39
+VB,A, z6
+p40
+V_d[=d-d] [=ed-][fd] bc/2-c/2- c/2-c/2-[=ec]
+p41
+Vz2 AA a_g dA
+p42
+V[G-DC-][G-E-C] [G/2-E/2]G/2-[G4-D4-B,4-][GDB,]
+p43
+V[GDB,]
+p44
+Vz/2g2z/2g g_B Ac
+p45
+Vz8
+p46
+VBc de f3/2z/2 B3/2z/2
+p47
+V[g-c][g-d] [g/2e/2-]e/2B [f3-A3]f-
+p48
+Vf3/2z/2 AB ed cA/2-[d/2A/2-]
+p49
+VF=E _G=G A_E DC
+p50
+VA3D FA df
+p51
+VT: 
+p52
+Vde cB AG Ff-
+p53
+VzA6-A-
+p54
+Vz2 _G3/2z/2 [=G-G][AG-] [BG]e
+p55
+V[cC-][_GC-] [A/2-C/2]A/2[cA,-] [d/2-A,/2]d/2[=GB,-] [B/2-B,/2]B/2[dG,-]
+p56
+V[c-B][c/2A/2-]A/2 [cG][c3A3] z2
+p57
+V[f_A-][e_A-] [d_A-][c_A-] [=B-_A][=B-_A] [=BG-]G/2z/2
+p58
+Vg_g =ga ed c_B
+p59
+VV:1
+p60
+V[BD-][dD-] [G-D][G-E] [G-D][G-B,] [GC-][GC-]
+p61
+V[d/2-B/2]d/2-[d4-A4-_G4-][dA_G] z2
+p62
+VL: 1/8
+p63
+V[e_A-][d_A-] [c_A-][=B-_A] [=B-_A][=BG-] G/2z/2G/2-[e/2-G/2-]
+p64
+Vde f=g z/2ez/2 dc
+p65
+V_g=g ag _g=e d_e
+p66
+V[e3/2G3/2-]G/2 e[e=A-] [d/2-A/2]d/2c _BA
+p67
+V=ag _g=g ae dc
+p68
+VB/2z3/2 A6-
+p69
+VBd cd ED C2-
+p70
+VBA G=e2<f2_e
+p71
+VG/2-[e2G2-]G/2e [e=A-][d/2-A/2]d/2 c_B
+p72
+VcB AG FG Bc
+p73
+V[=ec]d d-[d-c] [d-B][d-A] [d-G-G][d-AG-]
+p74
+Vd_d =d=e BA GF
+p75
+Vga dB df gb
+p76
+V[d-B-G][d/2-B/2]d/2- [d4-A4-_G4-] [dA_G]z
+p77
+V_ef =gz/2ez/2d cz/2g/2-
+p78
+Vz_G3/2z/2[=G-G] [AG-][BG] e_G/2-[B/2_G/2-]
+p79
+V=g[c3-A3] c2 ag
+p80
+V[dG,-][e/2-G,/2]e/2 Ac d_g Bd
+p81
+VA2 DF Ad f=e
+p82
+VA,z6z
+p83
+VAB- [B-G][B-F] [B-D][BE-] [BE-][cE-]
+p84
+Vf2- f/2z/2A Be dc
+p85
+Vdd- [d-c][d-B] [d-A][d-G-G] [d-AG-][d-B-G]
+p86
+Vf/2c/2=B/2c/2 de z/2e/2d/2e/2 f_a
+p87
+VAB6-B/2z/2
+p88
+V[G-C-C][G-DC-] [G-E-C][G/2-E/2]G/2- [G4-D4-B,4-]
+p89
+VA3/2z/2 AA G_G =Gc-
+p90
+Vz3A A=a _gd
+p91
+VAB cG _G=G A3/2z/2
+p92
+V=E_G =GA _ED CB,
+p93
+V=ga g_g =ed _ez/2e/2
+p94
+V[eE-][A-E] [A-F][A-E] [A-C][AD-] [AD-][BD-]
+p95
+VD_D =D=E _G=E D=G
+p96
+Vz/2_a2z/2b g-[g-f] [g-e][g-d]
+p97
+V[g-d][g/2e/2-]e/2 B[f3-A3] f-[f_A-]
+p98
+VzB [B3-=G3]B2g
+p99
+VA/2-[d/2A/2-]A/2-A/2- [cA]B B4-
+p100
+Vcd ef3/2z/2B3/2z/2z/2_a/2-
+p101
+VA_G =GA =BA Gc
+p102
+V_G/2-[B/2_G/2-]_G/2-_G/2- [A_G][=GG] G-[G-F] [G-_E][G-D]
+p103
+VCA Bc _Gd A_G
+p104
+tp105
 .

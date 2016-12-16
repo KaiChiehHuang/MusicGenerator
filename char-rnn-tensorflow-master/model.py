@@ -5,7 +5,9 @@ from tensorflow.python.ops import seq2seq
 import numpy as np
 
 class Model():
-    def __init__(self, args, infer=False):
+    def __init__(self, args, mel=True, infer=False):
+        var1 = 'rnnlm' if mel else 'rnnlm3'
+        var2 = 'rnnlm2' if mel else 'rnnlm4'
         self.args = args
         if infer:
             args.batch_size = 1
@@ -29,7 +31,7 @@ class Model():
         self.targets = tf.placeholder(tf.int32, [args.batch_size, args.seq_length])
         self.initial_state = cell.zero_state(args.batch_size, tf.float32)
 
-        with tf.variable_scope('rnnlm'):
+        with tf.variable_scope(var1):
             softmax_w = tf.get_variable("softmax_w", [args.rnn_size, args.vocab_size])
             softmax_b = tf.get_variable("softmax_b", [args.vocab_size])
             with tf.device("/cpu:0"):
@@ -37,7 +39,7 @@ class Model():
                 inputs = tf.split(1, args.seq_length, tf.nn.embedding_lookup(embedding, self.input_data))
                 inputs = [tf.squeeze(input_, [1]) for input_ in inputs]
 
-        with tf.variable_scope('rnnlm2'):
+        with tf.variable_scope(var2):
             softmax_w = tf.get_variable("softmax_w", [args.rnn_size, args.vocab_size])
             softmax_b = tf.get_variable("softmax_b", [args.vocab_size])
             with tf.device("/cpu:0"):
@@ -50,10 +52,10 @@ class Model():
             prev_symbol = tf.stop_gradient(tf.argmax(prev, 1))
             return tf.nn.embedding_lookup(embedding, prev_symbol)
 
-        outputs, last_state = seq2seq.rnn_decoder(inputs, self.initial_state, cell, loop_function=loop if infer else None, scope='rnnlm')
+        outputs, last_state = seq2seq.rnn_decoder(inputs, self.initial_state, cell, loop_function=loop if infer else None, scope=var1)
         output = tf.reshape(tf.concat(1, outputs), [-1, args.rnn_size])
 
-        outputs2, last_state2 = seq2seq.rnn_decoder(inputs2, self.initial_state, cell, loop_function=loop if infer else None, scope='rnnlm2')
+        outputs2, last_state2 = seq2seq.rnn_decoder(inputs2, self.initial_state, cell, loop_function=loop if infer else None, scope=var2)
         output2 = tf.reshape(tf.concat(1, outputs2), [-1, args.rnn_size])
 
         self.logits = tf.matmul(output, softmax_w) + tf.matmul(output2, softmax_w) + softmax_b

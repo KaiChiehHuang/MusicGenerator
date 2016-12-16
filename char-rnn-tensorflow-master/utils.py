@@ -5,13 +5,13 @@ from six.moves import cPickle
 import numpy as np
 
 class TextLoader():
-    def __init__(self, data_dir, batch_size, seq_length, encoding='utf-8'):
+    def __init__(self, data_dir, batch_size, seq_length, input_file_src, encoding='utf-8'):
         self.data_dir = data_dir
         self.batch_size = batch_size
         self.seq_length = seq_length
         self.encoding = encoding
 
-        input_file = os.path.join(data_dir, "input.txt")
+        input_file = os.path.join(data_dir, input_file_src)
         vocab_file = os.path.join(data_dir, "vocab.pkl")
         tensor_file = os.path.join(data_dir, "data.npy")
 

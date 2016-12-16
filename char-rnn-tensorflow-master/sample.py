@@ -68,8 +68,13 @@ def sample(args):
             harmOver = False
             prime1 = 'MELODY\n'
             prime2 = 'HARMONY\n'
+            MAX_ITERATIONS = 400
+            currIter = 0
 
             while True:
+                if currIter == MAX_ITERATIONS:
+                    break
+                currIter = currIter + 1
                 x1 = np.zeros((1, 1))
                 x1[0, 0] = vocab1[prime1]
 

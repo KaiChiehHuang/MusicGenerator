@@ -1,5 +1,5 @@
 #!/bin/bash
-_dfiles="/home/ubuntu/MusicGeneratorQuin/training_data/vivaldi/*"
+_dfiles="/home/ubuntu/MusicGeneratorQuin/training_data/bach_new/*"
  
 for f in $_dfiles
 do

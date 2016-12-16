@@ -1,0 +1,67 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v04.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=48
+K:G % 1 sharps
+%untitled
+% Time signature=3/8  MIDI-clocks/click=12  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%A
+%1.
+%A'
+%2.
+%B
+%1.
+%B'
+%2.
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+zB Gd Ad g2-|g2 fz4z|z3A c3/2A/2 Bz|ze g^c a2 dg-|
+g2 fe2d =c2|B2 Ad ^c2 dz|zB Gd Ad g2-|g2 fz4z|
+z3A =c3/2A/2 Bz|ze g^c a2 dg-|g2 fe2d =c2|B2 Ad ^c2 dz|
+zf dg2<b2a/2g/2|f/2e/2^d/2e/2 f3e g^c|^de2^d/2^c/2 B/2A/2z/2F/2 Ez|z=c eA B=d Gc-|
+c2 dc B/2c/2d2-d/2c/2|d/2c/2B/2A/2 dG F2 Gz|zf dg2<b2a/2g/2|f/2e/2^d/2e/2 f3e g^c|
+^de2^d/2^c/2 B/2A/2G/2F/2 Ez|z=c eA B=d Gc-|c2 dc B/2c/2d2-d/2c/2|d/2c/2B/2A/2 dG F2 G
+V:2
+%--------------------------------------
+%%MIDI program 6
+z4 DF B,G|cB/2G/2 Az4z|CE A,2<D2 Gz|z6 z^c|
+eA2G2F AD|EG ^CA G3/2E/2 Fz|z4 DF B,G|=cB/2G/2 Az4z|
+=CE A,2<D2 Gz|z6 z^c|eA2G2F AD|EG ^CA G3/2E/2 Fz|
+z4 dB GA|=cF2z2B GE|FG2<F2E2z|zA cF GB EA-|
+A2 FA2G BE-|E2 A,D =C3/2A,/2 B,z|z4 dB GA|cF2z2B GE|
+FG2<F2E2z|zA cF GB EA-|A2 FA2G BE-|E2 A,D C3/2A,/2 B,
+V:3
+%Johann Sebastian Bach  (1685-1750)
+%%MIDI program 6
+z6 zB,|G,D2z2G, B,E,|A,G,2F,/2E,/2 F,G, D,z|z4 DF B,E|
+z2 ^CE A,4|G,B, E,F, E,D,2z|z6 zB,|G,D2z2G, B,E,|
+A,G,2F,/2E,/2 F,G, D,z|z4 DF B,E|z2 ^CE A,4|G,B, E,F, E,D,2z|
+z4 DG E=C-|C2 B,/2A,/2G,/2F,/2 G,/2A,/2B,3|A,B, C2<B,2 G,B,|E,A,/2G,/2 F,/2G,/2D3 CF,|
+A,D,4-D, G,2|A,C F,G, A,G,2z|z4 DG EC-|C2 B,/2A,/2G,/2F,/2 G,/2A,/2B,3|
+A,B, C2<B,2 G,B,|E,A,/2G,/2 F,/2G,/2D3 CF,|A,D,4-D, G,2|A,C F,G, A,G,2
+V:4
+%The Goldberg Variations - BWV 988
+%%MIDI program 6
+G,3F,3 E,2-|E,z D,F,2<B,,2C,-|C,2 D,3z B,,D,|G,,2<G,2 F,3E,|
+G,^C, A,^C2<F,2G,|G,,3F,, A,,D,,3/2D,/2E,/2F,/2|G,3F,3 E,2-|E,z D,F,2<B,,2=C,-|
+C,2 D,3z B,,D,|G,,2<G,2 F,3E,|G,^C, A,^C2<F,2G,|G,,3F,, A,,D,,3/2A,/2B,/2^C/2|
+D2 =CB,2G, CF,|A,B, ^D,B,, E,G, E,A,|F,E, A,B, B,,E,2=D,|=C,4 B,,3A,,|
+C,F,, D,,F,, G,,B,, G,,C,-|C,3B,, D,G,,3/2A,/2B,/2^C/2|D2 =CB,2G, CF,|A,B, ^D,B,, E,G, E,A,|
+F,E, A,B, B,,E,2=D,|C,4 B,,3A,,|C,F,, D,,F,, G,,B,, G,,C,-|C,3B,, D,G,,2
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 4 a 1 Clav.
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v04.mid
+%Last Modified: March 14, 1997

@@ -1,0 +1,59 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v05.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=48
+K:G % 1 sharps
+%untitled
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%A
+%A'
+%B
+%B'
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+z/2D/2E/2F/2 G/2F/2G/2A/2 B/2A/2G/2B/2 A/2G/2F/2E/2|D/2E/2F/2G/2 A/2F/2E/2D/2 G/2F/2E/2D/2 ^C/2D/2E/2F/2|G/2B/2A/2G/2 F/2E/2D/2^C/2 D/2A,/2D/2E/2 F/2D/2F/2A/2|d/2B/2A/2B/2 G/2B/2A/2B/2 D/2G/2F/2G/2 E/2G/2D/2G/2|
+=C/2G/2B,/2G/2 A,/2G/2B,/2G/2 C/2G/2B,/2G/2 C/2F/2E/2F/2|D/2F/2C/2F/2 B,/2G/2F/2E/2 D/2C/2B,/2A,/2 G,z|bz Gz b2 az|Fz a2 g/2f/2e/2^d/2 e/2g/2=d/2g/2|
+^c/2g/2B/2g/2 ^c/2g/2e/2g/2 Ag fa/2[g/2f/2]|[a/2-g/2]a/2E Ff ga bF|Eg ab eG A,E|^CA, D,D FA d2|
+z/2D/2E/2F/2 G/2F/2G/2A/2 B/2A/2G/2B/2 A/2G/2F/2E/2|D/2E/2F/2G/2 A/2F/2E/2D/2 G/2F/2E/2D/2 ^C/2D/2E/2F/2|G/2B/2A/2G/2 F/2E/2D/2^C/2 D/2A,/2D/2E/2 F/2D/2F/2A/2|d/2B/2A/2B/2 G/2B/2A/2B/2 D/2G/2F/2G/2 E/2G/2D/2G/2|
+=C/2G/2B,/2G/2 A,/2G/2B,/2G/2 C/2G/2B,/2G/2 C/2F/2E/2F/2|D/2F/2C/2F/2 B,/2G/2F/2E/2 D/2C/2B,/2A,/2 G,z|bz Gz b2 az|Fz a2 g/2f/2e/2^d/2 e/2g/2=d/2g/2|
+^c/2g/2B/2g/2 ^c/2g/2e/2g/2 Ag fa/2[g/2f/2]|[a/2-g/2]a/2E Ff ga bF|Eg ab eG A,E|^CA, D,D FA d2|
+fz Dz g/2[f/2e/2][f/2e/2][f/2e/2] [g/2-f/2]g/2d/2g/2|ad/2a/2 bg e=c Ag|f/2[e/2^d/2]e2z/2^d/2 zA, z/2G,/2F,|E,z ez z/2D,3/2 C,z|
+ez z/2A,,3/2 B,,z gf|e^d ez E,2- E,/2D,/2C,/2B,,/2|C,/2E,/2D,/2E,/2 A,/2E,/2D,/2E,/2 =C/2A,/2G,/2A,/2 F/2A,/2G,/2A,/2|G/2D/2C/2D/2 B/2G/2F/2G/2 e/2=d/2c/2d/2 f/2d/2c/2d/2|
+g/2d/2c/2d/2 a/2d/2c/2B/2 c/2B/2A/2G/2 F/2a/2g/2f/2|gB z=F, E,D, C,/2C/2B,/2C/2|D/2C/2E/2C/2 F/2C/2G/2C/2 A/2C/2B,/2A,/2 B,d|D,c B/2G/2D/2G/2 B/2G/2d/2B/2 g2|
+fz Dz g/2[f/2e/2][f/2e/2][f/2e/2] [g/2-f/2]g/2d/2g/2|ad/2a/2 bg ec Ag|f/2[e/2^d/2]e2z/2^d/2 zA, z/2G,/2^F,|E,z ez z/2D,3/2 C,z|
+ez z/2A,,3/2 B,,z gf|e^d ez E,2- E,/2D,/2C,/2B,,/2|C,/2E,/2D,/2E,/2 A,/2E,/2D,/2E,/2 C/2A,/2G,/2A,/2 F/2A,/2G,/2A,/2|G/2D/2C/2D/2 B/2G/2F/2G/2 e/2=d/2c/2d/2 f/2d/2c/2d/2|
+g/2d/2c/2d/2 a/2d/2c/2B/2 c/2B/2A/2G/2 F/2a/2g/2f/2|gB z=F, E,D, C,/2C/2B,/2C/2|D/2C/2E/2C/2 F/2C/2G/2C/2 A/2C/2B,/2A,/2 B,d|D,c B/2G/2D/2G/2 B/2G/2d/2B/2 g2|
+V:2
+%--------------------------------------
+%%MIDI program 6
+G,z Bz G,2 ^F,z|Az F,2 E,z Gz|E,2 D,z Fz D,C,|B,,z dz B,,2 C,z|
+ez C,2 D,z Az|D,2 G,,z B2- B/2A/2G/2F/2|G/2B/2^c/2d/2 e/2f/2e/2d/2 ^c/2B/2A/2G/2 F/2A/2B/2^c/2|d/2e/2d/2^c/2 B/2A/2G/2F/2 EF GB|
+z/2e2-e/2d ^c/2e/2B/2e/2 A/2e/2G/2e/2|F/2e/2d/2^c/2 d/2A/2D/2d/2 E/2d/2F/2e/2 G/2e/2d/2^c/2|d/2B/2E/2d/2 F/2d/2G/2d/2 A/2d/2^c/2B/2 ^c/2e/2A/2^c/2|E/2G/2F/2E/2 F/2A/2D/2F/2 A,/2D/2F,/2A,/2 D,2|
+G,z Bz G,2 F,z|Az F,2 E,z Gz|E,2 D,z Fz D,C,|B,,z dz B,,2 C,z|
+ez C,2 D,z Az|D,2 G,,z B2- B/2A/2G/2F/2|G/2B/2^c/2d/2 e/2f/2e/2d/2 ^c/2B/2A/2G/2 F/2A/2B/2^c/2|d/2e/2d/2^c/2 B/2A/2G/2F/2 EF GB|
+z/2e2-e/2d ^c/2e/2B/2e/2 A/2e/2G/2e/2|F/2e/2d/2^c/2 d/2A/2D/2d/2 E/2d/2F/2e/2 G/2e/2d/2^c/2|d/2B/2E/2d/2 F/2d/2G/2d/2 A/2d/2^c/2B/2 ^c/2e/2A/2^c/2|E/2G/2F/2E/2 F/2A/2D/2F/2 A,/2D/2F,/2A,/2 D,2|
+z/2d/2=c/2B/2 A/2G/2F/2E/2 D/2c/2B/2A/2 B/2G/2F/2E/2|D/2C/2B,/2A,/2 G,/2G/2A/2B/2 c/2d/2e/2d/2 c/2B/2A/2G/2|A/2B/2c/2A/2 B/2A/2B/2F/2 B,/2^C/2^D/2E/2 F/2G/2A/2F/2|G/2B/2G/2E/2 G/2B/2G/2E/2 G/2B/2G/2E/2 A/2c/2A/2E/2|
+G/2c/2G/2E/2 F/2c/2F/2E/2 G/2B/2G/2E/2 B,/2B/2A/2B/2|G/2B/2F/2B/2 G/2E/2G/2B/2 e/2B/2G/2B/2 Ez|Ez C,z E2 =Dz|B,,z D2 =CB, A,G,|
+F,E, F,G,/2A,/2 D,2- D,/2C/2B,/2A,/2|B,/2G,/2F,/2G,/2 A,/2G,/2B,/2G,/2 C/2G,/2D/2G,/2 EG,|zB, A,G, F,/2D/2E/2F/2 G/2D/2B,/2G,/2|A,/2C/2G/2F/2 GG, D,B,, G,,2|
+z/2d/2c/2B/2 A/2G/2F/2E/2 D/2c/2B/2A/2 B/2G/2F/2E/2|D/2C/2B,/2A,/2 G,/2G/2A/2B/2 c/2d/2e/2d/2 c/2B/2A/2G/2|A/2B/2c/2A/2 B/2A/2B/2F/2 B,/2^C/2^D/2E/2 F/2G/2A/2F/2|G/2B/2G/2E/2 G/2B/2G/2E/2 G/2B/2G/2E/2 A/2c/2A/2E/2|
+G/2c/2G/2E/2 F/2c/2F/2E/2 G/2B/2G/2E/2 B,/2B/2A/2B/2|G/2B/2F/2B/2 G/2E/2G/2B/2 e/2B/2G/2B/2 Ez|Ez C,z E2 =Dz|B,,z D2 =CB, A,G,|
+F,E, F,G,/2A,/2 D,2- D,/2C/2B,/2A,/2|B,/2G,/2F,/2G,/2 A,/2G,/2B,/2G,/2 C/2G,/2D/2G,/2 EG,|zB, A,G, F,/2D/2E/2F/2 G/2D/2B,/2G,/2|A,/2C/2G/2F/2 GG, D,B,, G,,2|
+%Johann Sebastian Bach  (1685-1750)
+%The Goldberg Variations - BWV 988
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 5 a 1 ovvero 2 Clav.
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v05.mid
+%Last Modified: March 14, 1997

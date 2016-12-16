@@ -1,0 +1,73 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v12.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:G % 1 sharps
+%untitled
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%A
+%A'
+%B
+%B'
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+zG/2F/2 GA/2B/2 c/2B/2A/2G/2 d/2A/2B/2^c/2|d/2e/2f/2g/2 az2g/2f/2 e/2d/2^c/2B/2|A/2G/2F/2G/2 Gz/2E/2 Dz3|z/2d2B/2A/2G/2 =F/2E/2D/2=F/2 E/2G/2=c/2d/2|
+eA2A3/2B/2^F/2G/2 A/2G/2F/2e/2|d/2c/2B/2A/2 G2 z4|z/2F/2G/2A/2 B/2^c/2d/2f/2 e/2d/2^c/2B/2 A/2G/2F/2E/2|Dz4^c3/2B/2A/2B/2|
+^c/2d/2e/2f/2 gG/2F/2 G2- G/2B/2A/2G/2|F/2E/2F/2G/2 F/2A/2G/2F/2 E3d|^cB Af2<G2F|E/2A/2G2F/2E/2 F/2d^c/2 dz|
+zG/2F/2 GA/2B/2 =c/2B/2A/2G/2 d/2A/2B/2^c/2|d/2e/2f/2g/2 az2g/2f/2 e/2d/2^c/2B/2|A/2G/2F/2G/2 Gz/2E/2 Dz3|z/2d2B/2A/2G/2 =F/2E/2D/2=F/2 E/2G/2=c/2d/2|
+eA2A3/2B/2^F/2G/2 A/2G/2F/2e/2|d/2c/2B/2A/2 G2 z4|z/2F/2G/2A/2 B/2^c/2d/2f/2 e/2d/2^c/2B/2 A/2G/2F/2E/2|Dz4^c3/2B/2A/2B/2|
+^c/2d/2e/2f/2 gG/2F/2 G2- G/2B/2A/2G/2|F/2E/2F/2G/2 F/2A/2G/2F/2 E3d|^cB Af2<G2F|E/2A/2G2F/2E/2 F/2d^c/2 dz|
+z6 zG/2F/2|GA/2B/2 =c/2B/2A/2G/2 g2- g/2f/2a/2g/2|f/2g/2e e/2<f/2z/2z/2 fA zf|g/2f/2g/2a/2 g/2f/2e/2d/2 c/2B/2A/2G/2 F2-|
+F4- FF/2G/2 FF|FG/2A/2 G2 z2 E2-|E/2F/2G/2E/2 F/2G/2^G/2A/2 B/2c/2d/2e/2 dz|z4 z/2C/2D/2E/2 D/2^D/2F/2=G/2|
+F/2G/2A/2B/2 A6-|A=D EF G/2B/2A/2c/2 BA|Bc z/2de/2 d2- d/2B/2c/2d/2|e/2f/2g/2a/2 b/2g/2d/2B/2 Gz3|
+z6 zG/2F/2|GA/2B/2 c/2B/2A/2G/2 g2- g/2f/2a/2g/2|f/2g/2e e/2<f/2z/2z/2 fA zf|g/2f/2g/2a/2 g/2f/2e/2d/2 c/2B/2A/2G/2 F2-|
+F4- FF/2G/2 FF|FG/2A/2 G2 z2 E2-|E/2F/2G/2E/2 F/2G/2^G/2A/2 B/2c/2d/2e/2 dz|z4 z/2C/2D/2E/2 D/2^D/2F/2=G/2|
+F/2G/2A/2B/2 A6-|A=D EF G/2B/2A/2c/2 BA|Bc z/2de/2 d2- d/2B/2c/2d/2|e/2f/2g/2a/2 b/2g/2d/2B/2 G
+V:2
+%--------------------------------------
+%%MIDI program 6
+z6 zD/2E/2|DC/2B,/2 A,/2B,/2C/2D/2 G,/2C/2B,/2A,/2 G,/2F,/2E,/2D,/2|^C,z2D,/2E,/2 F,/2G,/2A,/2B,/2 C/2D/2E/2D/2|DE/2F/2 Gz3 z/2G,3/2-|
+G,/2B,/2C/2D/2 E/2F/2G/2E/2 F/2D/2A,/2G,/2 F,C-|CC3/2B,/2E/2D/2 C/2D/2E/2F,/2 G,/2A,/2B,/2C/2|D2 z4 z/2E/2D/2^C/2|B,/2A,/2G,/2E,/2 F,/2G,/2A,/2B,/2 ^C/2D/2E/2F/2 Gz|
+z3A,3/2B,/2^C/2B,/2 A,/2G,/2F,/2E,/2|D,D/2E/2 D2- D/2B,/2^C/2D/2 E/2F/2E/2D/2|E/2^C/2D/2E/2 F3G, A,B,|^CE,2<D2E F/2^C/2D|
+z6 zD/2E/2|D=C/2B,/2 A,/2B,/2C/2D/2 G,/2C/2B,/2A,/2 G,/2F,/2E,/2D,/2|^C,z2D,/2E,/2 F,/2G,/2A,/2B,/2 C/2D/2E/2D/2|DE/2F/2 Gz3 z/2G,3/2-|
+G,/2B,/2C/2D/2 E/2F/2G/2E/2 F/2D/2A,/2G,/2 F,C-|CC3/2B,/2E/2D/2 C/2D/2E/2F,/2 G,/2A,/2B,/2C/2|D2 z4 z/2E/2D/2^C/2|B,/2A,/2G,/2E,/2 F,/2G,/2A,/2B,/2 ^C/2D/2E/2F/2 Gz|
+z3A,3/2B,/2^C/2B,/2 A,/2G,/2F,/2E,/2|D,D/2E/2 D2- D/2B,/2^C/2D/2 E/2F/2E/2D/2|E/2^C/2D/2E/2 F3G, A,B,|^CE,2<D2E F/2^C/2D|
+zD/2E/2 D=C/2B,/2 A,/2B,/2C/2D/2 D,2-|D,/2E,/2=C,/2D,/2 E,/2D,/2=F, =F,/2<E,/2z/2z/2 E,C|zE, ^D,/2E,/2^D,/2^C,/2 ^D,/2E,/2^F,/2G,/2 A,/2B,/2^C/2^D/2|E6- EE/2^D/2|
+EE E^D/2^C/2 ^D2 z2|F2- F/2E/2^D/2F/2 E/2=D/2^C/2=C/2 B,/2A,/2G,/2F,/2|G,z4z3/2A/2^G/2F/2|^G/2=F/2E/2D/2 E/2D/2C/2B,/2 C4-|
+C3=G ^FE D/2B,/2C/2A,/2|B,C B,A, A,/2[A,/2G,/2]G,/2F,/2 G,2-|G,/2B,/2A,/2G,/2 F,/2E,/2=D,/2=C,/2 B,,/2D,/2G,/2B,/2 DG,-|G,/2A,/2F, G,2 z4|
+zD/2E/2 DC/2B,/2 A,/2B,/2C/2D/2 D,2-|D,/2E,/2C,/2D,/2 E,/2D,/2=F, =F,/2<E,/2z/2z/2 E,C|zE, ^D,/2E,/2^D,/2^C,/2 ^D,/2E,/2^F,/2G,/2 A,/2B,/2^C/2^D/2|E6- EE/2^D/2|
+EE E^D/2^C/2 ^D2 z2|F2- F/2E/2^D/2F/2 E/2=D/2^C/2=C/2 B,/2A,/2G,/2F,/2|G,z4z3/2A/2^G/2F/2|^G/2=F/2E/2D/2 E/2D/2C/2B,/2 C4-|
+C3=G ^FE D/2B,/2C/2A,/2|B,C B,A, A,/2[A,/2G,/2]G,/2F,/2 G,2-|G,/2B,/2A,/2G,/2 F,/2E,/2=D,/2=C,/2 B,,/2D,/2G,/2B,/2 DG,-|G,/2A,/2F, G,2 
+V:3
+%Johann Sebastian Bach  (1685-1750)
+%%MIDI program 6
+G,2 G,2 G,2 F,2|F,2 F,2 E,2 E,2|E,2 D,/2D,,/2D, zC,/2B,,/2 A,,C,|B,,2 B,,2 B,,2 C,2|
+C,2 C,2 D,2 D,2|D,2 G,3/2B,,/2 E,/2D,/2C,/2E,/2 D,/2C,/2B,,/2A,,/2|B,,G,, zG,/2F,/2 G,E, F,B,|zB,,/2^C,/2 D,B,, E,/2F,/2G,/2F,/2 E,F,|
+E,D, ^C,/2D,/2E,/2D,/2 ^C,E, ^C,A,,|D,2 z/2D,/2E,/2F,/2 G,/2A,/2G,/2F,/2 G,G,,|z/2E,/2F,/2G,/2 A,/2F,/2E,/2D,/2 B,/2B,,/2E,/2D,/2 ^C,/2A,,/2D,/2G,/2|A,/2E,/2^C,/2A,,/2 D,/2E,/2D,/2^C,/2 D,A,, D,,z|
+G,2 G,2 G,2 F,2|F,2 F,2 E,2 E,2|E,2 D,/2D,,/2D, z=C,/2B,,/2 A,,C,|B,,2 B,,2 B,,2 C,2|
+C,2 C,2 D,2 D,2|D,2 G,3/2B,,/2 E,/2D,/2C,/2E,/2 D,/2C,/2B,,/2A,,/2|B,,G,, zG,/2F,/2 G,E, F,B,|zB,,/2^C,/2 D,B,, E,/2F,/2G,/2F,/2 E,F,|
+E,D, ^C,/2D,/2E,/2D,/2 ^C,E, ^C,A,,|D,2 z/2D,/2E,/2F,/2 G,/2A,/2G,/2F,/2 G,G,,|z/2E,/2F,/2G,/2 A,/2F,/2E,/2D,/2 B,/2B,,/2E,/2D,/2 ^C,/2A,,/2D,/2G,/2|A,/2E,/2^C,/2A,,/2 D,/2E,/2D,/2^C,/2 D,A,, D,,z|
+D,2 D,2 =C,2 B,,C,|B,,A,, G,,A,,/2B,,/2 C,B,, C,E,|A,,C, B,,2 z4|zE, F,G, A,B, C/2D/2C/2B,/2|
+C/2B,/2A,/2G,/2 A,/2F,/2G,/2A,/2 B,/2C/2B,/2A,/2 B,/2F,/2^D,/2F,/2|B,,/2^D,/2^C,/2B,,/2 E,/2=C,/2B,,/2A,,/2 G,,/2B,,/2E,/2^D,/2 E,=D,|C,C z/2E,/2D,/2C,/2 D,/2C,/2B,,/2A,,/2 B,,B,|z/2D,/2C,/2B,,/2 C,/2B,,/2A,,/2^G,,/2 A,,A, z/2B,/2A,/2G,/2|
+A,/2G,/2F,/2E,/2 F,/2E,/2D,/2^C,/2 D,/2=C,/2B,,/2A,,/2 B,,/2A,,/2=G,,/2F,,/2|G,,/2A,/2G,/2F,/2 G,/2F,/2E,/2^D,/2 E,2- E,/2=D,/2C,/2E,/2|D,3A,, B,,z2E,|C,D, G,,2- G,,/2B,,/2D,/2F,/2 G,2|
+D,2 D,2 C,2 B,,C,|B,,A,, G,,A,,/2B,,/2 C,B,, C,E,|A,,C, B,,2 z4|zE, F,G, A,B, C/2D/2C/2B,/2|
+C/2B,/2A,/2G,/2 A,/2F,/2G,/2A,/2 B,/2C/2B,/2A,/2 B,/2F,/2^D,/2F,/2|B,,/2^D,/2^C,/2B,,/2 E,/2=C,/2B,,/2A,,/2 G,,/2B,,/2E,/2^D,/2 E,=D,|C,C z/2E,/2D,/2C,/2 D,/2C,/2B,,/2A,,/2 B,,B,|z/2D,/2C,/2B,,/2 C,/2B,,/2A,,/2^G,,/2 A,,A, z/2B,/2A,/2G,/2|
+A,/2G,/2F,/2E,/2 F,/2E,/2D,/2^C,/2 D,/2=C,/2B,,/2A,,/2 B,,/2A,,/2=G,,/2F,,/2|G,,/2A,/2G,/2F,/2 G,/2F,/2E,/2^D,/2 E,2- E,/2=D,/2C,/2E,/2|D,3A,, B,,z2E,|C,D, G,,2- G,,/2B,,/2D,/2F,/2 G,2|
+%The Goldberg Variations - BWV 988
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 12 Canone alla Quarta
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v12.mid
+%Last Modified: March 14, 1997

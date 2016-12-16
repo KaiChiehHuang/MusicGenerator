@@ -1,0 +1,83 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v11.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+K:G % 1 sharps
+%untitled
+% Time signature=12/16  MIDI-clocks/click=6  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%A
+%A'
+%B
+%B'
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+BA GF ED ^C2-|^C3E AG FE|D^C B,4- B,A|GF ED ^CB, A,2|
+^CE2G FE D^C|B,A, G,F, E,D, E,C,|B,,D, G,B, DG DB,|G,=F, E,D, ^C,E, G,^A,|
+EG E^A, =A,G, ^F,E,|D,G, B,D GB AF|D=C B,A, G,B, DG|Bd g2 dB2F|
+G4- GB ed|^cB AG F4-|Fe d^c BA GF|E4 FG ^CB|
+AG AB Ed ^cB|^cd ^ce fg fe|ed/2^c/2 d/2e/2d/2e/2 d/2e/2d/2e/2 d2|FA2d ^cd/2e/2 d/2e/2d/2e/2|
+d/2e/2d/2e/2 d2 ^GB2d|^cd/2e/2 d/2e/2d/2e/2 d/2e/2d/2e/2 de|g^c eg f4|dA FD FA ^cd|
+BA =GF ED ^C2-|^C3E AG FE|D^C B,4- B,A|GF ED ^CB, A,2|
+^CE2G FE D^C|B,A, G,F, E,D, E,=C,|B,,D, G,B, DG DB,|G,=F, E,D, ^C,E, G,^A,|
+EG E^A, =A,G, ^F,E,|D,G, B,D GB AF|D=C B,A, G,B, DG|Bd g2 dB2F|
+G4- GB ed|^cB AG F4-|Fe d^c BA GF|E4 FG ^CB|
+AG AB Ed ^cB|^cd ^ce fg fe|ed/2^c/2 d/2e/2d/2e/2 d/2e/2d/2e/2 d2|FA2d ^cd/2e/2 d/2e/2d/2e/2|
+d/2e/2d/2e/2 d2 ^GB2d|^cd/2e/2 d/2e/2d/2e/2 d/2e/2d/2e/2 de|g^c eg f4|dA FD FA ^cd|
+z6 ag|fe d=c BA =Gz|z2 d'c' ba g=f|ed cB AG F2|
+^de2^A B2 ^DF-|F=A cB AG AF|EG Be gb ge|BG FE =FA c=f|
+ac' a=f cA G^F|GB eg ec' ba|g^f e^d eg eB|GF GE GB e^d|
+e=d cB AG F2-|F3A dc BA|GF E4- Ed|cB AG FE FE|
+=D^C DE FE D=C|B,A, B,A, G,F, G,A,|B,A, G,=F, E,D, E,D,|=C,B,, C,D, E,C, E,G,|
+CE CA, CE Ac|FD FA df dA|df ac' bg dB|GF GB dg3|
+z6 ag|fe dc BA Gz|z2 d'c' ba g=f|ed cB AG F2|
+^de2^A B2 ^DF-|F=A cB AG AF|EG Be gb ge|BG FE =FA c=f|
+ac' a=f cA G^F|GB eg ec' ba|g^f e^d eg eB|GF GE GB e^d|
+e=d cB AG F2-|F3A dc BA|GF E4- Ed|cB AG FE FE|
+=D^C DE FE D=C|B,A, B,A, G,^F, G,A,|B,A, G,=F, E,D, E,D,|C,B,, C,D, E,C, E,G,|
+CE CA, CE Ac|FD FA df dA|df ac' bg dB|GF GB d2<g2|
+V:2
+%--------------------------------------
+%%MIDI program 6
+G,4- G,B, ED|^CB, A,G, ^F,4-|F,E D^C B,A, G,F,|E,2 G,B,2D ^CB,|
+A,G, F,E, D,E, F,G,|A,B, ^CD EF GA|AG/2A/2 G/2A/2G/2A/2 G/2A/2G/2A/2 G2|B,D2G FG/2A/2 G/2A/2G/2A/2|
+G/2A/2G/2A/2 G2 ^CE2G|FG/2A/2 G/2A/2G/2A/2 G/2A/2G/2A/2 GA|cF Ac B4|GD B,G, B,D GA|
+BA GF ED ^C2-|^C3E AG FE|D^C B,4- B,A|GF ED ^CB, ED|
+^CB, A,G, ^CB, A,G,|F,E, A,G, F,E, F,G,|F,A, DF Ad AF|D=C B,A, ^G,B, D=F|
+Bd B=F ED ^CB,|A,D ^FA df e^c|AG FE DA, F,D,|A,,F,, D,,F,, A,,2<D,2|
+=G,4- G,B, ED|^CB, A,G, F,4-|F,E D^C B,A, G,F,|E,2 G,B,2D ^CB,|
+A,G, F,E, D,E, F,G,|A,B, ^CD EF GA|AG/2A/2 G/2A/2G/2A/2 G/2A/2G/2A/2 G2|B,D2G FG/2A/2 G/2A/2G/2A/2|
+G/2A/2G/2A/2 G2 ^CE2G|FG/2A/2 G/2A/2G/2A/2 G/2A/2G/2A/2 GA|=cF Ac B4|GD B,G, B,D GA|
+BA GF ED ^C2-|^C3E AG FE|D^C B,4- B,A|GF ED ^CB, ED|
+^CB, A,G, ^CB, A,G,|F,E, A,G, F,E, F,G,|F,A, DF Ad AF|D=C B,A, ^G,B, D=F|
+Bd B=F ED ^CB,|A,D ^FA df e^c|AG FE DA, F,D,|A,,F,, D,,F,, A,,2<D,2|
+D,E, F,=G, A,B, =CD,|C2 B,A, G,A, B,C|DE =FG, =F2 ED|C4 EG =cB|
+AG ^FE ^D^C B,A,|G,F, E,^D, ^C,B,, =C,A,,|G,,4 B,,E, G,B,|^DE2G,, A,,4|
+C,=F, A,=C ^DE2^A,,|B,,4 ^C,^D, E,^F,|G,A, G,F, G,E, G,B,|E^D EG EB, G,B,|
+=C,4- C,E AG|FE =DC B,4-|B,A GF ED CB,|A,4 B,C DE|
+FG FE D4|EF GA Bc BA|G4 AB cd|e=f ed c4|
+ec AE CA, CE|Ac AF DA, F,=D,|F,A, CF, G,B, DG|Bd gd B2<G2|
+D,E, F,G, A,B, CD,|C2 B,A, G,A, B,C|DE =FG, =F2 ED|C4 EG cB|
+AG ^FE ^D^C B,A,|G,F, E,^D, ^C,B,, =C,=A,,|G,,4 B,,E, G,B,|^DE2G,, A,,4|
+C,=F, A,=C ^DE2^A,,|B,,4 ^C,^D, E,^F,|G,A, G,F, G,E, G,B,|E^D EG EB, G,B,|
+=C,4- C,E AG|FE =DC B,4-|B,A GF ED CB,|A,4 B,C DE|
+FG FE D4|EF GA Bc BA|G4 AB cd|e=f ed c4|
+ec AE CA, CE|Ac AF DA, F,=D,|F,A, CF, G,B, DG|Bd gd B2<G2|
+%Johann Sebastian Bach  (1685-1750)
+%The Goldberg Variations - BWV 988
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 11 a 2 Clav.
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v11.mid
+%Last Modified: March 14, 1997

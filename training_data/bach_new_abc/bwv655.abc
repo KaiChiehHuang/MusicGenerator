@@ -1,0 +1,255 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/bwv655.mid
+% format 1 file 14 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=112
+K:G % 1 sharps
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+V:1
+%RH 8
+%%MIDI program 74
+z2 G/2z/2A/2z/2 Bc dc|Bz d2 gz f/2z3/2|g3/2z/2 Bc/2z/2 de de|dc dg/2z/2 f/2-[f/2e/2-]e/2dcB/2-|
+B/2zd3/2z g3/2z/2 fz|g3/2z/2 b2 az fz|ga b/2z/2g/2z/2 eg f/2-[f/2e/2]z|ag fg ae/2-[f/2-e/2] f/2d/2z|
+gf2<g2b ag/2-[g/2f/2-]|f/2ed/2 z/2^c/2z/2Bd^ce/2z|d8-|d3/2f/2- [f/2e/2]z/2d/2>d/2 ^c/2d/2^c/2[d/2^c/2-] ^c/2d/2z/2d/2-|
+d3/2z6z/2|z2 DE FG A/2-[A/2G/2-]G/2z/2|F/2z3/2 A2 dz ^cz|d2 f2 ez ^cz|
+de fg/2z/2 ab ab|ag/2z/2 [b/2a/2-][b/2-a/2]b/2^cb/2z/2a/2 z/2g/2z/2f/2-|fz b/2a/2z b4-|b/2z3/2 e/2z3/2 a4-|
+a3b/2z/2 a/2>^g/2a/2^g-[a/2^g/2]z/2a/2-|a/2eAB^cdef=g/2-|gz Bz ez gz|fd B^c de f/2z/2g/2z/2|
+ag fe d^c B/2z/2a/2z/2|gf ed ^cB A/2z/2g/2z/2|fe d^c BA GF|E^c de d/2>^c/2d/2>^c/2 [d/2^c/2-]^c/2d/2z/2|
+dz A2 dz ^cz|dA DE F^G AB/2z/2|=cB AB cd ed|cz e2 az ^dz|
+eB ef ga b/2z/2a|g/2z3/2 B3/2z/2 e3/2z/2 ^dz|ef ga/2z/2 bc' bc'-|[c'/2b/2-]b/2a b/2-[c'/2-b/2]c'/2z/2 ^dc'/2z/2 ba/2z/2|
+gz B3/2z/2 ez ^dz|e3/2z/2 g2 fz ^dz|eB/2z/2 e/2z/2f/2z/2 ga g/2-[a/2g/2]z|^c=d ^c/2z/2e/2z/2 fg f/2-[g/2f/2]z|
+B=c B/2z/2^d/2z/2 e4-|eg fe/2z/2 e/2[e/2^d/2]^d/2[e/2^d/2-] ^d/2z/2e/2z/2|ez gf e=d ^cB|Az e3/2z/2 ^c/2z3/2 Az|
+z2 fe d^c/2z/2 B/2z/2A|=G2 d2 Bz Gz|z2 ed ^cB ^A^G|F3/2z/2 ^c2 ^A/2z3/2 f2-|
+fe d^c B=A/2z/2 =Gf|ed ^cB/2z/2 ^A^G F/2z/2e/2z/2|z/2d/2-[d/2^c/2-]^c/2 B=A/2z/2 =GF ED-|[D/2^C/2]z/2^A B^c/2z/2 B/2[B/2^A/2]^A/2<B/2 ^AB/2z/2|
+Bz B^c de fe|dz f2 bz ^az|b/2z/2B de fg>fg|fe fb ^a^g fe|
+dz F2 Bz3/2^Az/2|z/2B2d2^c2^A3/2|z/2Bd^cBf3-f/2-|fz/2d^cBe3-e/2-|
+e/2z=AB^c/2 z/2d3-d/2-|d/2zG/2- [G/2F/2-]F/2E ^c4-|^c/2zed^cB/2-[B/2A/2-]A/2 G/2z/2F/2z/2|E2 z2 z/2e3-e/2-|
+ez/2=gfed^c/2- [^c/2B/2-]B/2A|G3/2z3g3-g/2-|g3/2b=a/2-[a/2g/2-]g/2 fe d<^c|B2 z2 z/2b3-b/2-|
+bz/2ef/2-[g/2f/2]za/2-[b/2-a/2]b/2 a/2z/2g/2z/2|f8-|f/2zde/2z/2f/2- [g/2-f/2]g/2f ed|^c4- ^c/2z2^cz/2|
+z/2d^cBAGB/2- [B/2A/2-]A/2=c|BA GF EG FA/2z/2|GB Ac Bd ^c<e|F3-F/2G/2 z/2F/2E/2[F/2E/2-] [F/2E/2-]E/2z/2D/2|
+z/2D3/2 z/2A2d3/2 z/2^cz/2|z/2d^cde-[f/2-e/2]f/2gag/2-|g/2f/2z3/2FGAB=cd/2-|d/2egfgagfe/2-|
+e/2dzGABcdc/2-|c/2Bzd2g3/2 z/2fz/2|z/2g/2z3/2GABcd/2z/2e/2|z/2=fede=fag/2z/2=f/2|
+z/2ede=f/2 z/2gag/2-[a/2-g/2]a/2|gz/2=fg/2-[c'/2-g/2]c'/2 ba g=f|ez3/2G2czBz/2|z/2c2z/2e3/2-[e/2d/2-]d/2zB3/2|
+z/2cdecAcBA/2-|A/2dcBcdABG/2-|G/2cB2<c2edc/2-|c/2B3/2 z/2e^d/2 z/2e3-e/2-|
+e3/2zAz=d3-d/2-|d3-d/2e/2 z/2d/2>^c/2d/2 ^c-[d/2^c/2]z/2|dz3/2DEFGA/2-[B/2A/2]z/2|z/2=c3/2 z/2E3/2 z/2Azcz/2|
+z/2BGEFGABc/2|z/2dcBAGFEd/2|z/2cBAGFED/2z/2c/2-|c/2BAGFED=C3/2-|
+C2 D/2C/2B, C/2<D/2B,/2A,/2- [B,/2A,/2-][B,/2A,/2-]A,|G,/2z/2G,3/2z4z3/2|z3G/2-[A/2-G/2] A/2Bcdc/2-|c/2Bzd2gz^fz/2|
+z/2gdGABcde/2-|e/2dededcde/2-|e/2defgabag/2-|g/2fzA3/2 z/2d3/2 z^c|
+z/2dADEFGAG/2-|G/2Fzd2gz3/2f|zg dG AB =cd/2-[d/2c/2]|zB G/2-[A/2-G/2]A/2Bz/2c3-|
+cz AB/2-[c/2-B/2] c/2dcde/2|z/2fgafdgab/2|z/2cBAB/2 z/2cded/2-|d/2cBAGd3-d/2-|
+dz2G2c/2z3/2B/2z/2|zc2G/2z/2 A/2z/2B cd|cB AB ^c/2z/2d z^c|zd2A B/2z/2=c de|
+dc B/2z/2^c/2z/2 ^d/2z/2e3/2z/2^d|ze fg fe =d^c|BA ^c/2defz/2 ga|gf gf e/2z/2f/2e/2 z/2[f/2e/2]e|
+d/2z/2d4-d BG|E^c4z Ad|fg fe fg ab|ag fe da3-|
+a2 zd2g/2z3/2f/2z/2|zg2d e/2z/2f ga|gf e/2z/2f/2z/2 ^g/2z/2a z^g/2z/2|za2e f/2z/2=g ab|
+ag f/2z/2g ab z3/2a/2-|a2- a/2f/2-[g/2-f/2]g/2 e/2z/2e/2[e/2^d/2] z/2^d3/2|e/2z/2e/2z/2 FG AB =c=d|ef ga fd ga|
+b/2z/2c BA B/2z/2c de|dc BA Gd3-|d2 zG2c zB|zc Bc de =fg|
+=fe3/2z/2g2c'2b|zc' zg z3B|zc2e2d zB|zc- [d/2-c/2]d/2e =f/2z/2g ag|
+a/2z/2g =fg c'z/2bag/2-|g/2^fg6-g/2-|g-
+V:2
+%RH 2
+%%MIDI program 79
+z2 g'/2z/2a'/2z/2 b'c'' d''c''|b'z d''2 g''z f''/2z3/2|g''3/2z/2 b'c''/2z/2 d''e'' d''e''|d''c'' d''g''/2z/2 f''/2-[f''/2e''/2-]e''/2d''c''b'/2-|
+b'/2zd''3/2z g''3/2z/2 f''z|g''3/2z/2 b''2 a''z f''z|g''a'' b''/2z/2g''/2z/2 e''g'' f''/2-[f''/2e''/2]z|a''g'' f''g'' a''e''/2-[f''/2-e''/2] f''/2d''/2z|
+g''f''2<g''2b'' a''g''/2-[g''/2f''/2-]|f''/2e''d''/2 z/2^c''/2z/2b'd''^c''e''/2z|d''8-|d''3/2f''/2- [f''/2e''/2]z/2d''/2>d''/2 ^c''/2d''/2^c''/2[d''/2^c''/2-] ^c''/2d''/2z/2d''/2-|
+d''3/2z6z/2|z2 d'e' f'g' a'/2-[a'/2g'/2-]g'/2z/2|f'/2z3/2 a'2 d''z ^c''z|d''2 f''2 e''z ^c''z|
+d''e'' f''g''/2z/2 a''b'' a''b''|a''g''/2z/2 [b''/2a''/2-][b''/2-a''/2]b''/2^c''b''/2z/2a''/2 z/2g''/2z/2f''/2-|f''z b''/2a''/2z b''4-|b''/2z3/2 e''/2z3/2 a''4-|
+a''3b''/2z/2 a''/2>^g''/2a''/2^g''-[a''/2^g''/2]z/2a''/2-|a''/2e''a'b'^c''d''e''f''=g''/2-|g''z b'z e''z g''z|f''d'' b'^c'' d''e'' f''/2z/2g''/2z/2|
+a''g'' f''e'' d''^c'' b'/2z/2a''/2z/2|g''f'' e''d'' ^c''b' a'/2z/2g''/2z/2|f''e'' d''^c'' b'a' g'f'|e'^c'' d''e'' d''/2>^c''/2d''/2>^c''/2 [d''/2^c''/2-]^c''/2d''/2z/2|
+d''z a'2 d''z ^c''z|d''a' d'e' f'^g' a'b'/2z/2|=c''b' a'b' c''d'' e''d''|c''z e''2 a''z ^d''z|
+e''b' e''f'' g''a'' b''/2z/2a''|g''/2z3/2 b'3/2z/2 e''3/2z/2 ^d''z|e''f'' g''a''/2z/2 b''c''' b''c'''-|[c'''/2b''/2-]b''/2a'' b''/2-[c'''/2-b''/2]c'''/2z/2 ^d''c'''/2z/2 b''a''/2z/2|
+g''z b'3/2z/2 e''z ^d''z|e''3/2z/2 g''2 f''z ^d''z|e''b'/2z/2 e''/2z/2f''/2z/2 g''a'' g''/2-[a''/2g''/2]z|^c''=d'' ^c''/2z/2e''/2z/2 f''g'' f''/2-[g''/2f''/2]z|
+b'=c'' b'/2z/2^d''/2z/2 e''4-|e''g'' f''e''/2z/2 e''/2[e''/2^d''/2]^d''/2[e''/2^d''/2-] ^d''/2z/2e''/2z/2|e''z g''f'' e''=d'' ^c''b'|a'z e''3/2z/2 ^c''/2z3/2 a'z|
+z2 f''e'' d''^c''/2z/2 b'/2z/2a'|=g'2 d''2 b'z g'z|z2 e''d'' ^c''b' ^a'^g'|f'3/2z/2 ^c''2 ^a'/2z3/2 f''2-|
+f''e'' d''^c'' b'=a'/2z/2 =g'f''|e''d'' ^c''b'/2z/2 ^a'^g' f'/2z/2e''/2z/2|z/2d''/2-[d''/2^c''/2-]^c''/2 b'=a'/2z/2 =g'f' e'd'-|[d'/2^c'/2]z/2^a' b'^c''/2z/2 b'/2[b'/2^a'/2]^a'/2<b'/2 ^a'b'/2z/2|
+b'z b'^c'' d''e'' f''e''|d''z f''2 b''z ^a''z|b''/2z/2b' d''e'' f''g''>f''g''|f''e'' f''b'' ^a''^g'' f''e''|
+d''z f'2 b'z3/2^a'z/2|z/2b'2d''2^c''2^a'3/2|z/2b'd''^c''b'f''3-f''/2-|f''z/2d''^c''b'e''3-e''/2-|
+e''/2z=a'b'^c''/2 z/2d''3-d''/2-|d''/2zg'/2- [g'/2f'/2-]f'/2e' ^c''4-|^c''/2ze''d''^c''b'/2-[b'/2a'/2-]a'/2 g'/2z/2f'/2z/2|e'2 z2 z/2e''3-e''/2-|
+e''z/2=g''f''e''d''^c''/2- [^c''/2b'/2-]b'/2a'|g'3/2z3g''3-g''/2-|g''3/2b''=a''/2-[a''/2g''/2-]g''/2 f''e'' d''<^c''|b'2 z2 z/2b''3-b''/2-|
+b''z/2e''f''/2-[g''/2f''/2]za''/2-[b''/2-a''/2]b''/2 a''/2z/2g''/2z/2|f''8-|f''/2zd''e''/2z/2f''/2- [g''/2-f''/2]g''/2f'' e''d''|^c''4- ^c''/2z2^c''z/2|
+z/2d''^c''b'a'g'b'/2- [b'/2a'/2-]a'/2=c''|b'a' g'f' e'g' f'a'/2z/2|g'b' a'c'' b'd'' ^c''<e''|f'3-f'/2g'/2 z/2f'/2e'/2[f'/2e'/2-] [f'/2e'/2-]e'/2z/2d'/2|
+z/2d'3/2 z/2a'2d''3/2 z/2^c''z/2|z/2d''^c''d''e''-[f''/2-e''/2]f''/2g''a''g''/2-|g''/2f''/2z3/2f'g'a'b'=c''d''/2-|d''/2e''g''f''g''a''g''f''e''/2-|
+e''/2d''zg'a'b'c''d''c''/2-|c''/2b'zd''2g''3/2 z/2f''z/2|z/2g''/2z3/2g'a'b'c''d''/2z/2e''/2|z/2=f''e''d''e''=f''a''g''/2z/2=f''/2|
+z/2e''d''e''=f''/2 z/2g''a''g''/2-[a''/2-g''/2]a''/2|g''z/2=f''g''/2-[c'''/2-g''/2]c'''/2 b''a'' g''=f''|e''z3/2g'2c''zb'z/2|z/2c''2z/2e''3/2-[e''/2d''/2-]d''/2zb'3/2|
+z/2c''d''e''c''a'c''b'a'/2-|a'/2d''c''b'c''d''a'b'g'/2-|g'/2c''b'2<c''2e''d''c''/2-|c''/2b'3/2 z/2e''^d''/2 z/2e''3-e''/2-|
+e''3/2za'z=d''3-d''/2-|d''3-d''/2e''/2 z/2d''/2>^c''/2d''/2 ^c''-[d''/2^c''/2]z/2|d''z3/2d'e'f'g'a'/2-[b'/2a'/2]z/2|z/2=c''3/2 z/2e'3/2 z/2a'zc''z/2|
+z/2b'g'e'f'g'a'b'c''/2|z/2d''c''b'a'g'f'e'd''/2|z/2c''b'a'g'f'e'd'/2z/2c''/2-|c''/2b'a'g'f'e'd'=c'3/2-|
+c'2 d'/2c'/2b c'/2<d'/2b/2a/2- [b/2a/2-][b/2a/2-]a|g/2z/2g3/2z4z3/2|z3g'/2-[a'/2-g'/2] a'/2b'c''d''c''/2-|c''/2b'zd''2g''z^f''z/2|
+z/2g''d''g'a'b'c''d''e''/2-|e''/2d''e''d''e''d''c''d''e''/2-|e''/2d''e''f''g''a''b''a''g''/2-|g''/2f''za'3/2 z/2d''3/2 z^c''|
+z/2d''a'd'e'f'g'a'g'/2-|g'/2f'zd''2g''z3/2f''|zg'' d''g' a'b' =c''d''/2-[d''/2c''/2]|zb' g'/2-[a'/2-g'/2]a'/2b'z/2c''3-|
+c''z a'b'/2-[c''/2-b'/2] c''/2d''c''d''e''/2|z/2f''g''a''f''d''g''a''b''/2|z/2c''b'a'b'/2 z/2c''d''e''d''/2-|d''/2c''b'a'g'd''3-d''/2-|
+d''z2g'2c''/2z3/2b'/2z/2|zc''2g'/2z/2 a'/2z/2b' c''d''|c''b' a'b' ^c''/2z/2d'' z^c''|zd''2a' b'/2z/2=c'' d''e''|
+d''c'' b'/2z/2^c''/2z/2 ^d''/2z/2e''3/2z/2^d''|ze'' f''g'' f''e'' =d''^c''|b'a' ^c''/2d''e''f''z/2 g''a''|g''f'' g''f'' e''/2z/2f''/2e''/2 z/2[f''/2e''/2]e''|
+d''/2z/2d''4-d'' b'g'|e'^c''4z a'd''|f''g'' f''e'' f''g'' a''b''|a''g'' f''e'' d''a''3-|
+a''2 zd''2g''/2z3/2f''/2z/2|zg''2d'' e''/2z/2f'' g''a''|g''f'' e''/2z/2f''/2z/2 ^g''/2z/2a'' z^g''/2z/2|za''2e'' f''/2z/2=g'' a''b''|
+a''g'' f''/2z/2g'' a''b'' z3/2a''/2-|a''2- a''/2f''/2-[g''/2-f''/2]g''/2 e''/2z/2e''/2[e''/2^d''/2] z/2^d''3/2|e''/2z/2e''/2z/2 f'g' a'b' =c''=d''|e''f'' g''a'' f''d'' g''a''|
+b''/2z/2c'' b'a' b'/2z/2c'' d''e''|d''c'' b'a' g'd''3-|d''2 zg'2c'' zb'|zc'' b'c'' d''e'' =f''g''|
+=f''e''3/2z/2g''2c'''2b''|zc''' zg'' z3b'|zc''2e''2d'' zb'|zc''- [d''/2-c''/2]d''/2e'' =f''/2z/2g'' a''g''|
+a''/2z/2g'' =f''g'' c'''z/2b''a''g''/2-|g''/2^f''g''6-g''/2-|g''-
+V:3
+%LH 8
+%%MIDI program 73
+z8|z2 GA Bc dc|Bz d2 g3/2z/2 f3/2z/2|g2 b2 a3/2f2g/2-|
+g/2z3/2 Bc de de|dc dg fe d3/2c/2-|[c/2B/2-]B3/2 e/2z/2^d/2z/2 e4-|e/2z3/2 Az =d4-|
+d3e/2z/2 d/2<^c/2[d/2-^c/2][d/2^c/2-] ^cd/2z/2|d8-|d=c- [c/2B/2-]B/2A GB Ac|BA GF EA GA/2z/2|
+Fz DE- [F/2-E/2]F/2G AG|Fz A2 d3/2z/2 ^cz|dz FG AB AB/2z/2|AG A/2-[d/2-A/2]d/2z/2 ^cB AG|
+Fz A3/2z/2 d2 ^cz|d3/2z/2 f2 e3/2z/2 ^c2|de- [f/2-e/2]f/2d Bd ^cB|ed ^cd eB ^cA|
+d^c2<d2f ez/2d/2-|[d/2^c/2-]^cz/2 Ez Az ^c3/2-[^c/2B/2-]|B/2GEFGz/2A B^c|dz Fz Bz dz|
+^c2 Az Fz dz|B2 Gz Ez ^cz|A2- [A/2F/2-]F/2z Dz Bz|A3G z/2Fz/2 ED/2z/2|
+DA, DE FG AG|Fz A3/2z/2 d3/2z/2 ^Gz|A3/2z/2 E3/2z/2 A3/2z/2 ^G2|AE A,-[B,/2-A,/2]B,/2- [^C/2-B,/2]^C/2^D EF|
+=G3/2z/2 B,2 E2 ^D2|EB, EF GA BA|Gz B2 e3/2z/2 ^d3/2z/2|e3/2z/2 g2 f2 ^d2|
+eF/2z/2 GA B=c Bc|BA Be ^d^c BA|Gz Ez B4-|B3/2z/2 AG A4-|
+Az GF GA GB|=cA Bc/2-[c/2F/2-] F/2z/2B/2-[B/2A/2-] A/2B/2z/2G/2-|G/2zE3/2z4z|z2 ^cB AG F/2-[F/2E/2-]E/2z/2|
+=Dz A3/2z/2 Fz Dz|z2 BA GF ED|^C3/2z/2 Gz E3/2z/2 ^Cz|z2 ^A^G FE D^C|
+B,/2z3/2 F2 D3/2z/2 Bz|=G2 Ez ^Cz ^Az|F2 D3/2z/2 B,z G/2z3/2|F2>E2 D2 ^CB,/2z/2|
+B,z F2 Bz ^Az|BB, B^c =de fe|dz F3/2z/2 B3/2z/2 ^Az|B2 d2 ^c2 ^A2|
+BF DE FG FG|FE z/2FB^A^GF/2-[F/2E/2-]E/2|z/2D4zD^C/2-[^C/2B,/2-]B,/2|z/2=G4z/2E D^C|
+F4- F/2z/2B, ^C/2z/2D|E4- E/2z/2^A, ^G,F,|D8-|D/2z/2F ED ^CB, =A,=G,|
+F,2 z2 z/2F3-F/2-|F/2z/2=A GF ED ^CB,|A,2 z2 A4|z=c B/2-[B/2A/2-]A/2z/2 GF ED|
+^C4- ^C/2z3z/2|zA B^c de d^c/2z/2|B8-|B/2z/2E- [F/2-E/2]F/2G AG F/2z/2E|
+D8-|D8-|D8|z/2Bz/2 A/2-[B/2A/2]z D/2^C/2D/2-[D/2^C/2-] ^CD/2z/2|
+D^C D-[E/2-D/2]E/2- [F/2-E/2]F/2G AG|Fz A2 d2 ^c2|d/2z3/2 DE- [F/2-E/2]F/2G AB|=cB AB ce dc|
+Bc BA G2 F2|GF GA/2z/2 Bc dc-|[c/2B/2]z2B,-[=C/2-B,/2] C/2DE=F-[G/2-=F/2]|G/2A/2-[c/2-A/2]c/2 Bc dc BA|
+Gz G2 c2 B3/2z/2|c2 e2 d2 B3/2z/2|cd e=f/2z/2 ga ga|g=f gc' ba g=f/2z/2|
+ez a/2z/2^g/2z/2 a4-|a/2z3/2 dz =g4-|g3a/2z/2 g/2^f/2g/2-g/2 fg/2z/2|ga bg eg fe|
+ag fg ae fd|gf g3b a/2z/2g/2z/2|f2 z6|z2 A,B, CD E^F|
+G3/2z/2 B,2 E2 Gz|Fz dc BA GF|E/2z/2d cB AG FE|Dz B4 AG|
+F2- F/2GA/2 z/2G/2F/2[G/2F/2-] F3/2z/2|G/2z/2G z/2G,A,B,CDC/2-|C/2B,zD2G3/2- [G/2F/2-]F3/2|z/2GFG/2A Bc de/2z/2|
+d3/2z/2 D3/2z/2 G2 F2|G/2z3/2 d2 g3/2z/2 f2|g3/2z/2 d2 ez E2-|EA DE- [F/2-E/2]F/2G A<G|
+Fz A2 dz3/2c3/2-|c/2zD/2- [D/2G,/2-]G,/2A, B,C DC|B,z3/2D3/2- [G/2-D/2]G3/2 F3/2z/2|GE FG AB AG|
+F4 zE FG/2z/2|AB/2z/2 c3z/2B3/2z/2A/2-|Az/2EzA4-A/2|z2 Dz G=F E<D|
+ED CD E=F G=F-|[=F/2E/2-]E/2D E^F Gz Fz|G3/2z/2 DE FG AG|FE F^G Az ^G/2z3/2|
+A2 EF/2z/2 =GA B/2z/2A/2z/2|G8-|G/2z3/2 FG AB ^cB|dA/2z/2 d3-d/2z/2 ^cz|
+dA FD G4-|G/2z/2E ^CA, F4|E3z e4-|e/2z3/2 A3/2z/2 d=c B<A|
+BA G/2z/2A/2z/2 Bc d/2z/2c/2z/2|BA B/2z/2^c dz ^cz|d2 A/2z/2B/2z/2 =cd/2z/2 e/2z/2d/2z/2|cB ^c/2z/2^d ez ^d/2z3/2|
+e2 B/2z/2^c/2z/2 =de f<e|^dz E/2z/2F GA B/2Az/2|G/2z3/2 e3-e/2z/2 =d2-|d2 =c4 B2|
+A2 E2 A4-|A/2z3/2 D2 G=F ED|ED =CD E=F G=F|Ez G2 c2 Bz|
+cB cd e=f g=f|ed e-[=f/2e/2]z/2 ga ga/2z/2|g=f gc' ba g=f|ez c2- c/2z3/2 B2|
+cz [eG-]G z/2d-[d-c][dB]A/2-|[c/2-A/2]c/2[d6-B6-][d-B-]|[d/2B/2]
+V:4
+%LH 4
+%%MIDI program 74
+z8|z2 ga bc' d'c'|bz d'2 g'3/2z/2 f'3/2z/2|g'2 b'2 a'3/2f'2g'/2-|
+g'/2z3/2 bc' d'e' d'e'|d'c' d'g' f'e' d'3/2c'/2-|[c'/2b/2-]b3/2 e'/2z/2^d'/2z/2 e'4-|e'/2z3/2 az =d'4-|
+d'3e'/2z/2 d'/2<^c'/2[d'/2-^c'/2][d'/2^c'/2-] ^c'd'/2z/2|d'8-|d'=c'- [c'/2b/2-]b/2a gb ac'|ba g^f ea ga/2z/2|
+fz de- [f/2-e/2]f/2g ag|fz a2 d'3/2z/2 ^c'z|d'z fg ab ab/2z/2|ag a/2-[d'/2-a/2]d'/2z/2 ^c'b ag|
+fz a3/2z/2 d'2 ^c'z|d'3/2z/2 f'2 e'3/2z/2 ^c'2|d'e'- [f'/2-e'/2]f'/2d' bd' ^c'b|e'd' ^c'd' e'b ^c'a|
+d'^c'2<d'2f' e'z/2d'/2-|[d'/2^c'/2-]^c'z/2 ez az ^c'3/2-[^c'/2b/2-]|b/2gefgz/2a b^c'|d'z fz bz d'z|
+^c'2 az fz d'z|b2 gz ez ^c'z|a2- [a/2f/2-]f/2z dz bz|a3g z/2fz/2 ed/2z/2|
+dA de fg ag|fz a3/2z/2 d'3/2z/2 ^gz|a3/2z/2 e3/2z/2 a3/2z/2 ^g2|ae A-[B/2-A/2]B/2- [^c/2-B/2]^c/2^d ef|
+=g3/2z/2 B2 e2 ^d2|eB ef ga ba|gz b2 e'3/2z/2 ^d'3/2z/2|e'3/2z/2 g'2 f'2 ^d'2|
+e'f/2z/2 ga b=c' bc'|ba be' ^d'^c' ba|gz ez b4-|b3/2z/2 ag a4-|
+az gf ga gb|=c'a bc'/2-[c'/2f/2-] f/2z/2b/2-[b/2a/2-] a/2b/2z/2g/2-|g/2ze3/2z4z|z2 ^c'b ag f/2-[f/2e/2-]e/2z/2|
+=dz a3/2z/2 fz dz|z2 ba gf ed|^c3/2z/2 gz e3/2z/2 ^cz|z2 ^a^g fe d^c|
+B/2z3/2 f2 d3/2z/2 bz|=g2 ez ^cz ^az|f2 d3/2z/2 Bz g/2z3/2|f2>e2 d2 ^cB/2z/2|
+Bz f2 bz ^az|bB b^c' =d'e' f'e'|d'z f3/2z/2 b3/2z/2 ^az|b2 d'2 ^c'2 ^a2|
+bf de fg fg|fe z/2fb^a^gf/2-[f/2e/2-]e/2|z/2d4zd^c/2-[^c/2B/2-]B/2|z/2=g4z/2e d^c|
+f4- f/2z/2B ^c/2z/2d|e4- e/2z/2^A ^G^F|d8-|d/2z/2f ed ^cB =A=G|
+F2 z2 z/2f3-f/2-|f/2z/2=a gf ed ^cB|A2 z2 a4|z=c' b/2-[b/2a/2-]a/2z/2 gf ed|
+^c4- ^c/2z3z/2|za b^c' d'e' d'^c'/2z/2|b8-|b/2z/2e- [f/2-e/2]f/2g ag f/2z/2e|
+d8-|d8-|d8|z/2bz/2 a/2-[b/2a/2]z d/2^c/2d/2-[d/2^c/2-] ^cd/2z/2|
+d^c d-[e/2-d/2]e/2- [f/2-e/2]f/2g ag|fz a2 d'2 ^c'2|d'/2z3/2 de- [f/2-e/2]f/2g ab|=c'b ab c'e' d'c'|
+bc' ba g2 f2|gf ga/2z/2 bc' d'c'-|[c'/2b/2]z2B-[=c/2-B/2] c/2de=f-[g/2-=f/2]|g/2a/2-[c'/2-a/2]c'/2 bc' d'c' ba|
+gz g2 c'2 b3/2z/2|c'2 e'2 d'2 b3/2z/2|c'd' e'=f'/2z/2 g'a' g'a'|g'=f' g'c'' b'a' g'=f'/2z/2|
+e'z a'/2z/2^g'/2z/2 a'4-|a'/2z3/2 d'z =g'4-|g'3a'/2z/2 g'/2^f'/2g'/2-g'/2 f'g'/2z/2|g'a' b'g' e'g' f'e'|
+a'g' f'g' a'e' f'd'|g'f' g'3b' a'/2z/2g'/2z/2|f'2 z6|z2 AB cd e^f|
+g3/2z/2 B2 e2 gz|fz d'c' ba gf|e/2z/2d' c'b ag fe|dz b4 ag|
+f2- f/2ga/2 z/2g/2f/2[g/2f/2-] f3/2z/2|g/2z/2g z/2GABcdc/2-|c/2Bzd2g3/2- [g/2f/2-]f3/2|z/2gfg/2a bc' d'e'/2z/2|
+d'3/2z/2 d3/2z/2 g2 f2|g/2z3/2 d'2 g'3/2z/2 f'2|g'3/2z/2 d'2 e'z e2-|ea de- [f/2-e/2]f/2g a<g|
+fz a2 d'z3/2c'3/2-|c'/2zd/2- [d/2G/2-]G/2A Bc dc|Bz3/2d3/2- [g/2-d/2]g3/2 f3/2z/2|ge fg ab ag|
+f4 ze fg/2z/2|ab/2z/2 c'3z/2b3/2z/2a/2-|az/2eza4-a/2|z2 dz g=f e<d|
+ed cd e=f g=f-|[=f/2e/2-]e/2d e^f gz fz|g3/2z/2 de fg ag|fe f^g az ^g/2z3/2|
+a2 ef/2z/2 =ga b/2z/2a/2z/2|g8-|g/2z3/2 fg ab ^c'b|d'a/2z/2 d'3-d'/2z/2 ^c'z|
+d'a fd g4-|g/2z/2e ^cA f4|e3z e'4-|e'/2z3/2 a3/2z/2 d'=c' b<a|
+ba g/2z/2a/2z/2 bc' d'/2z/2c'/2z/2|ba b/2z/2^c' d'z ^c'z|d'2 a/2z/2b/2z/2 =c'd'/2z/2 e'/2z/2d'/2z/2|c'b ^c'/2z/2^d' e'z ^d'/2z3/2|
+e'2 b/2z/2^c'/2z/2 =d'e' f'<e'|^d'z e/2z/2f ga b/2az/2|g/2z3/2 e'3-e'/2z/2 =d'2-|d'2 =c'4 b2|
+a2 e2 a4-|a/2z3/2 d2 g=f ed|ed =cd e=f g=f|ez g2 c'2 bz|
+c'b c'd' e'=f' g'=f'|e'd' e'-[=f'/2e'/2]z/2 g'a' g'a'/2z/2|g'=f' g'c'' b'a' g'=f'|e'z c'2- c'/2z3/2 b2|
+c'z [e'g-]g z/2d'-[d'-c'][d'b]a/2-|[c'/2-a/2]c'/2[d'6-b6-][d'-b-]|[d'/2b/2]
+V:5
+%Pedal 8
+%%MIDI program 78
+z8|z8|z2 G,,2 B,,z D,z|B,,3/2G,,3/2z/2D,3-D,/2z|
+z2 G,,3/2-[B,,/2-G,,/2] B,,/2zD,zB,,/2-|B,,z G,,z D,3/2-[D,/2D,,/2-] D,,z|G,,4 z2 G,z|F,4- F,/2zB,zE,/2-|
+E,4 z2 A,z|D,3/2F,2G,zA,zB,/2-|B,4 z2 F,z/2G,/2-|G,z/2E,zA,zA,,zD,/2-|
+D,/2zD,,2-D,,/2 z4|z8|z2 D,2 F,z A,z/2F,/2-|F,/2zD,z3/2 A,2 z2|
+z2 D,2 F,z A,z|F,3/2z/2 D,z/2A,zA,,zD,/2-|D,4 z2 D,z|^C,3z3 F,z|
+B,,4 z2 E,/2z3/2|A,,4 z3z/2E,/2-|E,4 z4|B,,4- B,,/2z3z/2|
+F,4 z2 B,,z|E,4- E,/2z3/2 A,,/2zD,/2-|D,3-D,/2z2z/2 G,2-|G,3/2z/2 F,<G, A,3/2z/2 A,,z|
+D,4- D,/2z3z/2|z2 D,2 =C,z B,,z|A,,4- A,,/2z3z/2|z2 A,2 G,z F,z|
+E,4- E,/2z3z/2|z8|z2 E,2 G,z B,z|G,3/2z/2 E,z B,2 z2|
+z2 E,2 G,z B,z|G,z E,z B,3/2z/2 B,,z|E,4 z2 E,z|F,4- F,/2z3/2 F,/2z3/2|
+G,4 z2 Cz|A,3/2z/2 F,z B,3/2z/2 B,,3/2z/2|E,z B,z G,3/2z/2 E,z|^C,z A,,3/2z/2 G,2 z2|
+F,3z F,,4-|F,,2 z2 F,2 z2|E,2- E,/2z3/2 E,,4-|E,,2 z2 E,2- E,/2z3/2|
+D,3z G,3z|^C,3z F,3z|B,,3z E,4-|E,z D,E,/2z/2 F,3/2z/2 F,,z|
+B,,4 z4|z8|z2 B,,2 D,z F,z|D,z B,,3/2z/2 F,3/2z2z/2|
+z2 B,,2 D,z F,z|D,3/2z/2 B,,z F,z F,,z|B,,4 z2 B,,z|E,2 D,2 ^C,3/2z/2 A,,3/2z/2|
+D,2 ^C,3/2zB,,z/2 [C/2B,/2]z3/2|^C2 ^A,z F,z ^A,/2z3/2|B,3/2z/2 F,/2z3/2 D,z B,,z|^C,2 B,,z A,,z ^C,z|
+D,2- [D,/2^C,/2-]^C,/2z B,,z D,z|E,2 D,z ^C,z E,z|F,2 E,z D,3/2z/2 F,z|G,3/2-[G,/2F,/2-] F,z/2E,3/2z G,z|
+=A,2- [A,/2G,/2-]G,/2z F,z E,z|D,2 ^C,z B,,z A,,z|G,,2 F,,z E,,3/2z/2 G,,z|A,,2- [A,,/2G,,/2-]G,,/2z F,,z/2A,,/2 z3/2B,,/2-|
+B,,3/2z/2 D,2 E,3/2z/2 F,z|G,2 F,z G,2 A,3/2z/2|B,2 F,2 G,z A,z/2B,/2-|B,3/2G,zA,2z/2 A,,z|
+D,4- D,/2z3z/2|z8|z2 Dz =C3/2z/2 B,z|A,2 G,2 F,z D,z|
+G,4- G,/2z3z/2|z8|z2 z/2G,2=F,zE,z/2|z/2D,3/2- [D,/2=C,/2-]C,z/2 B,,z G,,z|
+C,z C,2 E,z G,z|E,3/2z/2 C,z G,2 z2|z2 C,2 E,z G,3/2z/2|E,z C,z G,3/2z/2 G,,z|
+C,4 z2 Cz|B,4 z2 E,z|A,4 z2 D,z|G,4 z2 G,z|
+^F,4 z2 B,z|E,4- E,/2z3/2 A,/2z3/2|D,4 z4|A,,4- A,,/2z3z/2|
+E,4- E,/2z3z/2|B,,4 z2 E,z|A,4 z2 D,z|G,2- G,/2z3/2 C,3z|
+D,2 G,,z D,3/2z/2 D,,z|z/2G,,4-G,,/2z3|z8|G,,6- G,,3/2-[B,,/2-G,,/2]|
+B,,3-B,,/2z/2 D,4|B,,6 A,,2|B,,3-B,,/2-[^C,/2-B,,/2] ^C,3-^C,/2-[D,/2-^C,/2]|D,8-|
+D,8|z8|z8|E,8-|
+[E,/2D,/2-]D,3/2 =C,2 B,,-B,,3|A,,3-A,,/2-[A,,/2G,,/2-] G,,4-|G,,4 F,,4-|F,,/2G,,6-G,,3/2-|
+G,,8-|G,,/2z6z3/2|z8|z8|
+z8|z8|z8|A,,6- A,,/2z3/2|
+B,,3z B,,2- B,,/2z3/2|A,,3z D,3-D,/2z/2|D,4 ^C,3-^C,/2D,/2-|D,8-|
+D,8|z8|z8|z8|
+z8|B,,8|=C,4- [C,/2B,,/2-]B,,3-B,,/2|A,,4 G,,4-|
+G,,4- [G,,/2F,,/2-]F,,3z/2|G,,8-|G,,8-|G,,8-|
+G,,z =F,,2 E,,z D,,z|C,,2 C,2 E,z G,z|E,z C,3/2z/2 G,3z|z2 C,3/2z/2 E,z G,z|
+E,z C,z G,3z|zG,,6-G,,-|G,,
+V:6
+%Pedal 16
+%%MIDI program 78
+z8|z8|z2 G,,,2 B,,,z D,,z|B,,,3/2G,,,3/2z/2D,,3-D,,/2z|
+z2 G,,,3/2-[B,,,/2-G,,,/2] B,,,/2zD,,zB,,,/2-|B,,,z G,,,z D,,3/2-[D,,/2D,,,/2-] D,,,z|G,,,4 z2 G,,z|^F,,4- F,,/2zB,,zE,,/2-|
+E,,4 z2 A,,z|D,,3/2F,,2G,,zA,,zB,,/2-|B,,4 z2 F,,z/2G,,/2-|G,,z/2E,,zA,,zA,,,zD,,/2-|
+D,,/2zD,,,2-D,,,/2 z4|z8|z2 D,,2 F,,z A,,z/2F,,/2-|F,,/2zD,,z3/2 A,,2 z2|
+z2 D,,2 F,,z A,,z|F,,3/2z/2 D,,z/2A,,zA,,,zD,,/2-|D,,4 z2 D,,z|^C,,3z3 F,,z|
+B,,,4 z2 E,,/2z3/2|A,,,4 z3z/2E,,/2-|E,,4 z4|B,,,4- B,,,/2z3z/2|
+F,,4 z2 B,,,z|E,,4- E,,/2z3/2 A,,,/2zD,,/2-|D,,3-D,,/2z2z/2 G,,2-|G,,3/2z/2 F,,<G,, A,,3/2z/2 A,,,z|
+D,,4- D,,/2z3z/2|z2 D,,2 =C,,z B,,,z|A,,,4- A,,,/2z3z/2|z2 A,,2 G,,z F,,z|
+E,,4- E,,/2z3z/2|z8|z2 E,,2 G,,z B,,z|G,,3/2z/2 E,,z B,,2 z2|
+z2 E,,2 G,,z B,,z|G,,z E,,z B,,3/2z/2 B,,,z|E,,4 z2 E,,z|F,,4- F,,/2z3/2 F,,/2z3/2|
+G,,4 z2 C,z|A,,3/2z/2 F,,z B,,3/2z/2 B,,,3/2z/2|E,,z B,,z G,,3/2z/2 E,,z|^C,,z A,,,3/2z/2 G,,2 z2|
+F,,3z F,,,4-|F,,,2 z2 F,,2 z2|E,,2- E,,/2z3/2 E,,,4-|E,,,2 z2 E,,2- E,,/2z3/2|
+D,,3z G,,3z|^C,,3z F,,3z|B,,,3z E,,4-|E,,z D,,E,,/2z/2 F,,3/2z/2 F,,,z|
+B,,,4 z4|z8|z2 B,,,2 D,,z F,,z|D,,z B,,,3/2z/2 F,,3/2z2z/2|
+z2 B,,,2 D,,z F,,z|D,,3/2z/2 B,,,z F,,z F,,,z|B,,,4 z2 B,,,z|E,,2 D,,2 ^C,,3/2z/2 A,,,3/2z/2|
+D,,2 ^C,,3/2zB,,,z/2 [C,/2B,,/2]z3/2|^C,2 ^A,,z F,,z ^A,,/2z3/2|B,,3/2z/2 F,,/2z3/2 D,,z B,,,z|^C,,2 B,,,z A,,,z ^C,,z|
+D,,2- [D,,/2^C,,/2-]^C,,/2z B,,,z D,,z|E,,2 D,,z ^C,,z E,,z|F,,2 E,,z D,,3/2z/2 F,,z|G,,3/2-[G,,/2F,,/2-] F,,z/2E,,3/2z G,,z|
+=A,,2- [A,,/2G,,/2-]G,,/2z F,,z E,,z|D,,2 ^C,,z B,,,z A,,,z|G,,,2 F,,,z E,,,3/2z/2 G,,,z|A,,,2- [A,,,/2G,,,/2-]G,,,/2z F,,,z/2A,,,/2 z3/2B,,,/2-|
+B,,,3/2z/2 D,,2 E,,3/2z/2 F,,z|G,,2 F,,z G,,2 A,,3/2z/2|B,,2 F,,2 G,,z A,,z/2B,,/2-|B,,3/2G,,zA,,2z/2 A,,,z|
+D,,4- D,,/2z3z/2|z8|z2 D,z =C,3/2z/2 B,,z|A,,2 G,,2 F,,z D,,z|
+G,,4- G,,/2z3z/2|z8|z2 z/2G,,2=F,,zE,,z/2|z/2D,,3/2- [D,,/2=C,,/2-]C,,z/2 B,,,z G,,,z|
+C,,z C,,2 E,,z G,,z|E,,3/2z/2 C,,z G,,2 z2|z2 C,,2 E,,z G,,3/2z/2|E,,z C,,z G,,3/2z/2 G,,,z|
+C,,4 z2 C,z|B,,4 z2 E,,z|A,,4 z2 D,,z|G,,4 z2 G,,z|
+^F,,4 z2 B,,z|E,,4- E,,/2z3/2 A,,/2z3/2|D,,4 z4|A,,,4- A,,,/2z3z/2|
+E,,4- E,,/2z3z/2|B,,,4 z2 E,,z|A,,4 z2 D,,z|G,,2- G,,/2z3/2 C,,3z|
+D,,2 G,,,z D,,3/2z/2 D,,,z|z/2G,,,4-G,,,/2z3|z8|G,,,6- G,,,3/2-[B,,,/2-G,,,/2]|
+B,,,3-B,,,/2z/2 D,,4|B,,,6 A,,,2|B,,,3-B,,,/2-[^C,,/2-B,,,/2] ^C,,3-^C,,/2-[D,,/2-^C,,/2]|D,,8-|
+D,,8|z8|z8|E,,8-|
+[E,,/2D,,/2-]D,,3/2 =C,,2 B,,,-B,,,3|A,,,3-A,,,/2-[A,,,/2G,,,/2-] G,,,4-|G,,,4 F,,,4-|F,,,/2G,,,6-G,,,3/2-|
+G,,,8-|G,,,/2z6z3/2|z8|z8|
+z8|z8|z8|A,,,6- A,,,/2z3/2|
+B,,,3z B,,,2- B,,,/2z3/2|A,,,3z D,,3-D,,/2z/2|D,,4 ^C,,3-^C,,/2D,,/2-|D,,8-|
+D,,8|z8|z8|z8|
+z8|B,,,8|=C,,4- [C,,/2B,,,/2-]B,,,3-B,,,/2|A,,,4 G,,,4-|
+G,,,4- [G,,,/2F,,,/2-]F,,,3z/2|G,,,8-|G,,,8-|G,,,8-|
+G,,,z =F,,,2 E,,,z D,,,z|C,,,2- [C,,/2-C,,,/2]C,,3/2 E,,z G,,z|E,,z C,,3/2z/2 G,,3z|z2 C,,3/2z/2 E,,z G,,z|
+E,,z C,,z G,,3z|zG,,,6-G,,,-|G,,,
+%Herr Jesu Christ, dich zu uns wend
+%By J S Bach (BWV 656)
+%Sequenced using WinJammer Professional
+%on Windows NT by Martin Robinson.
+%(c) Martin Robinson 1997

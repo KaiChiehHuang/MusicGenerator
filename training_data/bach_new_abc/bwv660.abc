@@ -1,0 +1,62 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/bwv660.mid
+% format 1 file 13 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=62
+% Last note suggests minor mode tune
+K:Bb % 2 flats
+%Conductor Track
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+V:1
+%RH
+%%MIDI program 68
+z8|z8|z8|z8|
+z8|z8|z8|z4 z/2G3-G/2|
+z/2G2-G/2z/2B/2 [B/2A/2]G/2_G3-|_G/2=G/2[_G/2=E/2][B/2-D/2] B2- B/2A/2B/2(3cAcB/2|(3A=G_G =G/2z/2B/2A/2 A/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2z/2B/2<A/2 [A/2G/2]G2-G/2z|
+z8|z8|z8|z8|
+z8|z8|z3z/2z/2 [G/2-F/2]GA/2 [B/2A/2]z/2z/2[A/2G/2]|B3z/2A/2 B/2c/2>d/2c/2 z/2d/2d/2d/2|
+c/2B/2c/2B4z/2 z/2c3/2-|c3/2e/2 d/2z/2d3 z/2c/2z/2B/2-|Bz6z|z8|
+z8|z8|z4 z/2B2-B/2c/2z/2|B/2c/2>d/2c/2 c/2z/2z/2d/2 cc/2d2-d/2-|
+d/2e/2d/2c/2 B/2A/2B2A/2(3BGc[e/2d/2]|d/2c/2B/2(3_g=gcB/2 A/2z/2z/2z/2 z/2B/2<A/2[A/2G/2]|G2- G/2z4z3/2|z8|
+z8|z8|z8|z8|
+z8|z4 z/2G3-G/2|zG2-G/2-[A/2G/2] [G/2_G/2]=G/2>A/2_G/2 z/2z/2z/2z/2|z/2_G2<B2(3ABcA/2c/2B/2|
+(3A=G_G =G/2A/2>B/2A/2 z/2z/2z/2z/2 z/2z/2z/2z/2|z/2z/2z/2z/2 z/2A/2[B/2A/2]G/2 A/2G3-G/2-|G8|
+V:2
+%LH
+%%MIDI program 70
+zG,/2z/2 G,z/2_G,B,2A,3/2-|A,2 =G,2 z/2_G,/2A,/2B,,/2 (3E,D,E,|A,,/2D,/2C,/2D,/2 G,,/2C,/2B,,/2C,/2 _G,,/2zA,/2 z/2B,/2_E/2D/2|z/2E/2A,/2-[D/2A,/2] (3CDB, D/2(3=G,B,E,C/2B,/2C/2|
+A,/2C/2(3F,A,D,B,/2A,/2 B,/2(3G,B,E,G,/2C,/2A,/2|(3G,A,_G, A,/2D,/2_G,/2B,,/2 =G,/2(3F,G,E,G,/2C,/2E,/2|A,,/2C,/2_G,,/2A,,/2 (3D,,D,=E, _G,/2-[=G,/2_G,/2](3_G,=G,A,B,/2A,/2|G,/2A,<D,[G,/2_G,/2][_G,/2=E,/2]=G,3/2z3|
+zG,/2F,/2 G,/2_E,/2G,/2C,/2 E,/2A,,/2z _G,,/2z/2D,/2z/2|D,,>=G,, G,/2F,/2G,/2E,/2 (3F,D,E, C,/2z/2A,/2z/2|z/2DD/2 z/2Dz/2 _DF3/2z/2z/2z/2|=E3/2z/2 (3=E=DF B,G,/2z/2 A,/2z_D,/2|
+z/2=D,F,/2 z/2G,B,,/2 zC, =E,/2z/2F,|z/2A,,/2z/2B,,D,/2z =E,G,, A,,z/2_D,/2-|_D,/2=D,F,,/2 zG,,4-G,,/2z/2|B,/2(3A,G,F,=E,/2D,/2_D,/2 (3=D,DB, G,/2F,/2D/2=E,/2|
+z/2[A,/2-_G,/2-D,/2-][D/2-A,/2_G,/2-D,/2-][D/2_G,/2D,/2] z4 z/2=G,/2z/2G,/2-|G,/2_G,2<B,2A,3-[A,/2=G,/2-]|G,z _G,/2A,/2B,,/2(3_E,D,E,A,,/2 D,/2C,/2D,/2G,,/2-|G,,2 z3A,/2=G,/2 A,/2F,/2G,/2E,/2|
+F,<D, D/2z/2D B,z _E/2D/2E/2C/2|(3EA,C _G,/2z/2A, z/2B,/2z/2D,zE,/2|C,/2D,/2(3B,,C,A,,B,,/2G,,/2 z/2=G,/2z G,_G,|(3B,4A,4=G,4|
+_G,/2A,<B,,B,/2z/2B,A,z/2 D2-|[D/2C/2-]C3B,3/2z A,/2C/2D,/2=G,/2|(3F,G,C, F,/2E,/2F,/2z/2 (3DCD B,/2D/2G,/2B,/2|(3E,CB, C/2A,/2C/2F,/2 A,/2D,/2z B,,/2z/2D,|
+_G,/2z=G,>_G,=G,3A,/2_G,/2A,/2|=G,3z/2G,/2 z/2G,z/2 _G,B,-|B,3/2A,3-A,/2=G,2z/2F,/2|_A,/2=B,,/2E,/2D,/2 (3E,A,,D, C,/2D,/2G,,/2C,/2 =B,,/2C,/2F,,/2z/2|
+z/2F,2-[F,/2E,/2-]E,3/2D,/2E,/2C,<=B,,G,,/2-|G,,/2z/2G/2(3FGEG/2 C/2E/2_A,/2(3FEFD/2|F/2B,/2D/2(3G,EDE/2 C/2E/2(3_A,CF,D/2C/2|D/2=B,/2D/2(3G,=B,E,C/2 _B,/2(3C_A,CF,/2_A,/2D,/2|
+F,/2=B,,/2(3D,G,,G,=A,/2=B,/2 C/2(3=B,CDE/2D/2C/2|D/2G,/2z =B,/2z/2(3CEDE/2F,/2 D/2C/2D|z/2G,/2C/2z/2 Cz/2=B,E2D3/2-|D/2zG,/2 F,/2G,/2(3E,F,D,E,/2C,/2 z/2A,/2z|
+DD/2z/2 Dz/2_D/2 z/2F2-F/2=E-|=E3/2-[=E/2_E/2] =D/2z/2F/2=B,=B,/2<C/2D/2 (3G,=E,F,|_E,=B,,/2zC,/2E,/2D,/2 F,/2E,/2C/2=B,/2 zC/2_B,/2|A,/2G,/2_G,/2(3=G,_G,=E,D,/2 z/2_G,/2z/2=G,z/2B,/2z/2|
+C/2z/2_E,/2zF,A,/2 z/2B,D,/2 zE,|G,/2z/2A, z/2C,/2z/2D,_G,/2z/2=G,/2 z_B,,/2z/2|C,4- C,/2z/2(3E,D,C,B,,/2A,,/2|(3G,,_G,,=G,, (3G,E,C, B,,/2G,/2A,,/2_G,/2 [=G,3/2D,3/2B,,3/2-G,,3/2-][B,,/2G,,/2]|
+V:3
+%Ped
+%%MIDI program 42
+z4 z3/2G,/2 z/2G,z/2|_G,B,2-B,/2A,3-A,/2=G,-|G,/2z/2_G,/2A,/2 (3B,,E,D, E,/2A,,/2D,/2(3C,D,G,,C,/2|B,,/2C,/2_G,,/2z_G,/2z/2=G,B,/2z CE,/2z/2|
+F,A,/2zB,D,/2 zE, G,A,|z/2C,/2z/2D,_G,/2z/2=G,z/2B,,/2z/2 C,2-|C,3z/2C,z/2B,,/2z/2 A,,/2z/2=G,,|z/2C,/2z/2D,D,,/2z G,,/2G,/2(3F,G,E,G,/2C,/2|
+E,/2=B,,G,,C,C,,/2 zD,,/2D,/2 C,/2D,/2_B,,/2C,/2|A,,/2z/2B,,/2G,,/2 z/2D,/2z/2G,/2 zG,/2z/2 G,_G,/2z/2|z/2B,2-B,/2A, A,,D,/2z/2 D,/2zD,/2-|D,/2_D,2<F,2F,/2=E,/2=G,/2 _D,/2A,/2G,/2A,/2|
+z/2F,/2A,/2=D,/2 F,/2B,,/2(3G,F,G,=E,/2-[G,/2=E,/2] (3C,=E,A,,|F,/2=E,/2F,/2D,/2 F,/2(3B,,D,G,,=E,/2D,/2(3=E,_D,=E,A,,/2|z/2F,,/2D/2(3CDB,D/2 G,/2B,/2_E,/2(3G,C,E,A,,/2-|A,,/2_D,=D,z/2=E, F,G, z/2A,A,,/2|
+z/2D,,/2z G,/2z/2G, _G,z/2B,2A,/2-|A,3=G,2(3_G,A,B,,_E,/2D,/2|(3E,A,,D, C,/2D,/2G,,/2z4z/2|z/2=G,/2F,/2G,/2 E,/2(3F,D,E,C,/2z/2B,/2 z/2B,A,/2-|
+A,/2zD/2 C/2D/2B,/2(3DG,B,E,G,/2z/2A,/2|zC,3/2D,/2(3C,D,B,,C,/2A,,/2 B,,/2G,,/2z/2G,/2|zG, _G,z/2B,2-[B,/2A,/2-] A,2-|A,=G,2_G,/2A,<B,,B,/2 zB,|
+A,D2z/2C3-C/2B,-|B,(3A,CD,=G,/2F,/2 G,/2(3C,F,E,F,/2B,,/2E,/2|D,/2E,/2A,,/2zA,B,-[B,/2A,/2-]A, G,-[G,/2E,/2-]E,/2|zC,/2zF,F,,>B,,F,/2 E,/2F,/2D,/2F,/2|
+(3B,,D,G,, D,/2C,/2D,/2B,,/2 (3D,G,,B,, E,,2-|E,,/2z/2E,/2D,/2 E,/2C,/2(3D,B,,C,A,,/2D,/2 C,/2D,/2G,,/2z/2|z/2G,/2z/2G,_G,z/2 B,2- [B,/2_A,/2-]_A,3/2-|_A,3/2=G,3/2z F,/2_A,/2=B,,/2(3E,D,E,A,,/2|
+D,/2C,/2(3D,G,,C,=B,,/2C,/2 F,,/2z/2_A,2G,/2_A,/2|F,/2G,/2z/2=B,,/2 zC, E,/2z/2F, z/2_A,,/2z/2_B,,/2-|B,,/2D,/2z/2(3E,2G,,2_A,,2C,/2 z/2D,F,,/2|z/2G,,z/2 =B,,/2z/2C, E,,/2zF,,2-F,,/2-|
+F,,2- F,,/2z/2F, E,/2zD,/2 z/2C,F,/2|zG,/2z/2 G,,/2z/2(3C,,2C,2C,2=B,,/2z/2|E,2- [E,/2D,/2-]D,2z/2D,/2C,/2 (3D,_B,,C,|=A,,/2B,,/2G,,/2z/2 D,/2zG,/2 z/2G,/2z/2G,z/2_G,/2z/2|
+B,2- B,/2=A,/2z/2A,,D,/2z D,/2z/2D,|_D,2<F,2 (3F,E,=G, =B,,G,,/2z/2|(3C,G,=D, F,/2E,=B,,/2 zC,/2E,/2 D,/2F,/2E,|C,z/2D,D,,zD/2C/2D/2 B,/2D/2G,/2B,/2|
+z/2E,/2C/2B,/2 C/2A,/2C/2(3F,A,D,B,/2 A,/2B,/2G,/2B,/2|(3E,G,C, A,/2G,/2A,/2_G,/2 A,/2-[A,/2D,/2](3_G,_B,,=G,F,/2G,/2|(3E,G,C, E,/2A,,/2C,/2_G,,/2 A,,<D,, _G,,=G,,|A,,z/2B,,C,D,/2 zD,,/2z/2 G,,2-|
+G,,2- G,,/2
+%Nun komm' der Heiden Heiland
+%(Trio)
+%by J S Bach (BWV 660)
+%Sequenced using WinJammer Professional
+%on Windows NT by Martin Robinson.
+%(c) Martin Robinson 1997

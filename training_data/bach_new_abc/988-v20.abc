@@ -1,0 +1,71 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v20.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=150
+K:G % 1 sharps
+%untitled
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%A
+%A'
+%B
+%B'
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+zB z/2Gz/2 Dz/2B,z/2G,|F,/2-[F,/2E,/2-]E,/2F,3/2A,3/2D3/2 F3/2A/2-|Ad3/2z/2G z/2Ez/2 ^Cz/2A,/2-|A,/2z/2G, F,/2-[F,/2E,/2-]E,/2D,3/2F,3/2A,3/2|
+D3/2F3/2A3/2z/2G z/2Dz/2|B,z/2G,z/2=F, E,/2-[E,/2D,/2-]D,/2C,3/2E,-|E,/2G,3/2 =C3/2E3/2G3/2z/2F|z/2Dz/2 A,z/2^F,z/2D, C,/2-[D,/2-C,/2]D,/2G,,/2-|
+G,,B,,3/2D,3/2 G,3/2F,3/2C-|C/2B,/2A,/2B,/2 C/2B,/2C/2D/2 C/2D/2E/2D/2 E/2F/2E/2F/2|G/2F/2G/2A/2 G/2A/2B/2A/2 B/2^c/2B/2^c/2 d/2^c/2d/2e/2|d/2e/2f/2e/2 f/2g3/2 z3/2E,/2 [E,/2-D,/2]E,3/2-|
+E,/2z3/2 B3/2g3/2z3/2^C,/2[^C,/2-B,,/2]^C,/2-|^C,3/2z3/2g3/2f/2a/2d/2 e/2g/2^c/2d/2|f/2B/2=c/2e/2 A/2B/2d/2G/2 A/2c/2F<GG,-|G,/2F,3/2 A,3/2D,3/2D3/2^C/2A,/2B,/2|
+^C/2D/2E/2F2E/2 D<B d/2^c/2[^c/2B/2]d/2|A/2F/2D/2A,/2 F,/2D,3/2 z4|z3/2Bz/2G z/2Dz/2 B,z/2G,/2-|[G,/2F,/2-]F,/2E,/2-[F,/2-E,/2] F,A,3/2D3/2 F3/2A/2-|
+Ad3/2zGz/2E z/2^Cz/2|A,z/2G,/2- [G,/2F,/2-]F,/2E,/2-[E,/2D,/2-] D,F,3/2A,3/2|D3/2F3/2A3/2zGz/2D|z/2B,z/2 G,z/2=F,/2- [=F,/2E,/2-]E,/2D,/2-[D,/2=C,/2-] C,E,-|
+E,/2G,3/2 =C3/2E3/2G3/2zF/2-|F/2z/2D z/2A,z/2 ^F,z/2D,/2- [D,/2C,/2-]C,/2D,/2-[D,/2G,,/2-]|G,,B,,3/2D,3/2 G,3/2F,3/2C-|C/2B,/2A,/2B,/2 C/2B,/2C/2D/2 C/2D/2E/2D/2 E/2F/2E/2F/2|
+G/2F/2G/2A/2 G/2A/2B/2A/2 B/2^c/2B/2^c/2 d/2^c/2d/2e/2|d/2e/2f/2e/2 f/2g3/2 z3/2E,/2 [E,/2-D,/2]E,3/2-|E,/2z3/2 B3/2g3/2z3/2^C,/2[^C,/2-B,,/2]^C,/2-|^C,3/2z3/2g3/2f/2a/2d/2 e/2g/2^c/2d/2|
+f/2B/2=c/2e/2 A/2B/2d/2G/2 A/2c/2F<GG,-|G,/2F,3/2 A,3/2D,3/2D3/2^C/2A,/2B,/2|^C/2D/2E/2F2E/2 D<B d/2^c/2[^c/2B/2]d/2|A/2F/2D/2A,/2 F,/2D,3/2 z4|
+z3/2az/2f z/2dz/2 Az/2F/2-|F/2z/2D z/2B,z/2 G,z/2D,z/2B,,|z/2G,,/2-[A,,/2-G,,/2]A,,/2 B,,/2-[=C,/2-B,,/2]C, G,3/2=C3/2E-|E/2A,3/2 =c2 B/2^A/2B/2^c/2 ^d/2e/2^d/2^c/2|
+^d/2e/2f/2g/2 f/2e/2f/2g/2 a/2b/2a/2g/2 a/2b/2c'/2^d/2-|^dc'3/2b3/2 =d2 ^c/2^d/2e/2f/2|g<^A g3/2f3/2=A3/2G3/2|^D3/2E3/2C3/2^D,3/2 ^d3/2e/2-|
+eE3/2z/2G/2B/2 e/2g/2^d/2e/2 B/2G/2z/2^G/2|=f/2e/2=c/2A/2 z/2=D/2B/2z/2 C/2A/2z/2B,/2 =G/2z/2C/2A/2|z/2F/2^d/2=d/2 B/2G/2z/2C/2 A/2z/2B,/2G/2 z/2A,/2F/2z/2|B,/2G/2z/2E/2 d/2c/2A/2E<CCz/2C|
+z/2Cz/2 c3/2c/2 A/2F<DDz/2|Dz/2Dz/2c3/2B/2G/2d/2 c/2A/2e/2d/2-|dB,3/2G,3/2 =f3/2e/2 g/2c/2d/2=f/2|B/2c/2e/2A/2 B/2d/2G/2A/2 c/2F/2G/2B/2 E/2F/2D/2E/2|
+F/2G/2A/2B,2A,/2 G,<E G/2F/2[F/2E/2]G/2|D/2B,/2G,/2=D,/2 B,,/2G,,3/2 z4|z3/2az/2^f z/2dz/2 Az/2F/2-|F/2z/2D z/2B,z/2 G,z/2D,z/2B,,|
+z/2G,,/2-[A,,/2-G,,/2]A,,/2 B,,/2-[C,/2-B,,/2]C, G,3/2C3/2E-|E/2A,3/2 c2 B/2^A/2B/2^c/2 ^d/2e/2^d/2^c/2|^d/2e/2f/2g/2 f/2e/2f/2g/2 a/2b/2a/2g/2 a/2b/2c'/2^d/2-|^dc'3/2b3/2 =d2 ^c/2^d/2e/2f/2|
+g<^A g3/2f3/2=A3/2G3/2|^D3/2E3/2C3/2^D,3/2 ^d3/2e/2-|eE3/2z/2G/2B/2 e/2g/2^d/2e/2 B/2G/2z/2^G/2|=f/2e/2=c/2A/2 z/2=D/2B/2z/2 C/2A/2z/2B,/2 =G/2z/2C/2A/2|
+z/2F/2^d/2=d/2 B/2G/2z/2C/2 A/2z/2B,/2G/2 z/2A,/2F/2z/2|B,/2G/2z/2E/2 d/2c/2A/2E<CCz/2C|z/2Cz/2 c3/2c/2 A/2F<DDz/2|Dz/2Dz/2c3/2B/2G/2d/2 c/2A/2e/2d/2-|
+dB,3/2G,3/2 =f3/2e/2 g/2c/2d/2=f/2|B/2c/2e/2A/2 B/2d/2G/2A/2 c/2F/2G/2B/2 E/2F/2D/2E/2|F/2G/2A/2B,2A,/2 G,<E G/2F/2[F/2E/2]G/2|D/2B,/2G,/2=D,/2 B,,<G,, 
+V:2
+%--------------------------------------
+%%MIDI program 6
+G,3/2B,3/2D3/2G3/2 B3/2^c/2-|^cz dz/2Az/2F z/2Dz/2|A,/2-[A,/2G,/2-]G,/2F,/2- [F,/2E,/2-]E,G,3/2A,3/2^C3/2|E3/2G3/2z Fz/2Dz/2A,|
+z/2F,z/2 E,/2-[E,/2D,/2-]D,/2C,/2- [C,/2B,,/2-]B,,D,3/2G,-|G,/2B,3/2 D3/2=F3/2z Ez/2=C/2-|C/2z/2G, z/2E,z/2 C,/2-[C,/2B,,/2-]B,,/2A,,/2- [D,/2-A,,/2]D,F,/2-|F,A,3/2D3/2 ^F3/2A3/2z|
+Bz/2Gz/2D z/2B,z/2 A,/2-[A,/2G,/2-]G,/2F,/2-|[G,/2-F,/2]G,z3/2b/2[b/2-a/2] b2 z3/2E/2-|EF,3/2z3/2 a/2[a/2-g/2]a2z|z/2D3/2 B/2=c/2B/2A/2 B/2A/2G/2A/2 G/2F/2G/2F/2|
+E/2F/2E/2D/2 E/2D/2^C/2D/2 ^C/2B,/2^C/2B,/2 A,/2B,/2A,/2G,/2|A,/2G,/2F,/2G,/2 F,/2E,/2F,/2E,<D,A,3/2F-|F/2A,3/2 D,3/2=C3/2B,/2G,/2 D/2^C/2A,/2E/2|D/2B,/2F/2E/2 ^C/2G/2F/2D/2 A/2G/2E/2B/2 A2|
+B/2^c/2d/2^c/2 B/2A2G/2F/2E/2 F/2G/2F-|F/2z2F/2A/2d/2 ^f/2a/2d'3/2z3/2|G,3/2B,3/2D3/2G3/2 B3/2^c/2-|^cz dz/2Az/2F z/2Dz/2|
+A,/2-[A,/2G,/2-]G,/2F,/2- [F,/2E,/2-]E,G,3/2A,3/2^C3/2|E3/2G3/2z Fz/2Dz/2A,|z/2F,z/2 E,/2-[E,/2D,/2-]D,/2C,/2- [C,/2B,,/2-]B,,D,3/2G,-|G,/2B,3/2 D3/2=F3/2z Ez/2=C/2-|
+C/2z/2G, z/2E,z/2 C,/2-[C,/2B,,/2-]B,,/2A,,/2- [D,/2-A,,/2]D,F,/2-|F,A,3/2D3/2 ^F3/2A3/2z|Bz/2Gz/2D z/2B,z/2 A,/2-[A,/2G,/2-]G,/2F,/2-|[G,/2-F,/2]G,z3/2b/2[b/2-a/2] b2 z3/2E/2-|
+EF,3/2z3/2 a/2[a/2-g/2]a2z|z/2D3/2 B/2=c/2B/2A/2 B/2A/2G/2A/2 G/2F/2G/2F/2|E/2F/2E/2D/2 E/2D/2^C/2D/2 ^C/2B,/2^C/2B,/2 A,/2B,/2A,/2G,/2|A,/2G,/2F,/2G,/2 F,/2E,/2F,/2E,<D,A,3/2F-|
+F/2A,3/2 D,3/2=C3/2B,/2G,/2 D/2^C/2A,/2E/2|D/2B,/2F/2E/2 ^C/2G/2F/2D/2 A/2G/2E/2B/2 A2|B/2^c/2d/2^c/2 B/2A2G/2F/2E/2 F/2G/2F-|F/2z2F/2A/2d/2 f/2a/2d'3/2z3/2|
+D,3/2D,,3/2F,,3/2A,,3/2 D,3/2F,/2-|F,G,3/2B,3/2 D3/2G3/2B/2A/2|B2- B/2E/2^D/2E/2 F/2G/2A/2G/2 F/2G/2A/2B/2|=c/2B/2A/2G/2 F/2E/2^D2E/2F/2 G/2F/2E/2F/2|
+G/2A<B,A,3/2 G,/2F,/2E, ^D,/2E,/2=F,/2E,/2|=F,/2^F,/2E,/2F,/2 G,/2F,/2G,/2^G,/2 F,/2^G,/2A,2^A,/2B,/2|=C/2B,/2C/2^C/2 B,/2^C/2=D/2^C/2 D/2^D/2^C/2^D/2 E/2^D/2E/2F/2|E/2F/2G/2F/2 G/2A/2G/2A/2 B/2A/2B/2c/2 B/2A/2G/2F/2|
+G/2A/2G/2F/2 E4- E/2=D,3/2|C,3/2Ez/2E z/2Ez/2 Ez/2C,/2-|C,B,,3/2=Dz/2 Dz/2Dz/2D|z/2B,,3/2 A,,3/2z/2 B,/2G/2z/2=A,/2 F/2z/2=G,/2E/2|
+z/2F,/2D/2z/2 G,/2E/2D,3/2z/2A,/2F/2 z/2B,/2G/2z/2|=C/2A/2z/2B,/2 G/2z/2A,/2F<G,G2B/2|E/2=F/2A/2D/2 E/2G/2C/2D/2 =F/2B,/2C/2G,/2 E/2D/2B,/2=F/2|E3/2g3/2c'3/2e3/2 d2|
+e/2f/2g/2f/2 e/2d2c/2B/2A/2 B/2c/2B-|B/2z2B,/2D/2G/2 B/2d/2g3/2z3/2|D,3/2D,,3/2F,,3/2A,,3/2 D,3/2F,/2-|F,G,3/2B,3/2 D3/2G3/2B/2A/2|
+B2- B/2E/2^D/2E/2 ^F/2G/2A/2G/2 F/2G/2A/2B/2|c/2B/2A/2G/2 F/2E/2^D2E/2F/2 G/2F/2E/2F/2|G/2A<B,A,3/2 G,/2F,/2E, ^D,/2E,/2=F,/2E,/2|=F,/2^F,/2E,/2F,/2 G,/2F,/2G,/2^G,/2 F,/2^G,/2A,2^A,/2B,/2|
+C/2B,/2C/2^C/2 B,/2^C/2=D/2^C/2 D/2^D/2^C/2^D/2 E/2^D/2E/2F/2|E/2F/2G/2F/2 G/2A/2G/2A/2 B/2A/2B/2c/2 B/2A/2G/2F/2|G/2A/2G/2F/2 E4- E/2=D,3/2|C,3/2Ez/2E z/2Ez/2 Ez/2C,/2-|
+C,B,,3/2=Dz/2 Dz/2Dz/2D|z/2B,,3/2 A,,3/2z/2 B,/2G/2z/2=A,/2 F/2z/2=G,/2E/2|z/2F,/2D/2z/2 G,/2E/2D,3/2z/2A,/2F/2 z/2B,/2G/2z/2|=C/2A/2z/2B,/2 G/2z/2A,/2F<G,G2B/2|
+E/2=F/2A/2D/2 E/2G/2C/2D/2 =F/2B,/2C/2G,/2 E/2D/2B,/2=F/2|E3/2g3/2c'3/2e3/2 d2|e/2f/2g/2f/2 e/2d2c/2B/2A/2 B/2c/2B-|B/2z2B,/2D/2G/2 B/2d<g
+%Johann Sebastian Bach  (1685-1750)
+%The Goldberg Variations - BWV 988
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 20 a 2 Clav.
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v20.mid
+%Last Modified: March 14, 1997

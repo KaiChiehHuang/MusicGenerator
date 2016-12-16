@@ -1,0 +1,80 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/bjs1031a.mid
+% format 1 file 10 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=50
+K:Eb % 3 flats
+%untitled
+% Time signature=4/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=0  minor=0
+V:1
+%Flute Sonata in E Flat, BWV 1031
+%%MIDI program 73
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+Bg/2z/2 f/2z/2e/2z/2 z/2f/2e3/2z/2d|c/2B/2A/2G/2 B/2z/2z/2z/2 G/2e/2d/2f/2 ec|c/2B/2A/2G/2 B/2z/2z/2z/2 G/2F/2E z2|z4 Bb ge|
+f=A Bd e4|d3/2z6z/2|zD/2z/2 F/2z/2B2e/2f/2 ge|c=A F=A2d/2e/2 fd|
+BG EG2c/2d/2 ec|=A/2c/2f/2c/2 =A/2F/2c/2=A/2 B/2d/2f/2d/2 B/2F/2d/2B/2|c/2=e/2f/2c/2 =A/2F/2_e/2c/2 d/2z/2f/2z/2 b3/2z/2|zB/2z/2 b3/2z3/2B/2z/2 fd|
+e/2f/2g/2a/2 g/2a/2f/2g/2 e/2d/2e/2f/2 e/2f/2d/2e/2|c/2z/2c'/2=a/2 ff3/2=a/2c'/2=a/2 ff|f3/2z/2 F/2G/2=A/2B/2 c/2B/2=A/2B/2 c/2e/2d/2c/2|BB3/2z/2=A B/2f/2g/2e/2 f/2b/2e/2c/2|
+d/2c/2d/2e/2 fe dz/2d/2 z/2z/2c/2B/2|B3/2z6z/2|z8|z8|
+z8|z8|z8|fd' c'b z/2c'/2b3/2z/2g|
+g/2f/2e/2d/2 f/2z/2z/2z/2 d/2b/2=a/2c'/2 bg|g/2f/2e/2d/2 f/2z/2z/2z/2 d3/2z2z/2|z8|Bg fe z/2f/2e3/2z/2c|
+c/2B/2_A/2G/2 B/2z/2z/2z/2 G/2e/2d/2f/2 ec|c/2B/2A/2G/2 B/2z/2z/2z/2 G3/2z2z/2|z4 z/2B/2e/2d/2 e/2f/2g/2_a/2|b/2z/2_d3/2z/2_d c/2e/2a/2g/2 a/2e/2c'/2a/2|
+b/2a/2g/2f/2 e/2_d/2c/2B/2 c/2e/2=d/2c/2 d/2B/2G/2F/2|=E=E/2D/2 =E/2F/2G/2A/2 BG3/2z/2G|FA/2G/2 Ac/2A/2 B/2A/2G/2F/2 =E/2G/2F/2=E/2|FA/2G/2 A/2B/2c/2A/2 Fd/2e/2 fd|
+BG/2F/2 G/2A/2B/2G/2 _Ec/2d/2 ec|AF/2E/2 F/2G/2A/2F/2 D=B/2c/2 d=B|cc3/2z/2=B c/2g/2a/2f/2 g/2c'/2f/2d/2|e/2c'/2b/2a/2 gf ez/2e/2 z/2z/2d/2c/2|
+c/2g/2c'3/2z/2b3/2=a/2c'/2b/2 =a/2g/2f/2e/2|d/2f/2b3/2z/2_a3/2g/2b/2a/2 g/2f/2e/2d/2|c/2a/2a/2g/2 g/2f/2c/2e/2 d/2b/2b/2a/2 a/2g/2d/2f/2|e/2c'/2c'/2b/2 a/2g/2f/2e/2 d/2f/2f/2e/2 d/2c/2_B/2A/2|
+Gz6z|z8|z8|zc cc cf/2g/2 af|
+zB BB Be/2f/2 ge|z/2F/2A/2G/2 F/2G/2A2d/2e/2 fd|B/2d/2e/2f/2 g/2a/2b/2g/2 c'/2_d'/2c'/2b/2 a/2g/2f/2e/2|d/2f/2b/2f/2 d/2B/2f/2d/2 e/2g/2b/2g/2 e/2B/2g/2e/2|
+f/2=a/2b/2f/2 d/2B/2_a/2f/2 gB e3/2z/2|zE e3/2z3/2E BG|A3/2z2z/2 c/2d/2e/2d/2 c/2B/2A/2G/2|Ff/2d/2 BB3/2d/2f/2d/2 BB-|
+B/2=A/2B/2c/2 d/2e/2f/2g/2 a/2g/2f/2e/2 d/2c/2B/2_A/2|G/2B/2c/2A/2 B/2e/2A/2F/2 GE3/2z/2D|E/2D/2E/2F/2 GF Ez/2E/2 z/2z/2D/2E/2|E2- E/2z/2D E/2B/2c/2A/2 B/2e/2A/2F/2|
+Gz3 z/2b/2a/2g/2 f/2e/2d/2c/2|B/2g/2f/2e/2 d/2c/2B/2A<GG/2 z/2z/2F/2E/2|E3
+V:2
+%by J.S. Bach 1st movement - Allegro moderato
+%%MIDI program 6
+z/2B,/2E/2G/2 B/2G/2A/2F/2 G/2E/2G/2e/2 B/2G/2A/2F/2|G/2E/2G/2B/2 c/2A/2e/2c/2 B/2B,/2E/2G/2 B/2G/2e/2G/2|A/2C/2D/2F/2 A/2F/2f/2A/2 G/2E/2z/2z/2 G/2E/2B/2G/2|c/2e/2z/2z/2 B/2e/2G/2B/2 A/2c/2z/2z/2 G/2e/2E/2G/2|
+F/2c/2c/2B/2 A/2G/2F/2E/2 D/2F<AF/2G/2E/2|D/2F<AF/2G/2E/2 D/2B,/2F/2D/2 A/2F/2d/2A/2|f/2d<az/2z/2z/2 G/2e/2c/2A/2 G/2z/2z/2z/2|E/2[g/2f/2][e/2d/2][c/2B/2] [A/2G/2][e/2d/2][c/2B/2][A/2G/2] [F/2E/2][G/2F/2][E/2D/2][C/2B,/2] [A,/2G,/2][E/2D/2][C/2B,/2][A,/2G,/2]|
+F,/2z6z3/2|z8|z4 z/2B,/2E/2G/2 B/2G/2A/2F/2|G/2E/2G/2e/2 B/2G/2A/2F/2 G/2F/2E z2|
+z8|z/2F/2B/2d/2 f/2d/2e/2c/2 d/2B/2d/2b/2 f/2d/2e/2c/2|d/2F/2B/2F/2 d/2B/2f/2d/2 g/2a/2g/2f/2 e/2d/2c/2B/2|=A/2C/2F/2C/2 =A/2F/2c/2=A/2 f/2g/2f/2e/2 d/2c/2B/2=A/2|
+G/2B,/2E/2B,/2 G/2E/2B/2G/2 e/2f/2e/2d/2 c/2B/2=A/2G/2|F/2z/2c/2z/2 f3/2z3/2F/2z/2 f3/2z/2|zF c=A B/2f/2b/2f/2 d/2B/2f/2d/2|e/2g/2b/2g/2 e/2B/2g/2e/2 f/2=a/2b/2f/2 d/2B/2_a/2f/2|
+g/2f/2e/2f/2 e/2f/2d/2e/2 c/2B/2c/2d/2 c/2d/2B/2c/2|=A/2c<ec/2d/2B/2 =A/2c<ec/2d/2B/2|=A/2G/2F/2G/2 =A/2B/2c/2d/2 e/2d/2c/2d/2 e/2g/2f/2e/2|d/2f/2g/2e/2 f/2b/2e/2c/2 dB3/2z/2=A|
+B/2=A/2B/2c/2 dc Bz/2B/2 z/2z/2=A/2B/2|B/2F/2B/2d/2 f/2d/2e/2c/2 d/2B/2d/2b/2 f/2d/2e/2c/2|d/2B/2d/2f/2 g/2e/2b/2g/2 f/2F/2B/2F/2 d/2B/2f/2d/2|e/2F/2=A/2c/2 e/2c/2c'/2e/2 d/2B/2z/2z/2 d/2B/2f/2d/2|
+g/2b/2z/2z/2 f/2b/2d/2f/2 e/2b/2z/2z/2 d/2b/2B/2d/2|c/2g/2g/2f/2 e/2d/2c/2B/2 =A/2c/2c/2B/2 =A/2G/2F/2E/2|z/2z/2z/2z/2 B/2b/2g/2e/2 d/2B/2f/2B/2 d/2z/2z/2z/2|B3/2z6z/2|
+z8|z4 z/2F/2B/2d/2 f/2d/2e/2c/2|d/2B/2d/2b/2 f/2d/2e/2c/2 z/2z/2z/2z/2 f/2d/2B/2_A/2|G3/2z6z/2|
+z8|z4 z/2B,/2E/2G/2 B/2G/2A/2F/2|G/2E/2G/2e/2 B/2G/2A/2F/2 G/2z/2G/2F/2 G/2A/2B/2c/2|_d/2z/2B3/2z/2B Ac/2B/2 ce/2c/2|
+_d/2c/2B/2A/2 G/2B/2A/2G/2 A3/2z2z/2|z/2G/2c/2=B/2 c/2=d/2=e/2f/2 g_B3/2z/2B|A/2c/2f/2=e/2 f/2c/2a/2f/2 g/2f/2=e/2d/2 c/2B/2A/2G/2|A/2c/2f/2=e/2 f/2g/2a/2f/2 d/2B/2f/2_e/2 d/2c/2B/2A/2|
+G/2B/2e/2d/2 e/2f/2g/2e/2 c/2A/2e/2d/2 c/2B/2A/2G/2|F/2A/2d/2c/2 d/2e/2f/2d/2 =B/2G/2d/2c/2 =B/2=A/2G/2F/2|E/2G/2_A/2F/2 G/2c/2F/2D/2 Ec3/2z/2=B|c/2a/2g/2f/2 ed cz/2c/2 z/2z/2=B/2c/2|
+c3/2z6z/2|z8|z8|z8|
+z/2B,/2E/2G/2 _B/2G/2A/2F/2 G/2E/2G/2e/2 B/2G/2A/2F/2|G/2E/2G/2B/2 c/2A/2e/2c/2 B/2E/2G/2E/2 B/2G/2e/2B/2|A/2B,/2D/2F/2 A/2F/2f/2A/2 G/2E/2z/2z/2 G/2E/2B/2E/2|c/2E/2A/2E/2 c/2A/2e/2c/2 a/2b/2a/2g/2 f/2e/2d/2c/2|
+B/2D/2G/2D/2 B/2G/2d/2B/2 g/2a/2g/2f/2 e/2d/2c/2B/2|A/2C/2F/2C/2 A/2F/2c/2A/2 f/2g/2f/2e/2 d/2c/2B/2A/2|G/2F/2G/2A/2 B/2A/2G/2B/2 Ae/2_d/2 c/2B/2A/2G/2|FB b3/2z3/2B b3/2z/2|
+zB f=d e/2B/2e/2B/2 G/2E/2B/2G/2|A/2c/2e/2c/2 A/2E/2c/2A/2 B/2d/2e/2B/2 G/2E/2_d/2B/2|c/2=d/2e/2d/2 c/2B/2A/2G/2 A/2B/2c/2B/2 A/2G/2F/2E/2|D/2F<AF/2G/2E/2 D/2F<AF/2G/2E/2|
+D/2C/2D/2E/2 Fd/2e/2 f/2e/2d/2c/2 B/2A/2G/2F/2|EE3/2z/2D E/2B/2c/2A/2 B/2e/2A/2F/2|G/2F/2G/2A/2 BA Gz/2G/2 z/2z/2F/2E/2|E/2B/2c/2A/2 B/2e/2A/2F/2 GE3/2z/2D|
+E/2b/2a/2g/2 f/2e/2d/2c/2 B/2g/2f/2e/2 d/2c/2B/2A/2|G/2e/2d/2c/2 B/2A/2G/2F<EE/2 z/2z/2D/2E/2|E3
+V:3
+%MIDI by Marty Weimer  3/3/97
+%%MIDI program 6
+E,E,,/2z/2 G,,/2z/2B,,/2z/2 E,E,, G,,B,,|E,E,/2z/2 E,/2z/2E, E,E,, E,,E,,|B,,B,,/2z/2 B,,/2z/2B,, E,E,, zE,|A,,A, G,G,, F,,F, E,E,,|
+A,,A,,/2z/2 A,,/2z/2A,, B,,B, B,B,,|B,,B, B,B,, B,,3/2z2z/2|zB,, C,D, E,A, B,B,,|E,3/2z6z/2|
+E,3/2z/2 F,3/2z/2 B,C/2z/2 C/2z/2A,|G,E,/2z/2 F,/2z/2B, E,F, G,A,|G,E,/2z/2 F,/2z/2B,, E,E,,/2z/2 G,,/2z/2B,,/2z/2|E,E,,/2z/2 G,,/2z/2B,, E,E,/2z/2 E,/2z/2E,|
+D,D,/2z/2 D,/2z/2D, C,B,,/2z/2 =A,,/2z/2F,,|B,,3/2z/2 D,F, B,B,,/2z/2 D,/2z/2F,|B,B,/2z/2 B,/2z/2B, E,E, E,E,|F,F,/2z/2 F,/2z/2F, D,D, D,D,|
+E,E,/2z/2 E,/2z/2E, C,C, C,C,|F,3/2z3/2E,/2z/2 D,3/2z3/2B,,/2z/2|=A,,3/2z3/2F,, B,,3/2z3/2A,|G,3/2z3/2E, D,3/2z3/2B,,|
+E,E, E,E, E,E, E,E,|F,/2z/2F,, =A,,C, F,F,, =A,,B,,|F,F,, z3F,, F,,F,,|B,,E, D,C, B,,E, D,C,|
+B,,3/2z3/2E, F,E, F,F,,|B,,3/2z/2 D,/2z/2F,/2z/2 B,B,, D,F,|B,B, B,B, B,B,, B,,B,,|F,F,, F,,F,, B,,B,, B,,B,,|
+E,E DD, C,C B,B,,|E,3/2z/2 C,E, F,3/2z/2 F,,=A,,|B,,C, D,E, F,3/2z/2 F,,3/2z/2|B,,3/2z/2 E,3/2z/2 F,G,/2z/2 G,/2z/2E,|
+D,B,,/2z/2 C,/2z/2F,, B,,C,/2z/2 D,/2z/2E,|D,B,,/2z/2 C,/2z/2F,, B,,3/2z/2 D,F,|B,B,, D,F, B,B, D,D,|E,3/2z/2 A,3/2z/2 B,C/2z/2 C/2z/2A,|
+G,E, F,B, E,F,/2z/2 G,/2z/2A,|G,E, F,B,, E,E,, G,,B,,|E,E,, G,,B,, E,E,, z2|z/2E,/2G,/2B,/2 E/2B,/2G,/2E,/2 A,_A,, A,,A,,|
+E,E,, E,,E,, A,,A,, B,,B,,|C,3/2z3C,/2=E,/2G,/2 C/2G,/2=E,/2C,/2|F,F,, F,,F,, C,C, C,C,|F,F,, zF, B,,B,, B,,B,,|
+_E,E,, zE, A,,A,, A,,A,,|D,D,, zD, G,,G,, G,,G,,|C,F, E,D, C,F, E,D,|C,3/2z3/2F, G,F, G,G,,|
+C,E,/2D,/2 E,/2C,/2D,/2=E,/2 F,F, G,=A,|B,D,/2C,/2 D,/2B,,/2C,/2D,/2 _E,E, F,G,|_A,F, z=A, B,G, z=B,|C_A,/2_B,/2 CA, B,B,, C,D,|
+E,E,, G,,B,, E,E,, G,,B,,|E,E, E,E, E,E,, E,,E,,|B,,B,, B,,B,, E,E,, zG,|A,A, A,A, F,F, F,F,|
+G,G, G,G, E,E, E,E,|F,F, F,F, D,D, D,D,|E,E,, E,,E,, A,,A, A,A,|B,3/2z3/2A, G,3/2z3/2E,|
+D,3/2z3/2B,, E,3/2z3/2_D,|C,3/2z3/2A,, G,,3/2z3/2E,,|A,,A,, A,,A,, A,,A,, A,,A,,|B,,3/2z/2 =D,E, B,,3/2z/2 D,E,|
+B,,3/2z3z/2B, B,,B,|E,A, G,F, E,A, G,F,|E,3/2z3/2A, B,A, B,B,,|E,A, G,F, E,A, G,F,|
+E,3/2z6z/2|E,,F,, G,,A,, B,,3/2z/2 B,,3/2z/2|E,,3
+%weimermt@libby.org  Eureka, MT  USA
+%---------------------------
+%courtesy of Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%---------------------------
+%Original Filename: bwv1031a.mid

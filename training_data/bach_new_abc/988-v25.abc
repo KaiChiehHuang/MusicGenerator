@@ -1,0 +1,114 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v25.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=96
+% Last note suggests minor mode tune
+K:Bb % 2 flats
+%untitled
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=-2  minor=0
+%A
+%1.
+%A'
+%2.
+%B
+%1.
+%B'
+%2.
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+zd d/2_d/2=d d/2b2a/2g/2f/2|ed2_d2c c/2=B/2c|c/2_a2g/2f/2e/2 _dc2=B-|=B_B B/2A/2B _g=g2_d-|
+_d=d2G GA/2B/2 A2|z8|zD D/2_D/2=D D/2d2c/2B/2A/2|G/2F<_AD/2F2E E/2D/2E|
+E/2e2d/2c/2B/2 =A/2G<B=E/2G-|G_G _G/2=E/2_G (3=Bce (3_d=d_G|(3_BAD _E/2=B,/2z/2C3/2_B,/2A,/2 B,2|z8|
+z/2D/2=E/2_G/2 =G/2B/2A2B2=B|c_d2=d e=e3/2b/2=a/2g/2|_g/2=e/2d2d d'_d'2c'|=b_b3/2a/2_a2=a3/2d/2c/2_B/2|
+c/2A/2B/2G/2 F/2=E/2F/2d/2 z/2=E/2F =E2|z/2D/2_D/2=D/2 =E/2F/2G/2A/2 B/2A<d_d/2=e-|=eA A/2_A/2=A A/2a2b/2a/2_a/2|=a/2=d/2c/2B/2 c/2c/2B/2A/2 AB B/2A/2B|
+B/2b2_e/2d/2_d/2 =d/2c'/2=b2d|_dB2A e=d3/2_d/2=e/2=g/2|_ba3/2[g/2f/2][=e/2=d/2]_d/2 _d2 =d2|z8|
+zd d/2_d/2=d d/2b2a/2g/2f/2|_ed2_d2c c/2=B/2c|c/2_a2g/2f/2e/2 _dc2=B-|=B_B B/2A/2B _g=g2_d-|
+_d=d2G GA/2B/2 A2|z8|zD D/2_D/2=D D/2d2c/2B/2A/2|G/2F<_AD/2F2_E E/2D/2E|
+E/2e2d/2c/2B/2 =A/2G<B=E/2G-|G_G _G/2=E/2_G (3=Bce (3_d=d_G|(3_BAD _E/2=B,/2z/2C3/2_B,/2A,/2 B,2|z8|
+z/2D/2=E/2_G/2 =G/2B/2A2B2=B|c_d2=d e=e3/2b/2=a/2g/2|_g/2=e/2d2d =d'_d'2c'|=b_b3/2a/2_a2=a3/2d/2c/2_B/2|
+c/2A/2B/2G/2 F/2=E/2F/2d/2 z/2=E/2F =E2|z/2D/2_D/2=D/2 =E/2F/2G/2A/2 B/2A<d_d/2=e-|=eA A/2_A/2=A A/2a2b/2a/2_a/2|=a/2=d/2c/2B/2 c/2c/2B/2A/2 AB B/2A/2B|
+B/2b2_e/2d/2_d/2 =d/2c'/2=b2d|_dB2A e=d3/2_d/2=e/2=g/2|_ba3/2[g/2f/2][=e/2=d/2]_d/2 _d2 =d2|z8|
+za a/2_a/2=a _ed3/2=e/2_g/2=g/2|a/2c/2_e2d2f f/2e/2f|_AG3/2=A/2=B/2c/2 d/2F/2_A2G-|Gc2=B c/2e/2_d2c-|
+c/2f<ef/2e/2=d/2 e/2a/2b ed|z8|z_B B/2_A/2B Bb3/2=b/2_b/2_a/2|b_d3/2=B/2_B2=B =B/2_B/2=B|
+=B=b3/2=e/2_e/2=d/2 e/2_d'/2c'2e|d=B2_B =e_e3/2d/2f/2_a/2|=b_b3/2[_a/2_g/2][f/2e/2]d/2 d2 e2|z8|
+zG G/2_G/2=G G/2e2d/2c/2B/2|_AG2_G2F F/2=E/2F|_d2- _d/2c/2B/2_A/2 _GF2=E-|=E_E E/2D/2E c2- c/2B/2_A/2=G/2|
+_Ge3/2=d/2_d _d=d ED|z/2=E/2_G/2=G/2 =A/2B/2c/2d/2 e/2d<=g_g/2=a-|ad d/2_d/2=d =d'2- d'/2c'/2b/2a/2|=g/2d'<fe/2d/2c/2 d/2_a/2g/2f/2 e/2d/2c/2=B/2|
+c/2f/2e/2d/2 c/2_B/2A/2G/2 A/2d/2c/2B/2 A/2G/2_G/2=E/2|_G/2B/2A/2=G/2 _G/2=E/2D/2_D/2 =D/2=G/2_G/2=E/2 D/2C/2B,/2A,/2|B,/2_E/2D/2C/2 B,/2A,/2G,/2_G,/2 _G,=G,3|z8|
+z=a a/2_a/2=a ed3/2=e/2_g/2=g/2|a/2c/2_e2d2f f/2e/2f|_A=G3/2=A/2=B/2c/2 d/2F/2_A2G-|Gc2=B c/2e/2_d2c-|
+c/2f<ef/2e/2=d/2 e/2a/2b ed|z8|z_B B/2_A/2B Bb3/2=b/2_b/2_a/2|b_d3/2=B/2_B2=B =B/2_B/2=B|
+=B=b3/2=e/2_e/2=d/2 e/2_d'/2c'2e|d=B2_B =e_e3/2d/2f/2_a/2|=b_b3/2[_a/2_g/2][f/2e/2]d/2 d2 e2|z8|
+zG G/2_G/2=G G/2e2d/2c/2B/2|_AG2_G2F F/2=E/2F|_d2- _d/2c/2B/2_A/2 _GF2=E-|=E_E E/2D/2E c2- c/2B/2_A/2=G/2|
+_Ge3/2=d/2_d _d=d ED|z/2=E/2_G/2=G/2 =A/2B/2c/2d/2 e/2d<=g_g/2=a-|ad d/2_d/2=d =d'2- d'/2c'/2b/2a/2|=g/2d'<fe/2d/2c/2 d/2_a/2g/2f/2 e/2d/2c/2=B/2|
+c/2f/2e/2d/2 c/2_B/2A/2G/2 A/2d/2c/2B/2 A/2G/2_G/2=E/2|_G/2B/2A/2=G/2 _G/2=E/2D/2_D/2 =D/2=G/2_G/2=E/2 D/2C/2B,/2A,/2|B,/2_E/2D/2C/2 B,/2A,/2G,/2_G,/2 =G,4|
+V:2
+%--------------------------------------
+%%MIDI program 6
+B,4 z2 D2|C2 B,2 A,4|z2 C2 B,2 _A,2|G,4 z2 B,2|
+=A,2 G,4 _G,=E,|_G,A,2C2_G,2A,-|A,_G, =G,2 z2 G,2|D,F, G,_A, _A,2 G,2|
+z2 =A,2 =E,G, A,B,|B,2 A,2 z2 A,2|G,2 _G,4 =G,_G,|=G,D,2_E,3/2D,<G,_G,/2C-|
+CB,/2A,/2 B,2 z2 =G2|G2 G2 G2 _G2|z2 F2 F2 F2|F2 =E2 z2 _E2|
+E2 D2 D2 _D2|z8|z2 =D2 D2 E2|E4 z2 =E2|
+=E2 F2 F4|z2 _G2 _G2 =G2|G6 _G=E|_G4 z4|
+B,4 z2 D2|C2 B,2 A,4|z2 C2 B,2 _A,2|=G,4 z2 B,2|
+=A,2 G,4 _G,=E,|_G,A,2C2_G,2A,-|A,_G, =G,2 z2 G,2|D,F, G,_A, _A,2 G,2|
+z2 =A,2 =E,G, A,B,|B,2 A,2 z2 A,2|G,2 _G,4 =G,_G,|=G,D,2_E,3/2D,<G,_G,/2C-|
+CB,/2A,/2 B,2 z2 =G2|G2 G2 G2 _G2|z2 F2 F2 F2|F2 =E2 z2 _E2|
+E2 D2 D2 _D2|z8|z2 =D2 D2 E2|E4 z2 =E2|
+=E2 F2 F4|z2 _G2 _G2 =G2|G6 _G=E|_G4 z4|
+z2 F2 F2 _G2|_G2 =G2 G2 D2|z2 F2 F2 _E2|E2 D2 E2 =E2|
+F2 _G4 F_G|_AD2_E/2F/2 _G/2E/2F2=B,|=B,_B, E2 E2 =E2|=E4 z2 F2|
+F2 _G2 _G4|z2 =G2 G2 _A2|_A6 GF|G3=A/2=B/2 c/2F/2_A2G|
+F2 _E2 z2 G2|F2 E2 D4|z2 F2 E2 _D2|C4 z2 E=D|
+C2 B,2 A,3A,|D2 C2 B,2 A,2|D,2 _G,2 _G,2 =G,2|G,2 _A,2 z2 G,2|
+G,2 =A,2 A,2 B,2|z2 A,2 A,2 B,2|B,2 C4 B,A,|B,4 z4|
+z2 F2 F2 _G2|_G2 =G2 G2 D2|z2 F2 F2 E2|E2 D2 E2 =E2|
+F2 _G4 F_G|_AD2_E/2F/2 _G/2E/2F2=B,|=B,_B, E2 E2 =E2|=E4 z2 F2|
+F2 _G2 _G4|z2 =G2 G2 _A2|_A6 GF|G3=A/2=B/2 c/2F/2_A2G|
+F2 _E2 z2 G2|F2 E2 D4|z2 F2 E2 _D2|C4 z2 E=D|
+C2 B,2 A,3A,|D2 C2 B,2 A,2|D,2 _G,2 _G,2 =G,2|G,2 _A,2 z2 G,2|
+G,2 =A,2 A,2 B,2|z2 A,2 A,2 B,2|B,2 C4 B,A,|B,2 
+V:3
+%Johann Sebastian Bach  (1685-1750)
+%%MIDI program 6
+G,4 z2 G,2|G,2 G,2 G,2 _G,2|z2 F,2 F,2 F,2|F,2 =E,2 z2 _E,2|
+E,2 E,2 D,4|z2 E,2 D,2 C,2|B,,4 z2 B,,2|=B,,2 =B,,2 =B,,2 C,2|
+z2 C,2 _D,2 _D,2|_D,2 =D,2 z2 D,2|D,2 D,2 G,,4|z2 G,,2 _B,,2 D,2|
+=G,3D G2 F2|E2 D2 _D2 A,2|=D2 C2 B,2 A,2|G,2 C2 F,2 _G,2|
+=G,2 _A,2 =A,2 B,2|A,2 G,2 F,2 =E,2|F,4 z2 _G,2|_G,2 =G,2 G,4|
+z2 _A,2 _A,2 =A,2|A,4 z2 A,2|_D2 A,2 =D4-|D2 C2 B,2 A,2|
+G,4 z2 G,2|G,2 G,2 G,2 _G,2|z2 F,2 F,2 F,2|F,2 =E,2 z2 _E,2|
+E,2 E,2 D,4|z2 E,2 D,2 C,2|B,,4 z2 B,,2|=B,,2 =B,,2 =B,,2 C,2|
+z2 C,2 _D,2 _D,2|_D,2 =D,2 z2 D,2|D,2 D,2 G,,4|z2 G,,2 _B,,2 D,2|
+=G,3D G2 F2|E2 D2 _D2 A,2|=D2 C2 B,2 A,2|G,2 C2 F,2 _G,2|
+=G,2 _A,2 =A,2 B,2|A,2 G,2 F,2 =E,2|F,4 z2 _G,2|_G,2 =G,2 G,4|
+z2 _A,2 _A,2 =A,2|A,4 z2 A,2|_D2 A,2 =D4-|D2 A,2 D,4|
+D4 z2 C2|C2 B,2 B,2 G,A,|B,2 =B,2 =B,2 C2|C4 z2 G,2|
+_A,2 =A,2 _B,4|z2 =B,2 _B,2 _A,2|_G,4 z2 =G,2|G,2 _A,2 _A,4|
+z2 =A,2 A,2 B,2|B,4 z2 B,2|D2 B,2 E4|z2 F2 E2 D2|
+C4 z2 C2|C2 C2 C2 =B,2|z2 _B,2 B,2 B,2|B,2 A,2 z2 _A,2|
+_A,2 G,2 G,2 _G,2|z2 _G,2 =G,2 C,2|B,,4 z2 B,,2|B,,2 =B,,2 =B,,D, C,2|
+z2 C,2 C,2 _D,2|_D,=E, =D,2 z2 D,2|D,2 D,2 G,4-|G,2 D,2 G,,=A, B,C|
+D4 z2 C2|C2 B,2 B,2 G,A,|B,2 =B,2 =B,2 C2|C4 z2 G,2|
+_A,2 =A,2 _B,4|z2 =B,2 _B,2 _A,2|_G,4 z2 =G,2|G,2 _A,2 _A,4|
+z2 =A,2 A,2 B,2|B,4 z2 B,2|D2 B,2 E4|z2 F2 E2 D2|
+C4 z2 C2|C2 C2 C2 =B,2|z2 _B,2 B,2 B,2|B,2 A,2 z2 _A,2|
+_A,2 G,2 G,2 _G,2|z2 _G,2 =G,2 C,2|_B,,4 z2 B,,2|B,,2 =B,,2 =B,,D, C,2|
+z2 C,2 C,2 _D,2|_D,=E, =D,2 z2 D,2|D,2 D,2 G,4-|G,_G, =G,D, G,,4|
+%The Goldberg Variations - BWV 988
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 25 a 2 Clav. - adagio
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v25.mid
+%Last Modified: March 24, 1997

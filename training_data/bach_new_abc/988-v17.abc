@@ -1,0 +1,83 @@
+% input file /home/ubuntu/MusicGeneratorQuin/training_data/bach_new/988-v17.mid
+% format 1 file 17 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q:1/4=200
+K:G % 1 sharps
+%untitled
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%A
+%A'
+%B
+%B'
+V:1
+%Solo Harpsichord with 2 Manuals
+%%MIDI program 6
+Bd fa2<g2c|BA GB A^c eg|f3B AG FA|GB df2<e2A|
+GF EG FE FE|FA d^c df a=c|Bg Af Ge =Fd|Ec DB cE BD|
+AC GB, ^FA, EG,|A,F G,E F,D E,C|D,B, C,A, B,,A,, B,,A,,|B,,D, G,F, G,2 z2|
+db ca Bg Af|Ge Fd Ed ^cB|^ce a2 a/2g/2a z2|Bg Af Ge Fd|
+E^c DB ^CB A^G|A^c e2 e/2d/2e3-|ed e^c dB =cA|B=G AF Ge Fd|
+E^c d/2^c/2-[^c/2B/2-]B/2 ^c/2B/2-[B/2A/2-]A/2 Bg|g3f/2e/2 fd BG|AF Ge FE FE|FA d^c d2 z2|
+Bd fa2<g2=c|BA GB A^c eg|f3B AG FA|GB df2<e2A|
+GF EG FE FE|FA d^c df a=c|Bg Af Ge =Fd|Ec DB cE BD|
+A=C GB, ^FA, EG,|A,F G,E F,D E,C|D,B, C,A, B,,A,, B,,A,,|B,,D, G,F, G,2 z2|
+db ca Bg Af|Ge Fd Ed ^cB|^ce a2 a/2g/2a z2|Bg Af Ge Fd|
+E^c DB ^CB A^G|A^c e2 e/2d/2e3-|ed e^c dB =cA|B=G AF Ge Fd|
+E^c d/2^c/2-[^c/2B/2-]B/2 ^c/2B/2-[B/2A/2-]A/2 Bg|g3f/2e/2 fd BG|AF Ge FE FE|FA d^c d2 z2|
+af ge fd e=c|dB cA BG AF|GE F^D E=C =DB,|CA, B,^G, A,F, =G,E,|
+=F,^D, E,^C, ^D,^C, ^D,^C,|^D,4- ^D,^F, B,A,|G,B, A,C B,^D ^CE|^DF EG FA GB|
+Ac Bd ce ^df|eg fa gb ac'|bg af ge f^d|ec BA GF E2-|
+Ee B=d cB Ac|Bd ce dB Ac|BA ^GB Ac Bd|cA =GB Af ge|
+fd ec' c'2- c'/2b/2a/2g/2|fg af ed3-|dB cA Bg A=f|Ge =Fd E2 z/2G/2A/2B/2|
+cA BG A^F GE|Fe d2- d/2e/2^f/2g/2 f/2e/2d/2c/2|Bg Af GF GF|GB df g2 z2|
+af ge fd ec|dB cA BG AF|GE F^D E=C =DB,|CA, B,^G, A,F, =G,E,|
+=F,^D, E,^C, ^D,^C, ^D,^C,|^D,4- ^D,^F, B,A,|G,B, A,C B,^D ^CE|^DF EG FA GB|
+Ac Bd ce ^df|eg fa gb ac'|bg af ge f^d|ec BA GF E2-|
+Ee B=d cB Ac|Bd ce dB Ac|BA ^GB Ac Bd|cA =GB Af ge|
+fd ec' c'2- c'/2b/2a/2g/2|fg af ed3-|dB cA Bg A=f|Ge =Fd E2 z/2G/2A/2B/2|
+cA BG A^F GE|Fe d2- d/2e/2^f/2g/2 f/2e/2d/2c/2|Bg Af GF GF|GB df g2 
+V:2
+%--------------------------------------
+%%MIDI program 6
+G,,B,, A,,=C, B,,=D, C,E,|D,F, E,G, F,A, G,B,|A,^C B,=D ^CE DF|EG FA GB A^c|
+Bd ^ce d^c d^c|d8-|dB =cA BG A=F|GE =FD E=C DB,|
+CA, B,G, A,F, G,E,|F,D, E,C, D,B,, C,A,,|B,,G,, A,,F,, G,,F,, G,,F,,|G,,4- G,,D, G,F,|
+G,B, D^F2<G2A|B^c dB ^cB AG|FE ^D^C B,A, G,F,|E,G, B,^D2<E2F|
+GA BG A=D ^CB,|^CE AB ^ce gB|Af Ge Fd E=c|DB =CA B,G A,F|
+G,E F,D E,^C D,B,|^C,A, B,,G, A,,F, G,,E,|F,,D, E,,^C, D,^C, D,^C,|D,A,, F,,A,, D,,2 z2|
+G,,B,, A,,=C, B,,D, C,E,|D,F, E,G, F,A, G,B,|A,^C B,D ^CE DF|EG FA GB A^c|
+Bd ^ce d^c d^c|d8-|dB =cA BG A=F|GE =FD E=C DB,|
+CA, B,G, A,F, G,E,|F,D, E,C, D,B,, C,A,,|B,,G,, A,,F,, G,,F,, G,,F,,|G,,4- G,,D, G,F,|
+G,B, D^F2<G2A|B^c dB ^cB AG|FE ^D^C B,A, G,F,|E,G, B,^D2<E2F|
+GA BG A=D ^CB,|^CE AB ^ce gB|Af Ge Fd E=c|DB =CA B,G A,F|
+G,E F,D E,^C D,B,|^C,A, B,,G, A,,F, G,,E,|F,,D, E,,^C, D,^C, D,^C,|D,A,, F,,A,, D,,2 z2|
+D,,F,, A,,^C,2<D,2E,|F,G, A,F, G,B,, =C,D,|G,,3F, G,A, B,^G,|A,C, D,E,2<A,,2^G,|
+A,B, =C^A, B,^A, B,^A,|B,F, =G,=A, B,,2 E/2^D/2C/2^D/2|EG FA GF EG|F^D E^C ^D^C B,=D|
+=CA, B,^G, A,=G, F,A,|G,E, F,^D, E,^D, ^C,E,|^D,E, F,^D, E,G,, A,,B,,|E,,F,, G,,A,, B,,=C, =D,B,,|
+C,E, D,=F, E,G, ^F,A,|^G,B, A,C B,D CE|D=F E^G ^FA ^GB|Ac Bd cA B=G|
+AF GE FD E^C|DB =CA B,G A,F|B,2 z/2D/2E/2F/2 GE =FD|EC DB, =G,E, =F,D,|
+E,C D,B, C,A, B,,G,|A,,G, ^F,C, B,,D, G,B,|DB, CA, B,A, B,A,|B,G, D,B,, G,,2 z2|
+D,,F,, A,,^C,2<D,2E,|F,G, A,F, G,B,, =C,D,|G,,3F, G,A, B,^G,|A,C, D,E,2<A,,2^G,|
+A,B, C^A, B,^A, B,^A,|B,F, =G,=A, B,,2 E/2^D/2C/2^D/2|EG ^FA GF EG|F^D E^C ^D^C B,=D|
+=CA, B,^G, A,=G, F,A,|G,E, F,^D, E,^D, ^C,E,|^D,E, F,^D, E,G,, A,,B,,|E,,F,, G,,A,, B,,=C, =D,B,,|
+C,E, D,=F, E,G, ^F,A,|^G,B, A,C B,D CE|D=F E^G ^FA ^GB|Ac Bd cA B=G|
+AF GE FD E^C|DB =CA B,G A,F|B,2 z/2D/2E/2F/2 GE =FD|EC DB, =G,E, =F,D,|
+E,C D,B, C,A, B,,G,|A,,G, ^F,C, B,,D, G,B,|DB, CA, B,A, B,A,|B,G, D,B,, G,,2 
+%Johann Sebastian Bach  (1685-1750)
+%The Goldberg Variations - BWV 988
+%Aria with 30 Variations for Harpsichord with 2 Manuals
+%--------------------------------------
+%Variatio 17 a 2 Clav.
+%--------------------------------------
+%Sequenced with Cakewalk Pro Audio by
+%David J. Grossman - dave@unpronounceable.com
+%This and other Bach MIDI files can be found at:
+%Dave's J.S. Bach Page
+%http://www.unpronounceable.com/bach
+%--------------------------------------
+%Original Filename: 988-v17.mid
+%Last Modified: March 14, 1997

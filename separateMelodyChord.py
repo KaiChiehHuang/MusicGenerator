@@ -5,6 +5,7 @@ import sys
 
 MELODY = 1 # flag
 CHORD = 2  # flag
+NONE = 3
 
 def parseFile(filename):
     with open(filename) as f:
@@ -34,14 +35,17 @@ file_chord = open('harmony.txt', 'w')
 # songs with modely and chord (melody denotes V:1, chord denotes V:2).
 # This function breaks the input text file into melody.txt and
 # chord.txt for training two RNN models separately
-flag = CHORD
+flag = NONE
 
 lines = parseFile('input.txt')
 for line in lines:
-    if line.startswith('V') and flag == CHORD:
+    if line == 'V:1':
         flag = MELODY
-    elif line.startswith('V') and flag == MELODY:
+    elif line == 'V:2':
         flag = CHORD
+    elif line.startswith('V'): # extra instruments
+        flag = NONE
+
     if filter(line):
         if isStartHeader(line):
             file_melody.write('MELODY\n')

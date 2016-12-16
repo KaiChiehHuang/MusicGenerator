@@ -24,33 +24,17 @@ class TextLoader():
         self.create_batches()
         self.reset_batch_pointer()
 
-    def isHeader(self, line):
-        prefixes = ['X','T','M','L','Q','K']
-        for prefix in prefixes:
-            if line.startswith(prefix):
-                return True
-        return False
-
     def preprocess(self, input_file, vocab_file, tensor_file):
         with codecs.open(input_file, "r", encoding=self.encoding) as f:
             data = f.read()
-        data = data.split('\n')
-        data_bars = []
-        for line in data:
-            if self.isHeader(line):
-                data_bars.append(line)
-            else:
-                for bar in line.split('|'):
-                    data_bars.append(bar)
-
-        counter = collections.Counter(data_bars)
+        counter = collections.Counter(data)
         count_pairs = sorted(counter.items(), key=lambda x: -x[1])
         self.chars, _ = zip(*count_pairs)
         self.vocab_size = len(self.chars)
         self.vocab = dict(zip(self.chars, range(len(self.chars))))
         with open(vocab_file, 'wb') as f:
             cPickle.dump(self.chars, f)
-        self.tensor = np.array(list(map(self.vocab.get, data_bars)))
+        self.tensor = np.array(list(map(self.vocab.get, data)))
         np.save(tensor_file, self.tensor)
 
     def load_preprocessed(self, vocab_file, tensor_file):

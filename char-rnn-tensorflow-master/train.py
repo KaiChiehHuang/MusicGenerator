@@ -62,8 +62,6 @@ def train(args):
         assert ckpt.model_checkpoint_path,"No model path found in checkpoint"
 
         # open old config and check if models are compatible
-        with open(os.path.j
-        # open old config and check if models are compatible
         with open(os.path.join(args.init_from, 'config.pkl')) as f:
             saved_model_args = cPickle.load(f)
         need_be_same=["model","rnn_size","num_layers","seq_length"]
@@ -73,9 +71,7 @@ def train(args):
         # open saved vocab/dict and check if vocabs/dicts are compatible
         with open(os.path.join(args.init_from, 'chars_vocab.pkl')) as f:
             saved_chars, saved_vocab = cPickle.load(f)
-            print("CHARS VOCAB-------------")
-	        print("saved chars: ", saved_chars, " saved vocab: ", saved_vocab) 
-	assert saved_chars==data_loader.chars, "Data and loaded model disagree on character set!"
+	    assert saved_chars==data_loader.chars, "Data and loaded model disagree on character set!"
         assert saved_vocab==data_loader.vocab, "Data and loaded model disagree on dictionary mappings!"
         
     with open(os.path.join(args.save_dir, 'config.pkl'), 'wb') as f:
@@ -84,7 +80,6 @@ def train(args):
         cPickle.dump((data_loader.chars, data_loader.vocab), f)
         
     model = Model(args)
-    model2 = Model(args)
     with tf.Session() as sess:
         tf.initialize_all_variables().run()
         saver = tf.train.Saver(tf.all_variables())
@@ -98,31 +93,16 @@ def train(args):
             for b in range(data_loader.num_batches):
                 start = time.time()
                 x, y = data_loader.next_batch()
-                feed = {model.input_data: x, model.targets: y}
+                feed = {model.input_data: x, model.input_data2: x, model.targets: y}
                 for i, (c, h) in enumerate(model.initial_state):
                     feed[c] = state[i].c
                     feed[h] = state[i].h
-                # run through second feed where y is the new input_data and output is chords
-                # write a new next_batch()
-                x2, y2 = data_loader.next_batch_chord() #???
-                feed2 = {model2.input_data: x, model2.targets: y}
-                for i, (c, h) in enumerate(model2.initial_state):
-                    feed2[c] = state[i].c
-                    feed2[h] = state[i].h
-                
                 train_loss, state, _ = sess.run([model.cost, model.final_state, model.train_op], feed)
-                train_loss2, state2, _ = sess.run([model2.cost, model2.final_state, model2.train_op], feed2)
-
                 end = time.time()
                 print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
                     .format(e * data_loader.num_batches + b,
                             args.num_epochs * data_loader.num_batches,
                             e, train_loss, end - start))
-
-                print("MODEL2---- {}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
-                    .format(e * data_loader.num_batches + b,
-                            args.num_epochs * data_loader.num_batches,
-                            e, train_loss2, end - start))
                 if (e * data_loader.num_batches + b) % args.save_every == 0\
                     or (e==args.num_epochs-1 and b == data_loader.num_batches-1): # save for the last result
                     checkpoint_path = os.path.join(args.save_dir, 'model.ckpt')

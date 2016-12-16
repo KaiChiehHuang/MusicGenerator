@@ -1,5 +1,5 @@
 import os
-rootdirs = ['./training_data/bach_harpsichord_abc', './training_data/han_scar_viv_abc']
+rootdirs = ['./training_data/bach_harpsichord_abc']
 
 file_input = open('input.txt', 'w')
 mashed_line = ""

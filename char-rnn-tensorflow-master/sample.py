@@ -11,12 +11,11 @@ from utils import TextLoader
 from model import Model
 
 from six import text_type
+import sys
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', type=str, default='save',
-                       help='model directory to store checkpointed models')
-    parser.add_argument('--save_dir2', type=str, default='save2',
                        help='model directory to store checkpointed models')
     parser.add_argument('-n', type=int, default=500,
                        help='number of characters to sample')
@@ -26,40 +25,36 @@ def main():
                        help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
 
     args = parser.parse_args()
-    sample2(args)
+    sample(args)
 
-def sample2(args):
+def isHeader(line):
+    prefixes = ['X','T','M','L','Q','K', 'MELODY', 'HARMONY']
+    for prefix in prefixes:
+        if line.startswith(prefix):
+            return True
+    return False
+
+def sample(args):
     with open(os.path.join(args.save_dir, 'config.pkl'), 'rb') as f:
         saved_args = cPickle.load(f)
     with open(os.path.join(args.save_dir, 'chars_vocab.pkl'), 'rb') as f:
-        chars, vocab = cPickle.load(f)
-    with open(os.path.join(args.save_dir2, 'chars_vocab2.pkl'), 'rb') as f:
+        chars1, vocab1 = cPickle.load(f)
+    with open(os.path.join(args.save_dir, 'chars_vocab2.pkl'), 'rb') as f:
         chars2, vocab2 = cPickle.load(f)
 
-    model1 = Model(saved_args, mel=True, True)
-    model2 = Model(saved_args, mel=False, True)
+    model1 = Model(saved_args, mel=True, infer=True)
+    model2 = Model(saved_args, mel=False, infer=True)
 
-    with tf.Session() as sess1, tf.Session() as sess2:
+    with tf.Session() as sess:
         tf.initialize_all_variables().run()
         saver = tf.train.Saver(tf.all_variables())
         ckpt = tf.train.get_checkpoint_state(args.save_dir)
-        ckpt2 = tf.train.get_checkpoint_state(args.save_dir2)
-        if ckpt and ckpt.model_checkpoint_path and ckpt2 and ckpt2.model_checkpoint_path:
+        if ckpt and ckpt.model_checkpoint_path:
             saver.restore(sess, ckpt.model_checkpoint_path)
-            saver.restore(sess2, ckpt2.model_checkpoint_path)
             # args.n controls generate how many characters
 
             state1 = sess.run(model1.initial_state)
-            state2 = sess2.run(model2.initial_state)
-
-            x = np.zeros((1, 1))
-            x[0, 0] = vocab['X: 1']
-            feed1 = {model.input_data: x, model1.input_data2: x, model1.initial_state:state1}
-            feed2 = {model2.input_data: x, model2.input_data2: x, model2.initial_state:state2}
-
-            [state1] = sess.run([model1.final_state], feed1)
-            [state2] = sess2.run([model2.final_state], feed2)
-
+            state2 = sess.run(model2.initial_state)
             def weighted_pick(weights):
                 t = np.cumsum(weights)
                 s = np.sum(weights)
@@ -71,12 +66,12 @@ def sample2(args):
             switch2 = 0
             melOver = False
             harmOver = False
-            prime1 = 'X: 1'
-            prime2 = 'X: 1'
+            prime1 = 'MELODY\n'
+            prime2 = 'HARMONY\n'
 
             while True:
                 x1 = np.zeros((1, 1))
-                x1[0, 0] = vocab[prime1]
+                x1[0, 0] = vocab1[prime1]
 
                 x2 = np.zeros((1, 1))
                 x2[0, 0] = vocab2[prime2]
@@ -85,7 +80,7 @@ def sample2(args):
                 feed2 = {model2.input_data: x2, model2.input_data2: x1, model2.initial_state:state2}
                 
                 [probs1, state1] = sess.run([model1.probs, model1.final_state], feed1)
-                [probs2, state2] = sess2.run([model2.probs, model2.final_state], feed2)
+                [probs2, state2] = sess.run([model2.probs, model2.final_state], feed2)
 
                 p1 = probs1[0]
                 p2 = probs2[0]
@@ -98,46 +93,30 @@ def sample2(args):
 
                 if melOver and harmOver:
                     break
-                if pred1.startswith('X:') and switch1:
+                if pred1.startswith('MELODY') and switch1:
                     melOver = True
-                if pred2.startswith('X:') and switch2:
+                if pred2.startswith('HARMONY') and switch2:
                     harmOver = True
-                if pred1.startswith('X:'):
+                if pred1.startswith('X: '):
                     switch1 = 1
-                if pred2.startswith('X:'):
+                if pred2.startswith('X: '):
                     switch2 = 1
                 if switch1 and not melOver:
-                    ret1 += pred1
+                    if isHeader(pred1) or pred1.endswith('\n'):
+                        ret1 += pred1
+                    else:
+                        ret1 += pred1 + '|'
                 if switch2 and not harmOver:
-                    ret2 += pred2
+                    if isHeader(pred2) or pred2.endswith('\n'):
+                        ret2 += pred2
+                    else:
+                        ret2 += pred2 + '|'
                 prime1 = pred1
                 prime2 = pred2
 
             print(ret1)
             print ("====================================")
             print(ret2)
-
-def sample(args):
-    with open(os.path.join(args.save_dir, 'config.pkl'), 'rb') as f:
-        saved_args = cPickle.load(f)
-    with open(os.path.join(args.save_dir, 'chars_vocab.pkl'), 'rb') as f:
-        chars, vocab = cPickle.load(f)
-    with open(os.path.join(args.save_dir, 'chars_vocab2.pkl'), 'rb') as f:
-        chars2, vocab2 = cPickle.load(f)
-
-    model = Model(saved_args, True)
-    model2 = Model(saved_args, True)
-
-    with tf.Session() as sess:
-        tf.initialize_all_variables().run()
-        saver = tf.train.Saver(tf.all_variables())
-        ckpt = tf.train.get_checkpoint_state(args.save_dir)
-        if ckpt and ckpt.model_checkpoint_path:
-            saver.restore(sess, ckpt.model_checkpoint_path)
-            # args.n controls generate how many characters
-            print(model.sample(sess, chars, vocab, 1000, 'X: 1', args.sample))
-            print ("====================================")
-            print(model2.sample(sess, chars2, vocab2, 1000, 'X: 1', args.sample))
 
 if __name__ == '__main__':
     main()

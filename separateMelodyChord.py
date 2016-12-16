@@ -11,6 +11,11 @@ def parseFile(filename):
         lines = [line.rstrip('\n') for line in f]
         return lines
 
+def isStartHeader(line):
+    if line.startswith('X'):
+        return True
+    return False
+
 def isHeader(line):
     prefixes = ['X','T','M','L','Q','K']
     for prefix in prefixes:
@@ -23,8 +28,8 @@ def filter(line):
            (not line.startswith('%')) and \
            (not line.startswith('Error')) \
 
-file_melody = open('melodyData.txt', 'w')
-file_chord = open('chordData.txt', 'w')
+file_melody = open('melody.txt', 'w')
+file_chord = open('harmony.txt', 'w')
 # Read in the input text file that already has a lot of
 # songs with modely and chord (melody denotes V:1, chord denotes V:2).
 # This function breaks the input text file into melody.txt and
@@ -38,6 +43,10 @@ for line in lines:
     elif line.startswith('V') and flag == MELODY:
         flag = CHORD
     if filter(line):
+        if isStartHeader(line):
+            file_melody.write('MELODY\n')
+            file_chord.write('HARMONY\n') 
+
         if isHeader(line):
             file_melody.write(line+'\n')
             file_chord.write(line+'\n') 
